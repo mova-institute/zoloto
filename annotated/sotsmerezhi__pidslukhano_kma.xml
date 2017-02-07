@@ -581,7 +581,7 @@
     <w_ n="160" dep="161-nsubj">
       <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
     </w_>
-    <w_ n="161" dep="151-conj">
+    <w_ n="161" dep="158-conj|151-conj">
       <w lemma="могти" ana="verb:imperf:past:p">могли</w>
     </w_>
     <w_ n="162" dep="161-aux">
@@ -1007,7 +1007,7 @@
     <w_ n="279">
       <w lemma="щось" ana="noun:inanim:n:v_zna:&amp;pron:ind">щось</w>
     </w_>
-    <w_ n="280" dep="277-conj">
+    <w_ n="280" dep="279-det|277-conj">
       <w lemma="таке" ana="noun:inanim:n:v_zna:&amp;pron:dem">таке</w>
     </w_>
     <g/>
@@ -1633,7 +1633,7 @@
       <w lemma="ласка" ana="noun:inanim:f:v_naz:xp2">ласка</w>
     </w_>
     <g/>
-    <pc n="738" dep="450-punct">,</pc>
+    <pc n="738" dep="448-punct|450-punct">,</pc>
     <w_ n="450" dep="454-advmod">
       <w lemma="може" ana="adv">може</w>
     </w_>
