@@ -1322,21 +1322,21 @@
     <w_ n="355" dep="356-obj">
       <w lemma="голос" ana="noun:inanim:m:v_zna">голос</w>
     </w_>
-    <w_ n="356">
+    <w_ n="356" dep="353-conj:parataxis">
       <w lemma="мати" ana="verb:imperf:past:f">мала</w>
     </w_>
-    <w_ n="357">
+    <w_ n="357" dep="355-amod">
       <w lemma="одмінений" ana="adj:m:v_zna:rinanim:&amp;adjp:perf:pasv">одмінений</w>
     </w_>
     <w_ n="358" dep="359-case">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ n="359">
+    <w_ n="359" dep="357-obl">
       <w lemma="непізнання" ana="noun:inanim:n:v_rod">непізнання</w>
     </w_>
     <g/>
-    <pc n="654">,</pc>
-    <w_ n="360">
+    <pc n="654" dep="360-punct">,</pc>
+    <w_ n="360" dep="357-conj">
       <w lemma="низький" ana="adj:m:v_zna:rinanim:compb">низький</w>
     </w_>
     <g/>
@@ -2030,7 +2030,7 @@
       <w lemma="далеко" ana="adv:compb">далеко</w>
     </w_>
     <g/>
-    <pc n="719" dep="540-punct">,</pc>
+    <pc n="719" dep="540-punct|542-punct">,</pc>
     <w_ n="541" dep="542-discourse">
       <w lemma="наче" ana="conj:subord">наче</w>
     </w_>

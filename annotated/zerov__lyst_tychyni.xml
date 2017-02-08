@@ -124,7 +124,7 @@
       <w lemma="знати" ana="verb:imperf:pres:s:3">знає</w>
     </w_>
     <g/>
-    <pc n="720">,</pc>
+    <pc n="720" dep="36-punct">,</pc>
     <w_ n="35" dep="36-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
@@ -335,7 +335,7 @@
     <w_ n="88" dep="89-amod">
       <w lemma="справжній" ana="adj:f:v_naz">справжня</w>
     </w_>
-    <w_ n="89" dep="85-parataxis">
+    <w_ n="89" dep="85-conj">
       <w lemma="фарба" ana="noun:inanim:f:v_naz">фарба</w>
     </w_>
     <g/>
@@ -1104,7 +1104,7 @@
     <w_ n="294" dep="295-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ n="295" dep="293-obl">
+    <w_ n="295" dep="292-obl">
       <w lemma="Женева" ana="noun:inanim:f:v_mis:prop">Женеві</w>
     </w_>
     <g/>
@@ -1218,7 +1218,7 @@
     </w_>
     <pc n="817" dep="324-punct">«</pc>
     <g/>
-    <w_ n="324" dep="323-obl">
+    <w_ n="324" dep="323-nmod">
       <w lemma="кларнет" ana="noun:inanim:p:m:v_rod">Кларнетів</w>
     </w_>
     <g/>
@@ -1248,7 +1248,7 @@
       <w lemma="перевершити" ana="verb:perf:futr:s:3:xp1">перевершить</w>
     </w_>
     <g/>
-    <pc n="822" dep="330-punct">.</pc>
+    <pc n="822" dep="327-punct">.</pc>
     <sb sid="1871"/>
     <w_ n="331" dep="332-det">
       <w lemma="ваш" ana="adj:f:v_naz:poss:&amp;pron:pers:2">Ваша</w>
@@ -2168,10 +2168,10 @@
     <w_ n="575" dep="578-discourse">
       <w lemma="та" ana="part">та</w>
     </w_>
-    <w_ n="576">
+    <w_ n="576" dep="575-fixed">
       <w lemma="й" ana="part">й</w>
     </w_>
-    <w_ n="577">
+    <w_ n="577" dep="575-fixed">
       <w lemma="то" ana="part">то</w>
     </w_>
     <w_ n="578">
