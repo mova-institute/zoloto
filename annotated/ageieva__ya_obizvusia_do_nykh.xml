@@ -1,4 +1,4 @@
-<doc set="dev">
+<doc set="test">
   <body>
     <p>
       <sb sid="64"/>
@@ -4022,11 +4022,11 @@
       <w_ n="1028" dep="1024-parataxis">
         <w lemma="бути" ana="verb:imperf:past:n">було</w>
       </w_>
-      <w_ n="1029">
+      <w_ n="1029" dep="1028-obj">
         <w lemma="вінець" ana="noun:inanim:p:m:v_rod">вінців</w>
       </w_>
       <g/>
-      <pc n="2449">,</pc>
+      <pc n="2449" dep="1034-punct">,</pc>
       <pc n="2450" dep="1034-punct">/</pc>
       <g/>
       <pc n="2451" dep="1034-punct">/</pc>
@@ -4045,7 +4045,7 @@
       <w_ n="1034" dep="1024-conj:parataxis">
         <w lemma="стати" ana="verb:perf:past:n">стало</w>
       </w_>
-      <w_ n="1035">
+      <w_ n="1035" dep="1034-obj">
         <w lemma="виноград" ana="noun:inanim:m:v_rod">винограду</w>
       </w_>
       <g/>
