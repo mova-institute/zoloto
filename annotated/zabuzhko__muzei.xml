@@ -262,8 +262,8 @@
       <w lemma="згорток" ana="noun:inanim:p:m:v_zna">згортки</w>
     </w_>
     <g/>
-    <pc n="566" dep="60-punct">:</pc>
-    <w_ n="70">
+    <pc n="566" dep="70-punct">:</pc>
+    <w_ n="70" dep="69-appos">
       <w lemma="рукавиця" ana="noun:inanim:p:f:v_zna">рукавиці</w>
     </w_>
     <g/>
@@ -272,7 +272,7 @@
       <w lemma="шкарпетка" ana="noun:inanim:p:f:v_zna">шкарпетки</w>
     </w_>
     <g/>
-    <pc n="568">?</pc>
+    <pc n="568" dep="70-punct">?</pc>
     <pc n="569" dep="74-punct">—</pc>
     <w_ n="72" dep="74-nsubj">
       <w lemma="щось" ana="noun:inanim:n:v_naz:&amp;pron:ind">щось</w>
@@ -317,7 +317,7 @@
       <w lemma="стріпуючи" ana="advp:imperf:pres">стріпуючи</w>
     </w_>
     <g/>
-    <pc n="573">:</pc>
+    <pc n="573" dep="82-punct">:</pc>
     <sb sid="1781"/>
     <pc n="574" dep="87-punct">—</pc>
     <w_ n="84" dep="87-discourse">
@@ -646,7 +646,7 @@
     <w_ n="170" dep="168-advcl">
       <w lemma="мати" ana="verb:imperf:pres:s:3">має</w>
     </w_>
-    <w_ n="171">
+    <w_ n="171" dep="170-xcomp">
       <w lemma="бути" ana="verb:imperf:inf">бути</w>
     </w_>
     <g/>
@@ -685,7 +685,7 @@
     </w_>
     <g/>
     <pc n="606" dep="178-punct">,</pc>
-    <w_ n="181">
+    <w_ n="181" dep="170-parataxis">
       <w lemma="бігти" ana="verb:imperf:past:n">бігло</w>
     </w_>
     <w_ n="182" dep="181-advmod">
@@ -1348,7 +1348,7 @@
       <w lemma="перестуджений" ana="adj:m:v_zna:rinanim:&amp;adjp:perf:pasv">перестуджений</w>
     </w_>
     <g/>
-    <pc n="656">.</pc>
+    <pc n="656" dep="348-punct">.</pc>
     <sb sid="1805"/>
     <pc n="657" dep="363-punct">—</pc>
     <w_ n="363">
@@ -1662,7 +1662,7 @@
     <w_ n="440" dep="441-nsubj">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
     </w_>
-    <w_ n="441">
+    <w_ n="441" dep="431-parataxis">
       <w lemma="вислизнути" ana="verb:perf:futr:s:3">вислизне</w>
     </w_>
     <g/>
@@ -1775,7 +1775,7 @@
       <w lemma="Господь" ana="noun:anim:m:v_kly:prop">Господи</w>
     </w_>
     <g/>
-    <pc n="698">,</pc>
+    <pc n="698" dep="471-punct|473-punct">,</pc>
     <pc n="699" dep="473-punct">—</pc>
     <w_ n="472" dep="473-advmod">
       <w lemma="майже" ana="adv">майже</w>
@@ -1784,8 +1784,8 @@
       <w lemma="крикнути" ana="verb:perf:past:f">крикнула</w>
     </w_>
     <g/>
-    <pc n="700">,</pc>
-    <pc n="701">—</pc>
+    <pc n="700" dep="473-punct">,</pc>
+    <pc n="701" dep="473-punct">—</pc>
     <w_ n="474" dep="479-mark">
       <w lemma="та" ana="part">та</w>
     </w_>
@@ -1822,7 +1822,7 @@
       <w lemma="вбити" ana="verb:perf:futr:p:2:v-u">вб’єте</w>
     </w_>
     <g/>
-    <pc n="705">?</pc>
+    <pc n="705" dep="479-punct">?</pc>
     <sb sid="1820"/>
     <w_ n="484" dep="485-advmod">
       <w lemma="не" ana="part:neg">Не</w>

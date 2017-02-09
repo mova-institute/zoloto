@@ -297,7 +297,7 @@
     <w_ n="100" dep="106-cc">
       <w lemma="а" ana="conj:coord">А</w>
     </w_>
-    <w_ n="101">
+    <w_ n="101" dep="106-advmod">
       <w lemma="там" ana="adv:&amp;pron:dem">там</w>
     </w_>
     <g/>
@@ -876,7 +876,7 @@
     <w_ n="300" dep="302-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ n="301">
+    <w_ n="301" dep="302-nsubj">
       <w lemma="спокій" ana="noun:inanim:m:v_naz">спокій</w>
     </w_>
     <w_ n="302" dep="294-conj">
@@ -1227,7 +1227,7 @@
     <w_ n="422" dep="423-case">
       <w lemma="в" ana="prep:rv_zna:v-u">в</w>
     </w_>
-    <w_ n="423">
+    <w_ n="423" dep="421-obl">
       <w lemma="сопілка" ana="noun:inanim:p:f:v_zna">сопілки</w>
     </w_>
     <g/>
@@ -1455,9 +1455,9 @@
       <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
     </w_>
     <g/>
-    <pc n="500">:</pc>
+    <pc n="500" dep="501-punct">:</pc>
     <b>
-      <w_ n="501" dep="498-parataxis">
+      <w_ n="501">
         <w lemma="щастя" ana="noun:inanim:n:v_naz">щастя</w>
       </w_>
     </b>

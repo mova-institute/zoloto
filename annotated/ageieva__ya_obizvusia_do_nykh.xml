@@ -3992,7 +3992,7 @@
       </w_>
       <g/>
       <pc n="2445" dep="1023-punct">,</pc>
-      <w_ n="1021" dep="1023-case">
+      <w_ n="1021">
         <w lemma="після" ana="prep:rv_rod">після</w>
       </w_>
       <w_ n="1022" dep="1023-amod">
@@ -4005,7 +4005,7 @@
       <g/>
       <pc n="2447" dep="1024-punct">«</pc>
       <g/>
-      <w_ n="1024">
+      <w_ n="1024" dep="1040-parataxis">
         <w lemma="минути" ana="verb:perf:past:m">минув</w>
       </w_>
       <w_ n="1025" dep="1024-nsubj">
@@ -4015,11 +4015,11 @@
         <w lemma="оргія" ana="noun:inanim:p:f:v_rod">оргій</w>
       </w_>
       <g/>
-      <pc n="2448">,</pc>
+      <pc n="2448" dep="1028-punct">,</pc>
       <w_ n="1027" dep="1028-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ n="1028" dep="1024-parataxis">
+      <w_ n="1028" dep="1024-conj:parataxis">
         <w lemma="бути" ana="verb:imperf:past:n">було</w>
       </w_>
       <w_ n="1029" dep="1028-obj">
@@ -4060,7 +4060,7 @@
       <w_ n="1037" dep="1038-case">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
-      <w_ n="1038" dep="1040-advmod">
+      <w_ n="1038" dep="1040-obl">
         <w lemma="Леся" ana="noun:anim:f:v_oru:prop:fname">Лесею</w>
       </w_>
       <w_ n="1039" dep="1038-flat:name">
@@ -4131,7 +4131,7 @@
       <w_ n="1057" dep="1060-iobj">
         <w lemma="лежачий" ana="adj:p:v_dav:ns:&amp;noun:anim:xp1">Лежачим</w>
       </w_>
-      <w_ n="1058">
+      <w_ n="1058" dep="1060-obj">
         <w lemma="край" ana="noun:inanim:m:v_rod">краю</w>
       </w_>
       <w_ n="1059" dep="1058-amod">
@@ -4171,7 +4171,7 @@
       <g/>
       <pc n="2464">»</pc>
       <g/>
-      <pc n="2465">.</pc>
+      <pc n="2465" dep="1067-punct">.</pc>
       <sb sid="120"/>
       <w_ n="1068" dep="1071-det">
         <w lemma="увесь" ana="adj:p:v_naz:&amp;pron:gen">Усі</w>

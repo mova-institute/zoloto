@@ -74,7 +74,7 @@
     </w_>
     <g/>
     <pc n="24" dep="25-punct">,</pc>
-    <w_ n="25">
+    <w_ n="25" dep="23-acl">
       <w lemma="мордований" ana="adj:f:v_zna:&amp;adjp:imperf:pasv">мордовану</w>
     </w_>
     <w_ n="26" dep="25-obl:agent">
@@ -84,8 +84,8 @@
       <w lemma="прогрес" ana="noun:inanim:m:v_rod">прогресу</w>
     </w_>
     <g/>
-    <pc n="28">,</pc>
-    <w_ n="29" mark="resolved">
+    <pc n="28" dep="29-punct">,</pc>
+    <w_ n="29" dep="27-acl" mark="resolved">
       <w lemma="сліпий" ana="adj:m:v_rod">сліпого</w>
     </w_>
     <w_ n="30" dep="32-case">
@@ -94,7 +94,7 @@
     <w_ n="31" dep="32-det">
       <w lemma="свій" ana="adj:f:v_mis:poss:&amp;pron:refl">своїй</w>
     </w_>
-    <w_ n="32">
+    <w_ n="32" dep="29-obl">
       <w lemma="рішучість" ana="noun:inanim:f:v_mis">рішучості</w>
     </w_>
     <w_ n="33" dep="34-cc">
@@ -204,7 +204,7 @@
     <w_ n="68" dep="69-mark">
       <w lemma="щоб" ana="conj:subord">щоб</w>
     </w_>
-    <w_ n="69">
+    <w_ n="69" dep="66-acl">
       <w lemma="здивувати" ana="verb:perf:inf">здивувати</w>
     </w_>
     <w_ n="70" dep="69-obj">
@@ -1068,6 +1068,7 @@
     </w_>
     <g/>
     <pc n="362" dep="357-punct">.</pc>
+    <sb sid="2465"/>
     <w_ n="363" dep="366-advmod">
       <w lemma="особливо" ana="adv">Особливо</w>
     </w_>
@@ -1166,6 +1167,7 @@
     </w_>
     <g/>
     <pc n="395" dep="390-punct">.</pc>
+    <sb sid="2466"/>
     <w_ n="396" dep="397-cc">
       <w lemma="й" ana="conj:coord">Й</w>
     </w_>
@@ -1238,6 +1240,7 @@
     </w_>
     <g/>
     <pc n="420" dep="415-punct">.</pc>
+    <sb sid="2467"/>
     <w_ n="421" dep="422-cc" mark="resolved">
       <w lemma="ані" ana="conj:coord">Ані</w>
     </w_>
@@ -1336,7 +1339,7 @@
     <w_ n="453">
       <w lemma="уникати" ana="verb:imperf:pres:s:3">уникає</w>
     </w_>
-    <w_ n="454" mark="resolved">
+    <w_ n="454" dep="455-obj" mark="resolved">
       <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
     </w_>
     <w_ n="455" dep="453-ccomp">
@@ -1812,10 +1815,10 @@
     <w_ n="615" dep="618-cc">
       <w lemma="й" ana="conj:coord">й</w>
     </w_>
-    <w_ n="616">
+    <w_ n="616" dep="618-nsubj">
       <w lemma="правда" ana="noun:inanim:f:v_naz">правда</w>
     </w_>
-    <w_ n="617" mark="resolved">
+    <w_ n="617" dep="616-det" mark="resolved">
       <w lemma="його" ana="adj:f:v_naz:poss:nv:&amp;pron:pers:3">його</w>
     </w_>
     <w_ n="618" dep="604-conj:parataxis">
@@ -1841,7 +1844,7 @@
     <w_ n="625" dep="626-advmod">
       <w lemma="найбільше" ana="adv:super">найбільше</w>
     </w_>
-    <w_ n="626">
+    <w_ n="626" dep="623-parataxis">
       <w lemma="приваблювати" ana="verb:imperf:pres:s:3">приваблює</w>
     </w_>
     <w_ n="627" dep="626-nsubj">
@@ -2025,6 +2028,7 @@
     </w_>
     <g/>
     <pc n="687" dep="682-punct">.</pc>
+    <sb sid="2468"/>
     <w_ n="688" dep="691-advmod" comment="поділ речень">
       <w lemma="можна" ana="adv">Можна</w>
     </w_>
@@ -2327,6 +2331,7 @@
     </w_>
     <g/>
     <pc n="796" dep="781-punct">.</pc>
+    <sb sid="2469"/>
     <w_ n="797" dep="807-nsubj">
       <w lemma="те" ana="noun:inanim:n:v_naz:&amp;pron:dem">Те</w>
     </w_>
@@ -2469,10 +2474,10 @@
     <w_ n="844" dep="845-det" mark="reviewed">
       <w lemma="той" ana="adj:m:v_rod:&amp;pron:dem">того</w>
     </w_>
-    <w_ n="845">
+    <w_ n="845" dep="846-obl">
       <w lemma="матеріал" ana="noun:inanim:m:v_rod">матеріалу</w>
     </w_>
-    <w_ n="846" dep="842-aux">
+    <w_ n="846" dep="842-xcomp">
       <w lemma="зробити" ana="verb:perf:inf">зробити</w>
     </w_>
     <w_ n="847" dep="849-amod">
@@ -2489,7 +2494,7 @@
     <w_ n="851" dep="852-mark" mark="resolved">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ n="852">
+    <w_ n="852" dep="849-acl">
       <w lemma="викликати" ana="verb:imperf:pres:s:3:xp2">викликає</w>
     </w_>
     <w_ n="853" dep="854-discourse">
@@ -2506,7 +2511,7 @@
     </w_>
     <g/>
     <pc n="857" dep="852-punct">,</pc>
-    <w_ n="858" dep="859-discourse">
+    <w_ n="858" dep="862-mark">
       <w lemma="то" ana="conj:subord">то</w>
     </w_>
     <w_ n="859" dep="862-nsubj">

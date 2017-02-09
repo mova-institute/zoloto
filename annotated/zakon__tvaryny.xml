@@ -517,10 +517,10 @@
       <w_ n="149" dep="150-case">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ n="150">
+      <w_ n="150" dep="148-nmod">
         <w lemma="стан" ana="noun:inanim:m:v_zna:xp2">стан</w>
       </w_>
-      <w_ n="151" dep="150-nmod|148-nmod">
+      <w_ n="151" dep="150-nmod">
         <w lemma="здоров’я" ana="noun:inanim:n:v_rod">здоров’я</w>
       </w_>
       <w_ n="152" dep="151-nmod">
@@ -802,13 +802,13 @@
       </w_>
       <g/>
       <pc n="1021" dep="239-punct">,</pc>
-      <w_ n="235">
+      <w_ n="235" dep="239-mark">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
       <w_ n="236" dep="237-det">
         <w lemma="цей" ana="adj:p:v_naz:&amp;pron:dem">ці</w>
       </w_>
-      <w_ n="237">
+      <w_ n="237" dep="239-nsubj">
         <w lemma="тварина" ana="noun:anim:p:f:v_naz:xp1">тварини</w>
       </w_>
       <w_ n="238" dep="239-cop">
@@ -1436,7 +1436,7 @@
       <w_ n="429" dep="433-obl">
         <w lemma="територія" ana="noun:inanim:f:v_mis">території</w>
       </w_>
-      <w_ n="430">
+      <w_ n="430" dep="429-nmod" comment="mark?">
         <w lemma="який" ana="adj:f:v_rod:&amp;pron:rel">якої</w>
       </w_>
       <w_ n="431" dep="433-obj">
@@ -2631,7 +2631,7 @@
       <w_ n="758" dep="759-det">
         <w lemma="їх" ana="adj:p:v_rod:poss:nv:&amp;pron:pers:odd:3">їх</w>
       </w_>
-      <w_ n="759">
+      <w_ n="759" dep="756-obl">
         <w lemma="ціль" ana="noun:inanim:p:f:v_rod">цілей</w>
       </w_>
       <g/>
@@ -2789,7 +2789,7 @@
       <w_ n="804" dep="805-amod">
         <w lemma="новий" ana="adj:f:v_rod:compb">нової</w>
       </w_>
-      <w_ n="805">
+      <w_ n="805" dep="808-obl">
         <w lemma="процедура" ana="noun:inanim:f:v_rod">процедури</w>
       </w_>
       <w_ n="806" dep="807-case">

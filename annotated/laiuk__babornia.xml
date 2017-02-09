@@ -174,10 +174,10 @@
       <w_ n="61" dep="62-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ n="62">
+      <w_ n="62" dep="60-obl">
         <w lemma="мовлення" ana="noun:inanim:n:v_mis">мовленні</w>
       </w_>
-      <w_ n="63" dep="62-nmod|60-obl">
+      <w_ n="63" dep="62-nmod">
         <w lemma="вчитель" ana="noun:anim:m:v_rod:v-u">вчителя</w>
       </w_>
       <g/>
@@ -616,7 +616,7 @@
       <g/>
       <pc n="216" dep="214-punct">)</pc>
       <g/>
-      <pc n="217">,</pc>
+      <pc n="217" dep="211-punct|218-punct">,</pc>
       <w_ n="218" dep="222-acl">
         <w lemma="фарбований" ana="adj:m:v_zna:rinanim:&amp;adjp:imperf:pasv">фарбований</w>
       </w_>
@@ -783,7 +783,7 @@
       <w_ n="273">
         <w lemma="мусити" ana="verb:imperf:pres:s:3">мусить</w>
       </w_>
-      <w_ n="274" dep="284-aux">
+      <w_ n="274" dep="284-cop">
         <w lemma="бути" ana="verb:imperf:inf">бути</w>
       </w_>
       <g/>
@@ -794,12 +794,12 @@
       <w_ n="277" dep="284-advmod">
         <w lemma="обов’язково" ana="adv">обов’язково</w>
       </w_>
-      <w_ n="278" dep="274-conj">
+      <w_ n="278">
         <w lemma="бути" ana="verb:imperf:futr:s:3">буде</w>
       </w_>
       <g/>
       <pc n="279" dep="280-punct">,</pc>
-      <w_ n="280" dep="274-conj">
+      <w_ n="280">
         <w lemma="бути" ana="verb:imperf:futr:s:3">буде</w>
       </w_>
       <pc n="281" dep="282-punct">(</pc>
@@ -984,7 +984,7 @@
       <w_ n="345" dep="346-det:nummod" mark="reviewed">
         <w lemma="один" ana="adj:m:v_rod:&amp;pron:ind">Одного</w>
       </w_>
-      <w_ n="346">
+      <w_ n="346" dep="347-obl">
         <w lemma="раз" ana="noun:inanim:m:v_rod">разу</w>
       </w_>
       <w_ n="347">
@@ -1641,7 +1641,7 @@
         <w lemma="журнал" ana="noun:inanim:m:v_zna">журнал</w>
       </w_>
       <g/>
-      <pc n="577">.</pc>
+      <pc n="577" dep="567-punct">.</pc>
       <sb sid="61"/>
       <w_ n="578" dep="579-advmod">
         <w lemma="там" ana="adv:&amp;pron:dem">Там</w>

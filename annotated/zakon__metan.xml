@@ -160,8 +160,8 @@
         <w lemma="здійснюватися" ana="verb:rev:imperf:past:f">здійснювалася</w>
       </w_>
       <g/>
-      <pc n="549">,</pc>
-      <w_ n="45">
+      <pc n="549" dep="44-punct|45-punct">,</pc>
+      <w_ n="45" dep="56-advcl" comment="повернутися до цього">
         <w lemma="незалежно" ana="adv:compb">незалежно</w>
       </w_>
       <w_ n="46" dep="49-case">
@@ -173,15 +173,15 @@
       <w_ n="48" dep="49-amod">
         <w lemma="подальший" ana="adj:n:v_rod">подальшого</w>
       </w_>
-      <w_ n="49">
+      <w_ n="49" dep="45-obl">
         <w lemma="використання" ana="noun:inanim:n:v_rod">використання</w>
       </w_>
       <g/>
-      <pc n="550" dep="55-punct">,</pc>
+      <pc n="550" dep="55-punct|45-punct">,</pc>
       <w_ n="50" dep="55-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ n="51">
+      <w_ n="51" dep="55-advmod">
         <w lemma="також" ana="adv">також</w>
       </w_>
       <w_ n="52" dep="55-case">
@@ -199,7 +199,7 @@
       <w_ n="56">
         <w lemma="визначатися" ana="verb:rev:imperf:pres:p:3">визначаються</w>
       </w_>
-      <w_ n="57">
+      <w_ n="57" dep="56-advmod">
         <w lemma="відповідно" ana="adv:compb">відповідно</w>
       </w_>
       <w_ n="58" dep="60-case">
@@ -208,7 +208,7 @@
       <w_ n="59" dep="60-det">
         <w lemma="цей" ana="adj:m:v_rod:&amp;pron:dem">цього</w>
       </w_>
-      <w_ n="60">
+      <w_ n="60" dep="57-obl">
         <w lemma="закон" ana="noun:inanim:m:v_rod">Закону</w>
       </w_>
       <g/>
@@ -1504,7 +1504,7 @@
       <w_ n="443" dep="444-case">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
-      <w_ n="444">
+      <w_ n="444" dep="510-obl">
         <w lemma="раз" ana="noun:inanim:m:v_mis">разі</w>
       </w_>
       <w_ n="445" dep="444-nmod">
@@ -1538,14 +1538,14 @@
         <w lemma="вивчення" ana="noun:inanim:n:v_zna">вивчення</w>
       </w_>
       <g/>
-      <pc n="613">,</pc>
+      <pc n="613" dep="460-punct">,</pc>
       <w_ n="455" dep="457-amod">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
       <w_ n="456" dep="457-det">
         <w lemma="той" ana="adj:n:v_mis:&amp;pron:dem">тому</w>
       </w_>
-      <w_ n="457">
+      <w_ n="457" dep="460-nmod">
         <w lemma="число" ana="noun:inanim:n:v_mis">числі</w>
       </w_>
       <w_ n="458" dep="460-amod">
@@ -1555,7 +1555,7 @@
       <w_ n="459" dep="458-compound">
         <w lemma="промисловий" ana="adj:f:v_zna">промислову</w>
       </w_>
-      <w_ n="460">
+      <w_ n="460" dep="454-appos">
         <w lemma="розробка" ana="noun:inanim:f:v_zna">розробку</w>
       </w_>
       <g/>
