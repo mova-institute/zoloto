@@ -1720,7 +1720,7 @@
       <w_ n="491">
         <w lemma="пережити" ana="verb:perf:past:f">пережила</w>
       </w_>
-      <w_ n="492">
+      <w_ n="492" dep="495-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ n="493" dep="495-amod">
@@ -1729,7 +1729,7 @@
       <w_ n="494" dep="495-amod">
         <w lemma="особистий" ana="adj:f:v_zna:compb">особисту</w>
       </w_>
-      <w_ n="495">
+      <w_ n="495" dep="491-obl">
         <w lemma="втрата" ana="noun:inanim:f:v_zna:v-u">втрату</w>
       </w_>
       <pc n="2165" dep="497-punct">(</pc>
@@ -1772,7 +1772,7 @@
       <g/>
       <pc n="2174" dep="497-punct">)</pc>
       <g/>
-      <pc n="2175">,</pc>
+      <pc n="2175" dep="491-punct">,</pc>
       <w_ n="2176">
         <w lemma="представити" ana="verb:perf:impers">представлено</w>
       </w_>
@@ -4144,13 +4144,13 @@
       <g/>
       <pc n="2460" dep="1060-punct">.</pc>
       <sb sid="119"/>
-      <pc n="2461">/</pc>
+      <pc n="2461" dep="1067-punct">/</pc>
       <g/>
-      <pc n="2462">/</pc>
+      <pc n="2462" dep="1067-punct">/</pc>
       <w_ n="1061" dep="1062-det">
         <w lemma="чий" ana="adj:m:v_naz:poss:&amp;pron:rel">Чий</w>
       </w_>
-      <w_ n="1062">
+      <w_ n="1062" dep="1065-acl">
         <w lemma="хліб" ana="noun:inanim:m:v_naz">хліб</w>
       </w_>
       <w_ n="1063" dep="1064-cc">
@@ -4159,8 +4159,8 @@
       <w_ n="1064" dep="1062-conj">
         <w lemma="праця" ana="noun:inanim:f:v_naz">праця</w>
       </w_>
-      <pc n="2463">—</pc>
-      <w_ n="1065">
+      <pc n="2463" dep="1067-punct">—</pc>
+      <w_ n="1065" dep="1067-obl">
         <w lemma="той" ana="adj:m:v_rod:&amp;pron:dem">того</w>
       </w_>
       <w_ n="1066" dep="1067-discourse">
@@ -4170,7 +4170,7 @@
         <w lemma="земля" ana="noun:inanim:f:v_naz">земля</w>
       </w_>
       <g/>
-      <pc n="2464">»</pc>
+      <pc n="2464" dep="1067-punct">»</pc>
       <g/>
       <pc n="2465" dep="1067-punct">.</pc>
       <sb sid="120"/>
@@ -4233,10 +4233,10 @@
       <w_ n="1084" dep="1081-xcomp">
         <w lemma="коментар" ana="noun:inanim:p:m:v_oru">коментарями</w>
       </w_>
-      <w_ n="1085">
+      <w_ n="1085" dep="1087-discourse">
         <w lemma="таки" ana="part">таки</w>
       </w_>
-      <w_ n="1086">
+      <w_ n="1086" dep="1085-discourse">
         <w lemma="ж" ana="part">ж</w>
       </w_>
       <w_ n="1087" dep="1084-nmod">
@@ -4915,7 +4915,7 @@
         <w lemma="навпростець" ana="adv">навпростець</w>
       </w_>
       <g/>
-      <pc n="2528">:</pc>
+      <pc n="2528" dep="1274-punct">:</pc>
       <pc n="2529" dep="1274-punct">«</pc>
       <g/>
       <pc n="2530" dep="1274-punct">…</pc>
@@ -5051,29 +5051,29 @@
         <w lemma="література" ana="noun:inanim:f:v_rod">літератури</w>
       </w_>
       <g/>
-      <pc n="2540">,</pc>
+      <pc n="2540" dep="1292-punct">,</pc>
       <g/>
-      <pc n="2541">—</pc>
+      <pc n="2541" dep="1305-punct">—</pc>
       <foreign lang="de">
-        <w_ n="1305">
+        <w_ n="1305" dep="1292-parataxis">
           <w lemma="daf" ana="x:foreign">dafűr</w>
         </w_>
         <w_ n="1308" dep="1305-flat:foreign">
           <w lemma="ich" ana="x:foreign">ich</w>
         </w_>
-        <w_ n="1309">
+        <w_ n="1309" dep="1305-flat:foreign">
           <w lemma="bin" ana="x:foreign">bin</w>
         </w_>
-        <w_ n="1310">
+        <w_ n="1310" dep="1305-flat:foreign">
           <w lemma="mir" ana="x:foreign">mir</w>
         </w_>
-        <w_ n="1311">
+        <w_ n="1311" dep="1305-flat:foreign">
           <w lemma="doch" ana="x:foreign">doch</w>
         </w_>
-        <w_ n="1312">
+        <w_ n="1312" dep="1305-flat:foreign">
           <w lemma="zu" ana="x:foreign">zu</w>
         </w_>
-        <w_ n="1313">
+        <w_ n="1313" dep="1305-flat:foreign">
           <w lemma="gut" ana="x:foreign">gut</w>
         </w_>
       </foreign>
