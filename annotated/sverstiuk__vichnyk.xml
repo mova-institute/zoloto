@@ -173,7 +173,7 @@
     <w_ n="57">
       <w lemma="назбиратися" ana="verb:rev:perf:past:f">назбиралася</w>
     </w_>
-    <w_ n="58" dep="59-det">
+    <w_ n="58" dep="59-amod">
       <w lemma="цілий" ana="adj:f:v_naz">ціла</w>
     </w_>
     <w_ n="59" dep="57-nsubj">
@@ -534,7 +534,7 @@
     <g/>
     <pc n="179" dep="173-punct">.</pc>
     <sb sid="1324"/>
-    <w_ n="180" dep="181-nummod" mark="reviewed">
+    <w_ n="180" dep="181-det:numgov" mark="reviewed">
       <w lemma="багато" ana="numr:p:v_zna:&amp;pron:ind">Багато</w>
     </w_>
     <w_ n="181" dep="183-obj">
@@ -585,7 +585,7 @@
     <w_ n="197" dep="202-cc">
       <w lemma="але" ana="conj:coord">але</w>
     </w_>
-    <w_ n="198" dep="202-obj">
+    <w_ n="198" dep="202-obj" ellipsis="yes">
       <w lemma="миліший" ana="adj:m:v_rod:compr">милішого</w>
     </w_>
     <w_ n="199" dep="200-case">
@@ -1541,7 +1541,7 @@
     <w_ n="521" dep="522-cop" mark="resolved">
       <w lemma="бути" ana="verb:imperf:pres:p:3">є</w>
     </w_>
-    <w_ n="522" dep="512-ccomp">
+    <w_ n="522">
       <w lemma="діло" ana="noun:inanim:n:v_oru">ділом</w>
     </w_>
     <w_ n="523" dep="524-case">
@@ -1636,7 +1636,7 @@
     <w_ n="553" dep="554-case">
       <w lemma="для" ana="prep:rv_rod">для</w>
     </w_>
-    <w_ n="554" dep="551-obl">
+    <w_ n="554" dep="551-nmod">
       <w lemma="той" ana="adj:m:v_rod:&amp;pron:dem">того</w>
     </w_>
     <g/>

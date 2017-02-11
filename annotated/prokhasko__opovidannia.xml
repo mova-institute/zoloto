@@ -30,7 +30,7 @@
     <w_ n="8" dep="15-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ n="9" dep="10-advmod">
+    <w_ n="9" dep="10-case">
       <w lemma="після" ana="prep:rv_rod">після</w>
     </w_>
     <w_ n="10" dep="15-obl">
@@ -330,7 +330,7 @@
     <w_ n="96" dep="90-ccomp">
       <w lemma="числитися" ana="verb:rev:imperf:pres:s:3:bad">числиться</w>
     </w_>
-    <w_ n="97" dep="98-case">
+    <w_ n="97" dep="100-case">
       <w lemma="за" ana="prep:rv_oru">за</w>
     </w_>
     <w_ n="98" dep="100-amod">
@@ -621,7 +621,7 @@
     <w_ n="182" dep="184-advmod">
       <w lemma="треба" ana="adv">треба</w>
     </w_>
-    <w_ n="183" dep="184-cop">
+    <w_ n="183" dep="184-aux">
       <w lemma="бути" ana="verb:imperf:past:n">було</w>
     </w_>
     <w_ n="184" dep="180-csubj">
@@ -698,13 +698,13 @@
     <g/>
     <pc n="11974" dep="202-punct">.</pc>
     <sb sid="312"/>
-    <w_ n="204" dep="205-nmod">
+    <w_ n="204" dep="205-nsubj">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
     </w_>
     <w_ n="205">
       <w lemma="говорити" ana="verb:imperf:past:m">говорив</w>
     </w_>
-    <w_ n="206" dep="205-amod">
+    <w_ n="206" dep="205-advmod">
       <w lemma="мало" ana="adv:compb">мало</w>
     </w_>
     <g/>
@@ -1095,7 +1095,7 @@
     <g/>
     <pc n="11994" dep="310-punct">.</pc>
     <sb sid="320"/>
-    <w_ n="320" dep="322-det:numgov">
+    <w_ n="320">
       <w lemma="один" ana="adj:f:v_naz:&amp;pron:ind">Одна</w>
     </w_>
     <w_ n="321" dep="322-case">
@@ -12385,13 +12385,13 @@
     <w_ n="3589">
       <w lemma="привозити" ana="verb:imperf:past:m">Привозив</w>
     </w_>
-    <w_ n="3590" dep="3594-amod" mark="reviewed">
+    <w_ n="3590" dep="3594-acl" mark="reviewed">
       <w lemma="украдений" ana="adj:p:v_zna:rinanim:&amp;adjp:perf:pasv:v-u">украдені</w>
     </w_>
     <w_ n="3591" dep="3592-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ n="3592" dep="3590-nmod">
+    <w_ n="3592" dep="3590-obl">
       <w lemma="костел" ana="noun:inanim:p:m:v_mis">костелах</w>
     </w_>
     <w_ n="3593" dep="3594-amod">
@@ -12402,13 +12402,13 @@
     </w_>
     <g/>
     <pc n="12599" dep="3599-punct">,</pc>
-    <w_ n="3595" dep="3599-amod" mark="reviewed">
+    <w_ n="3595" dep="3599-acl" mark="reviewed">
       <w lemma="знайдений" ana="adj:p:v_zna:rinanim:&amp;adjp:perf:pasv">знайдені</w>
     </w_>
     <w_ n="3596" dep="3597-case">
       <w lemma="по" ana="prep:rv_mis">по</w>
     </w_>
-    <w_ n="3597" dep="3595-nmod">
+    <w_ n="3597" dep="3595-obl">
       <w lemma="дорога" ana="noun:inanim:f:v_mis">дорозі</w>
     </w_>
     <w_ n="3598" dep="3599-amod" mark="reviewed">
@@ -18283,7 +18283,7 @@
     <w_ n="5308" dep="5307-nmod">
       <w lemma="казарма" ana="noun:inanim:f:v_rod">казарми</w>
     </w_>
-    <w_ n="5309" dep="5310-cop">
+    <w_ n="5309" dep="5310-aux">
       <w lemma="бути" ana="verb:imperf:past:n">було</w>
     </w_>
     <w_ n="5310" dep="5302-conj:parataxis">
@@ -18591,13 +18591,13 @@
     <w_ n="5399" dep="5400-case">
       <w lemma="у" ana="prep:rv_rod:v-u">У</w>
     </w_>
-    <w_ n="5400" dep="5404-obl">
+    <w_ n="5400" dep="5404-obl" ellipsis="yes">
       <w lemma="багато" ana="numr:p:v_rod:&amp;pron:ind">багатьох</w>
     </w_>
     <w_ n="5401" dep="5402-case">
       <w lemma="з" ana="prep:rv_rod">з</w>
     </w_>
-    <w_ n="5402" dep="5400-obl">
+    <w_ n="5402" dep="5400-nmod">
       <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
     </w_>
     <w_ n="5403" dep="5404-cop">
@@ -27324,35 +27324,35 @@
     <g/>
     <pc n="13363" dep="7951-punct">.</pc>
     <sb sid="957"/>
-    <w_ n="7958" mark="resolved">
+    <w_ n="7958" dep="7965-advmod" mark="resolved">
       <w lemma="тому" ana="adv:&amp;pron:dem:xp2">Тому</w>
     </w_>
     <w_ n="7959" dep="7965-nsubj">
       <w lemma="пацан" ana="noun:anim:p:m:v_naz">пацани</w>
     </w_>
     <g/>
-    <pc n="13364">,</pc>
-    <w_ n="7960">
+    <pc n="13364" dep="7960-punct">,</pc>
+    <w_ n="7960" dep="7965-advcl">
       <w lemma="позичивши" ana="advp:perf">позичивши</w>
     </w_>
-    <w_ n="7961" mark="resolved">
+    <w_ n="7961" dep="7962-det" mark="resolved">
       <w lemma="весь" ana="adj:n:v_zna:&amp;pron:gen">все</w>
     </w_>
-    <w_ n="7962">
+    <w_ n="7962" dep="7960-obj">
       <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
     </w_>
-    <w_ n="7963">
+    <w_ n="7963" dep="7964-case">
       <w lemma="для" ana="prep:rv_rod">для</w>
     </w_>
-    <w_ n="7964">
+    <w_ n="7964" dep="7960-obl">
       <w lemma="знимка" ana="noun:inanim:f:v_rod:odd">знимки</w>
     </w_>
     <g/>
-    <pc n="13365">,</pc>
+    <pc n="13365" dep="7960-punct">,</pc>
     <w_ n="7965">
       <w lemma="позувати" ana="verb:imperf:past:p">позували</w>
     </w_>
-    <w_ n="7966">
+    <w_ n="7966" dep="7965-advmod">
       <w lemma="однаково" ana="adv">однаково</w>
     </w_>
     <pc n="13366">—</pc>
@@ -35606,7 +35606,7 @@
     <w_ n="10376" dep="10377-advmod">
       <w lemma="якось" ana="adv:&amp;pron:ind">якось</w>
     </w_>
-    <w_ n="10377" dep="10381-ccomp">
+    <w_ n="10377" dep="10381-advcl">
       <w lemma="компенсувати" ana="verb:perf:inf">компенсувати</w>
     </w_>
     <w_ n="10378" dep="10377-obj">
@@ -35923,7 +35923,7 @@
     </w_>
     <g/>
     <pc n="13813" dep="10464-punct">,</pc>
-    <w_ n="10470" dep="10472-case">
+    <w_ n="10470" dep="10472-nsubj">
       <w lemma="початок" ana="noun:inanim:m:v_naz:xp2">початок</w>
     </w_>
     <w_ n="10471" dep="10472-advmod">

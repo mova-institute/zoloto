@@ -554,10 +554,10 @@
       <w_ n="159" dep="161-amod">
         <w lemma="необхідний" ana="adj:f:v_naz:compb">необхідна</w>
       </w_>
-      <w_ n="160" dep="159-conj">
+      <w_ n="160" dep="161-amod">
         <w lemma="канонотворчий" ana="adj:f:v_naz">канонотворча</w>
       </w_>
-      <w_ n="161" dep="164-nsubj">
+      <w_ n="161" dep="164-nsubj:pass">
         <w lemma="робота" ana="noun:inanim:f:v_naz">робота</w>
       </w_>
       <w_ n="162" dep="164-advmod">
@@ -4995,7 +4995,7 @@
       <pc n="2538" dep="1292-punct">…</pc>
       <g/>
       <pc n="2539" dep="1292-punct">]</pc>
-      <w_ n="1288" dep="1292-nmod">
+      <w_ n="1288" dep="1292-nsubj">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ n="1289" dep="1292-advmod">
@@ -5243,7 +5243,7 @@
       <g/>
       <pc n="2555">.</pc>
       <sb sid="135"/>
-      <w_ n="1360" dep="1366-cc">
+      <w_ n="1360" dep="1366-mark">
         <w lemma="адже" ana="conj:subord">Адже</w>
       </w_>
       <w_ n="1361" dep="1363-discourse">
@@ -5837,7 +5837,7 @@
       <w_ n="1528" dep="1525-obl">
         <w lemma="верба" ana="noun:inanim:f:v_mis">вербі</w>
       </w_>
-      <w_ n="1529" dep="1530-punct">
+      <w_ n="1529" dep="1530-cc">
         <w lemma="й" ana="conj:coord">й</w>
       </w_>
       <w_ n="1530" dep="1525-conj">
@@ -6948,13 +6948,13 @@
       <w_ n="1798" dep="1795-obj">
         <w lemma="концепція" ana="noun:inanim:p:f:v_zna">концепції</w>
       </w_>
-      <w_ n="1799" dep="1798-nmod">
+      <w_ n="1799" dep="1801-amod">
         <w lemma="російський" ana="adj:f:v_rod">російської</w>
       </w_>
       <w_ n="1800" dep="1801-amod">
         <w lemma="літературний" ana="adj:f:v_rod">літературної</w>
       </w_>
-      <w_ n="1801" dep="1799-nmod">
+      <w_ n="1801" dep="1798-nmod">
         <w lemma="критика" ana="noun:inanim:f:v_rod">критики</w>
       </w_>
       <g/>
@@ -7331,7 +7331,7 @@
       </w_>
       <g/>
       <pc n="2707" dep="1898-punct">»</pc>
-      <w_ n="1899" dep="1898-nmod">
+      <w_ n="1899" dep="1898-iobj">
         <w lemma="читач" ana="noun:anim:p:m:v_dav">читачам</w>
       </w_>
       <g/>
@@ -7744,7 +7744,7 @@
       <w_ n="2020" dep="2021-case">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ n="2021" dep="2019-nmod">
+      <w_ n="2021" dep="2019-obl">
         <w lemma="необхідність" ana="noun:inanim:f:v_zna">необхідність</w>
       </w_>
       <w_ n="2022" dep="2021-acl">
@@ -7826,7 +7826,7 @@
       <w_ n="2044" dep="2047-acl">
         <w lemma="згаданий" ana="adj:n:v_naz:&amp;adjp:perf:pasv">згадане</w>
       </w_>
-      <w_ n="2045" dep="2044-obl">
+      <w_ n="2045" dep="2044-obl:agent">
         <w lemma="Микола" ana="noun:anim:m:v_oru:prop:fname">Миколою</w>
       </w_>
       <w_ n="2046" dep="2045-flat:name">
