@@ -1049,7 +1049,7 @@
   </p>
   <p>
     <sb sid="1345"/>
-    <w_ n="356" dep="357-nsubj">
+    <w_ n="356" dep="357-nsubj:pass">
       <w lemma="книжка" ana="noun:inanim:f:v_naz">Книжка</w>
     </w_>
     <w_ n="357">
@@ -1453,7 +1453,7 @@
     <pc n="491" dep="485-punct">»</pc>
     <pc n="492" dep="496-punct">(</pc>
     <g/>
-    <w_ n="493" dep="496-cc">
+    <w_ n="493" dep="496-mark">
       <w lemma="тобто" ana="conj:subord">тобто</w>
     </w_>
     <w_ n="494" dep="496-case">
@@ -1825,13 +1825,13 @@
       <w lemma="приваблювати" ana="verb:imperf:pres:s:3">приваблює</w>
     </w_>
     <w_ n="619" dep="618-obj">
-      <w lemma="молодий" ana="adj:p:v_zna:ranim:compb">молодих</w>
+      <w lemma="молодий" ana="adj:p:v_zna:ranim:compb:&amp;noun:anim">молодих</w>
     </w_>
     <w_ n="620" dep="621-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
     <w_ n="621" dep="619-conj">
-      <w lemma="старий" ana="adj:p:v_zna:ranim:compb">старих</w>
+      <w lemma="старий" ana="adj:p:v_zna:ranim:compb:&amp;noun:anim">старих</w>
     </w_>
     <g/>
     <pc n="622" dep="618-punct">.</pc>
@@ -2575,7 +2575,7 @@
     <w_ n="878" dep="880-nsubj">
       <w lemma="твір" ana="noun:inanim:m:v_naz">твір</w>
     </w_>
-    <w_ n="879" dep="880-cop">
+    <w_ n="879" dep="880-aux">
       <w lemma="бути" ana="verb:imperf:futr:s:3">буде</w>
     </w_>
     <w_ n="880" dep="874-conj:parataxis">
