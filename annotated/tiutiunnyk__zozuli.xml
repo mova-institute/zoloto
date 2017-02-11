@@ -85,7 +85,7 @@
           <w_ n="19" dep="18-nmod">
             <w lemma="цегла" ana="noun:inanim:f:v_rod">цегли</w>
           </w_>
-          <w_ n="20">
+          <w_ n="20" dep="28-advcl">
             <w lemma="розвантажити" ana="verb:perf:past:m">розвантажив</w>
           </w_>
           <w_ n="21" dep="22-case">
@@ -106,7 +106,7 @@
           <w_ n="27" dep="28-cc">
             <w lemma="й" ana="part">й</w>
           </w_>
-          <w_ n="28" dep="8-parataxis|20-conj:parataxis">
+          <w_ n="28" dep="8-parataxis">
             <w lemma="купити" ana="verb:perf:past:m">купив</w>
           </w_>
           <g/>
@@ -132,7 +132,7 @@
           <w_ n="36" dep="37-cc">
             <w lemma="і" ana="conj:coord">І</w>
           </w_>
-          <w_ n="37" dep="42-dislocated" mark="resolved">
+          <w_ n="37" mark="resolved">
             <w lemma="перший" ana="adj:n:v_zna:compb:&amp;_numr:&amp;noun:inanim">перше</w>
           </w_>
           <g/>
@@ -435,7 +435,7 @@
           <w_ n="141" dep="142-obj">
             <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
           </w_>
-          <w_ n="142">
+          <w_ n="142" dep="134-acl">
             <w lemma="називати" ana="verb:imperf:pres:p:3">називають</w>
           </w_>
           <w_ n="143" dep="142-discourse">
@@ -559,11 +559,11 @@
           <w_ n="185" dep="186-obj">
             <w lemma="сесія" ana="noun:inanim:f:v_zna">сесію</w>
           </w_>
-          <w_ n="186">
+          <w_ n="186" dep="183-parataxis">
             <w lemma="здати" ana="verb:perf:past:m">здав</w>
           </w_>
           <g/>
-          <pc n="187">,</pc>
+          <pc n="187" dep="190-punct">,</pc>
           <w_ n="188" dep="190-obj">
             <w lemma="костюм" ana="noun:inanim:m:v_zna">костюм</w>
           </w_>
@@ -1183,7 +1183,7 @@
         <w lemma="Левко" ana="noun:anim:m:v_naz:prop:fname:xp1">Левко</w>
       </w_>
       <g/>
-      <pc n="404">,</pc>
+      <pc n="404" dep="405-punct">,</pc>
       <w_ n="405" dep="402-advcl">
         <w lemma="блукаючи" ana="advp:imperf:pres">блукаючи</w>
       </w_>
@@ -1558,7 +1558,7 @@
     </w_>
     <g/>
     <pc n="530" dep="529-punct">…</pc>
-    <w_ n="531">
+    <w_ n="531" dep="522-advcl">
       <w lemma="вигнати" ana="verb:perf:futr:p:3">виженуть</w>
     </w_>
     <w_ n="532" dep="531-obj">
@@ -2040,13 +2040,13 @@
       </w_>
       <g/>
       <pc n="697" dep="700-punct">,</pc>
-      <w_ n="698" dep="700-nsubj|694-parataxis">
+      <w_ n="698" dep="700-nsubj">
         <w lemma="голос" ana="noun:inanim:m:v_naz">голос</w>
       </w_>
       <w_ n="699" dep="700-advmod">
         <w lemma="ані" ana="part:neg">ані</w>
       </w_>
-      <w_ n="700">
+      <w_ n="700" dep="696-parataxis">
         <w lemma="здригнутися" ana="verb:rev:perf:futr:s:3">здригнеться</w>
       </w_>
       <g/>
