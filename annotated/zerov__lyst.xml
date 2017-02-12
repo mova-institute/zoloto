@@ -376,7 +376,7 @@
       <w_ n="103" dep="102-obj">
         <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ n="104" dep="102-obl">
+      <w_ n="104" dep="102-obl" ellipsis="yes">
         <w lemma="новий" ana="adj:m:v_oru:compb">новим</w>
       </w_>
       <g/>
@@ -444,7 +444,7 @@
       <w_ n="122" dep="123-det">
         <w lemma="весь" ana="adj:p:v_rod:&amp;pron:gen">всіх</w>
       </w_>
-      <w_ n="123" dep="121-obj">
+      <w_ n="123" dep="121-nmod">
         <w lemma="оповідання" ana="noun:inanim:p:n:v_rod">оповідань</w>
       </w_>
       <g/>
@@ -1212,7 +1212,7 @@
       <w_ n="311" dep="322-obl">
         <w lemma="тиждень" ana="noun:inanim:p:m:v_rod">Тижнів</w>
       </w_>
-      <w_ n="312" dep="313-case">
+      <w_ n="312" dep="311-case">
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
       <w_ n="313" dep="311-nummod:gov">
@@ -1290,13 +1290,13 @@
         <w lemma="цілість" ana="noun:inanim:f:v_mis">цілості</w>
       </w_>
       <pc n="718" dep="331-punct">—</pc>
-      <w_ n="336" dep="338-nsubj">
+      <w_ n="336" dep="325-appos">
         <w lemma="щось" ana="noun:inanim:n:v_naz:&amp;pron:ind">щось</w>
       </w_>
       <w_ n="337" dep="338-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ n="338" dep="325-appos">
+      <w_ n="338" dep="336-nmod">
         <w lemma="зразок" ana="noun:inanim:m:v_zna">зразок</w>
       </w_>
       <w_ n="339" dep="340-det">
@@ -1329,7 +1329,7 @@
       <w_ n="346" dep="347-nummod:gov">
         <w lemma="півтора" ana="numr:m:v_rod:nv">півтора</w>
       </w_>
-      <w_ n="347" dep="342-advmod">
+      <w_ n="347" dep="342-obl">
         <w lemma="місяць" ana="noun:inanim:m:v_rod">місяця</w>
       </w_>
       <w_ n="348" dep="347-advmod">
@@ -2069,7 +2069,7 @@
       </w_>
       <g/>
       <pc n="780" dep="544-punct">,</pc>
-      <w_ n="548" dep="540-obj">
+      <w_ n="548" dep="540-obl">
         <w lemma="оповідання" ana="noun:inanim:p:n:v_rod">оповідань</w>
       </w_>
       <g/>

@@ -93,7 +93,7 @@
     </w_>
     <g/>
     <pc n="634" dep="30-punct">,</pc>
-    <w_ n="26" dep="30-mark">
+    <w_ n="26" dep="30-mark:obj">
       <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">що</w>
     </w_>
     <w_ n="27" dep="28-discourse">
@@ -117,7 +117,7 @@
     </w_>
     <g/>
     <pc n="636" dep="33-punct">,</pc>
-    <w_ n="33" dep="31-discourse">
+    <w_ n="33" dep="31-parataxis">
       <w lemma="бути" ana="verb:imperf:impr:s:2">будь</w>
     </w_>
     <w_ n="34" dep="33-fixed">
@@ -182,7 +182,7 @@
     <w_ n="50" dep="51-nsubj:pass">
       <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
     </w_>
-    <w_ n="51" dep="41-parataxis">
+    <w_ n="51" dep="41-conj:parataxis">
       <w lemma="зумовити" ana="verb:perf:impers">зумовлено</w>
     </w_>
     <w_ n="52" dep="53-amod">
@@ -350,7 +350,7 @@
     <w_ n="96" dep="91-advcl">
       <w lemma="система" ana="noun:inanim:f:v_zna">систему</w>
     </w_>
-    <w_ n="97" dep="99-det">
+    <w_ n="97" dep="99-nummod:gov">
       <w lemma="два" ana="numr:m:v_rod">двох</w>
     </w_>
     <w_ n="98" dep="99-amod">
@@ -376,10 +376,10 @@
     <w_ n="104" dep="103-advmod">
       <w lemma="відносно" ana="adv">відносно</w>
     </w_>
-    <w_ n="105" dep="104-det">
+    <w_ n="105" dep="104-det" ellipsis="yes">
       <w lemma="один" ana="adj:f:v_naz:&amp;pron:ind">одна</w>
     </w_>
-    <w_ n="106" dep="105-det">
+    <w_ n="106" dep="105-det" ellipsis="yes">
       <w lemma="один" ana="adj:f:v_rod:&amp;pron:ind">одної</w>
     </w_>
     <w_ n="107" dep="109-case">
@@ -460,7 +460,7 @@
     <w_ n="129" dep="130-mark">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ n="130" dep="127-advcl">
+    <w_ n="130" dep="127-appos">
       <w lemma="довжина" ana="noun:inanim:f:v_naz">довжина</w>
     </w_>
     <w_ n="131" dep="130-nmod">
@@ -533,7 +533,7 @@
     <g/>
     <pc n="664" dep="665-punct">(</pc>
     <g/>
-    <pc n="665" dep="148-punct">!</pc>
+    <pc n="665" dep="148-punct" comment="@nestedpunct">!</pc>
     <g/>
     <pc n="666" dep="665-punct">)</pc>
     <g/>
@@ -545,15 +545,15 @@
     <w_ n="150" dep="151-case">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ n="151">
+    <w_ n="151" ellipsis="yes">
       <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
     </w_>
     <g/>
-    <pc n="668" dep="158-punct">,</pc>
-    <w_ n="152" dep="158-mark">
+    <pc n="668" dep="153-punct">,</pc>
+    <w_ n="152" dep="153-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ n="153" dep="158-discourse">
+    <w_ n="153" dep="151-ccomp">
       <w lemma="так" ana="intj">так</w>
     </w_>
     <g/>
@@ -570,7 +570,7 @@
     <w_ n="157" dep="158-discourse">
       <w lemma="і" ana="part">і</w>
     </w_>
-    <w_ n="158" dep="151-ccomp">
+    <w_ n="158" dep="153-parataxis">
       <w lemma="впливати" ana="verb:imperf:pres:s:3:v-u">впливає</w>
     </w_>
     <g/>
@@ -581,7 +581,7 @@
     <w_ n="160" dep="161-nsubj">
       <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
     </w_>
-    <w_ n="161" dep="158-conj|151-conj">
+    <w_ n="161" dep="158-conj:parataxis">
       <w lemma="могти" ana="verb:imperf:past:p">могли</w>
     </w_>
     <w_ n="162" dep="161-aux">
@@ -621,7 +621,7 @@
     </w_>
     <pc n="672" dep="173-punct">“</pc>
     <g/>
-    <w_ n="173" dep="168-obl">
+    <w_ n="173" dep="168-obl" ellipsis="yes">
       <w lemma="дати" ana="verb:perf:impers">дано</w>
     </w_>
     <g/>
@@ -728,11 +728,11 @@
       <w lemma="висновок" ana="noun:inanim:m:v_zna">висновок</w>
     </w_>
     <g/>
-    <pc n="680" dep="210-punct">,</pc>
-    <w_ n="203" dep="210-mark">
+    <pc n="680" dep="207-punct">,</pc>
+    <w_ n="203" dep="207-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ n="204" dep="210-nsubj">
+    <w_ n="204" dep="207-nsubj">
       <w lemma="сукупність" ana="noun:inanim:f:v_naz">сукупність</w>
     </w_>
     <w_ n="205" dep="206-det">
@@ -741,7 +741,7 @@
     <w_ n="206" dep="204-nmod">
       <w lemma="фактор" ana="noun:inanim:p:m:v_rod">факторів</w>
     </w_>
-    <w_ n="207" dep="210-aux">
+    <w_ n="207" dep="202-acl">
       <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
     </w_>
     <w_ n="208" dep="210-cop">
@@ -750,7 +750,7 @@
     <w_ n="209" dep="210-advmod">
       <w lemma="більш" ana="adv:compr">більш</w>
     </w_>
-    <w_ n="210" dep="202-acl">
+    <w_ n="210" dep="207-xcomp">
       <w lemma="виграшний" ana="adj:f:v_oru">виграшною</w>
     </w_>
     <w_ n="211" dep="213-case">
@@ -836,7 +836,7 @@
     <w_ n="233" dep="234-advmod">
       <w lemma="дуже" ana="adv:compb">дуже</w>
     </w_>
-    <w_ n="234" dep="224-advcl">
+    <w_ n="234" dep="225-acl">
       <w lemma="схожий" ana="adj:m:v_zna:ranim">схожого</w>
     </w_>
     <w_ n="235" dep="236-case">
@@ -847,7 +847,7 @@
     </w_>
     <g/>
     <pc n="686" dep="237-punct">,</pc>
-    <w_ n="237" dep="224-parataxis">
+    <w_ n="237" dep="224-parataxis" ellipsis="yes">
       <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:int">хто</w>
     </w_>
     <w_ n="238" dep="237-nsubj">
@@ -856,7 +856,7 @@
     <w_ n="239" dep="240-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ n="240" dep="237-conj">
+    <w_ n="240" dep="237-conj" ellipsis="yes">
       <w lemma="де" ana="adv:&amp;pron:int">де</w>
     </w_>
     <w_ n="241" dep="240-advmod">
@@ -1158,7 +1158,7 @@
     <pc n="707" dep="319-punct">”</pc>
     <g/>
     <pc n="708" dep="327-punct">,</pc>
-    <w_ n="320" dep="327-mark">
+    <w_ n="320" dep="327-mark:obj">
       <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
     </w_>
     <w_ n="321" dep="327-advmod">
@@ -1278,7 +1278,7 @@
     </w_>
     <g/>
     <pc n="716" dep="354-punct">,</pc>
-    <w_ n="353" dep="354-amod">
+    <w_ n="353" dep="354-nummod">
       <w lemma="18" ana="numr">18</w>
     </w_>
     <w_ n="354" dep="352-appos">
@@ -1671,7 +1671,7 @@
     <w_ n="460" dep="462-nsubj">
       <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">ЦЕ</w>
     </w_>
-    <w_ n="461" dep="462-det">
+    <w_ n="461" dep="462-advmod">
       <w lemma="так" ana="adv:&amp;pron:dem">ТАК</w>
     </w_>
     <w_ n="462" dep="446-ccomp">
@@ -1777,7 +1777,7 @@
     <w_ n="491" dep="492-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ n="492" dep="493-advmod">
+    <w_ n="492" dep="493-discourse">
       <w lemma="тільки" ana="part">тільки</w>
     </w_>
     <w_ n="493">
@@ -1788,7 +1788,7 @@
     <w_ n="494" dep="496-cc">
       <w lemma="але" ana="conj:coord">але</w>
     </w_>
-    <w_ n="495" dep="494-fixed">
+    <w_ n="495" dep="496-cc">
       <w lemma="й" ana="conj:coord">й</w>
     </w_>
     <w_ n="496" dep="493-conj">
@@ -1823,13 +1823,13 @@
     <w_ n="504">
       <w lemma="ставати" ana="verb:imperf:pres:s:3">стає</w>
     </w_>
-    <w_ n="505" dep="504-advmod">
+    <w_ n="505" dep="507-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ n="506" dep="505-fixed">
+    <w_ n="506" dep="507-case">
       <w lemma="по" ana="prep:rv_mis">по</w>
     </w_>
-    <w_ n="507" dep="505-fixed">
+    <w_ n="507" dep="504-obl">
       <w lemma="себе" ana="noun:v_mis:&amp;pron:refl">собі</w>
     </w_>
     <g/>
@@ -1886,13 +1886,13 @@
     <w_ n="521" dep="524-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ n="522" dep="524-nsubj">
+    <w_ n="522" dep="524-nsubj" ellipsis="yes">
       <w lemma="сам" ana="adj:p:v_naz:&amp;pron:refl">самі</w>
     </w_>
     <w_ n="523" dep="524-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ n="524" dep="513-parataxis">
+    <w_ n="524" dep="513-conj:parataxis">
       <w lemma="могти" ana="verb:imperf:pres:p:3">можуть</w>
     </w_>
     <w_ n="525" dep="524-xcomp">
@@ -2127,7 +2127,7 @@
     <w_ n="582">
       <w lemma="підказати" ana="verb:perf:impr:p:2">підкажіть</w>
     </w_>
-    <w_ n="583" dep="582-discourse">
+    <w_ n="583" dep="582-parataxis">
       <w lemma="бути" ana="verb:imperf:impr:s:2">будь</w>
     </w_>
     <w_ n="584" dep="583-fixed">
@@ -2157,7 +2157,7 @@
   </p>
   <p>
     <sb sid="1308"/>
-    <w_ n="590" dep="592-discourse">
+    <w_ n="590" dep="592-parataxis">
       <w lemma="бути" ana="verb:imperf:impr:s:2">Будь</w>
     </w_>
     <w_ n="591" dep="590-fixed">
@@ -2166,7 +2166,7 @@
     <w_ n="592">
       <w lemma="відгукнутися" ana="verb:rev:perf:impr:p:2">відгукніться</w>
     </w_>
-    <w_ n="593" dep="592-nsubj">
+    <w_ n="593" dep="592-nsubj" ellipsis="yes">
       <w lemma="той" ana="adj:p:v_naz:&amp;pron:dem">ті</w>
     </w_>
     <g/>

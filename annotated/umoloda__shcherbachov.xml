@@ -748,7 +748,7 @@
       <w_ n="199" dep="200-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ n="200" dep="198-mark">
+      <w_ n="200" dep="198-mark:obl">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <pc n="423" dep="202-punct">—</pc>
@@ -757,7 +757,7 @@
       <w_ n="201" dep="202-amod">
         <w lemma="футбольний" ana="adj:p:v_naz">Футбольні</w>
       </w_>
-      <w_ n="202" dep="197-appos|198-nsubj">
+      <w_ n="202" dep="198-nsubj">
         <w lemma="діалог" ana="noun:inanim:p:m:v_naz">діалоги</w>
       </w_>
       <g/>
@@ -781,7 +781,7 @@
       <w_ n="208" dep="210-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ n="209" dep="210-amod">
+      <w_ n="209" dep="210-nummod">
         <w lemma="1997" ana="numr">1997</w>
       </w_>
       <w_ n="210" dep="212-obl">
@@ -938,7 +938,7 @@
       <w_ n="241" dep="242-case">
         <w lemma="до" ana="prep:rv_rod">До</w>
       </w_>
-      <w_ n="242" dep="244-discourse">
+      <w_ n="242">
         <w lemma="річ" ana="noun:inanim:f:v_rod">речі</w>
       </w_>
       <g/>
@@ -949,7 +949,7 @@
       <w_ n="244">
         <w lemma="рекорд" ana="noun:inanim:p:m:v_rod">рекордів</w>
       </w_>
-      <w_ n="245" dep="248-cop">
+      <w_ n="245" dep="244-cop">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <w_ n="246" dep="248-discourse">
@@ -958,7 +958,7 @@
       <w_ n="247" dep="248-det">
         <w lemma="його" ana="adj:m:v_naz:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ n="248" dep="244-nsubj" ellipsis="yes">
+      <w_ n="248" dep="244-nsubj|242-parataxis" ellipsis="yes">
         <w lemma="власний" ana="adj:m:v_naz">власний</w>
       </w_>
       <pc n="455" dep="253-punct">—</pc>
@@ -1034,7 +1034,7 @@
         <w lemma="година" ana="noun:inanim:p:f:v_zna">години</w>
       </w_>
       <g/>
-      <pc n="460" dep="248-punct">.</pc>
+      <pc n="460" dep="242-punct">.</pc>
       <sb sid="1399"/>
       <w_ n="270" dep="274-advmod">
         <w lemma="нині" ana="adv">Нині</w>

@@ -100,7 +100,7 @@
           </w_>
           <g/>
           <pc n="25" dep="28-cc">,</pc>
-          <w_ n="26" dep="28-advmod">
+          <w_ n="26" dep="28-mark:obl">
             <w lemma="то" ana="conj:subord">то</w>
           </w_>
           <w_ n="27" dep="28-cc">
@@ -267,7 +267,7 @@
           <w_ n="84" dep="82-obl">
             <w lemma="сонце" ana="noun:inanim:n:v_rod">сонця</w>
           </w_>
-          <w_ n="85" dep="82-obl">
+          <w_ n="85" dep="82-xcomp">
             <w lemma="золотий" ana="adj:n:v_oru">золотим</w>
           </w_>
           <g/>
@@ -1528,7 +1528,7 @@
     <w_ n="519" dep="522-discourse">
       <w lemma="тільки" ana="part">Тільки</w>
     </w_>
-    <w_ n="520" dep="522-flat:name">
+    <w_ n="520" dep="522-iobj">
       <w lemma="ніхто" ana="noun:anim:v_dav:&amp;pron:neg">нікому</w>
     </w_>
     <w_ n="521" dep="522-advmod">
@@ -1897,7 +1897,7 @@
     <w_ n="649" dep="648-obj">
       <w lemma="ви" ana="noun:anim:p:v_dav:&amp;pron:pers:2:formal">вам</w>
     </w_>
-    <w_ n="650" dep="648-advmod">
+    <w_ n="650" dep="648-discourse">
       <w lemma="осьо" ana="part:odd">осьо</w>
     </w_>
     <g/>
@@ -2147,7 +2147,7 @@
       <w_ n="732" dep="730-nsubj">
         <w lemma="товариш" ana="noun:anim:m:v_naz">товариш</w>
       </w_>
-      <w_ n="733" dep="730-flat:name">
+      <w_ n="733" dep="730-obj">
         <w lemma="скалка" ana="noun:inanim:f:v_zna">скалку</w>
       </w_>
       <w_ n="734" dep="735-case">
@@ -2221,7 +2221,7 @@
       </w_>
       <g/>
       <pc n="758" dep="757-punct">,</pc>
-      <w_ n="759" dep="760-expl" mark="reviewed">
+      <w_ n="759" dep="760-nsubj" mark="reviewed">
         <w lemma="то" ana="noun:inanim:n:v_naz:&amp;pron:dem">то</w>
       </w_>
       <w_ n="760" dep="755-parataxis" ellipsis="yes">
@@ -2357,7 +2357,7 @@
       <w_ n="807" dep="809-obj" mark="reviewed">
         <w lemma="ложка" ana="noun:inanim:p:f:v_zna">ложки</w>
       </w_>
-      <w_ n="808" dep="809-obj">
+      <w_ n="808" dep="809-iobj">
         <w lemma="хлопець" ana="noun:anim:p:m:v_dav">хлопцям</w>
       </w_>
       <w_ n="809" dep="801-advcl">
@@ -2456,7 +2456,7 @@
       <w_ n="841" dep="842-obj">
         <w lemma="миска" ana="noun:inanim:p:f:v_rod">мисок</w>
       </w_>
-      <w_ n="842" dep="831-acl|832-acl">
+      <w_ n="842" dep="831-advcl">
         <w lemma="умолотити" ana="verb:perf:past:m:auto">умолотив</w>
       </w_>
       <w_ n="843" dep="842-aux">

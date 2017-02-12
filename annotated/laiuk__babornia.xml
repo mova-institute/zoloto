@@ -75,7 +75,7 @@
       </w_>
       <g/>
       <pc n="25" dep="29-punct">,</pc>
-      <w_ n="26" dep="29-mark">
+      <w_ n="26" dep="29-mark:obj">
         <w lemma="який" ana="adj:f:v_zna:&amp;pron:rel">яку</w>
       </w_>
       <w_ n="27" dep="29-nsubj">
@@ -251,7 +251,7 @@
       </w_>
       <g/>
       <pc n="88" dep="90-punct">,</pc>
-      <w_ n="89" dep="90-mark">
+      <w_ n="89" dep="90-mark:nsubj">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ n="90" dep="87-acl">
@@ -423,7 +423,7 @@
       <w_ n="149" dep="139-conj">
         <w lemma="ставати" ana="verb:imperf:past:f">ставала</w>
       </w_>
-      <w_ n="150" dep="149-obj">
+      <w_ n="150" dep="149-obj" ellipsis="yes">
         <w lemma="той" ana="adj:f:v_oru:&amp;pron:dem">тією</w>
       </w_>
       <g/>
@@ -1013,7 +1013,7 @@
       <w_ n="355" dep="356-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ n="356" dep="357-advmod" mark="resolved">
+      <w_ n="356" dep="357-discourse" mark="resolved">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
       <w_ n="357" dep="347-advcl">
@@ -1443,7 +1443,7 @@
       <w_ n="505" dep="504-discourse">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ n="506" dep="507-aux">
+      <w_ n="506" dep="507-cop">
         <w lemma="бути" ana="verb:imperf:past:f">була</w>
       </w_>
       <w_ n="507" dep="497-ccomp">
@@ -1467,7 +1467,7 @@
       <w_ n="514" dep="512-obl">
         <w lemma="школа" ana="noun:inanim:f:v_mis">школі</w>
       </w_>
-      <w_ n="515" dep="517-advmod">
+      <w_ n="515" dep="517-case">
         <w lemma="понад" ana="prep:rv_zna">понад</w>
       </w_>
       <w_ n="516" dep="517-nummod:gov">

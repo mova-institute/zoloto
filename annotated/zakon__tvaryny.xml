@@ -724,16 +724,16 @@
       <w_ n="212" dep="209-nmod">
         <w lemma="пункт" ana="noun:inanim:p:m:v_mis">пунктах</w>
       </w_>
-      <w_ n="213" dep="216-case">
+      <w_ n="213" dep="198-advmod">
         <w lemma="відповідно" ana="adv:compb">відповідно</w>
       </w_>
-      <w_ n="214" dep="213-fixed">
+      <w_ n="214" dep="216-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ n="215" dep="216-amod">
         <w lemma="місцевий" ana="adj:p:v_rod">місцевих</w>
       </w_>
-      <w_ n="216" dep="198-obl">
+      <w_ n="216" dep="213-obl">
         <w lemma="програма" ana="noun:inanim:p:f:v_rod">програм</w>
       </w_>
       <w_ n="217" dep="216-nmod">
@@ -1436,7 +1436,7 @@
       <w_ n="429" dep="433-obl">
         <w lemma="територія" ana="noun:inanim:f:v_mis">території</w>
       </w_>
-      <w_ n="430" dep="429-nmod" comment="mark?">
+      <w_ n="430" dep="433-mark:obl" comment="mark?">
         <w lemma="який" ana="adj:f:v_rod:&amp;pron:rel">якої</w>
       </w_>
       <w_ n="431" dep="433-obj">
@@ -2639,7 +2639,7 @@
       <w_ n="760" dep="761-case">
         <w lemma="за" ana="prep:rv_rod">за</w>
       </w_>
-      <w_ n="761" dep="762-mark">
+      <w_ n="761" dep="762-mark:obl">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ n="762" dep="752-acl">
@@ -2706,7 +2706,7 @@
       </w_>
       <g/>
       <pc n="1118" dep="782-punct">,</pc>
-      <w_ n="780" dep="782-mark">
+      <w_ n="780" dep="782-mark:nsubj">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ n="781" dep="782-advmod">
@@ -2868,7 +2868,7 @@
       </w_>
       <g/>
       <pc n="1126" dep="828-punct">,</pc>
-      <w_ n="826" dep="828-mark">
+      <w_ n="826" dep="828-mark:nsubj">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ n="827" dep="828-advmod">
@@ -3411,7 +3411,7 @@
       <w_ n="976" dep="978-nsubj:pass">
         <w lemma="смерть" ana="noun:inanim:f:v_naz">смерть</w>
       </w_>
-      <w_ n="977" dep="978-cop">
+      <w_ n="977" dep="978-aux:pass">
         <w lemma="бути" ana="verb:imperf:futr:s:3">буде</w>
       </w_>
       <w_ n="978" dep="972-advcl">
