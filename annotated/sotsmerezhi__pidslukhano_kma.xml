@@ -621,7 +621,7 @@
     </w_>
     <pc n="672" dep="173-punct">“</pc>
     <g/>
-    <w_ n="173" dep="168-obl" promoted="yes">
+    <w_ n="173" dep="168-nmod" promoted="yes">
       <w lemma="дати" ana="verb:perf:impers">дано</w>
     </w_>
     <g/>
@@ -2294,21 +2294,21 @@
   </p>
   <p>
     <sb sid="2471"/>
-    <w_ n="780">
+    <w_ n="780" dep="781-case">
       <w lemma="з" ana="prep:rv_oru">З</w>
     </w_>
     <w_ n="781">
       <w lemma="день" ana="noun:inanim:m:v_oru">днем</w>
     </w_>
-    <w_ n="782">
+    <w_ n="782" dep="781-nmod">
       <w lemma="народження" ana="noun:inanim:n:v_rod">народження</w>
     </w_>
     <g/>
-    <pc n="783">,</pc>
-    <w_ n="784">
+    <pc n="783" dep="784-punct">,</pc>
+    <w_ n="784" dep="781-vocative">
       <w lemma="Іванко" ana="noun:anim:m:v_naz:prop:fname">Іванко</w>
     </w_>
     <g/>
-    <pc n="785">!</pc>
+    <pc n="785" dep="781-punct">!</pc>
   </p>
 </text>
