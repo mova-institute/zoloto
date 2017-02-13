@@ -103,7 +103,7 @@
           <w_ n="26" dep="28-mark:obl">
             <w lemma="то" ana="conj:subord">то</w>
           </w_>
-          <w_ n="27" dep="28-cc">
+          <w_ n="27" dep="28-discourse">
             <w lemma="й" ana="part">й</w>
           </w_>
           <w_ n="28" dep="8-parataxis">
@@ -638,14 +638,14 @@
         <w lemma="казати" ana="verb:imperf:pres:s:3">каже</w>
       </w_>
       <g/>
-      <pc n="212" dep="206-punct">:</pc>
+      <pc n="212" dep="215-punct">:</pc>
     </p>
     <p>
       <pc n="213" dep="215-punct">—</pc>
       <w_ n="214" dep="215-nsubj">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
       </w_>
-      <w_ n="215">
+      <w_ n="215" dep="211-parataxis">
         <w lemma="любити" ana="verb:imperf:past:f">любила</w>
       </w_>
       <w_ n="216" dep="217-det">
@@ -1132,7 +1132,7 @@
         <w lemma="око" ana="noun:inanim:p:n:v_zna">очі</w>
       </w_>
       <g/>
-      <pc n="387" dep="382-punct">:</pc>
+      <pc n="387" dep="396-punct">:</pc>
     </p>
     <p>
       <pc n="388" dep="396-punct">—</pc>
@@ -1144,7 +1144,7 @@
       </w_>
       <g/>
       <pc n="391" dep="389-punct">,</pc>
-      <w_ n="392" dep="396-cc" mark="reviewed">
+      <w_ n="392" dep="396-discourse" mark="reviewed">
         <w lemma="а" ana="part">а</w>
       </w_>
       <w_ n="393" dep="394-case">
@@ -1156,7 +1156,7 @@
       <w_ n="395" dep="396-cop">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
-      <w_ n="396">
+      <w_ n="396" dep="379-parataxis">
         <w lemma="письомце" ana="noun:inanim:n:v_naz:odd">письомце</w>
       </w_>
       <g/>
@@ -1507,13 +1507,13 @@
       <w lemma="Марфа" ana="noun:anim:f:v_dav:prop:fname">Марфі</w>
     </w_>
     <g/>
-    <pc n="515" dep="508-punct">:</pc>
+    <pc n="515" dep="517-punct">:</pc>
     <sb sid="1969"/>
   </p>
   <p>
     <sb sid="1733"/>
     <pc n="516" dep="517-punct">—</pc>
-    <w_ n="517">
+    <w_ n="517" dep="513-parataxis">
       <w lemma="на" ana="part">На</w>
     </w_>
     <g/>
@@ -1982,7 +1982,7 @@
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <g/>
-      <pc n="681" dep="680-punct">:</pc>
+      <pc n="681" dep="680-punct|686-punct">:</pc>
     </p>
     <p>
       <pc n="682" dep="686-punct">—</pc>
@@ -1995,7 +1995,7 @@
       <w_ n="685" dep="686-obj">
         <w lemma="людина" ana="noun:anim:f:v_zna">людину</w>
       </w_>
-      <w_ n="686">
+      <w_ n="686" dep="680-parataxis">
         <w lemma="мучити" ana="verb:imperf:inf">мучити</w>
       </w_>
       <g/>

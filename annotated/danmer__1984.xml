@@ -2391,7 +2391,7 @@
           <w_ n="702" dep="699-iobj">
             <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
           </w_>
-          <w_ n="703" dep="707-cc">
+          <w_ n="703" dep="707-mark">
             <w lemma="чи" ana="conj:subord">чи</w>
           </w_>
           <w_ n="704" dep="707-advmod">
@@ -2954,7 +2954,7 @@
             <w lemma="партія" ana="noun:inanim:f:v_rod">Партії</w>
           </w_>
           <g/>
-          <pc n="5663" dep="863-punct">:</pc>
+          <pc n="5663" dep="875-punct">:</pc>
           <sb sid="2092"/>
         </p>
         <p>
@@ -2965,7 +2965,7 @@
           <w_ n="874" dep="875-discourse">
             <w lemma="це" ana="part">ЦЕ</w>
           </w_>
-          <w_ n="875">
+          <w_ n="875" dep="863-parataxis">
             <w lemma="мир" ana="noun:inanim:m:v_naz">МИР</w>
           </w_>
           <sb sid="2093"/>
@@ -2978,7 +2978,7 @@
           <w_ n="877" dep="878-discourse">
             <w lemma="це" ana="part">ЦЕ</w>
           </w_>
-          <w_ n="878">
+          <w_ n="878" dep="875-conj">
             <w lemma="рабство" ana="noun:inanim:n:v_naz">РАБСТВО</w>
           </w_>
           <sb sid="2094"/>
@@ -2991,7 +2991,7 @@
           <w_ n="880" dep="881-discourse">
             <w lemma="це" ana="part">ЦЕ</w>
           </w_>
-          <w_ n="881">
+          <w_ n="881" dep="875-conj">
             <w lemma="сила" ana="noun:inanim:f:v_naz">СИЛА</w>
           </w_>
           <sb sid="2095"/>
@@ -8860,11 +8860,11 @@
           <w_ n="2644" dep="2642-nmod">
             <w lemma="ліга" ana="noun:inanim:f:v_rod">Ліги</w>
           </w_>
-          <w_ n="2645" dep="2644-appos">
+          <w_ n="2645">
             <w lemma="Анті" ana="part">Анті</w>
           </w_>
           <pc n="5890" dep="2646-punct">-</pc>
-          <w_ n="2646" dep="2645-compound">
+          <w_ n="2646" dep="2644-appos">
             <w lemma="секс" ana="noun:inanim:m:v_naz">Секс</w>
           </w_>
           <g/>
