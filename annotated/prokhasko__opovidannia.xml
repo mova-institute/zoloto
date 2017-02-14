@@ -434,7 +434,7 @@
     <w_ n="128" dep="129-cop">
       <w lemma="бути" ana="verb:imperf:past:m">був</w>
     </w_>
-    <w_ n="129" mark="reviewed">
+    <w_ n="129" promoted="yes" mark="reviewed">
       <w lemma="єдиний" ana="adj:m:v_oru">єдиним</w>
     </w_>
     <g/>
@@ -9784,7 +9784,7 @@
     <w_ n="2838" dep="2828-parataxis">
       <w lemma="мати" ana="verb:imperf:past:p">мали</w>
     </w_>
-    <w_ n="2839" dep="2840-det:numgov" mark="resolved" comment="змінити морфологію, то ж числівник, бо сиґарети злічувані">
+    <w_ n="2839" dep="2840-det:numgov" mark="resolved">
       <w lemma="багато" ana="numr:p:v_zna:&amp;pron:ind">багато</w>
     </w_>
     <w_ n="2840" dep="2838-obj">
@@ -10157,7 +10157,7 @@
     <w_ n="2948" dep="2949-mark">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ n="2949" dep="2947-acl">
+    <w_ n="2949" dep="2946-acl">
       <w lemma="брат" ana="noun:anim:m:v_naz">брат</w>
     </w_>
     <g/>
@@ -12609,7 +12609,7 @@
     <w_ n="3656">
       <w lemma="приклеєний" ana="adj:m:v_naz:&amp;adjp:perf:pasv">приклеєний</w>
     </w_>
-    <w_ n="3657" dep="3656-nsubj">
+    <w_ n="3657" dep="3656-nsubj:pass">
       <w lemma="папірчик" ana="noun:inanim:m:v_naz">папірчик</w>
     </w_>
     <w_ n="3658" dep="3659-case">
@@ -12621,8 +12621,8 @@
     <w_ n="3660" dep="3659-nmod">
       <w lemma="латинка" ana="noun:inanim:f:v_oru:xp2">латинкою</w>
     </w_>
-    <pc n="12609" dep="3666-punct">—</pc>
-    <w_ n="3661" dep="3666-vocative" mark="resolved">
+    <pc n="12609" dep="3661-punct">—</pc>
+    <w_ n="3661" dep="3659-appos" mark="resolved">
       <w lemma="дорогий" ana="adj:f:v_naz:uncontr:compb:&amp;noun:anim">дорогая</w>
     </w_>
     <g/>
@@ -28908,7 +28908,7 @@
     <w_ n="8416" dep="8415-obj" promoted="yes">
       <w lemma="кожний" ana="adj:m:v_zna:ranim:&amp;pron:gen">кожного</w>
     </w_>
-    <w_ n="8417" dep="8415-ccomp">
+    <w_ n="8417" dep="8415-xcomp">
       <w lemma="платити" ana="verb:imperf:inf">платити</w>
     </w_>
     <w_ n="8418" dep="8417-iobj">
@@ -31687,10 +31687,10 @@
     <w_ n="9227" dep="9220-conj">
       <w lemma="дати" ana="verb:perf:past:m">дав</w>
     </w_>
-    <w_ n="9228" dep="9229-nummod:gov">
+    <w_ n="9228" dep="9227-obj" promoted="yes">
       <w lemma="п’ятдесят" ana="numr:p:v_zna">п’ятдесят</w>
     </w_>
-    <w_ n="9229" dep="9227-obj" promoted="yes" mark="resolved">
+    <w_ n="9229" dep="9228-flat" mark="resolved">
       <w lemma="тисяча" ana="numr:p:v_rod">тисяч</w>
     </w_>
     <w_ n="9230" dep="9231-case">
@@ -38805,7 +38805,7 @@
     <w_ n="11316" dep="11317-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ n="11317" dep="11315-appos">
+    <w_ n="11317" dep="11314-obl">
       <w lemma="лавка" ana="noun:inanim:f:v_mis">лавці</w>
     </w_>
     <g/>
