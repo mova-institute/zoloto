@@ -109,8 +109,8 @@
         <w_ n="35">
           <w lemma="бойовий" ana="adj:m:v_naz">Бойовий</w>
         </w_>
-        <w_ n="36">
-          <w lemma="досвіт" ana="error">досвіт</w>
+        <w_ n="36" correct="досвід">
+          <w lemma="досвід" ana="noun:inanim:m:v_naz:typo">досвіт</w>
         </w_>
         <w_ n="37">
           <w lemma="ветеран" ana="noun:anim:p:m:v_rod">ветеранів</w>
@@ -3111,8 +3111,13 @@
         <w_ n="1081">
           <w lemma="борець" ana="noun:anim:m:v_naz">борець</w>
         </w_>
-        <w_ n="1082">
-          <w lemma="греко-римського" ana="error">греко-римського</w>
+        <w_ n="1955">
+          <!-- немає в словнику (є грецько) -->
+          <w lemma="грецький" ana="beforeadj">греко</w>
+        </w_>
+        <pc n="1956">-</pc>
+        <w_ n="1957">
+          <w lemma="римський" ana="adj:m:v_rod">римського</w>
         </w_>
         <w_ n="1083">
           <w lemma="стиль" ana="noun:inanim:m:v_rod">стилю</w>
@@ -3196,8 +3201,13 @@
         <w_ n="1111">
           <w lemma="з" ana="prep:rv_rod">з</w>
         </w_>
-        <w_ n="1112">
-          <w lemma="греко-римської" ana="error">греко-римської</w>
+        <w_ n="1958">
+          <!-- немає в словнику (є грецько) -->
+          <w lemma="грецький" ana="beforeadj">греко</w>
+        </w_>
+        <pc n="1959">-</pc>
+        <w_ n="1960">
+          <w lemma="римський" ana="adj:f:v_rod">римської</w>
         </w_>
         <w_ n="1113">
           <w lemma="боротьба" ana="noun:inanim:f:v_rod">боротьби</w>
@@ -3257,8 +3267,13 @@
         <w_ n="1132">
           <w lemma="борець" ana="noun:anim:m:v_oru">борцем</w>
         </w_>
-        <w_ n="1133">
-          <w lemma="греко-римського" ana="error">греко-римського</w>
+        <w_ n="1961">
+          <!-- немає в словнику (є грецько) -->
+          <w lemma="грецький" ana="beforeadj">греко</w>
+        </w_>
+        <pc n="1962">-</pc>
+        <w_ n="1963">
+          <w lemma="римський" ana="adj:m:v_rod">римського</w>
         </w_>
         <w_ n="1134">
           <w lemma="стиль" ana="noun:inanim:m:v_rod">стилю</w>
@@ -3398,13 +3413,7 @@
           <w lemma="доріжка" ana="noun:inanim:f:v_zna">доріжку</w>
         </w_>
         <w_ n="1178">
-          <w lemma="37" ana="error">37</w>
-        </w_>
-        <g/>
-        <pc n="1179">-</pc>
-        <g/>
-        <w_ n="1180">
-          <w lemma="річна" ana="error">річна</w>
+          <w lemma="37-річна" ana="adj:f:v_naz">37-річна</w>
         </w_>
         <pc n="1181">"</pc>
         <g/>
@@ -5475,8 +5484,8 @@
         <w_ n="1890">
           <w lemma="місяць" ana="noun:inanim:p:m:v_rod">місяців</w>
         </w_>
-        <w_ n="1891">
-          <w lemma="встановлюются" ana="error">встановлюются</w>
+        <w_ n="1891" correct="встановлюються">
+          <w lemma="встановлюватися" ana="verb:rev:imperf:pres:p:3:v-u:typo">встановлюются</w>
         </w_>
         <w_ n="1892">
           <w lemma="базовий" ana="adj:p:v_naz">базові</w>
