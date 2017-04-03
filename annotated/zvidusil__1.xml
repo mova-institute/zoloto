@@ -58,19 +58,19 @@
       <w_ n="19" dep="6-parataxis">
         <w lemma="саундтрек" ana="noun:inanim:m:v_oru">саундтреком</w>
       </w_>
-      <w_ n="20" dep="22-case">
+      <w_ n="20" dep="24-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ n="21" dep="22-amod">
+      <w_ n="21" dep="24-amod">
         <w lemma="голівудський" ana="adj:m:v_rod:bad">голівудського</w>
       </w_>
-      <w_ n="22" dep="19-nmod">
+      <w_ n="22" dep="24-compound">
         <w lemma="фентезі" ana="noun:inanim:n:v_naz:nv">фентезі</w>
       </w_>
       <g/>
-      <pc n="23" dep="24-punct">-</pc>
+      <pc n="23" dep="22-punct">-</pc>
       <g/>
-      <w_ n="24" dep="22-appos">
+      <w_ n="24" dep="19-nmod">
         <w lemma="фільм" ana="noun:inanim:m:v_rod">фільму</w>
       </w_>
       <g/>
@@ -84,7 +84,7 @@
       <w_ n="28" dep="29-nsubj:pass">
         <w lemma="штука" ana="noun:inanim:f:v_naz">штука</w>
       </w_>
-      <w_ n="29" dep="19-parataxis">
+      <w_ n="29" dep="19-conj:parataxis">
         <w lemma="датований" ana="adj:f:v_naz:&amp;adjp:perf:pasv">датована</w>
       </w_>
       <w_ n="30" dep="31-amod">
@@ -291,13 +291,13 @@
       <w_ n="95" dep="90-ccomp">
         <w lemma="виявлятися" ana="verb:rev:imperf:past:p">виявлялися</w>
       </w_>
-      <w_ n="96" dep="95-nsubj">
+      <w_ n="96" dep="98-compound">
         <w lemma="ІТ" ana="noun:inanim:p:v_naz:nv:ns:abbr">ІТ</w>
       </w_>
       <g/>
-      <pc n="97" dep="98-punct">-</pc>
+      <pc n="97" dep="96-punct">-</pc>
       <g/>
-      <w_ n="98" dep="96-appos">
+      <w_ n="98" dep="95-nsubj">
         <w lemma="спеціаліст" ana="noun:anim:p:m:v_naz">спеціалісти</w>
       </w_>
       <g/>
@@ -577,22 +577,22 @@
       <g/>
       <pc n="187" dep="178-punct">.</pc>
       <sb sid="2495"/>
-      <w_ n="188" dep="189-amod">
+      <w_ n="188" dep="191-amod">
         <w lemma="перший" ana="adj:p:v_naz:compb:&amp;numr">Перші</w>
       </w_>
-      <w_ n="189" dep="195-nsubj">
+      <w_ n="189" dep="191-compound">
         <w lemma="шок" ana="noun:inanim:m:v_naz">шок</w>
       </w_>
       <g/>
-      <pc n="190" dep="191-punct">-</pc>
+      <pc n="190" dep="189-punct">-</pc>
       <g/>
-      <w_ n="191" dep="189-appos">
+      <w_ n="191" dep="195-nsubj">
         <w lemma="фото" ana="noun:inanim:p:n:v_naz:nv">фото</w>
       </w_>
       <w_ n="192" dep="193-case">
         <w lemma="із" ana="prep:rv_oru">із</w>
       </w_>
-      <w_ n="193" dep="189-nmod">
+      <w_ n="193" dep="191-nmod">
         <w lemma="критика" ana="noun:inanim:f:v_oru">критикою</w>
       </w_>
       <w_ n="194" dep="193-nmod">
@@ -614,40 +614,40 @@
         <w lemma="сітка" ana="noun:inanim:f:v_oru">сіткою</w>
       </w_>
       <g/>
-      <pc n="200">,</pc>
-      <w_ n="201">
+      <pc n="200" dep="202-punct">,</pc>
+      <w_ n="201" dep="202-advmod">
         <w lemma="тому" ana="adv:&amp;pron:dem">тому</w>
       </w_>
-      <w_ n="202">
+      <w_ n="202" dep="195-advcl">
         <w lemma="здаватися" ana="verb:rev:imperf:past:n">здавалось</w>
       </w_>
       <g/>
-      <pc n="203">,</pc>
-      <w_ n="204">
+      <pc n="203" dep="209-punct">,</pc>
+      <w_ n="204" dep="209-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ n="205">
+      <w_ n="205" dep="209-nsubj">
         <w lemma="будівля" ana="noun:inanim:f:v_naz">будівля</w>
       </w_>
-      <w_ n="206">
+      <w_ n="206" dep="209-advmod">
         <w lemma="стовідсотково" ana="adv">стовідсотково</w>
       </w_>
-      <w_ n="207">
+      <w_ n="207" dep="209-compound">
         <w lemma="темний" ana="adj:beforeadj">темно</w>
       </w_>
       <g/>
-      <pc n="208">-</pc>
+      <pc n="208" dep="207-punct">-</pc>
       <g/>
-      <w_ n="209">
+      <w_ n="209" dep="202-ccomp">
         <w lemma="зелений" ana="adj:f:v_naz:compb">зелена</w>
       </w_>
-      <w_ n="210">
+      <w_ n="210" dep="212-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
       <w_ n="211" dep="212-advmod">
         <w lemma="повністю" ana="adv">повністю</w>
       </w_>
-      <w_ n="212">
+      <w_ n="212" dep="209-conj">
         <w lemma="контрастувати" ana="verb:imperf:pres:s:3">контрастує</w>
       </w_>
       <w_ n="213" dep="214-case">
@@ -656,22 +656,22 @@
       <w_ n="214" dep="212-obl">
         <w lemma="оточення" ana="noun:inanim:n:v_oru">оточенням</w>
       </w_>
-      <pc n="215">(</pc>
+      <pc n="215" dep="219-punct">(</pc>
       <g/>
-      <w_ n="216">
+      <w_ n="216" dep="219-nsubj">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
-      <w_ n="217">
+      <w_ n="217" dep="219-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ n="218">
+      <w_ n="218" dep="219-cop">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <w_ n="219">
         <w lemma="правда" ana="noun:inanim:f:v_oru">правдою</w>
       </w_>
       <g/>
-      <pc n="220">)</pc>
+      <pc n="220" dep="219-punct">)</pc>
       <g/>
       <pc n="221" dep="195-punct">.</pc>
       <sb sid="2496"/>
@@ -699,14 +699,14 @@
       <w_ n="228">
         <w lemma="видно" ana="adv:compb">видно</w>
       </w_>
-      <w_ n="229">
+      <w_ n="229" dep="228-obj">
         <w lemma="масивність" ana="noun:inanim:f:v_zna">масивність</w>
       </w_>
-      <w_ n="230">
+      <w_ n="230" dep="232-compound">
         <w lemma="індарстріал" ana="noun:inanim:m:v_naz">індарстріал</w>
       </w_>
       <g/>
-      <pc n="231">-</pc>
+      <pc n="231" dep="230-punct">-</pc>
       <g/>
       <w_ n="232">
         <w lemma="лайк" ana="adj:foreign">лайк</w>
@@ -1898,11 +1898,11 @@
       <w_ n="631" dep="636-advmod">
         <w lemma="раніше" ana="adv:compr">Раніше</w>
       </w_>
-      <w_ n="1252" dep="1254-amod">
+      <w_ n="1252" dep="1254-compound">
         <w lemma="пресовий" ana="adj:stem">прес</w>
       </w_>
       <g/>
-      <pc n="1253" dep="1254-punct">-</pc>
+      <pc n="1253" dep="1252-punct">-</pc>
       <g/>
       <w_ n="1254">
         <w lemma="секретар" ana="noun:anim:m:v_naz">секретар</w>
