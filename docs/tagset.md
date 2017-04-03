@@ -106,6 +106,11 @@
 
 #### риси лексеми
 
+| | |службовість (див. [UD](http://universaldependencies.org/u/pos/AUX_.html))| |
+|---|---|---|---|
+|*(без позначки)*| |неслужбове, в значенні _існувати_|в них є `verb:imperf:pres:s:3` секрет, там були `verb:imperf:past:p` діти!|
+|`aux`|auxiliary|службове, задає час іншому дієслову або під’єднує недієслівний присудок| діти були `verb:aux:imperf:past:p` там, вона була `verb:aux:imperf:past:f` чемною, я буду `verb:aux:imperf:futr:s:1` читати, то є `verb:aux:imperf:pres:s:3` Ринок |
+
 | | |вид| |
 |---|---|---|---|
 |`imperf`|imperfect|недоконаний|робити `verb:imperf:inf`|
