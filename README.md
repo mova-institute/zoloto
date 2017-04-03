@@ -2,7 +2,7 @@
 
 Після виходу з машинки текстів, залитих до наведеної дати, перекопати корпус на відповідну зміну.
 
-(до таблиці також додаються [ці питання](https://github.com/msklvsk/corpus/issues?q=is%3Aissue+is%3Aclosed+label%3A%22%D1%82%D1%80%D0%B5%D0%B1%D0%B0+%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BE%D0%BF%D1%83%D0%B2%D0%B0%D1%82%D0%B8%22))
+(до таблиці також додаються [ці питання](https://github.com/msklvsk/corpus/issues?utf8=%E2%9C%93&q=%20label%3A%D0%BF%D0%B5%D1%80%D0%B5%D0%BA%D0%BE%D0%BF%D0%B0%D1%82%D0%B8%20))
 
 дата  | зміна
 ---------:|----------
