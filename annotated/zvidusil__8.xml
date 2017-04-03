@@ -307,14 +307,14 @@
       </p>
       <p>
         <sb sid="3934"/>
-        <w_ n="101">
+        <w_ n="101" dep="102-case">
           <w lemma="про" ana="prep:rv_zna">Про</w>
         </w_>
         <w_ n="102">
           <w lemma="МВФ" ana="noun:inanim:m:v_zna:nv:np:prop:abbr">МВФ</w>
         </w_>
         <g/>
-        <pc n="103">.</pc>
+        <pc n="103" dep="102-punct">.</pc>
         <sb sid="3935"/>
         <w_ n="104">
           <w lemma="міністр" ana="noun:anim:m:v_naz">Міністр</w>
@@ -435,7 +435,7 @@
       </p>
       <p>
         <sb sid="3939"/>
-        <w_ n="143">
+        <w_ n="143" comment="чи зробити повноцінний розбір помилки? http://universaldependencies.org/eacl17tutorial/morphology.pdf">
           <w lemma="доречі" ana="adv:bad">Доречі</w>
         </w_>
         <g/>
@@ -1483,14 +1483,14 @@
           <w lemma="%" ana="noun:inanim:p:m:v_rod:nv:symbol">%</w>
         </w_>
         <pc n="491">-</pc>
-        <w_ n="492" dep="481-conj">
+        <w_ n="492" dep="481-parataxis">
           <w lemma="схвалити" ana="verb:perf:past:p">схвалили</w>
         </w_>
         <w_ n="493" dep="492-obj">
           <w lemma="кандидатура" ana="noun:inanim:f:v_zna">кандидатуру</w>
         </w_>
         <g/>
-        <pc n="494">,</pc>
+        <pc n="494" dep="499-punct">,</pc>
         <w_ n="495" dep="496-nummod:gov">
           <w lemma="18" ana="numr:p:v_naz:nv">18</w>
         </w_>
@@ -1502,7 +1502,7 @@
         <w_ n="498" dep="499-advmod">
           <w lemma="не" ana="part:neg">не</w>
         </w_>
-        <w_ n="499" dep="481-conj">
+        <w_ n="499" dep="481-parataxis">
           <w lemma="визначитися" ana="verb:rev:perf:past:p">визначилися</w>
         </w_>
         <g/>
@@ -1589,7 +1589,7 @@
           <w lemma="нагадати" ana="verb:perf:futr:p:1">Нагадаємо</w>
         </w_>
         <g/>
-        <pc n="526">,</pc>
+        <pc n="526" dep="534-punct">,</pc>
         <w_ n="527" dep="528-case">
           <w lemma="в" ana="prep:rv_mis:v-u">в</w>
         </w_>
@@ -1611,7 +1611,7 @@
         <w_ n="533" dep="532-flat:name">
           <w lemma="Обама" ana="noun:anim:m:v_naz:prop:lname">Обама</w>
         </w_>
-        <w_ n="534">
+        <w_ n="534" dep="525-parataxis">
           <w lemma="підписати" ana="verb:perf:past:m">підписав</w>
         </w_>
         <w_ n="535" dep="534-obj">
@@ -1630,43 +1630,43 @@
           <w lemma="рік" ana="noun:inanim:m:v_zna">рік</w>
         </w_>
         <g/>
-        <pc n="540">,</pc>
-        <w_ n="541">
+        <pc n="540" dep="548-punct">,</pc>
+        <w_ n="541" dep="543-case">
           <w lemma="згідно" ana="adv">згідно</w>
         </w_>
-        <w_ n="542">
+        <w_ n="542" dep="541-fixed">
           <w lemma="з" ana="prep:rv_oru">з</w>
         </w_>
         <w_ n="543">
           <w lemma="який" ana="adj:m:v_oru:&amp;pron:rel">яким</w>
         </w_>
-        <w_ n="544">
+        <w_ n="544" dep="546-case">
           <w lemma="на" ana="prep:rv_zna">на</w>
         </w_>
-        <w_ n="545">
+        <w_ n="545" dep="546-amod">
           <w lemma="оборонний" ana="adj:f:v_zna">оборонну</w>
         </w_>
-        <w_ n="546">
+        <w_ n="546" dep="548-obl">
           <w lemma="допомога" ana="noun:inanim:f:v_zna">допомогу</w>
         </w_>
-        <w_ n="547">
+        <w_ n="547" dep="548-iobj">
           <w lemma="Україна" ana="noun:inanim:f:v_dav:prop">Україні</w>
         </w_>
-        <w_ n="548">
+        <w_ n="548" dep="535-acl">
           <w lemma="виділятися" ana="verb:rev:imperf:past:n">виділялося</w>
         </w_>
         <w_ n="549" dep="548-obj">
           <w lemma="$" ana="sym">$</w>
         </w_>
         <g/>
-        <w_ n="550">
+        <w_ n="550" dep="551-compound">
           <w lemma="350" ana="numr:p:v_naz:nv">350</w>
         </w_>
-        <w_ n="551">
+        <w_ n="551" dep="549-nummod">
           <w lemma="млн" ana="numr:p:v_rod:nv:abbr">млн</w>
         </w_>
         <g/>
-        <pc n="552">.</pc>
+        <pc n="552" dep="525-punct">.</pc>
         <sb sid="3973"/>
         <w_ n="553">
           <w lemma="у" ana="prep:rv_mis:v-u">У</w>
@@ -1690,7 +1690,7 @@
           <w lemma="$" ana="sym">$</w>
         </w_>
         <g/>
-        <w_ n="560">
+        <w_ n="560" dep="561-compound">
           <w lemma="300" ana="numr:p:v_naz:nv">300</w>
         </w_>
         <w_ n="561">
