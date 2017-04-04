@@ -370,15 +370,15 @@
           <w lemma="Warszawiacy" ana="x:foreign">Warszawiacy</w>
         </w_>
         <g/>
-        <pc n="121">,</pc>
-        <w_ n="122">
+        <pc n="121" dep="120-punct">,</pc>
+        <w_ n="122" dep="120-flat:foreign">
           <w lemma="nie" ana="x:foreign">nie</w>
         </w_>
-        <w_ n="123">
+        <w_ n="123" dep="120-flat:foreign">
           <w lemma="przegapcie" ana="x:foreign">przegapcie</w>
         </w_>
         <g/>
-        <pc n="124">!</pc>
+        <pc n="124" dep="120-punct">!</pc>
         <sb sid="3670"/>
         <g/>
         <w_ n="125">
@@ -3582,21 +3582,21 @@
         <w_ n="1237">
           <w lemma="вітати" ana="verb:imperf:pres:p:1">Вітаємо</w>
         </w_>
-        <w_ n="1238">
+        <w_ n="1238" dep="1239-case">
           <w lemma="в" ana="prep:rv_mis:v-u">в</w>
         </w_>
-        <w_ n="1239">
+        <w_ n="1239" dep="1237-obl">
           <w lemma="команда" ana="noun:inanim:f:v_mis">команді</w>
         </w_>
-        <pc n="1240">«</pc>
+        <pc n="1240" dep="1241-punct">«</pc>
         <g/>
-        <w_ n="1241">
+        <w_ n="1241" dep="1239-nmod">
           <w lemma="Сушия" ana="noun:inanim:f:v_naz:prop">Сушия</w>
         </w_>
         <g/>
-        <pc n="1242">»</pc>
+        <pc n="1242" dep="1241-punct">»</pc>
         <g/>
-        <pc n="1243">!</pc>
+        <pc n="1243" dep="1237-punct">!</pc>
         <sb sid="3756"/>
       </p>
     </chunk>
