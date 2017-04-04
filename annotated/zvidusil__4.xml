@@ -316,11 +316,11 @@
         <w_ n="103">
           <w lemma="автор" ana="noun:anim:m:v_naz">Автор</w>
         </w_>
-        <pc n="104">-</pc>
-        <w_ n="105">
+        <pc n="104" dep="105-punct">-</pc>
+        <w_ n="105" dep="103-appos">
           <w lemma="Таня" ana="noun:anim:f:v_naz:prop:fname">Таня</w>
         </w_>
-        <w_ n="106">
+        <w_ n="106" dep="105-flat:name">
           <w lemma="Оселедько" ana="noun:anim:f:v_naz:nv:np:prop:lname">Оселедько</w>
         </w_>
         <sb sid="4042"/>
@@ -2200,11 +2200,11 @@
           <w lemma="джерело" ana="noun:inanim:n:v_naz">Джерело</w>
         </w_>
         <g/>
-        <pc n="747">:</pc>
-        <w_ n="748">
+        <pc n="747" dep="748-punct">:</pc>
+        <w_ n="748" dep="746-appos">
           <w lemma="радіо" ana="noun:inanim:n:v_naz:nv">Радіо</w>
         </w_>
-        <w_ n="749">
+        <w_ n="749" dep="748-appos">
           <w lemma="свобода" ana="noun:inanim:f:v_naz">Свобода</w>
         </w_>
         <sb sid="4043"/>
@@ -2288,48 +2288,48 @@
         <g/>
         <pc n="774">.</pc>
         <sb sid="3648"/>
-        <w_ n="775">
+        <w_ n="775" dep="776-amod">
           <w lemma="ефектний" ana="adj:f:v_naz:compb">Ефектна</w>
         </w_>
-        <w_ n="776">
+        <w_ n="776" dep="788-nsubj">
           <w lemma="співачка" ana="noun:anim:f:v_naz">співачка</w>
         </w_>
-        <w_ n="777">
+        <w_ n="777" dep="776-appos">
           <w lemma="Бейонсе" ana="noun:anim:f:v_naz:nv:np:prop:fname">Бейонсе</w>
         </w_>
         <g/>
-        <pc n="778">,</pc>
-        <w_ n="779">
+        <pc n="778" dep="782-punct">,</pc>
+        <w_ n="779" dep="782-nsubj:mark">
           <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
         </w_>
-        <w_ n="780">
+        <w_ n="780" dep="782-advmod">
           <w lemma="цьогоріч" ana="adv">цьогоріч</w>
         </w_>
-        <pc n="781">“</pc>
+        <pc n="781" dep="782-punct">“</pc>
         <g/>
-        <w_ n="782">
+        <w_ n="782" dep="776-acl">
           <w lemma="загребти" ana="verb:perf:past:f">загребла</w>
         </w_>
         <g/>
-        <pc n="783">”</pc>
-        <w_ n="784">
+        <pc n="783" dep="782-punct">”</pc>
+        <w_ n="784" dep="785-discourse">
           <w lemma="аж" ana="part">аж</w>
         </w_>
-        <w_ n="785">
+        <w_ n="785" dep="786-nummod:gov">
           <w lemma="шість" ana="numr:p:v_zna">шість</w>
         </w_>
-        <w_ n="786">
+        <w_ n="786" dep="782-obj">
           <w lemma="статуетка" ana="noun:inanim:p:f:v_rod">статуеток</w>
         </w_>
         <g/>
-        <pc n="787">,</pc>
+        <pc n="787" dep="782-punct">,</pc>
         <w_ n="788">
           <w lemma="прибути" ana="verb:perf:past:f">прибула</w>
         </w_>
-        <w_ n="789">
+        <w_ n="789" dep="790-case">
           <w lemma="з" ana="prep:rv_oru">з</w>
         </w_>
-        <w_ n="790">
+        <w_ n="790" dep="788-obl">
           <w lemma="донька" ana="noun:anim:f:v_oru">донькою</w>
         </w_>
         <g/>
