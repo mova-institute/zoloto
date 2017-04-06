@@ -1075,7 +1075,7 @@
       <w_ n="297" dep="295-nmod">
         <w lemma="братство" ana="noun:inanim:n:v_rod">братства</w>
       </w_>
-      <w_ n="298" dep="297-appos">
+      <w_ n="298" dep="297-nmod">
         <w lemma="НаУКМА" ana="noun:inanim:f:v_rod:nv:np:prop:abbr">НаУКМА</w>
       </w_>
       <w_ n="299" dep="287-parataxis">
@@ -1087,7 +1087,8 @@
       <w_ n="301" dep="299-obl">
         <w lemma="день" ana="noun:inanim:m:v_rod">дня</w>
       </w_>
-      <w_ n="302" dep="301-appos">
+      <w_ n="302" dep="301-nmod">
+        <!--flat:name День Академії?-->
         <w lemma="академія" ana="noun:inanim:f:v_rod">Академії</w>
       </w_>
       <w_ n="303" dep="305-amod">
@@ -1101,7 +1102,7 @@
       </w_>
       <pc n="700" dep="306-punct">“</pc>
       <g/>
-      <w_ n="306" dep="305-appos">
+      <w_ n="306" dep="305-flat:title">
         <w lemma="CampUs" ana="noun:inanim:prop:foreign">CampUs</w>
       </w_>
       <g/>
