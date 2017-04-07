@@ -108,8 +108,8 @@
 
 | | |допоміжність (див. [UD](http://universaldependencies.org/u/pos/AUX_.html))| |
 |---|---|---|---|
-|*(без позначки)*| |повнозначне, в значенні _існувати_|в них є `verb:imperf:pres:s:3` секрет, там були `verb:imperf:past:p` діти!|
-|`aux`|auxiliary|допоміжне, задає час іншому дієслову або під’єднує недієслівний присудок| діти були `verb:aux:imperf:past:p` там, вона була `verb:aux:imperf:past:f` чемною, я буду `verb:aux:imperf:futr:s:1` читати, то є `verb:aux:imperf:pres:s:3` Ринок |
+|*(без позначки)*| |повнозначне, в значенні _існувати_|в них є `verb:imperf:pres:s:3` секрет|
+|`aux`|auxiliary|допоміжне, задає час іншому дієслову або під’єднує недієслівний присудок| вона була `verb:aux:imperf:past:f` чемною, я буду `verb:aux:imperf:futr:s:1` читати, то є `verb:aux:imperf:pres:s:3` Ринок |
 
 | | |вид| |
 |---|---|---|---|
