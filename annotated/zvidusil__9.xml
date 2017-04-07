@@ -1699,8 +1699,8 @@
       <w_ n="600">
         <w lemma="Єлизавета" ana="noun:anim:f:v_rod:prop:fname">Єлизавети</w>
       </w_>
-      <w_ n="601">
-        <w lemma="ІІ" ana="error">ІІ</w>
+      <w_ n="601" correct="II">
+        <w lemma="II" ana="adj:f:v_rod:nv:&amp;numr:typo">ІІ</w>
       </w_>
       <g/>
       <pc n="602">.</pc>
@@ -2310,8 +2310,8 @@
       <w_ n="811">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
-      <w_ n="812">
-        <w lemma="потрапляти" ana="error">потрапляти</w>
+      <w_ n="812" correct="потрапляли">
+        <w lemma="потрапляти" ana="verb:imperf:past:p:typo">потрапляти</w>
       </w_>
       <pc n="813">«</pc>
       <g/>
@@ -2983,8 +2983,8 @@
       <pc n="1048">.</pc>
     </p>
     <p>
-      <w_ n="1049">
-        <w lemma="Повідмляється" ana="error">Повідмляється</w>
+      <w_ n="1049" correct="Повідомляється">
+        <w lemma="повідомлятися" ana="verb:rev:imperf:pres:s:3:typo">Повідмляється</w>
       </w_>
       <g/>
       <pc n="1050">,</pc>
@@ -4101,8 +4101,8 @@
       <w_ n="1432">
         <w lemma="жовтий" ana="adj:f:v_zna:compb">жовту</w>
       </w_>
-      <w_ n="1433">
-        <w lemma="карку" ana="error">карку</w>
+      <w_ n="1433" correct="картку">
+        <w lemma="картка" ana="noun:inanim:f:v_zna:typo">карку</w>
       </w_>
       <w_ n="1434">
         <w lemma="на" ana="prep:rv_zna">на</w>
@@ -4260,13 +4260,13 @@
         <w lemma="черга" ana="noun:inanim:f:v_zna">чергу</w>
       </w_>
       <w_ n="1488">
-        <w lemma="Динамо" ana="error">Динамо</w>
+        <w lemma="Динамо" ana="noun:inanim:n:v_zna:nv:prop">Динамо</w>
       </w_>
       <w_ n="1489">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
       <w_ n="1490">
-        <w lemma="Шахтар" ana="error">Шахтар</w>
+        <w lemma="Шахтар" ana="noun:inanim:m:v_naz:prop">Шахтар</w>
       </w_>
       <w_ n="1491">
         <w lemma="наразі" ana="adv">наразі</w>
@@ -4274,12 +4274,7 @@
       <w_ n="1492">
         <w lemma="тепер" ana="adv:&amp;pron:dem">тепер</w>
       </w_>
-      <w_ n="1493">
-        <w lemma="до" ana="prep:rv_rod">до</w>
-      </w_>
-      <w_ n="1494">
-        <w lemma="Шахтар" ana="noun:inanim:m:v_rod:prop">Шахтаря</w>
-      </w_>
+      <!--<w_ n="1493"><w lemma="до" ana="prep:rv_rod">до</w></w_><w_ n="1494"><w lemma="Шахтар" ana="noun:inanim:m:v_rod:prop">Шахтаря</w></w_>-->
       <w_ n="1495">
         <w lemma="відокремлювати" ana="verb:imperf:pres:s:3">відокремлює</w>
       </w_>
@@ -7497,8 +7492,14 @@
       <w_ n="2777" correct="агентства">
         <w lemma="агентство" ana="noun:inanim:n:v_rod:typo">агенства</w>
       </w_>
-      <w_ n="2778">
-        <w lemma="РБК-Україна" ana="error">РБК-Україна</w>
+      <w_ n="3782">
+        <w lemma="РБК" ana="noun:inanim:m:v_naz:prop:abbr">РБК</w>
+      </w_>
+      <g/>
+      <pc n="3783">-</pc>
+      <g/>
+      <w_ n="3784">
+        <w lemma="Україна" ana="noun:inanim:f:v_naz:prop">Україна</w>
       </w_>
       <w_ n="2779">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
