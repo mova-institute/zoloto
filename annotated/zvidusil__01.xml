@@ -75,8 +75,8 @@
       </w_>
       <g/>
       <pc n="25" dep="29-punct">,</pc>
-      <w_ n="26" dep="29-advmod" comment="сполучник?">
-        <w lemma="натомість" ana="adv">натомість</w>
+      <w_ n="26" dep="29-advmod">
+        <w lemma="натомість" ana="conj:coord">натомість</w>
       </w_>
       <w_ n="27" dep="28-det">
         <w lemma="цей" ana="adj:f:v_naz:&amp;pron:dem">ця</w>
@@ -3006,8 +3006,8 @@
       <w_ n="1013" dep="1015-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ n="1014" dep="1015-nummod" comment="прикметник?">
-        <w lemma="2004" ana="numr:p:v_mis:nv">2004</w>
+      <w_ n="1014" dep="1015-amod">
+        <w lemma="2004" ana="adj:m:v_mis:nv:&amp;numr">2004</w>
       </w_>
       <w_ n="1015" dep="1016-obl">
         <w lemma="рік" ana="noun:inanim:m:v_mis">році</w>
@@ -3108,7 +3108,7 @@
         <w lemma="йтися" ana="verb:rev:imperf:past:n">йшлося</w>
       </w_>
       <w_ n="1049" dep="1053-discourse" comment="частка">
-        <w lemma="лише" ana="conj:subord">лише</w>
+        <w lemma="лише" ana="part">лише</w>
       </w_>
       <w_ n="1050" dep="1053-case">
         <w lemma="про" ana="prep:rv_zna">про</w>
@@ -3493,7 +3493,7 @@
       <pc n="1179" dep="1180-punct">«</pc>
       <g/>
       <w_ n="1180" dep="1178-flat:title">
-        <w lemma="Богдан" ana="noun:inanim:m:v_naz:prop">Богдан</w>
+        <w lemma="Богдан" ana="noun:anim:m:v_oru:prop:fname">Богдан</w>
       </w_>
       <g/>
       <pc n="1181" dep="1180-punct">»</pc>
