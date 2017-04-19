@@ -443,7 +443,7 @@
       <w_ n="148" dep="149-amod">
         <w lemma="15" ana="adj:n:v_naz:nv:&amp;numr">15</w>
       </w_>
-      <w_ n="149" dep="144-appos">
+      <w_ n="149" dep="144-parataxis">
         <w lemma="вересень" ana="noun:inanim:m:v_rod">вересня</w>
       </w_>
       <w_ n="150" dep="149-nmod">
@@ -451,7 +451,7 @@
       </w_>
       <g/>
       <pc n="151" dep="152-punct">,</pc>
-      <w_ n="152" dep="144-appos">
+      <w_ n="152" dep="144-parataxis">
         <w lemma="Бережани" ana="noun:inanim:p:v_naz:ns:prop">Бережани</w>
       </w_>
       <pc n="153" dep="155-punct">—</pc>
@@ -502,7 +502,7 @@
       </w_>
       <pc n="171" dep="172-punct">(</pc>
       <g/>
-      <w_ n="172" dep="169-appos">
+      <w_ n="172" dep="169-parataxis">
         <w lemma="1956" ana="adj:m:v_naz:nv:&amp;numr:&amp;noun:inanim" lemma2="1956">1956</w>
       </w_>
       <g/>
@@ -5546,7 +5546,7 @@
       </w_>
       <g/>
       <pc n="1903">,</pc>
-      <w_ n="1904">
+      <w_ n="1904" dep="1897-acl">
         <w lemma="утворений" ana="adj:n:v_naz:&amp;adjp:perf:pasv">утворене</w>
       </w_>
       <w_ n="1905">
@@ -6308,15 +6308,15 @@
         <w lemma="привіт" ana="noun:inanim:m:v_naz">Привіт</w>
       </w_>
       <g/>
-      <pc n="2157">,</pc>
-      <w_ n="2158">
+      <pc n="2157" dep="2156-punct">,</pc>
+      <w_ n="2158" dep="2159-nsubj">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ n="2159">
+      <w_ n="2159" dep="2156-parataxis">
         <w lemma="Чарлі" ana="noun:anim:m:v_naz:nv:np:prop:fname">Чарлі</w>
       </w_>
       <g/>
-      <pc n="2160">!</pc>
+      <pc n="2160" dep="2156-punct">!</pc>
       <sb sid="4425"/>
       <w_ n="2161">
         <w lemma="або" ana="conj:coord">або</w>
