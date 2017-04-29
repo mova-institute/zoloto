@@ -10,10 +10,10 @@
     <w_ n="2" dep="0-nmod">
       <w lemma="сполука" ana="noun:inanim:p:f:v_rod">сполук</w>
     </w_>
-    <w_ n="3">
+    <w_ n="3" dep="4-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ n="4">
+    <w_ n="4" dep="2-nmod">
       <w lemma="клітина" ana="noun:inanim:p:f:v_mis">клітинах</w>
     </w_>
     <w_ n="5" dep="6-case">
@@ -25,10 +25,10 @@
     <w_ n="7">
       <w lemma="становити" ana="verb:imperf:pres:s:3">становить</w>
     </w_>
-    <w_ n="8">
+    <w_ n="8" dep="9-nummod:gov">
       <w lemma="23,5" ana="numr:p:v_zna:nv">23,5</w>
     </w_>
-    <w_ n="9">
+    <w_ n="9" dep="7-obj">
       <w lemma="%" ana="noun:inanim:m:v_rod:symbol">%</w>
     </w_>
     <g/>
@@ -87,16 +87,16 @@
     <g/>
     <pc n="29">.</pc>
     <sb sid="2658"/>
-    <w_ n="30">
+    <w_ n="30" dep="31-nsubj">
       <w lemma="білок" ana="noun:inanim:p:m:v_naz">Білки</w>
     </w_>
     <w_ n="31">
       <w lemma="виконувати" ana="verb:imperf:pres:p:3">виконують</w>
     </w_>
-    <w_ n="32">
+    <w_ n="32" dep="33-amod">
       <w lemma="різноманітний" ana="adj:p:v_zna:rinanim:compb">різноманітні</w>
     </w_>
-    <w_ n="33">
+    <w_ n="33" dep="31-obj">
       <w lemma="функція" ana="noun:inanim:p:f:v_zna">функції</w>
     </w_>
     <g/>
@@ -208,27 +208,27 @@
     <g/>
     <pc n="71">.</pc>
     <sb sid="2659"/>
-    <w_ n="72">
+    <w_ n="72" dep="76-nsubj">
       <w lemma="жир" ana="noun:inanim:p:m:v_naz:xp1">Жири</w>
     </w_>
-    <pc n="73">—</pc>
-    <w_ n="74">
+    <pc n="73" dep="76-punct">—</pc>
+    <w_ n="74" dep="76-nsubj">
       <w lemma="важливий" ana="adj:m:v_naz:compb">важливий</w>
     </w_>
-    <w_ n="75">
+    <w_ n="75" dep="76-nsubj">
       <w lemma="енергетичний" ana="adj:m:v_naz">енергетичний</w>
     </w_>
     <w_ n="76">
       <w lemma="резерв" ana="noun:inanim:m:v_naz">резерв</w>
     </w_>
-    <w_ n="77">
+    <w_ n="77" dep="78-case">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ n="78">
+    <w_ n="78" dep="76-obl">
       <w lemma="організм" ana="noun:inanim:m:v_mis">організмі</w>
     </w_>
     <g/>
-    <pc n="79">.</pc>
+    <pc n="79" dep="76-punct">.</pc>
     <sb sid="2660"/>
     <w_ n="80">
       <w lemma="також" ana="adv">Також</w>
@@ -392,108 +392,108 @@
     <g/>
     <pc n="133">.</pc>
     <sb sid="2665"/>
-    <w_ n="134">
+    <w_ n="134" dep="135-amod">
       <w lemma="характерний" ana="adj:f:v_oru:compb">Характерною</w>
     </w_>
     <w_ n="135">
       <w lemma="особливість" ana="noun:inanim:f:v_oru">особливістю</w>
     </w_>
-    <w_ n="136">
+    <w_ n="136" dep="137-amod">
       <w lemma="епітеліальний" ana="adj:f:v_rod">епітеліальної</w>
     </w_>
-    <w_ n="137">
+    <w_ n="137" dep="135-nmod">
       <w lemma="тканина" ana="noun:inanim:f:v_rod">тканини</w>
     </w_>
-    <w_ n="138">
+    <w_ n="138" dep="135-cop">
       <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
     </w_>
-    <w_ n="139">
+    <w_ n="139" dep="140-advmod">
       <w lemma="майже" ana="adv">майже</w>
     </w_>
-    <w_ n="140">
+    <w_ n="140" dep="141-amod">
       <w lemma="повний" ana="adj:f:v_naz:compb">повна</w>
     </w_>
-    <w_ n="141">
+    <w_ n="141" dep="135-nsubj">
       <w lemma="відсутність" ana="noun:inanim:f:v_naz">відсутність</w>
     </w_>
-    <w_ n="142">
+    <w_ n="142" dep="143-amod">
       <w lemma="міжклітинний" ana="adj:f:v_rod">міжклітинної</w>
     </w_>
-    <w_ n="143">
+    <w_ n="143" dep="141-nmod">
       <w lemma="речовина" ana="noun:inanim:f:v_rod">речовини</w>
     </w_>
-    <w_ n="144">
+    <w_ n="144" dep="145-cc">
       <w lemma="й" ana="conj:coord">й</w>
     </w_>
-    <w_ n="145">
+    <w_ n="145" dep="141-conj">
       <w lemma="те" ana="noun:inanim:n:v_naz:&amp;pron:dem">те</w>
     </w_>
     <g/>
-    <pc n="146">,</pc>
-    <w_ n="147">
+    <pc n="146" dep="151-punct">,</pc>
+    <w_ n="147" dep="151-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ n="148">
+    <w_ n="148" dep="149-case">
       <w lemma="під" ana="prep:rv_oru">під</w>
     </w_>
-    <w_ n="149">
+    <w_ n="149" dep="151-obl">
       <w lemma="клітина" ana="noun:inanim:p:f:v_oru">клітинами</w>
     </w_>
-    <w_ n="150">
+    <w_ n="150" dep="149-nmod">
       <w lemma="епітелій" ana="noun:inanim:m:v_rod">епітелію</w>
     </w_>
-    <w_ n="151">
+    <w_ n="151" dep="145-acl">
       <w lemma="розташований" ana="adj:f:v_naz:&amp;adjp:perf:pasv">розташована</w>
     </w_>
-    <w_ n="152">
+    <w_ n="152" dep="154-amod">
       <w lemma="тоненький" ana="adj:f:v_naz">тоненька</w>
     </w_>
-    <w_ n="153">
+    <w_ n="153" dep="154-amod">
       <w lemma="базальний" ana="adj:f:v_naz">базальна</w>
     </w_>
-    <w_ n="154">
+    <w_ n="154" dep="151-nsubj">
       <w lemma="мембрана" ana="noun:inanim:f:v_naz">мембрана</w>
     </w_>
     <g/>
-    <pc n="155">,</pc>
-    <w_ n="156">
+    <pc n="155" dep="158-punct">,</pc>
+    <w_ n="156" dep="158-nsubj:mark">
       <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
     </w_>
-    <w_ n="157">
+    <w_ n="157" dep="158-obj">
       <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
     </w_>
-    <w_ n="158">
+    <w_ n="158" dep="154-acl">
       <w lemma="підтримувати" ana="verb:imperf:pres:s:3">підтримує</w>
     </w_>
     <g/>
-    <pc n="159">.</pc>
+    <pc n="159" dep="135-punct">.</pc>
     <sb sid="2666"/>
-    <w_ n="160">
+    <w_ n="160" dep="162-case">
       <w lemma="за" ana="prep:rv_oru">За</w>
     </w_>
-    <w_ n="161">
+    <w_ n="161" dep="162-det">
       <w lemma="свій" ana="adj:p:v_oru:poss:&amp;pron:refl">своїми</w>
     </w_>
-    <w_ n="162">
+    <w_ n="162" dep="163-obl">
       <w lemma="функція" ana="noun:inanim:p:f:v_oru">функціями</w>
     </w_>
     <w_ n="163">
       <w lemma="виділяти" ana="verb:imperf:pres:p:3">виділяють</w>
     </w_>
-    <w_ n="164">
+    <w_ n="164" dep="167-amod" comment="цікава однорідність">
       <w lemma="покривний" ana="adj:m:v_zna:rinanim">покривний</w>
     </w_>
-    <w_ n="165">
+    <w_ n="165" dep="166-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ n="166">
+    <w_ n="166" dep="164-conj">
       <w lemma="залозистий" ana="adj:m:v_zna:rinanim">залозистий</w>
     </w_>
-    <w_ n="167">
+    <w_ n="167" dep="163-obj">
       <w lemma="епітелій" ana="noun:inanim:m:v_zna">епітелій</w>
     </w_>
     <g/>
-    <pc n="168">.</pc>
+    <pc n="168" dep="163-punct">.</pc>
     <sb sid="2667"/>
   </p>
   <p>
@@ -631,56 +631,56 @@
     <g/>
     <pc n="222">.</pc>
     <sb sid="2669"/>
-    <w_ n="223">
+    <w_ n="223" dep="224-nsubj">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
     </w_>
     <w_ n="224">
       <w lemma="захищати" ana="verb:imperf:pres:s:3">захищає</w>
     </w_>
-    <w_ n="225">
+    <w_ n="225" dep="224-obj">
       <w lemma="тканина" ana="noun:inanim:p:f:v_zna">тканини</w>
     </w_>
     <g/>
-    <pc n="226">,</pc>
-    <w_ n="227">
+    <pc n="226" dep="227-punct">,</pc>
+    <w_ n="227" dep="225-acl">
       <w lemma="розташований" ana="adj:p:v_zna:rinanim:&amp;adjp:perf:pasv">розташовані</w>
     </w_>
-    <w_ n="228">
+    <w_ n="228" dep="227-advmod">
       <w lemma="глибше" ana="adv:compr">глибше</w>
     </w_>
     <g/>
-    <pc n="229">,</pc>
-    <w_ n="230">
+    <pc n="229" dep="227-punct">,</pc>
+    <w_ n="230" dep="232-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ n="231">
+    <w_ n="231" dep="230-fixed">
       <w lemma="також" ana="adv">також</w>
     </w_>
-    <w_ n="232">
+    <w_ n="232" dep="224-conj">
       <w lemma="регулювати" ana="verb:imperf:pres:s:3">регулює</w>
     </w_>
-    <w_ n="233">
+    <w_ n="233" dep="234-det">
       <w lemma="їхній" ana="adj:m:v_zna:rinanim:poss:&amp;pron:pers:3">їхній</w>
     </w_>
-    <w_ n="234">
+    <w_ n="234" dep="232-obj">
       <w lemma="обмін" ana="noun:inanim:m:v_zna">обмін</w>
     </w_>
-    <w_ n="235">
+    <w_ n="235" dep="234-nmod">
       <w lemma="речовина" ana="noun:inanim:p:f:v_oru">речовинами</w>
     </w_>
-    <w_ n="236">
+    <w_ n="236" dep="240-case">
       <w lemma="із" ana="prep:rv_oru">із</w>
     </w_>
-    <w_ n="237">
+    <w_ n="237" dep="240-amod">
       <w lemma="зовнішній" ana="adj:n:v_oru">зовнішнім</w>
     </w_>
-    <w_ n="238">
+    <w_ n="238" dep="239-cc">
       <w lemma="та" ana="conj:coord">та</w>
     </w_>
-    <w_ n="239">
+    <w_ n="239" dep="237-conj">
       <w lemma="внутрішній" ana="adj:n:v_oru">внутрішнім</w>
     </w_>
-    <w_ n="240">
+    <w_ n="240" dep="234-nmod">
       <w lemma="середовище" ana="noun:inanim:n:v_oru">середовищем</w>
     </w_>
     <pc n="241">(</pc>
@@ -694,41 +694,41 @@
       <w lemma="газообмін" ana="noun:inanim:m:v_zna">газообмін</w>
     </w_>
     <g/>
-    <pc n="245">,</pc>
-    <w_ n="246">
+    <pc n="245" dep="246-punct">,</pc>
+    <w_ n="246" dep="244-conj">
       <w lemma="видалення" ana="noun:inanim:n:v_zna">видалення</w>
     </w_>
-    <w_ n="247">
+    <w_ n="247" dep="246-nmod">
       <w lemma="продукт" ana="noun:inanim:p:m:v_rod">продуктів</w>
     </w_>
-    <w_ n="248">
+    <w_ n="248" dep="247-nmod">
       <w lemma="обмін" ana="noun:inanim:m:v_rod">обміну</w>
     </w_>
     <g/>
-    <pc n="249">,</pc>
-    <w_ n="250">
+    <pc n="249" dep="250-punct">,</pc>
+    <w_ n="250" dep="244-conj">
       <w lemma="всмоктування" ana="noun:inanim:n:v_zna:v-u">всмоктування</w>
     </w_>
-    <w_ n="251">
+    <w_ n="251" dep="252-amod">
       <w lemma="поживний" ana="adj:p:v_rod:compb">поживних</w>
     </w_>
-    <w_ n="252">
+    <w_ n="252" dep="250-nmod">
       <w lemma="речовина" ana="noun:inanim:p:f:v_rod">речовин</w>
     </w_>
-    <w_ n="253">
+    <w_ n="253" dep="254-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ n="254">
+    <w_ n="254" dep="250-nmod">
       <w lemma="кишечник" ana="noun:inanim:m:v_mis:bad">кишечнику</w>
     </w_>
-    <w_ n="255">
+    <w_ n="255" dep="256-cc">
       <w lemma="та" ana="conj:coord">та</w>
     </w_>
-    <w_ n="256">
+    <w_ n="256" dep="244-conj">
       <w lemma="ін." ana="noun:inanim:n:v_zna:nv:abbr">ін</w>
     </w_>
     <g/>
-    <pc n="257">.</pc>
+    <pc n="257" dep="256-punct">.</pc>
     <g/>
     <pc n="258">)</pc>
     <g/>
