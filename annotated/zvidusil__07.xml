@@ -80,33 +80,33 @@
         <g/>
         <pc n="27" dep="8-punct">.</pc>
         <sb sid="3387"/>
-        <w_ n="28">
+        <w_ n="28" dep="29-cc">
           <w lemma="але" ana="conj:coord">Але</w>
         </w_>
         <w_ n="29">
           <w lemma="мліти" ana="verb:imperf:pres:s:1">млію</w>
         </w_>
-        <w_ n="30">
+        <w_ n="30" dep="31-case">
           <w lemma="від" ana="prep:rv_rod">від</w>
         </w_>
-        <w_ n="31">
+        <w_ n="31" dep="29-obl">
           <w lemma="дівчина" ana="noun:anim:p:f:v_rod">дівчат</w>
         </w_>
         <g/>
-        <pc n="32">,</pc>
-        <w_ n="33">
+        <pc n="32" dep="34-punct">,</pc>
+        <w_ n="33" dep="34-mark">
           <w lemma="що" ana="conj:subord">що</w>
         </w_>
-        <w_ n="34">
+        <w_ n="34" dep="31-acl">
           <w lemma="вдягатися" ana="verb:rev:imperf:pres:p:3">вдягаються</w>
         </w_>
-        <w_ n="35">
+        <w_ n="35" dep="36-mark">
           <w lemma="як" ana="conj:subord">як</w>
         </w_>
-        <w_ n="36">
+        <w_ n="36" dep="34-advcl">
           <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
         </w_>
-        <w_ n="37">
+        <w_ n="37" dep="34-advmod">
           <w lemma="вдома" ana="adv:v-u">вдома</w>
         </w_>
         <sb sid="4050"/>
@@ -1249,25 +1249,25 @@
         <g/>
         <pc n="424" dep="413-punct">.</pc>
         <sb sid="3416"/>
-        <w_ n="425">
+        <w_ n="425" dep="427-nsubj">
           <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
         </w_>
-        <w_ n="426">
+        <w_ n="426" dep="427-amod">
           <w lemma="історичний" ana="adj:f:v_naz">історична</w>
         </w_>
         <w_ n="427">
           <w lemma="константа" ana="noun:inanim:f:v_naz">константа</w>
         </w_>
         <g/>
-        <pc n="428">,</pc>
-        <w_ n="429">
+        <pc n="428" dep="430-punct">,</pc>
+        <w_ n="429" dep="430-mark">
           <w lemma="коли" ana="conj:subord">коли</w>
         </w_>
-        <w_ n="430">
+        <w_ n="430" dep="427-advcl">
           <w lemma="хотіти" ana="verb:imperf:pres:p:2">хочете</w>
         </w_>
         <g/>
-        <pc n="431">.</pc>
+        <pc n="431" dep="427-punct">.</pc>
         <sb sid="3417"/>
         <w_ n="432" dep="433-amod">
           <w lemma="релігійний" ana="adj:m:v_naz">Релігійний</w>
@@ -2202,62 +2202,62 @@
     <chunk src="http://tereveni.org/topic/30010/page__pid__864803">
       <p>
         <sb sid="3433"/>
-        <w_ n="754">
+        <w_ n="754" dep="755-det">
           <w lemma="отой" ana="adj:p:v_naz:&amp;pron:dem">Оті</w>
         </w_>
-        <w_ n="755">
+        <w_ n="755" dep="769-dislocated">
           <w lemma="штучка" ana="noun:inanim:p:f:v_naz">штучки</w>
         </w_>
         <g/>
-        <pc n="756">,</pc>
-        <w_ n="757">
+        <pc n="756" dep="757-punct">,</pc>
+        <w_ n="757" dep="755-conj">
           <w lemma="телефон" ana="noun:inanim:p:m:v_naz">телефони</w>
         </w_>
         <g/>
-        <pc n="758">,</pc>
-        <w_ n="759" correct="андроїди">
+        <pc n="758" dep="759-punct">,</pc>
+        <w_ n="759" dep="755-conj" correct="андроїди">
           <w lemma="андроїд" ana="noun:anim:p:m:v_naz:typo">андроіди</w>
         </w_>
-        <w_ n="760">
+        <w_ n="760" dep="755-conj">
           <w lemma="іосик" ana="noun:inanim:p:m:v_naz:odd">іосики</w>
         </w_>
         <g/>
-        <pc n="761">,</pc>
-        <w_ n="762">
+        <pc n="761" dep="764-punct">,</pc>
+        <w_ n="762" dep="764-obj:mark">
           <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
         </w_>
-        <w_ n="763">
+        <w_ n="763" dep="764-nsubj">
           <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
         </w_>
-        <w_ n="764">
+        <w_ n="764" dep="755-acl">
           <w lemma="називати" ana="verb:imperf:pres:p:1">називаємо</w>
         </w_>
-        <w_ n="765">
+        <w_ n="765" dep="766-amod">
           <w lemma="модний" ana="adj:n:v_oru:compb">модним</w>
         </w_>
-        <w_ n="766">
+        <w_ n="766" dep="764-xcomp">
           <w lemma="слово" ana="noun:inanim:n:v_oru">словом</w>
         </w_>
-        <w_ n="767">
+        <w_ n="767" dep="766-appos">
           <w lemma="ґаджет" ana="noun:inanim:m:v_naz:auto">ґаджет</w>
         </w_>
-        <pc n="768">-</pc>
-        <w_ n="769">
+        <pc n="768" dep="755-punct">-</pc>
+        <w_ n="769" dep="771-nsubj">
           <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
         </w_>
-        <w_ n="770">
+        <w_ n="770" dep="771-discourse">
           <w lemma="тільки" ana="part">тільки</w>
         </w_>
         <w_ n="771">
           <w lemma="прив’язувати" ana="verb:imperf:pres:p:3">прив’язують</w>
         </w_>
-        <w_ n="772" correct="людину">
+        <w_ n="772" dep="771-obj" correct="людину">
           <w lemma="людина" ana="noun:anim:f:v_zna:typo">людну</w>
         </w_>
-        <w_ n="773">
+        <w_ n="773" dep="774-case">
           <w lemma="до" ana="prep:rv_rod">до</w>
         </w_>
-        <w_ n="774">
+        <w_ n="774" dep="771-obl">
           <w lemma="себе" ana="noun:v_rod:&amp;pron:refl">себе</w>
         </w_>
         <g/>
@@ -2272,33 +2272,33 @@
           <w lemma="наркотик" ana="noun:inanim:m:v_naz">наркотик</w>
         </w_>
         <g/>
-        <pc n="779">.</pc>
+        <pc n="779" dep="769-punct">.</pc>
         <sb sid="3434"/>
-        <w_ n="780">
+        <w_ n="780" dep="781-nsubj">
           <w lemma="воно" ana="noun:n:v_naz:&amp;pron:pers:3">Воно</w>
         </w_>
         <w_ n="781">
           <w lemma="приємний" ana="adj:n:v_naz:compb">приємне</w>
         </w_>
         <g/>
-        <pc n="782">,</pc>
-        <w_ n="783">
+        <pc n="782" dep="786-punct">,</pc>
+        <w_ n="783" dep="786-cc">
           <w lemma="а" ana="conj:coord">а</w>
         </w_>
-        <w_ n="784">
+        <w_ n="784" dep="785-case">
           <w lemma="до" ana="prep:rv_rod">до</w>
         </w_>
-        <w_ n="785">
+        <w_ n="785" dep="786-obl">
           <w lemma="хороше" ana="adj:n:v_rod:compb:&amp;noun:inanim" lemma2="хороший">хорошого</w>
         </w_>
-        <w_ n="786">
+        <w_ n="786" dep="781-conj:parataxis">
           <w lemma="звикати" ana="verb:imperf:pres:p:1">звикаємо</w>
         </w_>
-        <w_ n="787">
+        <w_ n="787" dep="786-advmod">
           <w lemma="швидко" ana="adv:compb">швидко</w>
         </w_>
         <g/>
-        <pc n="788">.</pc>
+        <pc n="788" dep="781-punct">.</pc>
         <sb sid="3435"/>
       </p>
       <p>
