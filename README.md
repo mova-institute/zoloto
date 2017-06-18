@@ -9,7 +9,7 @@
 1. [вирівнювач паралельних корпусів (Intertext)](https://lab.mova.institute/intertext)
 1. [титульний сайт (mova.institute)](https://mova.institute)
     1. [демо аналізатора](https://mova.institute/analizator)
-1. [гітхаб](.)
+1. [гітхаб](https://github.com/msklvsk)
     1. [специфікація позначок](https://github.com/msklvsk/corpus/blob/master/docs/tagset.md)
     1. [іш’юзи](https://github.com/msklvsk/corpus/issues)
 1. гуглдоки
