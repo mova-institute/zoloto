@@ -2429,8 +2429,8 @@
         <w_ n="835">
           <w lemma="забезпечувати" ana="verb:imperf:pres:s:3">забезпечує</w>
         </w_>
-        <w_ n="836">
-          <w lemma="підконтрольній" ana="error">підконтрольній</w>
+        <w_ n="836" correct="підконтрольні">
+          <w lemma="підконтрольний" ana="adj:p:v_zna:rinanim:typo">підконтрольній</w>
         </w_>
         <w_ n="837">
           <w lemma="Україна" ana="noun:inanim:f:v_dav:prop">Україні</w>
@@ -3600,8 +3600,8 @@
         <w_ n="1248">
           <w lemma="фортеця" ana="noun:inanim:f:v_zna">фортецю</w>
         </w_>
-        <w_ n="1249">
-          <w lemma="ХVIII" ana="error">ХVIII</w>
+        <w_ n="1249" correct="XVIII">
+          <w lemma="XVIII" ana="adj:n:v_rod:nv:&amp;numr:typo">ХVIII</w>
         </w_>
         <g/>
         <pc n="1250">-</pc>
@@ -3611,7 +3611,6 @@
         </w_>
         <w_ n="1252">
           <w lemma="ст." ana="noun:inanim:p:f:v_rod:nv:abbr">ст</w>
-          <w lemma="ст." ana="noun:inanim:n:v_rod:nv:abbr">ст</w>
         </w_>
         <g/>
         <pc n="1253">.</pc>
@@ -4889,29 +4888,7 @@
         <w_ n="1696">
           <w lemma="р." ana="noun:inanim:m:v_rod:nv:np:abbr:auto">р</w>
         </w_>
-        <w_ n="1697">
-          <w lemma="СРСР" ana="error">СРСР</w>
-        </w_>
-        <pc n="1698">«</pc>
-        <g/>
-        <w_ n="1699">
-          <w lemma="Ензим" ana="error">Ензим</w>
-        </w_>
-        <g/>
-        <pc n="1700">»</pc>
-        <w_ n="1701">
-          <w lemma="найбільший" ana="adj:m:v_oru:super">найбільшим</w>
-        </w_>
-        <w_ n="1702">
-          <w lemma="виробник" ana="noun:anim:m:v_oru">виробником</w>
-        </w_>
-        <w_ n="1703">
-          <w lemma="ферментний" ana="adj:p:v_rod">ферментних</w>
-        </w_>
-        <w_ n="1704">
-          <w lemma="препарат" ana="noun:inanim:p:m:v_rod">препаратів</w>
-        </w_>
-        <g/>
+        <gap/>
         <pc n="1705">.</pc>
       </p>
       <gap/>
@@ -6987,11 +6964,12 @@
         <w_ n="2431">
           <w lemma="стаття" ana="noun:inanim:f:v_mis">статті</w>
         </w_>
+        <!-- далі помилка: треба разом -->
         <w_ n="2432">
-          <w lemma="як" ana="error">як</w>
+          <w lemma="як" ana="conj:subord">як</w>
         </w_>
         <w_ n="2433">
-          <w lemma="раз" ana="adv">раз</w>
+          <w lemma="раз" ana="noun:inanim:m:v_naz">раз</w>
         </w_>
         <w_ n="2434">
           <w lemma="з" ana="prep:rv_rod">з</w>
@@ -7077,8 +7055,8 @@
         <w_ n="2463">
           <w lemma="останній" ana="adj:f:v_rod:compb">останньої</w>
         </w_>
-        <w_ n="2464">
-          <w lemma="10-ії" ana="error">10-ії</w>
+        <w_ n="2464" correct="10-ї">
+        <w lemma="10-й" ana="adj:f:v_rod:&amp;numr">10-ії</w>
         </w_>
         <w_ n="2465">
           <w lemma="серія" ana="noun:inanim:f:v_rod">серії</w>
@@ -8336,7 +8314,7 @@
           <w lemma="і" ana="conj:coord">і</w>
         </w_>
         <w_ n="2900">
-          <w lemma="їх" ana="error">їх</w>
+          <w lemma="вони" ana="noun:p:v_rod:&amp;pron:pers:3">їх</w>÷
         </w_>
         <w_ n="2901">
           <w lemma="комбінаторика" ana="noun:inanim:f:v_rod">комбінаторики</w>
