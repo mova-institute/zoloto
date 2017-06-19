@@ -8,6 +8,7 @@
     1. [наш](https://lab.mova.institute/dep_search/)
     1. [фінський](http://bionlp-www.utu.fi/dep_search/)
 1. [Intertext](https://lab.mova.institute/intertext) (вирівнювач паралельних корпусів)
+1. [гітхаб](https://github.com/msklvsk)
     1. [специфікація позначок](https://github.com/msklvsk/corpus/blob/master/docs/tagset.md)
     1. [іш’юзи](https://github.com/msklvsk/corpus/issues)
 1. гуглдоки
@@ -19,7 +20,6 @@
         1. [робоча](https://github.com/UniversalDependencies/UD_Ukrainian/tree/dev) гілка
 1. [mova.institute](https://mova.institute) (титульний сайт)
     1. [демо аналізатора](https://mova.institute/analizator)
-1. [гітхаб](https://github.com/msklvsk)
 <!--1. []()-->
 
 
