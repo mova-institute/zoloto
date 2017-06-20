@@ -7,7 +7,7 @@
     1. [brat](https://lab.mova.institute/brat/index.xhtml#/ud/) (синтакс-анотатор)
     1. [помилки](https://lab.mova.institute/files/pomylky_robochoho_tb.html) в робочій версії
     1. [дірки](https://lab.mova.institute/files/dirky_robochoho_tb.html) в робочій версії
-    1. [conllu]() робочої версії
+    1. [conllu](https://lab.mova.institute/files/robochyi_tb.conllu) робочої версії
     1. Turku (синтакс-пошук):
         1. [наш](https://lab.mova.institute/dep_search/)
         1. [фінський](http://bionlp-www.utu.fi/dep_search/)
