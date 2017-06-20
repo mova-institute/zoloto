@@ -1208,10 +1208,10 @@
         <w_ n="389" dep="391-advmod">
           <w lemma="вже" ana="adv:v-u">вже</w>
         </w_>
-        <w_ n="390">
+        <w_ n="390" dep="391-goeswith">
           <w lemma="в" ana="prep:rv_zna:v-u">в</w>
         </w_>
-        <w_ n="391" dep="390-goeswith|386-obl">
+        <w_ n="391" dep="386-obl">
           <w lemma="одинадцятий" ana="adj:n:v_zna:&amp;numr">одинадцяте</w>
         </w_>
         <w_ n="392" dep="396-cc">
@@ -4188,7 +4188,7 @@
         <w_ n="1399" dep="1395-nmod">
           <w lemma="реалізація" ana="noun:inanim:f:v_rod">реалізації</w>
         </w_>
-        <w_ n="1400" dep="1401-case">
+        <w_ n="1400" dep="1401-amod">
           <w lemma="інфраструктурний" ana="adj:p:v_rod">інфраструктурних</w>
         </w_>
         <w_ n="1401" dep="1399-nmod">
@@ -4228,7 +4228,7 @@
         </w_>
         <g/>
         <pc n="1411" dep="1413-punct">,</pc>
-        <w_ n="1412" dep="1413-punct">
+        <w_ n="1412" dep="1413-case">
           <w lemma="в" ana="prep:rv_mis:v-u">в</w>
         </w_>
         <w_ n="1413" dep="1422-obl">
@@ -4381,7 +4381,7 @@
         <w_ n="1464" dep="1471-advmod">
           <w lemma="спільно" ana="adv">спільно</w>
         </w_>
-        <w_ n="1465" dep="1466-punct">
+        <w_ n="1465" dep="1466-case">
           <w lemma="з" ana="prep:rv_oru">з</w>
         </w_>
         <w_ n="1466" dep="1464-obl">
@@ -4772,7 +4772,7 @@
         <w_ n="1589" dep="1591-obl">
           <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
         </w_>
-        <w_ n="1590" dep="1589-nmod|1589-nmod">
+        <w_ n="1590" dep="1589-nmod">
           <w lemma="доставка" ana="noun:inanim:f:v_rod">доставки</w>
         </w_>
         <w_ n="1591" dep="1596-advcl">
@@ -4998,7 +4998,7 @@
         <w_ n="1666" dep="1667-nsubj">
           <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
         </w_>
-        <w_ n="1667" dep="1662-parataxis|1671-advcl">
+        <w_ n="1667" dep="1671-advcl">
           <w lemma="говорити" ana="verb:imperf:pres:s:1">говорю</w>
         </w_>
         <w_ n="1668" dep="1667-obl">
@@ -5009,7 +5009,7 @@
         <w_ n="1670" dep="1671-obj">
           <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
         </w_>
-        <w_ n="1671">
+        <w_ n="1671" dep="1662-parataxis">
           <w lemma="здаватися" ana="verb:rev:imperf:pres:s:3">здається</w>
         </w_>
         <g/>
