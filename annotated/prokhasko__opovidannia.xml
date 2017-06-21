@@ -1,5 +1,5 @@
 <doc dataset-mi-synt="train">
-  <chunk dataset-morph="test" dataset-ud="test-hidden">
+  <fragment dataset-morph="test" dataset-ud="test-hidden">
     <sb sid="293"/>
     <w_ n="0" dep="4-nsubj">
       <w lemma="дзядзьо" ana="noun:anim:m:v_naz:odd">Дзядзьо</w>
@@ -4798,8 +4798,8 @@
     </w_>
     <g/>
     <pc n="12198" dep="1381-punct">.</pc>
-  </chunk>
-  <chunk dataset-ud="dev">
+  </fragment>
+  <fragment dataset-ud="dev">
     <sb sid="415"/>
     <w_ n="1390" dep="1393-advmod">
       <w lemma="тоді" ana="adv:&amp;pron:dem">Тоді</w>
@@ -20486,8 +20486,8 @@
     </w_>
     <g/>
     <pc n="13013">.</pc>
-  </chunk>
-  <chunk dataset-morph="dev" dataset-ud="dev">
+  </fragment>
+  <fragment dataset-morph="dev" dataset-ud="dev">
     <sb sid="805"/>
     <w_ n="5956" dep="5962-advmod">
       <w lemma="уже" ana="adv:v-u">Уже</w>
@@ -31197,8 +31197,8 @@
     </w_>
     <g/>
     <pc n="13569">.</pc>
-  </chunk>
-  <chunk dataset-ud="test-hidden">
+  </fragment>
+  <fragment dataset-ud="test-hidden">
     <sb sid="1049"/>
     <w_ n="9084" mark="resolved">
       <w lemma="то" ana="noun:inanim:n:v_naz:&amp;pron:dem">То</w>
@@ -40950,5 +40950,5 @@
     <g/>
     <pc n="14060" dep="11933-punct">...</pc>
     <sb sid="1263"/>
-  </chunk>
+  </fragment>
 </doc>
