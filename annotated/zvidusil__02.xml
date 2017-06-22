@@ -559,7 +559,7 @@
         <w lemma="викладачка" ana="noun:anim:f:v_dav">викладачці</w>
       </w_>
       <w_ n="180" dep="179-nmod" id="1mbf">
-        <w lemma="англійський" ana="adj:f:v_rod">англійської</w>
+        <w lemma="англійська" ana="adj:f:v_rod:&amp;noun:inanim" lemma2="англійський">англійської</w>
       </w_>
       <w_ n="181" dep="183-cc" id="1mbg">
         <w lemma="та" ana="conj:coord">та</w>
@@ -1272,7 +1272,7 @@
       </w_>
       <g/>
       <pc n="430" dep="428-punct" id="1mj4">,</pc>
-      <w_ n="431" dep="432-obj" id="1mj5">
+      <w_ n="431" dep="432-obj" promoted="yes" id="1mj5">
         <w lemma="увесь" ana="adj:p:v_zna:ranim:&amp;pron:gen">усіх</w>
       </w_>
       <w_ n="432" id="1mj6">
@@ -2033,7 +2033,7 @@
       <w_ n="676" dep="679-cc" id="1mrh">
         <w lemma="однак" ana="conj:coord">однак</w>
       </w_>
-      <w_ n="677" dep="679-nsubj" id="1mri">
+      <w_ n="677" dep="679-nsubj" promoted="yes" id="1mri">
         <w lemma="один" ana="adj:m:v_naz:&amp;pron:ind">один</w>
       </w_>
       <w_ n="678" dep="679-advmod" id="1mrj">
@@ -3685,7 +3685,7 @@
         <w lemma="пам’ять" ana="noun:inanim:f:v_naz">пам'ять</w>
       </w_>
       <w_ n="1234" dep="1233-nmod" id="1n9c">
-        <w lemma="загиблий" ana="adj:p:v_dav:&amp;adjp:perf:actv">загиблим</w>
+        <w lemma="загиблі" ana="adj:p:v_dav:ns:&amp;adjp:perf:actv:&amp;noun:anim" lemma2="загиблий">загиблим</w>
       </w_>
       <g/>
       <pc n="1235" dep="1233-punct" id="1n9d">!</pc>

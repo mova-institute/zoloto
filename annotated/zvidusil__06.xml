@@ -27,7 +27,7 @@
       <w_ n="8" dep="10-case" id="1qh1">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ n="9" dep="10-nsubj" id="1qh2">
+      <w_ n="9" dep="10-amod" id="1qh2">
         <w lemma="перший" ana="adj:f:v_zna:compb:&amp;numr">першу</w>
       </w_>
       <w_ n="10" dep="11-obl" id="1qh3">
@@ -1120,10 +1120,10 @@
       <w_ n="362" dep="363-amod" id="1qsg">
         <w lemma="найшвидший" ana="adj:f:v_mis:super">найшвидшій</w>
       </w_>
-      <w_ n="363" dep="364-nmod" id="1qsh">
+      <w_ n="363" dep="365-obl" id="1qsh">
         <w lemma="реалізація" ana="noun:inanim:f:v_mis">реалізації</w>
       </w_>
-      <w_ n="364" dep="365-obl:mark" id="1qsi">
+      <w_ n="364" comment="nmod:mark?" id="1qsi">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ n="365" dep="359-acl" id="1qsj">
@@ -1441,7 +1441,7 @@
       <w_ n="466" dep="470-advmod" id="1qvs">
         <w lemma="може" ana="adv">може</w>
       </w_>
-      <w_ n="467" dep="470-nsubj" id="1qvt">
+      <w_ n="467" dep="470-nsubj" promoted="yes" id="1qvt">
         <w lemma="якийсь" ana="adj:m:v_naz:&amp;pron:ind">якийсь</w>
       </w_>
       <w_ n="468" dep="470-obj" id="1qvu">
@@ -2231,7 +2231,7 @@
       <w_ n="735" id="1r45">
         <w lemma="траплятися" ana="verb:rev:imperf:pres:p:3">трапляються</w>
       </w_>
-      <w_ n="736" dep="735-nsubj" id="1r46">
+      <w_ n="736" dep="735-nsubj" promoted="yes" id="1r46">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
       <g/>
@@ -4061,8 +4061,8 @@
       <w_ n="1358" dep="1359-amod" id="1rng">
         <w lemma="економічний" ana="adj:f:v_dav">економічній</w>
       </w_>
-      <w_ n="1359" dep="1357-nmod" comment="складова - іменник" id="1rnh">
-        <w lemma="складовий" ana="adj:f:v_dav">складовій</w>
+      <w_ n="1359" dep="1357-nmod" id="1rnh">
+        <w lemma="складова" ana="adj:f:v_dav:&amp;noun:inanim" lemma2="складовий">складовій</w>
       </w_>
       <w_ n="1360" dep="1361-amod" id="1rni">
         <w lemma="двосторонній" ana="adj:f:v_rod">двосторонньої</w>
