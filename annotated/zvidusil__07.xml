@@ -278,7 +278,7 @@
         <w lemma="Тернопіль" ana="noun:inanim:m:v_naz:prop">Тернопіль</w>
       </w_>
       <g/>
-      <pc n="89" dep="90-cc" id="1s9h">-</pc>
+      <pc n="89" dep="90-punct" id="1s9h">-</pc>
       <g/>
       <w_ n="90" dep="88-conj" id="1s9i">
         <w lemma="Калуш" ana="noun:inanim:m:v_naz:prop">Калуш</w>
@@ -972,7 +972,7 @@
   <doc author="" date="" id="1sgn" src="http://tyzhden.ua/Culture/183388" title="">
     <p id="1sgo">
       <sb id="1sgp" sid="3411"/>
-      <w_ n="329" id="1sgq">
+      <w_ n="329" dep="344-nsubj" id="1sgq">
         <w lemma="Клод" ana="noun:anim:m:v_naz:prop:fname">Клод</w>
       </w_>
       <w_ n="330" dep="329-flat:title" id="1sgr">
@@ -1007,7 +1007,7 @@
       <w_ n="341" dep="342-amod" id="1sh2">
         <w lemma="відомий" ana="adj:p:v_naz:compb">відомі</w>
       </w_>
-      <w_ n="342" dep="329-conj|344-nsubj" id="1sh3">
+      <w_ n="342" dep="329-conj" id="1sh3">
         <w lemma="письменник" ana="noun:anim:p:m:v_naz">письменники</w>
       </w_>
       <w_ n="343" dep="344-cop" id="1sh4">
@@ -1339,7 +1339,7 @@
       <g/>
       <pc n="456" id="1skf">?</pc>
       <sb id="1skg" sid="3418"/>
-      <w_ n="457" dep="467-punct" id="1skh">
+      <w_ n="457" dep="467-discourse" id="1skh">
         <w lemma="чи" ana="part">Чи</w>
       </w_>
       <w_ n="458" dep="459-det" id="1ski">
@@ -3512,7 +3512,7 @@
       <w_ n="1254" dep="1255-amod" id="1t7d">
         <w lemma="бучанський" ana="adj:f:v_mis">Бучанській</w>
       </w_>
-      <w_ n="1255" dep="1252-obl" id="1t7e">
+      <w_ n="1255" dep="1252-nmod" id="1t7e">
         <w lemma="гімназія" ana="noun:inanim:f:v_mis">гімназії</w>
       </w_>
       <w_ n="1256" dep="1258-cc" id="1t7f">
@@ -3993,7 +3993,7 @@
       <w_ n="1418" dep="1421-case" id="1tce">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ n="1419" dep="1421-nummod" id="1tcf">
+      <w_ n="1419" dep="1421-nummod:gov" id="1tcf">
         <w lemma="6" ana="numr:p:v_zna:nv">6</w>
       </w_>
       <w_ n="1420" dep="1421-amod" id="1tcg">
@@ -6181,7 +6181,7 @@
       <w_ n="2150" dep="2152-nsubj" id="1tzk">
         <w lemma="ніщо" ana="noun:inanim:v_rod:&amp;pron:neg">нічого</w>
       </w_>
-      <w_ n="2151" dep="2152-discourse" id="1tzl">
+      <w_ n="2151" dep="2152-advmod" id="1tzl">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ n="2152" dep="2144-parataxis" id="1tzm">
@@ -6740,7 +6740,7 @@
       <w_ n="2339" dep="2337-obl" id="1u59">
         <w lemma="якість" ana="noun:inanim:f:v_mis">якості</w>
       </w_>
-      <w_ n="2340" dep="2339-obl" id="1u5a">
+      <w_ n="2340" dep="2339-nmod" id="1u5a">
         <w lemma="сингл" ana="noun:inanim:m:v_rod">синглу</w>
       </w_>
       <g/>
