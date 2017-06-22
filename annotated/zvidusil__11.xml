@@ -1138,13 +1138,13 @@
       <w_ n="386" dep="393-obl" id="20gg">
         <w lemma="столиця" ana="noun:inanim:f:v_mis">столиці</w>
       </w_>
-      <w_ n="2212" dep="2214-compound|388-amod" id="20gh">
+      <w_ n="2212" dep="388-amod" id="20gh">
         <w lemma="австро" ana="adj:beforeadj">Австро</w>
       </w_>
       <g/>
-      <pc n="2213" dep="2212-punct" id="20gi">-</pc>
+      <pc n="2213" id="20gi">-</pc>
       <g/>
-      <w_ n="2214" id="20gj">
+      <w_ n="2214" dep="2212-compound" id="20gj">
         <w lemma="угорський" ana="adj:f:v_rod">Угорської</w>
       </w_>
       <w_ n="388" dep="386-nmod" id="20gk">
@@ -2890,7 +2890,7 @@
       <w_ n="983" dep="984-mark" id="20z3">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ n="984" dep="981-acl|991-nsubj:pass" id="20z4">
+      <w_ n="984" dep="991-nsubj:pass" id="20z4">
         <w lemma="портал" ana="noun:inanim:m:v_naz">портал</w>
       </w_>
       <w_ n="985" dep="984-nmod" id="20z5">
@@ -2910,7 +2910,7 @@
       <w_ n="990" dep="991-cop" id="20za">
         <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
       </w_>
-      <w_ n="991" id="20zb">
+      <w_ n="991" dep="981-acl" id="20zb">
         <w lemma="мальований" ana="adj:p:v_naz:&amp;adjp:imperf:pasv">мальовані</w>
       </w_>
       <w_ n="992" dep="994-case" id="20zc">
@@ -4570,7 +4570,7 @@
       <w_ n="1564" id="21hf">
         <w lemma="то" ana="conj:coord">то</w>
       </w_>
-      <w_ n="1565" dep="1566-amod" id="21hg">
+      <w_ n="1565" dep="1566-advmod" id="21hg">
         <w lemma="зручніше" ana="adv:compr">зручніше</w>
       </w_>
       <w_ n="1566" id="21hh">
@@ -4588,7 +4588,7 @@
       <w_ n="1570" dep="1574-cc" id="21hm">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
-      <w_ n="1571" dep="1572-amod" id="21hn">
+      <w_ n="1571" dep="1572-advmod" id="21hn">
         <w lemma="надто" ana="adv">надто</w>
       </w_>
       <w_ n="1572" dep="1574-obj" promoted="yes" id="21ho">
@@ -4656,7 +4656,7 @@
       <w_ n="1594" dep="1596-advmod" id="21ic">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ n="1595" dep="1594-cop|1594-cop" id="21id">
+      <w_ n="1595" id="21id">
         <w lemma="бути" ana="verb:imperf:past:n">було</w>
       </w_>
       <w_ n="1596" dep="1591-parataxis" id="21ie">
@@ -5819,7 +5819,7 @@
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
       <w_ n="1990" dep="1987-obl" id="21uf">
-        <w lemma="дорослий" ana="adj:p:v_zna:ranim:compb">дорослих</w>
+        <w lemma="дорослий" ana="adj:p:v_zna:ranim:compb:&amp;noun:anim:m">дорослих</w>
       </w_>
       <g/>
       <pc n="1991" id="21ug">,</pc>

@@ -980,7 +980,7 @@
     <w_ n="347" dep="348-amod" id="0kga">
       <w lemma="неперетравлений" ana="adj:p:v_rod:&amp;adjp:perf:pasv">неперетравлених</w>
     </w_>
-    <w_ n="348" dep="346-obl" id="0kgb">
+    <w_ n="348" dep="346-nmod" id="0kgb">
       <w lemma="рештки" ana="noun:inanim:p:v_rod:ns">решток</w>
     </w_>
     <w_ n="349" dep="348-nmod" id="0kgc">
@@ -2173,7 +2173,7 @@
     <w_ n="752" dep="753-amod" id="0ksj">
       <w lemma="званий" ana="adj:p:v_naz:&amp;adjp:imperf:pasv">звані</w>
     </w_>
-    <w_ n="753" dep="749-amod" comment="чи acl?" id="0ksk">
+    <w_ n="753" comment="чи acl?" id="0ksk">
       <w lemma="мозковий" ana="adj:f:v_zna">мозкову</w>
     </w_>
     <g/>
@@ -3332,13 +3332,13 @@
     <w_ n="1148" dep="1149-case" id="0l4g">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ n="1149" dep="1147-obl" id="0l4h">
+    <w_ n="1149" dep="1147-obl" promoted="yes" id="0l4h">
       <w lemma="зовнішній" ana="adj:n:v_zna">зовнішнє</w>
     </w_>
     <w_ n="1150" dep="1151-cc" id="0l4i">
       <w lemma="та" ana="conj:coord">та</w>
     </w_>
-    <w_ n="1151" dep="1149-conj" id="0l4j">
+    <w_ n="1151" dep="1149-conj" promoted="yes" id="0l4j">
       <w lemma="внутрішній" ana="adj:n:v_zna">внутрішнє</w>
     </w_>
     <g/>
@@ -3504,7 +3504,7 @@
     </w_>
     <g/>
     <pc n="1209" dep="1210-punct" id="0l69">,</pc>
-    <w_ n="1210" dep="1200-conj" id="0l6a">
+    <w_ n="1210" id="0l6a">
       <w lemma="використання" ana="noun:inanim:n:v_zna">використання</w>
     </w_>
     <w_ n="1211" dep="1210-obj" id="0l6b">
@@ -3544,13 +3544,13 @@
     <w_ n="1224" dep="1225-advmod" id="0l6o">
       <w lemma="також" ana="adv">також</w>
     </w_>
-    <w_ n="1225" dep="1200-conj" id="0l6p">
+    <w_ n="1225" id="0l6p">
       <w lemma="видалення" ana="noun:inanim:n:v_zna">видалення</w>
     </w_>
     <w_ n="1226" dep="1227-case" id="0l6q">
       <w lemma="з" ana="prep:rv_rod">з</w>
     </w_>
-    <w_ n="1227" dep="1225-obl" id="0l6r">
+    <w_ n="1227" dep="1225-nmod" id="0l6r">
       <w lemma="організм" ana="noun:inanim:m:v_rod">організму</w>
     </w_>
     <w_ n="1228" dep="1229-amod" id="0l6s">
@@ -3580,7 +3580,7 @@
       <w lemma="окиснення" ana="noun:inanim:n:v_rod">окиснення</w>
     </w_>
     <g/>
-    <pc n="1237" dep="1200-punct" id="0l71">.</pc>
+    <pc n="1237" id="0l71">.</pc>
     <sb id="0l72" sid="2739"/>
     <w_ n="1238" dep="1239-advmod" id="0l73">
       <w lemma="так" ana="adv:&amp;pron:dem">Так</w>
