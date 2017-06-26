@@ -895,10 +895,10 @@
       <w_ n="231" dep="234-cc" id="0085">
         <w lemma="ні" ana="conj:coord">ні</w>
       </w_>
-      <w_ n="232" id="0086">
+      <w_ n="232" dep="234-amod" id="0086">
         <w lemma="одвертий" ana="adj:f:v_naz">одверта</w>
       </w_>
-      <w_ n="233" id="0087">
+      <w_ n="233" dep="234-amod" id="0087">
         <w lemma="коментаторський" ana="adj:f:v_naz">коментаторська</w>
       </w_>
       <w_ n="234" dep="230-conj" id="0088">
@@ -955,7 +955,7 @@
       <w_ n="248" id="008p">
         <w lemma="ледь" ana="adv">ледь</w>
       </w_>
-      <w_ n="249" dep="248-advmod" id="008q">
+      <w_ n="249" id="008q">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ n="250" dep="251-amod" id="008r">
@@ -2249,7 +2249,7 @@
         <w lemma="1897" ana="adj:m:v_rod:nv:&amp;numr:&amp;noun:inanim" lemma2="1897">1897</w>
       </w_>
       <g/>
-      <w_ n="2246" id="00k6">
+      <w_ n="2246" dep="2251-punct" id="00k6">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <w_ n="2247" dep="2251-punct" id="00k7">
@@ -2265,7 +2265,7 @@
       <w_ n="2250" dep="2251-advmod" id="00ka">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ n="2251" id="00kb">
+      <w_ n="2251" dep="2238-parataxis" id="00kb">
         <w lemma="робити" ana="verb:imperf:pres:s:1">роблю</w>
       </w_>
       <g/>
@@ -5364,7 +5364,7 @@
       <w_ n="1191" dep="1192-case" id="01bm">
         <w lemma="між" ana="prep:rv_oru">між</w>
       </w_>
-      <w_ n="1192" dep="1203-obl" id="01bn">
+      <w_ n="1192" id="01bn">
         <w lemma="те" ana="noun:inanim:n:v_oru:&amp;pron:dem">тим</w>
       </w_>
       <w_ n="1193" dep="1195-amod" id="01bo">
@@ -5376,7 +5376,7 @@
       <w_ n="1194" dep="1193-compound" id="01bq">
         <w lemma="зневажливий" ana="adj:n:v_naz">зневажливе</w>
       </w_>
-      <w_ n="1195" dep="1203-nsubj|1190-parataxis" id="01br">
+      <w_ n="1195" dep="1203-nsubj" id="01br">
         <w lemma="ставлення" ana="noun:inanim:n:v_naz">ставлення</w>
       </w_>
       <w_ n="1196" dep="1198-case" id="01bs">
@@ -5400,7 +5400,7 @@
       <w_ n="1202" dep="1203-advmod" id="01by">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ n="1203" id="01bz">
+      <w_ n="1203" dep="1190-conj:parataxis" id="01bz">
         <w lemma="обмовка" ana="noun:inanim:f:v_naz">обмовка</w>
       </w_>
       <w_ n="1204" dep="1206-cc" id="01c0">
@@ -5496,7 +5496,7 @@
       <w_ n="1223" dep="1224-advmod" id="01cs">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ n="1224" id="01ct">
+      <w_ n="1224" dep="1230-parataxis" id="01ct">
         <w lemma="нагадувати" ana="verb:imperf:pres:s:3">нагадує</w>
       </w_>
       <w_ n="1225" dep="1227-det" id="01cu">
@@ -5730,7 +5730,7 @@
       <w_ n="1273" dep="1274-advmod" id="01er">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ n="1274" id="01es">
+      <w_ n="1274" dep="1268-parataxis" id="01es">
         <w lemma="щастити" ana="verb:imperf:past:f">щастила</w>
       </w_>
       <w_ n="1275" dep="1274-nsubj" id="01et">
@@ -6315,7 +6315,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="01jy" sid="139"/>
-      <w_ n="1422" dep="1425-cc" id="01jz">
+      <w_ n="1422" id="01jz">
         <w lemma="втім" ana="conj:coord:v-u">Втім</w>
       </w_>
       <g/>
