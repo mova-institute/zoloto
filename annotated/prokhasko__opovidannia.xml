@@ -6805,7 +6805,7 @@
     <w_ n="1773" dep="1774-case" id="0si9">
       <w lemma="в" ana="prep:rv_mis:v-u">В</w>
     </w_>
-    <w_ n="1774" dep="1776-det:numgov" mark="reviewed" id="0sia">
+    <w_ n="1774" dep="1776-det" mark="reviewed" id="0sia">
       <w lemma="один" ana="adj:f:v_mis:&amp;pron:ind">одній</w>
     </w_>
     <w_ n="1775" dep="1776-case" id="0sib">
@@ -7524,7 +7524,7 @@
     <w_ n="1967" id="0sov">
       <w lemma="могти" ana="verb:imperf:past:n">могло</w>
     </w_>
-    <w_ n="1968" dep="1969-aux" id="0sow">
+    <w_ n="1968" dep="1969-cop" id="0sow">
       <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
     </w_>
     <w_ n="1969" dep="1967-xcomp" mark="reviewed" id="0sox">
@@ -13349,7 +13349,7 @@
     <w_ n="3500" dep="3502-case" id="0u6w">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ n="3501" dep="3502-det" id="0u6x">
+    <w_ n="3501" dep="3502-det:numgov" id="0u6x">
       <w lemma="кілька" ana="numr:p:v_zna:&amp;pron:ind">кілька</w>
     </w_>
     <w_ n="3502" dep="3498-ccomp" promoted="yes" id="0u6y">
@@ -14165,7 +14165,7 @@
     <w_ n="3714" dep="3711-advmod" id="0uef">
       <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
     </w_>
-    <w_ n="3715" dep="3718-advmod" id="0ueg">
+    <w_ n="3715" dep="3718-case" id="0ueg">
       <w lemma="з" ana="prep:rv_oru">з</w>
     </w_>
     <w_ n="3716" dep="3718-nummod" id="0ueh">
@@ -17477,8 +17477,8 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0v93" sid="695"/>
-    <w_ n="4583" dep="4584-det:nummod" id="0v94">
-      <w lemma="багато" ana="adv:compb">Багато</w>
+    <w_ n="4583" dep="4584-det:numgov" id="0v94">
+      <w lemma="багато" ana="numr:p:v_zna:&amp;pron:ind">Багато</w>
     </w_>
     <w_ n="4584" dep="4586-obl" id="0v95">
       <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
@@ -31432,10 +31432,10 @@
     <w_ n="8291" dep="8290-nsubj" id="0yu0">
       <w lemma="правило" ana="noun:inanim:n:v_naz">правило</w>
     </w_>
-    <w_ n="8292" dep="8294-det:nummod" id="0yu1">
+    <w_ n="8292" id="0yu1">
       <w lemma="двадцять" ana="numr:p:v_rod">двадцяти</w>
     </w_>
-    <w_ n="8293" dep="8294-det:nummod" id="0yu2">
+    <w_ n="8293" id="0yu2">
       <w lemma="п’ять" ana="numr:p:v_rod">п’яти</w>
     </w_>
     <w_ n="8294" dep="8291-nmod" id="0yu3">
@@ -38017,7 +38017,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="10im" sid="1115"/>
-    <w_ n="10037" dep="10038-aux:pass" id="10in">
+    <w_ n="10037" dep="10038-det" id="10in">
       <w lemma="цей" ana="adj:m:v_rod:&amp;pron:dem">Цього</w>
     </w_>
     <w_ n="10038" dep="10041-obj" id="10io">
@@ -41837,7 +41837,7 @@
     <w_ n="11060" dep="11062-cop" id="11i1">
       <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
     </w_>
-    <w_ n="11061" dep="11062-det:nummod" id="11i2">
+    <w_ n="11061" dep="11062-nummod" id="11i2">
       <w lemma="три" ana="numr:p:v_rod">трьох</w>
     </w_>
     <w_ n="11062" id="11i3">
