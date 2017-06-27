@@ -73,7 +73,7 @@
           <w_ n="14" dep="15-amod" id="14g9">
             <w lemma="дешевий" ana="adj:m:v_mis:compb">дешевому</w>
           </w_>
-          <w_ n="15" dep="8-advcl" id="14ga">
+          <w_ n="15" dep="8-obl" id="14ga">
             <w lemma="костюм" ana="noun:inanim:m:v_mis">костюмі</w>
           </w_>
           <w_ n="16" dep="20-punct" id="14gb">
@@ -89,7 +89,7 @@
           <w_ n="19" dep="18-nmod" id="14ge">
             <w lemma="цегла" ana="noun:inanim:f:v_rod">цегли</w>
           </w_>
-          <w_ n="20" dep="28-advcl" id="14gf">
+          <w_ n="20" dep="8-parataxis" id="14gf">
             <w lemma="розвантажити" ana="verb:perf:past:m">розвантажив</w>
           </w_>
           <w_ n="21" dep="22-case" id="14gg">
@@ -114,7 +114,7 @@
           <w_ n="27" dep="28-discourse" id="14gm">
             <w lemma="й" ana="part">й</w>
           </w_>
-          <w_ n="28" dep="8-parataxis" id="14gn">
+          <w_ n="28" id="14gn">
             <w lemma="купити" ana="verb:perf:past:m">купив</w>
           </w_>
           <g/>
@@ -2131,7 +2131,7 @@
     <w_ n="621" dep="622-discourse" id="14ze">
       <w lemma="от" ana="part">от</w>
     </w_>
-    <w_ n="622" mark="resolved" id="14zf">
+    <w_ n="622" dep="629-parataxis" mark="resolved" comment="ccomp?" id="14zf">
       <w lemma="бачити" ana="verb:imperf:pres:p:2">бачте</w>
     </w_>
     <g/>
@@ -2153,7 +2153,7 @@
     <w_ n="628" dep="629-advmod" id="14zl">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ n="629" dep="622-parataxis" id="14zm">
+    <w_ n="629" id="14zm">
       <w lemma="зробити" ana="verb:perf:past:f">зробила</w>
     </w_>
     <g/>
