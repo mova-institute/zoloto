@@ -8692,17 +8692,17 @@
     <w_ n="2544" id="0fu2">
       <w lemma="почати" ana="verb:perf:past:p">Почали</w>
     </w_>
-    <w_ n="2545" id="0fu3">
+    <w_ n="2545" dep="2544-nsubj" id="0fu3">
       <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
     </w_>
-    <w_ n="2546" id="0fu4">
+    <w_ n="2546" dep="2547-advmod" id="0fu4">
       <w lemma="вдвох" ana="adv">вдвох</w>
     </w_>
-    <w_ n="2547" id="0fu5">
+    <w_ n="2547" dep="2544-xcomp" id="0fu5">
       <w lemma="утікати" ana="verb:imperf:inf:v-u">утікати</w>
     </w_>
     <g/>
-    <w_ n="2548" id="0fu6">
+    <w_ n="2548" dep="2544-punct" id="0fu6">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0fu7" sid="5546"/>
@@ -10556,51 +10556,51 @@
       <w lemma="!" ana="punct">!</w>
     </w_>
     <sb id="0gbp" sid="5610"/>
-    <w_ n="3086" id="0gbq">
+    <w_ n="3086" dep="3090-discourse" id="0gbq">
       <w lemma="ну" ana="part">Ну</w>
     </w_>
     <g/>
-    <w_ n="3087" id="0gbr">
+    <w_ n="3087" dep="3086-punct" id="0gbr">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ n="3088" id="0gbs">
+    <w_ n="3088" dep="3090-nsubj" id="0gbs">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
-    <w_ n="3089" id="0gbt">
+    <w_ n="3089" dep="3090-obj" id="0gbt">
       <w lemma="ти" ana="noun:anim:s:v_zna:&amp;pron:pers:2">тебе</w>
     </w_>
     <w_ n="3090" id="0gbu">
       <w lemma="зробити" ana="verb:perf:futr:s:1">зроблю</w>
     </w_>
-    <w_ n="3091" id="0gbv">
+    <w_ n="3091" dep="3090-obl" id="0gbv">
       <w lemma="річка" ana="noun:inanim:f:v_oru">річкою</w>
     </w_>
     <g/>
-    <w_ n="3092" id="0gbw">
+    <w_ n="3092" dep="3095-punct" id="0gbw">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ n="3093" id="0gbx">
+    <w_ n="3093" dep="3095-cc" id="0gbx">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
     <w_ n="3094" id="0gby">
       <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">сама</w>
     </w_>
-    <w_ n="3095" id="0gbz">
+    <w_ n="3095" dep="3090-conj:parataxis" id="0gbz">
       <w lemma="зробитися" ana="verb:rev:perf:futr:s:1">зроблюсь</w>
     </w_>
-    <w_ n="3096" id="0gc0">
+    <w_ n="3096" dep="3095-obl" id="0gc0">
       <w lemma="риба" ana="noun:anim:f:v_oru">рибою</w>
     </w_>
     <g/>
-    <w_ n="3097" id="0gc1">
+    <w_ n="3097" dep="3098-punct" id="0gc1">
       <w lemma="-" ana="punct">-</w>
     </w_>
     <g/>
-    <w_ n="3098" id="0gc2">
+    <w_ n="3098" dep="3096-appos" id="0gc2">
       <w lemma="окунь" ana="noun:anim:m:v_oru">окунем</w>
     </w_>
     <g/>
-    <w_ n="3099" id="0gc3">
+    <w_ n="3099" dep="3090-punct" id="0gc3">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0gc4" sid="5611"/>
@@ -10611,7 +10611,7 @@
       <w lemma="зробити" ana="verb:perf:past:f">Зробила</w>
     </w_>
     <g/>
-    <w_ n="3101" id="0gc8">
+    <w_ n="3101" dep="3100-punct" id="0gc8">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0gc9" sid="5613"/>
