@@ -1050,7 +1050,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1lck"/>
-      <w_ id="1lcl" dep="1lco-cc" comment="сполучник?">
+      <w_ id="1lcl" dep="1lco-discourse" mtime-synt="2017-07-05 17:46:39">
         <w lemma="та" ana="part">Та</w>
       </w_>
       <w_ id="1lcm" dep="1lco-advmod">
@@ -1457,13 +1457,13 @@
       <w_ id="1lgd" dep="1lga-obl">
         <w lemma="подвір’я" ana="noun:inanim:n:v_zna">подвір’я</w>
       </w_>
-      <w_ id="1lge" dep="1lgg-det">
+      <w_ id="1lge" dep="1lgd-nmod" promoted="yes" mtime-synt="2017-07-06 02:10:34">
         <w lemma="один" ana="adj:m:v_rod:&amp;pron:ind">одного</w>
       </w_>
       <w_ id="1lgf" dep="1lgg-case">
         <w lemma="із" ana="prep:rv_rod">із</w>
       </w_>
-      <w_ id="1lgg" dep="1lgd-nmod">
+      <w_ id="1lgg" dep="1lge-nmod" mtime-synt="2017-07-06 02:10:34">
         <w lemma="підліток" ana="noun:anim:p:m:v_rod">підлітків</w>
       </w_>
       <g/>
@@ -1493,7 +1493,7 @@
       <w_ id="1lgp" dep="1lgn-nsubj">
         <w lemma="учень" ana="noun:anim:p:m:v_naz">учні</w>
       </w_>
-      <w_ id="1lgq" dep="1lgt-det">
+      <w_ id="1lgq" dep="1lgp-nmod" promoted="yes" mtime-synt="2017-07-06 02:10:34">
         <w lemma="один" ana="adj:f:v_rod:&amp;pron:ind">однієї</w>
       </w_>
       <w_ id="1lgr" dep="1lgt-case">
@@ -1502,7 +1502,7 @@
       <w_ id="1lgs" dep="1lgt-amod">
         <w lemma="місцевий" ana="adj:p:v_rod">місцевих</w>
       </w_>
-      <w_ id="1lgt" dep="1lgp-nmod">
+      <w_ id="1lgt" dep="1lgq-nmod" mtime-synt="2017-07-06 02:10:34">
         <w lemma="школа" ana="noun:inanim:p:f:v_rod">шкіл</w>
       </w_>
       <g/>

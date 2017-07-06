@@ -221,7 +221,7 @@
             <w_ id="03fq" dep="03fr-case">
               <w lemma="в" ana="prep:rv_mis:v-u">В</w>
             </w_>
-            <w_ id="03fr" dep="03fu-det">
+            <w_ id="03fr" dep="03fv-obl" promoted="yes" mtime-synt="2017-07-06 02:10:34">
               <w lemma="один" ana="adj:m:v_mis:&amp;pron:ind">одному</w>
             </w_>
             <w_ id="03fs" dep="03fu-case">
@@ -230,7 +230,7 @@
             <w_ id="03ft" dep="03fu-det">
               <w lemma="його" ana="adj:p:v_rod:poss:nv:&amp;pron:pers:3">його</w>
             </w_>
-            <w_ id="03fu" dep="03fv-obl">
+            <w_ id="03fu" dep="03fr-nmod" mtime-synt="2017-07-06 02:10:34">
               <w lemma="кінець" ana="noun:inanim:p:m:v_rod">кінців</w>
             </w_>
             <w_ id="03fv">
@@ -690,13 +690,13 @@
               <w lemma="." ana="punct">.</w>
             </w_>
             <sb id="03k1"/>
-            <w_ id="03k2" dep="03k7-nsubj">
+            <w_ id="03k2" dep="03k4-nsubj" mtime-synt="2017-07-06 02:10:34">
               <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
             </w_>
-            <w_ id="03k3" dep="03k7-cop">
+            <w_ id="03k3" dep="03k4-cop" mtime-synt="2017-07-06 02:10:34">
               <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
             </w_>
-            <w_ id="03k4" dep="03k7-det">
+            <w_ id="03k4" promoted="yes" mtime-synt="2017-07-06 02:10:34">
               <w lemma="один" ana="adj:n:v_naz:&amp;pron:ind">одне</w>
             </w_>
             <w_ id="03k5" dep="03k7-case">
@@ -705,7 +705,7 @@
             <w_ id="03k6" dep="03k7-det">
               <w lemma="той" ana="adj:p:v_rod:&amp;pron:dem">тих</w>
             </w_>
-            <w_ id="03k7">
+            <w_ id="03k7" dep="03k4-nmod" mtime-synt="2017-07-06 02:10:34">
               <w lemma="зображення" ana="noun:inanim:p:n:v_rod">зображень</w>
             </w_>
             <g/>
@@ -1440,13 +1440,13 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="03qw"/>
-          <w_ id="03qx" dep="03qz-det">
+          <w_ id="03qx" dep="03r0-nsubj" promoted="yes" mtime-synt="2017-07-06 02:10:34">
             <w lemma="один" ana="adj:m:v_naz:&amp;pron:ind">Один</w>
           </w_>
           <w_ id="03qy" dep="03qz-case">
             <w lemma="з" ana="prep:rv_rod">з</w>
           </w_>
-          <w_ id="03qz" dep="03r0-nsubj">
+          <w_ id="03qz" dep="03qx-nmod" mtime-synt="2017-07-06 02:10:34">
             <w lemma="вони" ana="noun:p:v_rod:rprep:&amp;pron:pers:3">них</w>
           </w_>
           <w_ id="03r0">
@@ -3698,16 +3698,16 @@
         </p>
         <p id="04br">
           <sb id="04bs"/>
-          <w_ id="04bt" dep="04bz-nsubj">
+          <w_ id="04bt" dep="04bw-nsubj" mtime-synt="2017-07-06 02:10:34">
             <w lemma="міністерство" ana="noun:inanim:n:v_naz">Міністерство</w>
           </w_>
           <w_ id="04bu" dep="04bt-nmod">
             <w lemma="любов" ana="noun:inanim:f:v_rod">Любові</w>
           </w_>
-          <w_ id="04bv" dep="04bz-cop">
+          <w_ id="04bv" dep="04bw-cop" mtime-synt="2017-07-06 02:10:34">
             <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
           </w_>
-          <w_ id="04bw" dep="04bz-det">
+          <w_ id="04bw" promoted="yes" mtime-synt="2017-07-06 02:10:34">
             <w lemma="один" ana="adj:n:v_oru:&amp;pron:ind">одним</w>
           </w_>
           <w_ id="04bx" dep="04bz-case">
@@ -3716,11 +3716,11 @@
           <w_ id="04by" dep="04bz-advmod">
             <w lemma="насправді" ana="adv">насправді</w>
           </w_>
-          <w_ id="04bz" promoted="yes">
+          <w_ id="04bz" dep="04bw-nmod" promoted="yes" mtime-synt="2017-07-06 02:10:34">
             <w lemma="найжахливіший" ana="adj:p:v_rod:super">найжахливіших</w>
           </w_>
           <g/>
-          <w_ id="04c0" dep="04bz-punct">
+          <w_ id="04c0" dep="04bw-punct" mtime-synt="2017-07-06 02:10:34">
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="04c1"/>
@@ -9440,7 +9440,7 @@
           <w_ id="05t6" dep="05t7-case">
             <w lemma="на" ana="prep:rv_mis">на</w>
           </w_>
-          <w_ id="05t7" dep="05ta-det">
+          <w_ id="05t7" dep="05t2-obl" promoted="yes" mtime-synt="2017-07-06 02:10:34">
             <w lemma="один" ana="adj:f:v_mis:&amp;pron:ind">одній</w>
           </w_>
           <w_ id="05t8" dep="05ta-case">
@@ -9449,7 +9449,7 @@
           <w_ id="05t9" dep="05ta-amod">
             <w lemma="романопишучий" ana="adj:p:v_rod">романопишучих</w>
           </w_>
-          <w_ id="05ta" dep="05t2-obl">
+          <w_ id="05ta" dep="05t7-nmod" mtime-synt="2017-07-06 02:10:34">
             <w lemma="машина" ana="noun:inanim:p:f:v_rod">машин</w>
           </w_>
           <g/>

@@ -813,7 +813,7 @@
       <w_ id="1sdz">
         <w lemma="брати" ana="verb:imperf:pres:s:3">бере</w>
       </w_>
-      <w_ id="1se0" dep="1se3-det">
+      <w_ id="1se0" dep="1sdz-obj" promoted="yes" mtime-synt="2017-07-06 01:33:42">
         <w lemma="кожний" ana="adj:m:v_zna:rinanim:short:&amp;pron:gen">кожен</w>
       </w_>
       <w_ id="1se1" dep="1se3-case">
@@ -822,7 +822,7 @@
       <w_ id="1se2" dep="1se3-nummod:gov">
         <w lemma="5" ana="numr:p:v_rod">5-ти</w>
       </w_>
-      <w_ id="1se3" dep="1sdz-obj">
+      <w_ id="1se3" dep="1se0-nmod" mtime-synt="2017-07-06 01:33:42">
         <w lemma="елемент" ana="noun:inanim:p:m:v_rod">елементів</w>
       </w_>
       <g/>
@@ -4670,16 +4670,16 @@
       <w_ id="1tdp" dep="1tdu-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1tdq">
+      <w_ id="1tdq" dep="1tdu-nsubj" promoted="yes" mtime-synt="2017-07-06 01:33:42">
         <w lemma="три" ana="numr:p:v_naz">три</w>
       </w_>
-      <w_ id="1tdr">
+      <w_ id="1tdr" dep="1tdt-case" mtime-synt="2017-07-06 01:33:42">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="1tds">
+      <w_ id="1tds" dep="1tdt-nummod" mtime-synt="2017-07-06 01:33:42">
         <w lemma="чотири" ana="numr:p:v_rod">чотирьох</w>
       </w_>
-      <w_ id="1tdt">
+      <w_ id="1tdt" dep="1tdq-nmod" mtime-synt="2017-07-06 02:10:34">
         <w lemma="том" ana="noun:inanim:p:m:v_rod">томів</w>
       </w_>
       <w_ id="1tdu" dep="1tdj-parataxis">
@@ -4711,14 +4711,14 @@
   <doc id="2er5" author="Людмила @ ababahalamaha.com.ua" date="2016-11-29 18:23" src="http://ababahalamaha.com.ua/uk/Special:Guestbook?action=answer&amp;r=4237" title="[як скоро з`являться нові примірники?]">
     <p id="1te2">
       <sb id="1te3"/>
-      <w_ id="1te4">
+      <w_ id="1te4" dep="1te5-amod" mtime-synt="2017-07-06 01:33:42">
         <w lemma="добрий" ana="adj:m:v_rod:compb">Доброго</w>
       </w_>
       <w_ id="1te5">
         <w lemma="день" ana="noun:inanim:m:v_rod">дня</w>
       </w_>
       <g/>
-      <w_ id="1te6">
+      <w_ id="1te6" dep="1te5-punct" mtime-synt="2017-07-06 01:33:42">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="1te7"/>
