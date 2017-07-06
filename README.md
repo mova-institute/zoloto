@@ -15,6 +15,8 @@
         1. гітхаб-репо нашого трібанку
             1. [стабільна](https://github.com/UniversalDependencies/UD_Ukrainian) гілка
             1. [робоча](https://github.com/UniversalDependencies/UD_Ukrainian/tree/dev) гілка
+        1. наші питання в UD
+            1. [Routes (e.g. Mumbai-Shanghai-SFO)](https://github.com/UniversalDependencies/docs/issues/465)
 1. [Intertext](https://lab.mova.institute/intertext) (вирівнювач паралельних корпусів)
 1. [гітхаб](https://github.com/msklvsk)
     1. [специфікація позначок](https://github.com/msklvsk/corpus/blob/master/docs/tagset.md)
@@ -46,6 +48,7 @@
 
 ### тексти (речення) на майбутнє
 - речення з довгими числівниками словами (як на платіжних документах)
+- адреси
 
 
 ### таблиця змін
