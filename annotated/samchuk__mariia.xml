@@ -1024,27 +1024,27 @@
     <w_ id="12mi" dep="12ml-advmod">
       <w lemma="куди" ana="adv:&amp;pron:ind">куди</w>
     </w_>
-    <w_ id="12mj" dep="12ml-advmod">
+    <w_ id="12mj">
       <w lemma="треба" ana="adv">треба</w>
     </w_>
-    <w_ id="12mk" dep="12ml-obj">
+    <w_ id="12mk" dep="12mj-obj">
       <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">їй</w>
     </w_>
-    <w_ id="12ml">
+    <w_ id="12ml" dep="12mj-csubj">
       <w lemma="піти" ana="verb:perf:inf">піти</w>
     </w_>
     <g/>
-    <w_ id="12mm" dep="12ml-punct">
+    <w_ id="12mm" dep="12mj-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="12mn"/>
-    <w_ id="12mo" dep="12mq-advmod">
+    <w_ id="12mo">
       <w lemma="краще" ana="adv:compr">Краще</w>
     </w_>
     <w_ id="12mp" dep="12mo-discourse">
       <w lemma="ж" ana="part">ж</w>
     </w_>
-    <w_ id="12mq">
+    <w_ id="12mq" dep="12mo-csubj">
       <w lemma="піти" ana="verb:perf:inf">піти</w>
     </w_>
     <w_ id="12mr" dep="12ms-case">
@@ -1063,7 +1063,7 @@
       <w lemma="задрипанка" ana="noun:anim:f:v_oru">задрипанкою</w>
     </w_>
     <g/>
-    <w_ id="12mw" dep="12mq-punct">
+    <w_ id="12mw" dep="12mo-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="12mx"/>

@@ -46,7 +46,7 @@
     <w_ id="1306">
       <w lemma="потрібний" ana="adj:f:v_naz:compb">Потрібна</w>
     </w_>
-    <w_ id="1307" dep="1306-obj">
+    <w_ id="1307" dep="1306-nsubj">
       <w lemma="піжамка" ana="noun:inanim:f:v_naz">піжамка</w>
     </w_>
     <w_ id="1308" dep="1307-nmod">
@@ -102,7 +102,7 @@
       <w lemma="щось" ana="noun:inanim:n:v_naz:&amp;pron:ind">щось</w>
     </w_>
     <g/>
-    <w_ id="130q" dep="130v-punct">
+    <w_ id="130q" dep="130t-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="130r" dep="130v-obj">
@@ -111,13 +111,13 @@
     <w_ id="130s" dep="130t-discourse">
       <w lemma="таки" ana="part">таки</w>
     </w_>
-    <w_ id="130t" dep="130v-advmod">
+    <w_ id="130t" dep="130p-acl">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
     <w_ id="130u" dep="130v-advmod">
       <w lemma="так" ana="adv:&amp;pron:dem">так</w>
     </w_>
-    <w_ id="130v" dep="130p-acl">
+    <w_ id="130v" dep="130t-csubj">
       <w lemma="назвати" ana="verb:perf:inf">назвати</w>
     </w_>
     <w_ id="130w" dep="130x-punct">
@@ -820,10 +820,10 @@
     <w_ id="1375" dep="1377-obl">
       <w lemma="що" ana="noun:inanim:n:v_rod:&amp;pron:rel">чого</w>
     </w_>
-    <w_ id="1376" dep="1377-advmod">
+    <w_ id="1376">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
-    <w_ id="1377">
+    <w_ id="1377" dep="1376-csubj">
       <w lemma="зробити" ana="verb:perf:inf">зробити</w>
     </w_>
     <w_ id="1378" dep="1377-obj">
@@ -883,7 +883,7 @@
       <w lemma="чоловік" ana="noun:anim:m:v_rod">чоловіка</w>
     </w_>
     <g/>
-    <w_ id="137q" dep="1377-punct">
+    <w_ id="137q" dep="1376-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="137r"/>
@@ -1472,7 +1472,7 @@
       <w_ id="13d6" dep="13d7-obl">
         <w lemma="час" ana="noun:inanim:m:v_oru">часом</w>
       </w_>
-      <w_ id="13d7">
+      <w_ id="13d7" dep="13db-csubj">
         <w lemma="оформити" ana="verb:perf:inf">оформити</w>
       </w_>
       <w_ id="13d8" dep="13d7-obj">
@@ -1484,7 +1484,7 @@
       <w_ id="13da" dep="13d7-obl">
         <w lemma="собівартість" ana="noun:inanim:f:v_oru">собівартістю</w>
       </w_>
-      <w_ id="13db" dep="13d7-advmod">
+      <w_ id="13db" dep="13cw-parataxis">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
       <w_ id="13dc" dep="13dd-case">
@@ -1511,7 +1511,7 @@
       <w_ id="13dj" dep="13dk-nsubj">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="13dk" dep="13d7-parataxis">
+      <w_ id="13dk" dep="13cw-parataxis">
         <w lemma="вийти" ana="verb:perf:futr:s:3">вийде</w>
       </w_>
       <w_ id="13dl" dep="13dk-advmod">
@@ -1530,7 +1530,7 @@
       <w_ id="13dp" dep="13dq-advmod">
         <w lemma="точно" ana="adv:compb">точно</w>
       </w_>
-      <w_ id="13dq" dep="13dk-conj">
+      <w_ id="13dq" dep="13dk-conj:parataxis">
         <w lemma="знати" ana="verb:imperf:futr:p:1">знатимемо</w>
       </w_>
       <w_ id="13dr" dep="13dq-obj">
@@ -1727,7 +1727,7 @@
   </fragment>
   <p id="13fk">
     <sb id="13fl"/>
-    <w_ id="13fm" dep="13fr-vocative" comment="#nomvoc">
+    <w_ id="13fm" dep="13fq-vocative" comment="#nomvoc">
       <w lemma="Троя" ana="noun:inanim:f:v_naz:prop">Троя</w>
     </w_>
     <g/>
@@ -1740,10 +1740,10 @@
     <w_ id="13fp" dep="13fr-obl">
       <w lemma="хто" ana="noun:anim:m:v_rod:&amp;pron:int">кого</w>
     </w_>
-    <w_ id="13fq" dep="13fr-advmod">
+    <w_ id="13fq">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
-    <w_ id="13fr">
+    <w_ id="13fr" dep="13fq-csubj">
       <w lemma="взяти" ana="verb:perf:inf">взяти</w>
     </w_>
     <w_ id="13fs" dep="13fr-advmod">
@@ -1765,7 +1765,7 @@
       <w lemma="хвилина" ana="noun:inanim:p:f:v_rod">хвилин</w>
     </w_>
     <g/>
-    <w_ id="13fy" dep="13fr-punct">
+    <w_ id="13fy" dep="13fq-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="13fz"/>
@@ -2330,7 +2330,7 @@
     <w_ id="13lb" dep="13lc-mark">
       <w lemma="якщо" ana="conj:subord">Якщо</w>
     </w_>
-    <w_ id="13lc" dep="13lh-advcl">
+    <w_ id="13lc" dep="13lg-advcl">
       <w lemma="загубити" ana="verb:perf:past:m">загубив</w>
     </w_>
     <w_ id="13ld" dep="13lc-obj">
@@ -2343,10 +2343,10 @@
     <w_ id="13lf" dep="13lg-discourse">
       <w lemma="чи" ana="part">чи</w>
     </w_>
-    <w_ id="13lg" dep="13lh-advmod">
+    <w_ id="13lg">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
-    <w_ id="13lh">
+    <w_ id="13lh" dep="13lg-csubj">
       <w lemma="брати" ana="verb:imperf:inf">брати</w>
     </w_>
     <w_ id="13li" dep="13lh-obj">
@@ -2373,7 +2373,7 @@
       <w lemma="заліковка" ana="noun:inanim:f:v_oru">заліковкою</w>
     </w_>
     <g/>
-    <w_ id="13lp" dep="13lh-punct">
+    <w_ id="13lp" dep="13lg-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="13lq"/>
@@ -2497,19 +2497,19 @@
       <w lemma="підказати" ana="verb:perf:impr:p:2">підкажіть</w>
     </w_>
     <g/>
-    <w_ id="13mw" dep="13n0-punct">
+    <w_ id="13mw" dep="13mz-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="13mx" dep="13n0-advmod">
+    <w_ id="13mx" dep="13mz-advmod">
       <w lemma="де" ana="adv:&amp;pron:int">де</w>
     </w_>
     <w_ id="13my" dep="13n0-obj">
       <w lemma="такі" ana="adj:p:v_zna:ranim:&amp;pron:dem:&amp;noun:anim" lemma2="такий">таких</w>
     </w_>
-    <w_ id="13mz" dep="13n0-advmod">
+    <w_ id="13mz" dep="13mv-ccomp">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
-    <w_ id="13n0" dep="13mv-ccomp">
+    <w_ id="13n0" dep="13mz-csubj">
       <w lemma="знайти" ana="verb:perf:inf">знайти</w>
     </w_>
     <g/>

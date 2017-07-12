@@ -6467,10 +6467,10 @@
         <w lemma="мадяр" ana="noun:anim:p:m:v_zna">мадярів</w>
       </w_>
       <g/>
-      <w_ id="19ai" dep="19aq-punct|19ag-punct">
+      <w_ id="19ai" dep="19ag-punct|19ap-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="19aj" dep="19aq-cc">
+      <w_ id="19aj" dep="19ap-cc">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
       <w_ id="19ak" dep="19an-case">
@@ -6485,13 +6485,13 @@
       <w_ id="19an" dep="19aq-obl">
         <w lemma="розмова" ana="noun:inanim:p:f:v_rod">розмов</w>
       </w_>
-      <w_ id="19ao" dep="19aq-advmod">
+      <w_ id="19ao" dep="19ap-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="19ap" dep="19aq-advmod">
+      <w_ id="19ap" dep="19aa-conj:parataxis">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="19aq" dep="19aa-conj:parataxis">
+      <w_ id="19aq" dep="19ap-csubj">
         <w lemma="мішатися" ana="verb:rev:imperf:inf">мішатися</w>
       </w_>
       <g/>
@@ -6501,7 +6501,7 @@
       <w_ id="19as" dep="19at-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="19at" dep="19aq-parataxis">
+      <w_ id="19at" dep="19ap-parataxis">
         <w lemma="сказати" ana="verb:perf:inf">сказати</w>
       </w_>
       <g/>
@@ -6744,10 +6744,10 @@
       <w_ id="19d0" dep="19d1-advmod">
         <w lemma="не" ana="part:neg">Не</w>
       </w_>
-      <w_ id="19d1" dep="19d2-advmod">
+      <w_ id="19d1">
         <w lemma="вільно" ana="adv:compb">вільно</w>
       </w_>
-      <w_ id="19d2">
+      <w_ id="19d2" dep="19d1-csubj">
         <w lemma="проповідувати" ana="verb:imperf:inf">проповідувати</w>
       </w_>
       <w_ id="19d3" dep="19d2-obj">
@@ -6784,7 +6784,7 @@
         <w lemma="ідея" ana="noun:inanim:p:f:v_rod">ідей</w>
       </w_>
       <g/>
-      <w_ id="19dd" dep="19d2-punct">
+      <w_ id="19dd" dep="19d1-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="19de"/>

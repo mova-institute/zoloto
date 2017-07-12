@@ -124,10 +124,10 @@
     <w_ id="13p9" dep="13pa-advmod">
       <w lemma="не" ana="part:neg">Не</w>
     </w_>
-    <w_ id="13pa" dep="13pb-advmod">
+    <w_ id="13pa">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
-    <w_ id="13pb">
+    <w_ id="13pb" dep="13pa-csubj">
       <w lemma="сказати" ana="verb:perf:inf">сказати</w>
     </w_>
     <g/>
@@ -143,7 +143,7 @@
     <w_ id="13pf" dep="13pg-obl">
       <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
     </w_>
-    <w_ id="13pg" dep="13pb-csubj">
+    <w_ id="13pg" dep="13pb-ccomp">
       <w lemma="бракувати" ana="verb:imperf:pres:s:3">бракує</w>
     </w_>
     <w_ id="13ph" dep="13pg-obl">
@@ -175,7 +175,7 @@
       <w lemma="пекло" ana="noun:inanim:n:v_rod">пекла</w>
     </w_>
     <g/>
-    <w_ id="13pq" dep="13pb-punct">
+    <w_ id="13pq" dep="13pa-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="13pr"/>
@@ -1934,7 +1934,7 @@
     <w_ id="1465" dep="1466-discourse">
       <w lemma="чи" ana="part">Чи</w>
     </w_>
-    <w_ id="1466" dep="146a-advmod">
+    <w_ id="1466">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
     <w_ id="1467" dep="1469-case">
@@ -1946,7 +1946,7 @@
     <w_ id="1469" dep="146a-obl">
       <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
     </w_>
-    <w_ id="146a">
+    <w_ id="146a" dep="1466-csubj">
       <w lemma="привабити" ana="verb:perf:inf">привабити</w>
     </w_>
     <w_ id="146b" dep="146a-obj">
@@ -1959,7 +1959,7 @@
       <w lemma="обіцянка" ana="noun:inanim:p:f:v_oru">обіцянками</w>
     </w_>
     <g/>
-    <w_ id="146e" dep="146a-punct">
+    <w_ id="146e" dep="1466-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="146f"/>
@@ -2897,13 +2897,13 @@
   </p>
   <p id="14f1">
     <sb id="14f2"/>
-    <w_ id="14f3" dep="14f5-nsubj" mark="reviewed">
+    <w_ id="14f3" dep="14f5-obj" mark="reviewed">
       <w lemma="одне" ana="adj:n:v_zna:&amp;pron:dem:&amp;noun:inanim" lemma2="один">Одне</w>
     </w_>
-    <w_ id="14f4" dep="14f5-advmod">
+    <w_ id="14f4">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
-    <w_ id="14f5">
+    <w_ id="14f5" dep="14f4-csubj">
       <w lemma="сказати" ana="verb:perf:inf">сказати</w>
     </w_>
     <w_ id="14f6" dep="14f5-advmod">
@@ -2925,7 +2925,7 @@
     <w_ id="14fb" dep="14fc-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="14fc" dep="14f5-parataxis">
+    <w_ id="14fc" dep="14f4-parataxis">
       <w lemma="застаріти" ana="verb:perf:futr:s:3">застаріє</w>
     </w_>
     <g/>
@@ -2957,7 +2957,7 @@
       <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
     </w_>
     <g/>
-    <w_ id="14fm" dep="14fi-punct">
+    <w_ id="14fm" dep="14f4-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
   </p>
