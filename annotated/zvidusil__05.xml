@@ -262,10 +262,10 @@
       <w_ id="1pgl" dep="1pgg-conj">
         <w lemma="продукт" ana="noun:inanim:p:m:v_zna">продукти</w>
       </w_>
-      <w_ id="1pgm" dep="1pgn-advmod">
+      <w_ id="1pgm">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="1pgn">
+      <w_ id="1pgn" dep="1pgm-csubj">
         <w lemma="переглянути" ana="verb:perf:inf">переглянути</w>
       </w_>
       <w_ id="1pgo" dep="1pgq-case">
@@ -287,7 +287,7 @@
         <w lemma="YouTube" ana="x:foreign">YouTube</w>
       </w_>
       <g/>
-      <w_ id="1pgu" dep="1pgn-punct">
+      <w_ id="1pgu" dep="1pgm-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1pgv"/>
@@ -330,10 +330,10 @@
       <w_ id="1ph7" dep="1ph4-nmod">
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
-      <w_ id="1ph8" dep="1ph9-advmod">
+      <w_ id="1ph8">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="1ph9">
+      <w_ id="1ph9" dep="1ph8-csubj">
         <w lemma="знайти" ana="verb:perf:inf">знайти</w>
       </w_>
       <w_ id="1pha" dep="1phb-case">
@@ -343,7 +343,7 @@
         <w lemma="архів" ana="noun:inanim:m:v_mis">архіві</w>
       </w_>
       <g/>
-      <w_ id="1phc" dep="1ph9-punct">
+      <w_ id="1phc" dep="1ph8-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1phd"/>

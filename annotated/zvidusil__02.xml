@@ -3017,10 +3017,10 @@
       <w_ id="1my0" dep="1my2-obl">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:int">що</w>
       </w_>
-      <w_ id="1my1" dep="1my2-advmod">
+      <w_ id="1my1">
         <w lemma="слід" ana="adv">слід</w>
       </w_>
-      <w_ id="1my2">
+      <w_ id="1my2" dep="1my1-csubj">
         <w lemma="звернути" ana="verb:perf:inf">звернути</w>
       </w_>
       <w_ id="1my3" dep="1my2-obj">
@@ -3033,7 +3033,7 @@
         <w lemma="покупка" ana="noun:inanim:f:v_mis">покупці</w>
       </w_>
       <g/>
-      <w_ id="1my6" dep="1my2-punct">
+      <w_ id="1my6" dep="1my1-punct">
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="1my7"/>
@@ -3058,7 +3058,7 @@
       </w_>
       <sb id="1mye"/>
       <g/>
-      <w_ id="1myf" dep="1myk-cc">
+      <w_ id="1myf" dep="1myi-cc">
         <w lemma="і" ana="conj:coord">І</w>
       </w_>
       <w_ id="1myg" dep="1myh-det">
@@ -3067,17 +3067,17 @@
       <w_ id="1myh" dep="1myk-obj">
         <w lemma="аксесуар" ana="noun:inanim:p:m:v_zna">аксесуари</w>
       </w_>
-      <w_ id="1myi" dep="1myk-advmod">
+      <w_ id="1myi">
         <w lemma="слід" ana="adv">слід</w>
       </w_>
       <w_ id="1myj" dep="1myk-advmod">
         <w lemma="одразу" ana="adv">одразу</w>
       </w_>
-      <w_ id="1myk">
+      <w_ id="1myk" dep="1myi-csubj">
         <w lemma="купити" ana="verb:perf:inf">купити</w>
       </w_>
       <g/>
-      <w_ id="1myl" dep="1myk-punct">
+      <w_ id="1myl" dep="1myi-punct">
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="1mym"/>
@@ -3130,15 +3130,15 @@
       <w_ id="1mz4" dep="1mz3-obj">
         <w lemma="спорудження" ana="noun:inanim:n:v_zna">спорудження</w>
       </w_>
-      <w_ id="1mz5" dep="1mz8-amod">
+      <w_ id="1mz5" dep="1mz7-compound">
         <w lemma="волоконний" ana="adj:beforeadj">волоконно</w>
       </w_>
       <g/>
-      <w_ id="1mz6" dep="1mz7-punct">
+      <w_ id="1mz6" dep="1mz5-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="1mz7" dep="1mz5-compound">
+      <w_ id="1mz7" dep="1mz8-amod">
         <w lemma="оптичний" ana="adj:f:v_rod">оптичної</w>
       </w_>
       <w_ id="1mz8" dep="1mz4-nmod">
