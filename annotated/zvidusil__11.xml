@@ -4053,7 +4053,7 @@
       <w_ id="215x" dep="215y-det">
         <w lemma="увесь" ana="adj:f:v_rod:&amp;pron:gen">усієї</w>
       </w_>
-      <w_ id="215y">
+      <w_ id="215y" dep="215t-conj">
         <w lemma="вистава" ana="noun:inanim:f:v_rod">вистави</w>
       </w_>
       <g/>
@@ -4633,10 +4633,10 @@
       <w_ id="21bp">
         <w lemma="твір" ana="noun:inanim:p:m:v_naz">твори</w>
       </w_>
-      <w_ id="21bq">
+      <w_ id="21bq" dep="21bp-nmod">
         <w lemma="Лесь" ana="noun:anim:m:v_rod:prop:fname">Леся</w>
       </w_>
-      <w_ id="21br">
+      <w_ id="21br" dep="21bq-flat:name">
         <w lemma="Курбас" ana="noun:anim:m:v_rod:prop:lname">Курбаса</w>
       </w_>
       <g/>
@@ -5056,13 +5056,13 @@
         <w lemma="Дербак" ana="noun:anim:m:v_naz:prop:lname">Дербак</w>
       </w_>
       <g/>
-      <w_ id="21fj">
+      <w_ id="21fj" dep="21fl-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="21fk" dep="21fl-nummod:gov">
         <w lemma="73" ana="numr:p:v_naz:nv">73</w>
       </w_>
-      <w_ id="21fl" dep="21f9-parataxis">
+      <w_ id="21fl">
         <w lemma="рік" ana="noun:inanim:p:m:v_naz">роки</w>
       </w_>
       <g/>
@@ -5349,19 +5349,19 @@
       <w_ id="21ia" dep="21i9-obj">
         <w lemma="волога" ana="noun:inanim:f:v_zna">вологу</w>
       </w_>
-      <w_ id="21ib" dep="21ie-punct">
+      <w_ id="21ib" dep="21ic-punct">
         <w lemma="–" ana="punct">–</w>
       </w_>
-      <w_ id="21ic" dep="21ie-advmod">
+      <w_ id="21ic" dep="21i9-parataxis">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="21id">
+      <w_ id="21id" dep="21ic-aux">
         <w lemma="бути" ana="verb:imperf:past:n">було</w>
       </w_>
-      <w_ id="21ie" dep="21i9-parataxis">
+      <w_ id="21ie" dep="21ic-csubj">
         <w lemma="ходити" ana="verb:imperf:inf">ходити</w>
       </w_>
-      <w_ id="21if">
+      <w_ id="21if" dep="21ii-discourse">
         <w lemma="навіть" ana="part">навіть</w>
       </w_>
       <w_ id="21ig" dep="21ih-case">

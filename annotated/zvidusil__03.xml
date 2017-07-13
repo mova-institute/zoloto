@@ -2150,21 +2150,21 @@
       <w_ id="1nv9" dep="1nv8-advmod">
         <w lemma="якось" ana="adv:&amp;pron:ind">якось</w>
       </w_>
-      <w_ id="1nva" dep="1nvd-case">
+      <w_ id="1nva" dep="1nvb-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1nvb">
+      <w_ id="1nvb" dep="1nv8-obl">
         <w lemma="садиба" ana="noun:inanim:f:v_mis">садибі</w>
       </w_>
       <g/>
-      <w_ id="1nvc" dep="1nvb-punct">
+      <w_ id="1nvc" dep="1nvd-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="1nvd" dep="1nv8-obl|1nvb-compound">
+      <w_ id="1nvd" dep="1nvb-appos">
         <w lemma="музей" ana="noun:inanim:m:v_mis">музеї</w>
       </w_>
-      <w_ id="1nve" dep="1nvd-nmod">
+      <w_ id="1nve" dep="1nvb-nmod">
         <w lemma="Карл" ana="noun:anim:m:v_rod:prop:fname">Карла</w>
       </w_>
       <w_ id="1nvf" dep="1nve-flat:name">
@@ -2173,7 +2173,7 @@
       <w_ id="1nvg" dep="1nvh-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1nvh" dep="1nvd-nmod">
+      <w_ id="1nvh" dep="1nvb-nmod">
         <w lemma="Радебойль" ana="noun:inanim:m:v_mis:prop">Радебойлі</w>
       </w_>
       <g/>
@@ -3446,7 +3446,7 @@
       <w_ id="1o79" dep="1o7f-obj" promoted="yes">
         <w lemma="подібний" ana="adj:m:v_zna:rinanim:compb">подібний</w>
       </w_>
-      <w_ id="1o7a">
+      <w_ id="1o7a" dep="1o7d-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
       <w_ id="1o7b" dep="1o7d-compound">
@@ -4437,7 +4437,7 @@
         <w lemma="світлий" ana="adj:n:v_rod:compb">світлого</w>
       </w_>
       <g/>
-      <w_ id="1ogl">
+      <w_ id="1ogl" dep="1ogj-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1ogm"/>
@@ -4627,7 +4627,7 @@
         <w lemma="мертвий" ana="adj:n:v_naz">мертве</w>
       </w_>
       <g/>
-      <w_ id="1oid">
+      <w_ id="1oid" dep="1oi5-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1oie"/>
