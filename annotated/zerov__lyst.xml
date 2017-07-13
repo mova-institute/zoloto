@@ -201,7 +201,7 @@
         <w_ id="1kgk" dep="1kgl-case">
           <w lemma="на" ana="prep:rv_zna">На</w>
         </w_>
-        <w_ id="1kgl" dep="1kgy-obl">
+        <w_ id="1kgl">
           <w lemma="жаль" ana="noun:inanim:m:v_zna">жаль</w>
         </w_>
         <g/>
@@ -240,14 +240,14 @@
         <w_ id="1kgw" dep="1kgx-advmod">
           <w lemma="не" ana="part:neg">не</w>
         </w_>
-        <w_ id="1kgx" dep="1kgy-advmod">
+        <w_ id="1kgx" dep="1kgl-parataxis">
           <w lemma="можна" ana="adv">можна</w>
         </w_>
-        <w_ id="1kgy">
+        <w_ id="1kgy" dep="1kgx-csubj">
           <w lemma="зробити" ana="verb:perf:inf">зробити</w>
         </w_>
         <g/>
-        <w_ id="1kgz" dep="1kgy-punct">
+        <w_ id="1kgz" dep="1kgl-punct">
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="1kh0"/>
@@ -280,7 +280,7 @@
         <w_ id="1kh9" dep="1kha-punct">
           <w lemma="—" ana="punct">—</w>
         </w_>
-        <w_ id="1kha" dep="1kh2-appos" promoted="yes">
+        <w_ id="1kha" dep="1kh3-parataxis" promoted="yes">
           <w lemma="176" ana="numr">176</w>
         </w_>
         <g/>
@@ -294,7 +294,7 @@
         <w_ id="1khd" dep="1khe-cc">
           <w lemma="і" ana="conj:coord">і</w>
         </w_>
-        <w_ id="1khe" dep="1kh3-conj:parataxis">
+        <w_ id="1khe" dep="1khl-csubj">
           <w lemma="вносити" ana="verb:imperf:inf:v-u">вносити</w>
         </w_>
         <w_ id="1khf" dep="1khe-obj">
@@ -315,7 +315,7 @@
         <w_ id="1khk" dep="1khi-conj">
           <w lemma="склад" ana="noun:inanim:m:v_zna">склад</w>
         </w_>
-        <w_ id="1khl" dep="1khe-advmod">
+        <w_ id="1khl" dep="1kh3-conj:parataxis">
           <w lemma="запізно" ana="adv">запізно</w>
         </w_>
         <g/>
@@ -744,13 +744,13 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="1kle"/>
-        <w_ id="1klf">
+        <w_ id="1klf" dep="1klh-csubj">
           <w lemma="назвати" ana="verb:perf:inf">Назвати</w>
         </w_>
         <w_ id="1klg" dep="1klf-obj">
           <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
         </w_>
-        <w_ id="1klh" dep="1klf-advmod">
+        <w_ id="1klh">
           <w lemma="можна" ana="adv">можна</w>
         </w_>
         <w_ id="1kli" dep="1klj-punct">
@@ -794,7 +794,7 @@
           <w lemma="сказати" ana="verb:perf:futr:p:2">скажете</w>
         </w_>
         <g/>
-        <w_ id="1klu" dep="1klf-punct">
+        <w_ id="1klu" dep="1klh-punct">
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="1klv"/>

@@ -6364,26 +6364,26 @@
       </w_>
     </s>
     <s id="uk:Wislocka-Ars_amandi:0:486:2">
-      <w_ id="1e5j" dep="1e5l-advmod">
+      <w_ id="1e5j">
         <w lemma="варто" ana="adv">Варто</w>
       </w_>
       <w_ id="1e5k" dep="1e5l-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1e5l">
+      <w_ id="1e5l" dep="1e5j-csubj">
         <w lemma="забувати" ana="verb:imperf:inf">забувати</w>
       </w_>
       <g/>
-      <w_ id="1e5m" dep="1e60-punct">
+      <w_ id="1e5m" dep="1e5z-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1e5n" dep="1e60-mark">
+      <w_ id="1e5n" dep="1e5z-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="1e5o" dep="1e5p-amod">
         <w lemma="жіночий" ana="adj:f:v_zna">жіночу</w>
       </w_>
-      <w_ id="1e5p" dep="1e60-nsubj">
+      <w_ id="1e5p" dep="1e60-obj">
         <w lemma="грудь" ana="noun:inanim:f:v_zna">грудь</w>
       </w_>
       <g/>
@@ -6415,10 +6415,10 @@
       <w_ id="1e5y" dep="1e5z-advmod">
         <w lemma="само" ana="adv">само</w>
       </w_>
-      <w_ id="1e5z" dep="1e60-advmod">
+      <w_ id="1e5z" dep="1e5l-ccomp">
         <w lemma="легко" ana="adv:compb">легко</w>
       </w_>
-      <w_ id="1e60">
+      <w_ id="1e60" dep="1e5z-csubj">
         <w lemma="пошкодити" ana="verb:perf:inf">пошкодити</w>
       </w_>
       <g/>
@@ -6438,7 +6438,7 @@
         <w lemma="яєчко" ana="noun:inanim:p:n:v_zna">яєчка</w>
       </w_>
       <g/>
-      <w_ id="1e66" dep="1e5l-punct">
+      <w_ id="1e66" dep="1e5j-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </s>

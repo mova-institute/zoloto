@@ -813,7 +813,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1lad"/>
-      <w_ id="1lae" dep="1lai-cc">
+      <w_ id="1lae" dep="1lah-cc">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
       <w_ id="1laf" dep="1lag-case">
@@ -822,10 +822,10 @@
       <w_ id="1lag" dep="1lai-obl">
         <w lemma="це" ana="noun:inanim:n:v_mis:&amp;pron:dem">цьому</w>
       </w_>
-      <w_ id="1lah" dep="1lai-advmod">
+      <w_ id="1lah">
         <w lemma="важко" ana="adv:compb">важко</w>
       </w_>
-      <w_ id="1lai">
+      <w_ id="1lai" dep="1lah-csubj">
         <w lemma="отримати" ana="verb:perf:inf">отримати</w>
       </w_>
       <w_ id="1laj" dep="1lak-case">
@@ -853,7 +853,7 @@
       <w_ id="1laq" dep="1lar-nsubj">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="1lar" dep="1lai-advcl">
+      <w_ id="1lar" dep="1lah-advcl">
         <w lemma="сприйматися" ana="verb:rev:imperf:pres:s:3">сприймається</w>
       </w_>
       <w_ id="1las" dep="1lav-mark">
@@ -869,7 +869,7 @@
         <w lemma="дах" ana="noun:inanim:m:v_naz">дах</w>
       </w_>
       <g/>
-      <w_ id="1law" dep="1lai-punct">
+      <w_ id="1law" dep="1lah-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1lax"/>
@@ -976,13 +976,13 @@
       <w_ id="1lbw" dep="1lbz-obl" promoted="yes">
         <w lemma="замковий" ana="adj:f:v_rod">Замкової</w>
       </w_>
-      <w_ id="1lbx" dep="1lbz-advmod">
+      <w_ id="1lbx">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="1lby" dep="1lbz-aux">
+      <w_ id="1lby" dep="1lbx-cop">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
-      <w_ id="1lbz">
+      <w_ id="1lbz" dep="1lbx-csubj">
         <w lemma="побачити" ana="verb:perf:inf">побачити</w>
       </w_>
       <w_ id="1lc0" dep="1lbz-obj">
@@ -1046,7 +1046,7 @@
         <w lemma="поверх" ana="noun:inanim:p:m:v_zna">поверхи</w>
       </w_>
       <g/>
-      <w_ id="1lcj" dep="1lbz-punct">
+      <w_ id="1lcj" dep="1lbx-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1lck"/>
@@ -2571,7 +2571,7 @@
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="1lqs">
+      <w_ id="1lqs" dep="1lq9-parataxis">
         <w lemma="присвячений" ana="adj:m:v_naz:&amp;adjp:perf:pasv">присвячений</w>
       </w_>
       <w_ id="1lqt" dep="1lqs-nsubj">

@@ -277,7 +277,7 @@
       <w_ id="02b0" dep="02b2-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="02b1" dep="02b2-nsubj" comment="пропоную expl">
+      <w_ id="02b1" dep="02b2-expl">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="02b2" dep="02am-parataxis">
@@ -293,7 +293,7 @@
       <w_ id="02b5" dep="02b6-nsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="02b6">
+      <w_ id="02b6" dep="02b2-csubj">
         <w lemma="мати" ana="verb:imperf:pres:s:3">має</w>
       </w_>
       <w_ id="02b7" dep="02b9-det">
@@ -1400,7 +1400,7 @@
         <w lemma="викарбувати" ana="verb:perf:past:m">викарбував</w>
       </w_>
       <g/>
-      <w_ id="02lh">
+      <w_ id="02lh" dep="02l3-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <sb id="2emc"/>
@@ -1498,7 +1498,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="02md"/>
-      <w_ id="02me">
+      <w_ id="02me" dep="02mn-nsubj">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
       </w_>
       <w_ id="02mf" dep="02mn-cop">
@@ -1527,7 +1527,7 @@
       <w_ id="02mm" dep="02mg-conj">
         <w lemma="молодий" ana="adj:m:v_naz:compb">молодий</w>
       </w_>
-      <w_ id="02mn" comment="це ж корінь">
+      <w_ id="02mn">
         <w lemma="жид" ana="noun:anim:m:v_naz">жид</w>
       </w_>
       <g/>
@@ -1696,10 +1696,10 @@
       <w_ id="02o8" dep="02og-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="02o9" dep="02oa-discourse">
+      <w_ id="02o9" dep="02og-discourse">
         <w lemma="ну" ana="part">Ну</w>
       </w_>
-      <w_ id="02oa" dep="02og-iobj">
+      <w_ id="02oa" dep="02og-obj">
         <w lemma="хто" ana="noun:anim:m:v_zna:&amp;pron:int">кого</w>
       </w_>
       <w_ id="02ob" dep="02oa-discourse">
@@ -1716,14 +1716,14 @@
       <w_ id="02oe" dep="02od-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="02of" dep="02og-obj">
+      <w_ id="02of" dep="02og-nsubj">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:ind">що</w>
       </w_>
       <w_ id="02og">
         <w lemma="цікавити" ana="verb:imperf:pres:s:3">цікавить</w>
       </w_>
       <g/>
-      <w_ id="02oh">
+      <w_ id="02oh" dep="02og-punct">
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="02oi"/>
