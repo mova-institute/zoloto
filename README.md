@@ -4,7 +4,7 @@
     1. [статистика](https://lab.mova.institute/api/annotator/getStats) (наперед треба увійти в анотатор)
 1. [NoSketch Engine](https://mova.institute/corpus/engine/run.cgi/first_form) (корпусний рушій)
 1. синт
-    1. [brat](https://lab.mova.institute/brat/index.xhtml#/ud/) (синтакс-анотатор)
+    1. [brat](https://lab.mova.institute/brat/#/ud/) (синтакс-анотатор)
     1. [помилки](https://lab.mova.institute/files/pomylky_robochoho_tb.html) в робочій версії
     1. [дірки](https://lab.mova.institute/files/dirky_robochoho_tb.html) в робочій версії
     1. [conllu](https://lab.mova.institute/files/robochyi_tb.conllu) робочої версії
@@ -53,3 +53,6 @@
 - адреси
 - „дивні“ речення — довгі переліки, цікава синтакса, купа розділових
 - `obl` в `Acc`: _зробив раз_ і навпаки `(Acc !>case _) <obl _`
+- ПДР
+- ще законів
+-
