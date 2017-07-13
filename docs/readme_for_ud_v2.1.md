@@ -9,6 +9,9 @@ This treebank is initially manually annotated for UD v2. The original developmen
 | test  |   _(850)_ | _(10K)_ |
 | TOTAL |     863   |   10K   |
 
+### Notable facts
++ Arabic and Roman numerals have full morphological info.
+
 ### Data split
 Data was split manually on a document level to balance train/dev/test in style.
 
