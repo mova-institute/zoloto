@@ -1046,16 +1046,16 @@
       <w_ id="02i2" dep="02i5-cc">
         <w lemma="і" ana="conj:coord">І</w>
       </w_>
-      <w_ id="02i3" dep="02i5-obl">
+      <w_ id="02i3" dep="02i5-advmod">
         <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
       </w_>
       <w_ id="02i4" dep="02i5-amod">
         <w lemma="повнісінький" ana="adj:f:v_naz">повнісінька</w>
       </w_>
-      <w_ id="02i5" promoted="yes" comment="не корінь">
+      <w_ id="02i5" promoted="yes">
         <w lemma="тюрма" ana="noun:inanim:f:v_naz">тюрма</w>
       </w_>
-      <w_ id="02i6">
+      <w_ id="02i6" dep="02i5-nmod">
         <w lemma="такий" ana="adj:p:v_rod:&amp;pron:dem">таких</w>
       </w_>
       <g/>
@@ -1210,7 +1210,7 @@
         <w lemma="відповісти" ana="verb:perf:past:m">відповів</w>
       </w_>
       <g/>
-      <w_ id="02jq">
+      <w_ id="02jq" dep="02jg-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <sb id="2ema"/>
@@ -1439,7 +1439,7 @@
         <w lemma="га" ana="intj">га</w>
       </w_>
       <g/>
-      <w_ id="02lt">
+      <w_ id="02lt" dep="02lq-punct">
         <w lemma="!?" ana="punct">!?</w>
       </w_>
       <sb id="02lu"/>
@@ -1686,7 +1686,7 @@
         <w lemma="присутні" ana="adj:p:v_zna:ranim:ns:&amp;noun:anim" lemma2="присутній">присутніх</w>
       </w_>
       <g/>
-      <w_ id="02o6">
+      <w_ id="02o6" dep="02o0-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <sb id="2eme"/>
@@ -2447,7 +2447,7 @@
         </w_>
         <sb id="02v3"/>
         <w_ id="02v4" dep="02v7-nsubj">
-          <w lemma="розпитування" ana="noun:inanim:n:p:v_naz">Розпитування</w>
+          <w lemma="розпитування" ana="noun:inanim:p:n:v_naz">Розпитування</w>
         </w_>
         <w_ id="02v5" dep="02v7-advmod">
           <w lemma="поки" ana="adv:&amp;pron:dem">поки</w>

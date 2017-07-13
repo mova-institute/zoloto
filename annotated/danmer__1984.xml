@@ -281,7 +281,7 @@
               <w lemma="стіна" ana="noun:inanim:f:v_rod">стіни</w>
             </w_>
             <g/>
-            <w_ id="03ga">
+            <w_ id="03ga" dep="03fv-punct">
               <w lemma="." ana="punct">.</w>
             </w_>
             <sb id="03gb"/>
@@ -406,7 +406,7 @@
             <w_ id="03hf">
               <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
             </w_>
-            <w_ id="03hg">
+            <w_ id="03hg" dep="03hf-nsubj">
               <w lemma="сенс" ana="noun:inanim:m:v_rod">сенсу</w>
             </w_>
             <w_ id="03hh" dep="03hg-acl">
@@ -879,7 +879,7 @@
           <w_ id="03ls" dep="03lu-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="03lt">
+          <w_ id="03lt" dep="03lu-mark">
             <w lemma="що" ana="conj:subord">що</w>
           </w_>
           <w_ id="03lu" dep="03lr-acl">
@@ -1376,7 +1376,7 @@
           <w_ id="03qb" dep="03qc-case">
             <w lemma="окрім" ana="prep:rv_rod">окрім</w>
           </w_>
-          <w_ id="03qc">
+          <w_ id="03qc" dep="03q7-nmod">
             <w lemma="плакат" ana="noun:inanim:p:m:v_rod">плакатів</w>
           </w_>
           <w_ id="03qd" dep="03qc-acl">
@@ -1919,7 +1919,7 @@
           <w_ id="03vb" dep="03vc-det">
             <w lemma="увесь" ana="adj:m:v_rod:&amp;pron:gen">усього</w>
           </w_>
-          <w_ id="03vc">
+          <w_ id="03vc" dep="03vt-obl">
             <w lemma="час" ana="noun:inanim:m:v_rod">часу</w>
           </w_>
           <w_ id="03vd" dep="03vf-mark">
@@ -9374,7 +9374,7 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="05sk"/>
-          <w_ id="05sl" dep="05t2-advmod">
+          <w_ id="05sl">
             <w lemma="можливо" ana="adv">Можливо</w>
           </w_>
           <w_ id="05sm" dep="05ss-punct">
@@ -15885,10 +15885,10 @@
           <w_ id="07g8" dep="07g9-nsubj">
             <w lemma="обличчя" ana="noun:inanim:n:v_naz">обличчя</w>
           </w_>
-          <w_ id="07g9">
+          <w_ id="07g9" dep="07fz-conj:parataxis">
             <w lemma="стати" ana="verb:perf:past:n">стало</w>
           </w_>
-          <w_ id="07ga" dep="07g9-xcomp">
+          <w_ id="07ga" dep="07g9-xcomp:2">
             <w lemma="овечий" ana="adj:n:v_oru">овечим</w>
           </w_>
           <g/>
@@ -19893,7 +19893,7 @@
             <w lemma="карлючка" ana="noun:inanim:p:f:v_oru">карлючками</w>
           </w_>
           <g/>
-          <w_ id="08ha">
+          <w_ id="08ha" dep="08h5-punct">
             <w lemma=":" ana="punct">:</w>
           </w_>
           <sb id="08hb"/>
