@@ -1277,22 +1277,22 @@
         <w lemma="реально" ana="adv:compb">реально</w>
       </w_>
       <g/>
-      <w_ id="1lem" dep="1ler-punct">
+      <w_ id="1lem" dep="1leo-punct|1leq-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1len" dep="1ler-cc">
+      <w_ id="1len" dep="1leo-cc|1leq-cc">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="1leo" dep="1ler-advmod" comment="Задвоєне ТРЕБА">
+      <w_ id="1leo" dep="1lel-conj:parataxis" comment="Задвоєне ТРЕБА">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
       <w_ id="1lep" dep="1ler-advmod">
         <w lemma="спочатку" ana="adv">спочатку</w>
       </w_>
-      <w_ id="1leq" dep="1ler-advmod" comment="Задвоєне ТРЕБА">
+      <w_ id="1leq" dep="1lel-conj:parataxis" comment="Задвоєне ТРЕБА">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="1ler" dep="1lel-conj:parataxis">
+      <w_ id="1ler" dep="1leo-csubj|1leq-csubj">
         <w lemma="зробити" ana="verb:perf:inf">зробити</w>
       </w_>
       <w_ id="1les" dep="1ler-obj">
@@ -3108,16 +3108,16 @@
         <w lemma="корабель" ana="noun:inanim:m:v_zna">корабель</w>
       </w_>
       <g/>
-      <w_ id="1lvm" dep="1lvp-punct">
+      <w_ id="1lvm" dep="1lvo-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1lvn" dep="1lvp-obj">
         <w lemma="який" ana="adj:m:v_zna:rinanim:&amp;pron:rel">який</w>
       </w_>
-      <w_ id="1lvo" dep="1lvp-advmod">
+      <w_ id="1lvo" dep="1lvl-acl">
         <w lemma="потрібно" ana="adv:compb">потрібно</w>
       </w_>
-      <w_ id="1lvp" dep="1lvl-acl">
+      <w_ id="1lvp" dep="1lvo-csubj">
         <w lemma="потопити" ana="verb:perf:inf">потопити</w>
       </w_>
       <g/>
@@ -3139,7 +3139,7 @@
       <w_ id="1lvv" dep="1lvu-punct">
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
-      <w_ id="1lvw" dep="1lw2-advcl">
+      <w_ id="1lvw" dep="1lw1-advcl">
         <w lemma="рухатися" ana="verb:rev:imperf:pres:s:3">рухається</w>
       </w_>
       <w_ id="1lvx" dep="1lvy-case">
@@ -3149,16 +3149,16 @@
         <w lemma="бульбашка" ana="noun:inanim:f:v_mis">бульбашці</w>
       </w_>
       <g/>
-      <w_ id="1lvz">
+      <w_ id="1lvz" dep="1lvw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1lw0" dep="1lw2-obj">
         <w lemma="сонар" ana="noun:inanim:m:v_zna">сонар</w>
       </w_>
-      <w_ id="1lw1" dep="1lw2-advmod">
+      <w_ id="1lw1">
         <w lemma="потрібно" ana="adv:compb">потрібно</w>
       </w_>
-      <w_ id="1lw2">
+      <w_ id="1lw2" dep="1lw1-csubj">
         <w lemma="встановлювати" ana="verb:imperf:inf:v-u">встановлювати</w>
       </w_>
       <w_ id="1lw3" dep="1lw5-case">
@@ -3190,7 +3190,7 @@
         <w lemma="малий" ana="adj:m:v_naz:compb">малий</w>
       </w_>
       <g/>
-      <w_ id="1lwc" dep="1lw2-punct">
+      <w_ id="1lwc" dep="1lw1-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1lwd"/>
