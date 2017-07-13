@@ -2,73 +2,73 @@
   <doc id="25r2" author="" date="" src="https://uk.wikipedia.org/wiki/Пуститися_берега" title="">
     <p id="25r3">
       <sb id="25r4"/>
-      <w_ id="25r5">
+      <w_ id="25r5" dep="25r8-nsubj">
         <w lemma="ім’я" ana="noun:inanim:n:v_naz">Ім'я</w>
       </w_>
-      <w_ id="25r6">
+      <w_ id="25r6" dep="25r5-nmod">
         <w lemma="Волтер" ana="noun:anim:m:v_rod:prop:lname">Волтера</w>
       </w_>
-      <w_ id="25r7">
+      <w_ id="25r7" dep="25r6-flat:name">
         <w lemma="Вайт" ana="noun:anim:m:v_rod:prop:lname">Вайта</w>
       </w_>
       <w_ id="25r8">
         <w lemma="нагадувати" ana="verb:imperf:pres:s:3">нагадує</w>
       </w_>
-      <w_ id="25r9">
+      <w_ id="25r9" dep="25r8-obj">
         <w lemma="поет" ana="noun:anim:m:v_zna">поета</w>
       </w_>
-      <w_ id="25ra">
+      <w_ id="25ra" dep="25r9-flat:title">
         <w lemma="Волт" ana="noun:anim:m:v_zna:prop:fname">Волта</w>
       </w_>
-      <w_ id="25rb">
+      <w_ id="25rb" dep="25ra-flat:name">
         <w lemma="Вітмен" ana="noun:anim:m:v_zna:prop:lname">Вітмена</w>
       </w_>
       <g/>
-      <w_ id="25rc">
+      <w_ id="25rc" dep="25re-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25rd">
+      <w_ id="25rd" dep="25re-nsubj">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
-      <w_ id="25re">
+      <w_ id="25re" dep="25r8-parataxis">
         <w lemma="відіграти" ana="verb:perf:past:n">відіграло</w>
       </w_>
-      <w_ id="25rf">
+      <w_ id="25rf" dep="25rg-amod">
         <w lemma="важливий" ana="adj:f:v_zna:compb">важливу</w>
       </w_>
-      <w_ id="25rg">
+      <w_ id="25rg" dep="25re-obj">
         <w lemma="роль" ana="noun:inanim:f:v_zna">роль</w>
       </w_>
-      <w_ id="25rh">
+      <w_ id="25rh" dep="25ri-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="25ri">
+      <w_ id="25ri" dep="25rg-nmod">
         <w lemma="сюжет" ana="noun:inanim:m:v_mis">сюжеті</w>
       </w_>
       <g/>
-      <w_ id="25rj">
+      <w_ id="25rj" dep="25rm-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25rk">
+      <w_ id="25rk" dep="25rm-discourse">
         <w lemma="аж" ana="part">аж</w>
       </w_>
-      <w_ id="25rl">
+      <w_ id="25rl" dep="25rm-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="25rm">
+      <w_ id="25rm" dep="25re-obl">
         <w lemma="середина" ana="noun:inanim:f:v_rod">середини</w>
       </w_>
-      <w_ id="25rn">
+      <w_ id="25rn" dep="25rp-amod">
         <w lemma="фінальний" ana="adj:m:v_rod">фінального</w>
       </w_>
-      <w_ id="25ro">
+      <w_ id="25ro" dep="25rp-amod">
         <w lemma="п’ятий" ana="adj:m:v_rod:&amp;numr">п'ятого</w>
       </w_>
-      <w_ id="25rp">
+      <w_ id="25rp" dep="25rm-nmod">
         <w lemma="сезон" ana="noun:inanim:m:v_rod">сезону</w>
       </w_>
       <g/>
-      <w_ id="25rq">
+      <w_ id="25rq" dep="25r8-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="25rr"/>
@@ -867,10 +867,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="25yx"/>
-      <w_ id="25yy">
+      <w_ id="25yy" dep="25z0-nsubj">
         <w lemma="санкція" ana="noun:inanim:f:v_naz">Санкція</w>
       </w_>
-      <w_ id="25yz">
+      <w_ id="25yz" dep="25yy-nmod">
         <w lemma="стаття" ana="noun:inanim:f:v_rod">статті</w>
       </w_>
       <w_ id="25z0">
@@ -891,10 +891,10 @@
       <w_ id="25z5">
         <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
       </w_>
-      <w_ id="25z6" correct="обмеження">
+      <w_ id="25z6" dep="25z5-nmod" correct="обмеження">
         <w lemma="обмеження" ana="noun:inanim:n:v_rod:typo">обмеженням</w>
       </w_>
-      <w_ id="25z7">
+      <w_ id="25z7" dep="25z6-nmod">
         <w lemma="воля" ana="noun:inanim:f:v_rod">волі</w>
       </w_>
       <w_ id="25z8">
@@ -903,10 +903,10 @@
       <w_ id="25z9">
         <w lemma="позбавлення" ana="noun:inanim:n:v_rod">позбавлення</w>
       </w_>
-      <w_ id="25za">
+      <w_ id="25za" dep="25z9-nmod">
         <w lemma="воля" ana="noun:inanim:f:v_rod">волі</w>
       </w_>
-      <w_ id="25zb">
+      <w_ id="25zb" dep="25ze-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
       <w_ id="25zc">
@@ -915,11 +915,11 @@
       <w_ id="25zd">
         <w lemma="самий" ana="adj:m:v_zna:rinanim:&amp;pron:refl">самий</w>
       </w_>
-      <w_ id="25ze">
+      <w_ id="25ze" dep="25z9-nmod">
         <w lemma="строк" ana="noun:inanim:m:v_zna">строк</w>
       </w_>
       <g/>
-      <w_ id="25zf">
+      <w_ id="25zf" dep="25z0-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="25zg"/>
@@ -3395,7 +3395,7 @@
       <w_ id="26m4" dep="26lz-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26m5">
+      <w_ id="26m5" dep="26lt-conj:parataxis">
         <w lemma="вирішити" ana="verb:perf:past:m">вирішив</w>
       </w_>
       <w_ id="26m6" dep="26m7-discourse">
