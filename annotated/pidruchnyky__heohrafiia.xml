@@ -130,13 +130,13 @@
     <w_ id="0m3v" dep="0m3u-nmod">
       <w lemma="топаз" ana="noun:inanim:m:v_rod:xp2">топазу</w>
     </w_>
-    <w_ id="0m3w">
+    <w_ id="0m3w" dep="0m3x-obj">
       <w lemma="Україна" ana="noun:inanim:f:v_dav:prop">Україні</w>
     </w_>
     <w_ id="0m3x">
       <w lemma="належати" ana="verb:imperf:pres:s:3:xp1">належить</w>
     </w_>
-    <w_ id="0m3y" dep="0m3x-nsubj">
+    <w_ id="0m3y" dep="0m3x-nsubj" promoted="yes">
       <w lemma="один" ana="adj:n:v_naz:&amp;pron:ind">одне</w>
     </w_>
     <w_ id="0m3z" dep="0m41-case">
@@ -209,22 +209,22 @@
     <w_ id="0m4m" dep="0m4n-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="0m4n" dep="0m4k-nmod" comment="топази на волині? чи родовища?">
+    <w_ id="0m4n" dep="0m4k-nmod">
       <w lemma="Волинь" ana="noun:inanim:f:v_mis:prop">Волині</w>
     </w_>
     <w_ id="0m4o">
       <w lemma="належати" ana="verb:imperf:pres:p:3:xp1">належать</w>
     </w_>
-    <w_ id="0m4p">
+    <w_ id="0m4p" dep="0m4q-case">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ id="0m4q">
+    <w_ id="0m4q" dep="0m4o-obl" promoted="yes">
       <w lemma="найвідоміший" ana="adj:p:v_rod:super">найвідоміших</w>
     </w_>
-    <w_ id="0m4r">
+    <w_ id="0m4r" dep="0m4s-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="0m4s">
+    <w_ id="0m4s" dep="0m4q-nmod">
       <w lemma="світ" ana="noun:inanim:m:v_mis">світі</w>
     </w_>
     <g/>
@@ -238,7 +238,7 @@
     <w_ id="0m4w" dep="0m53-obj">
       <w lemma="кристал" ana="noun:inanim:p:m:v_naz">кристали</w>
     </w_>
-    <w_ id="0m4x">
+    <w_ id="0m4x" dep="0m4w-nmod">
       <w lemma="маса" ana="noun:inanim:f:v_oru">масою</w>
     </w_>
     <w_ id="0m4y" dep="0m4z-nummod:gov">
@@ -285,7 +285,7 @@
     <w_ id="0m5d" dep="0m5c-nsubj">
       <w lemma="родовище" ana="noun:inanim:p:n:v_naz">родовища</w>
     </w_>
-    <w_ id="0m5e">
+    <w_ id="0m5e" dep="0m5h-discourse">
       <w lemma="й" ana="part">й</w>
     </w_>
     <w_ id="0m5f" dep="0m5h-nmod">
@@ -298,7 +298,7 @@
       <w lemma="камінь" ana="noun:inanim:p:m:v_rod:xp1">каменів</w>
     </w_>
     <g/>
-    <w_ id="0m5i">
+    <w_ id="0m5i" dep="0m5k-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0m5j" dep="0m5k-mark">
@@ -308,10 +308,10 @@
       <w lemma="опал" ana="noun:inanim:m:v_naz:xp2">опал</w>
     </w_>
     <g/>
-    <w_ id="0m5l">
+    <w_ id="0m5l" dep="0m5m-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0m5m">
+    <w_ id="0m5m" dep="0m5k-conj">
       <w lemma="берил" ana="noun:inanim:m:v_naz">берил</w>
     </w_>
     <w_ id="0m5n" dep="0m5p-case">
@@ -320,7 +320,7 @@
     <w_ id="0m5o" dep="0m5p-amod">
       <w lemma="увесь" ana="adj:p:v_oru:&amp;pron:gen">усіма</w>
     </w_>
-    <w_ id="0m5p" dep="0m5m-nmod">
+    <w_ id="0m5p" dep="0m5k-nmod">
       <w lemma="різновид" ana="noun:inanim:p:m:v_oru">різновидами</w>
     </w_>
     <g/>
@@ -343,7 +343,7 @@
     <w_ id="0m5w">
       <w lemma="різновид" ana="noun:inanim:m:v_oru">різновидом</w>
     </w_>
-    <w_ id="0m5x">
+    <w_ id="0m5x" dep="0m5w-nmod">
       <w lemma="берил" ana="noun:inanim:m:v_rod">берилу</w>
     </w_>
     <w_ id="0m5y" dep="0m5w-cop">
@@ -356,25 +356,25 @@
       <w lemma="смарагд" ana="noun:inanim:m:v_naz:xp2">смарагд</w>
     </w_>
     <g/>
-    <w_ id="0m61" dep="0m5w-punct">
+    <w_ id="0m61" dep="0m68-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0m62" dep="0m68-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0m63" dep="0m68-advmod">
+    <w_ id="0m63" dep="0m62-fixed">
       <w lemma="також" ana="adv">також</w>
     </w_>
     <w_ id="0m64" dep="0m68-amod">
       <w lemma="прозорий" ana="adj:m:v_naz:compb">прозорий</w>
     </w_>
-    <w_ id="0m65">
+    <w_ id="0m65" dep="0m68-amod">
       <w lemma="блакитний" ana="adj:beforeadj">блакитно</w>
     </w_>
-    <w_ id="0m66" dep="0m65-punct">
+    <w_ id="0m66" dep="0m67-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="0m67" dep="0m68-amod">
+    <w_ id="0m67" dep="0m65-compound">
       <w lemma="зелений" ana="adj:m:v_naz:compb">зелений</w>
     </w_>
     <w_ id="0m68" dep="0m60-conj">
@@ -387,10 +387,10 @@
     <w_ id="0m6a" dep="0m6e-mark" mtime-morpho="2017-07-02 12:21:47">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="0m6b" dep="0m6e-iobj">
+    <w_ id="0m6b" dep="0m6e-obl">
       <w lemma="колір" ana="noun:inanim:p:m:v_oru">кольорами</w>
     </w_>
-    <w_ id="0m6c" mtime-morpho="2017-07-01 15:09:27">
+    <w_ id="0m6c" dep="0m6d-discourse" mtime-morpho="2017-07-01 15:09:27">
       <w lemma="й" ana="part">й</w>
     </w_>
     <w_ id="0m6d" dep="0m6e-advmod">
@@ -425,7 +425,7 @@
     <w_ id="0m6n">
       <w lemma="належати" ana="verb:imperf:pres:p:3:xp1">належать</w>
     </w_>
-    <w_ id="0m6o">
+    <w_ id="0m6o" dep="0m6p-discourse">
       <w lemma="і" ana="part">і</w>
     </w_>
     <w_ id="0m6p" dep="0m6n-nsubj">
@@ -435,7 +435,7 @@
       <w lemma="кварц" ana="noun:inanim:m:v_rod">кварцу</w>
     </w_>
     <g/>
-    <w_ id="0m6r">
+    <w_ id="0m6r" dep="0m6t-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
     <w_ id="0m6s" dep="0m6t-amod">
@@ -445,7 +445,7 @@
       <w lemma="аметист" ana="noun:inanim:m:v_naz:xp2">аметист</w>
     </w_>
     <g/>
-    <w_ id="0m6u">
+    <w_ id="0m6u" dep="0m6x-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0m6v" dep="0m6x-amod">
@@ -454,17 +454,17 @@
     <w_ id="0m6w" dep="0m6x-amod">
       <w lemma="гірський" ana="adj:m:v_naz">гірський</w>
     </w_>
-    <w_ id="0m6x">
+    <w_ id="0m6x" dep="0m6t-conj">
       <w lemma="кришталь" ana="noun:inanim:m:v_naz">кришталь</w>
     </w_>
     <g/>
-    <w_ id="0m6y">
+    <w_ id="0m6y" dep="0m70-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0m6z" dep="0m70-amod">
       <w lemma="чорний" ana="adj:m:v_naz:compb">чорний</w>
     </w_>
-    <w_ id="0m70">
+    <w_ id="0m70" dep="0m6t-conj">
       <w lemma="моріон" ana="noun:inanim:m:v_naz">моріон</w>
     </w_>
     <g/>
