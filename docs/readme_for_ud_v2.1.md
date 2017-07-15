@@ -45,7 +45,7 @@ Documentation status: partial
 Data source: manual
 Data available since: UD v1.4
 License: CC BY-NC-SA 4.0
-Genre: fiction legal news nonfiction social spoken
+Genre: fiction legal news nonfiction medical blog web wiki
 Contributors: Kotsyba, Natalia; Moskalevskyi, Bohdan
 Contact: org@mova.institute
 -->

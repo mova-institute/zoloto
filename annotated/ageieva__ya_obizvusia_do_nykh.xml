@@ -3839,13 +3839,13 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="00y1"/>
-        <w_ id="00y2" dep="00y4-advmod">
+        <w_ id="00y2">
           <w lemma="дивно" ana="adv:compb">Дивно</w>
         </w_>
-        <w_ id="00y3" dep="00y4-aux">
+        <w_ id="00y3" dep="00y2-cop">
           <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
         </w_>
-        <w_ id="00y4">
+        <w_ id="00y4" dep="00y2-csubj">
           <w lemma="чути" ana="verb:imperf:inf">чути</w>
         </w_>
         <w_ id="00y5" dep="00y6-det">
@@ -3861,7 +3861,7 @@
           <w lemma="концерт" ana="noun:inanim:m:v_mis">концерті</w>
         </w_>
         <g/>
-        <w_ id="00y9" dep="00y4-punct">
+        <w_ id="00y9" dep="00y2-punct">
           <w lemma="!" ana="punct">!</w>
         </w_>
         <sb id="00ya"/>

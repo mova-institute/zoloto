@@ -4019,19 +4019,19 @@
         <w lemma="казати" ana="verb:imperf:pres:s:3">Каже</w>
       </w_>
       <g/>
-      <w_ id="215n" dep="215p-punct">
+      <w_ id="215n" dep="215r-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="215o" dep="215p-mark">
+      <w_ id="215o" dep="215r-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="215p" dep="215m-ccomp">
+      <w_ id="215p" dep="215r-csubj">
         <w lemma="тримати" ana="verb:imperf:inf">тримати</w>
       </w_>
       <w_ id="215q" dep="215p-obj">
         <w lemma="образ" ana="noun:inanim:m:v_zna">образ</w>
       </w_>
-      <w_ id="215r" dep="215p-advmod">
+      <w_ id="215r" dep="215m-ccomp">
         <w lemma="потрібно" ana="adv:compb">потрібно</w>
       </w_>
       <w_ id="215s" dep="215t-advmod">
@@ -5232,13 +5232,13 @@
     </p>
     <p id="21h6">
       <sb id="21h7"/>
-      <w_ id="21h8">
+      <w_ id="21h8" dep="21h9-mark">
         <w lemma="що" ana="conj:subord">Що</w>
       </w_>
-      <w_ id="21h9">
+      <w_ id="21h9" dep="21hg-advcl">
         <w lemma="більший" ana="adj:f:v_naz:compr">більша</w>
       </w_>
-      <w_ id="21ha">
+      <w_ id="21ha" dep="21h9-nsubj">
         <w lemma="площа" ana="noun:inanim:f:v_naz">площа</w>
       </w_>
       <w_ id="21hb" dep="21hc-punct">
@@ -5253,16 +5253,16 @@
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
       <g/>
-      <w_ id="21he">
+      <w_ id="21he" dep="21h9-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="21hf">
+      <w_ id="21hf" dep="21hg-discourse">
         <w lemma="то" ana="conj:coord">то</w>
       </w_>
-      <w_ id="21hg" dep="21hh-advmod">
+      <w_ id="21hg">
         <w lemma="зручніше" ana="adv:compr">зручніше</w>
       </w_>
-      <w_ id="21hh">
+      <w_ id="21hh" dep="21hg-csubj">
         <w lemma="ходити" ana="verb:imperf:inf">ходити</w>
       </w_>
       <w_ id="21hi" dep="21hj-case">
@@ -5272,7 +5272,7 @@
         <w lemma="сніг" ana="noun:inanim:m:v_mis">снігу</w>
       </w_>
       <g/>
-      <w_ id="21hk">
+      <w_ id="21hk" dep="21hg-acl">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="21hl"/>
@@ -5409,13 +5409,13 @@
         <w lemma="м’якший" ana="adj:m:v_naz:compr">м'якший</w>
       </w_>
       <g/>
-      <w_ id="21iv" dep="21ix-punct">
+      <w_ id="21iv" dep="21iw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="21iw" dep="21ix-advmod">
+      <w_ id="21iw" dep="21im-parataxis">
         <w lemma="зручніше" ana="adv:compr">зручніше</w>
       </w_>
-      <w_ id="21ix" dep="21im-parataxis">
+      <w_ id="21ix" dep="21iw-csubj">
         <w lemma="ставити" ana="verb:imperf:inf">ставити</w>
       </w_>
       <w_ id="21iy" dep="21ix-obj">
@@ -5683,13 +5683,13 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="21le"/>
-      <w_ id="21lf" dep="21lk-cc">
+      <w_ id="21lf">
         <w lemma="а" ana="conj:coord">А</w>
       </w_>
-      <w_ id="21lg" dep="21lk-mark">
+      <w_ id="21lg" dep="21lh-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="21lh" dep="21lk-advmod">
+      <w_ id="21lh">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
       <w_ id="21li" dep="21lh-cop">
@@ -5698,7 +5698,7 @@
       <w_ id="21lj" dep="21lk-advmod">
         <w lemma="хутко" ana="adv:compb">хутко</w>
       </w_>
-      <w_ id="21lk" dep="21lq-advcl">
+      <w_ id="21lk" dep="21lq-advcl|21lh-csubj">
         <w lemma="йти" ana="verb:imperf:inf">йти</w>
       </w_>
       <g/>
@@ -6893,7 +6893,7 @@
         <w lemma="персонаж" ana="noun:anim:m:v_naz">персонаж</w>
       </w_>
       <g/>
-      <w_ id="21wr" dep="21wv-punct">
+      <w_ id="21wr" dep="21wu-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="21ws" dep="21wt-case">
@@ -6902,10 +6902,10 @@
       <w_ id="21wt" dep="21wv-obl">
         <w lemma="який" ana="adj:m:v_zna:ranim:&amp;pron:rel">якого</w>
       </w_>
-      <w_ id="21wu" dep="21wv-advmod">
+      <w_ id="21wu" dep="21wq-acl">
         <w lemma="важливо" ana="adv:compb">важливо</w>
       </w_>
-      <w_ id="21wv" dep="21wq-acl">
+      <w_ id="21wv" dep="21wu-csubj">
         <w lemma="згадати" ana="verb:perf:inf">згадати</w>
       </w_>
       <g/>

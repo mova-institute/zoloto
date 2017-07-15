@@ -2867,7 +2867,7 @@
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="2cje"/>
-      <w_ id="2cjf" dep="2cjl-advmod">
+      <w_ id="2cjf">
         <w lemma="треба" ana="adv">Треба</w>
       </w_>
       <w_ id="2cjg" dep="2cjh-discourse">
@@ -2880,21 +2880,21 @@
       <w_ id="2cji" dep="2cjj-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2cjj" dep="2cjl-parataxis">
+      <w_ id="2cjj" dep="2cjl-parataxis:discourse">
         <w lemma="думати" ana="verb:imperf:pres:s:1">думаю</w>
       </w_>
       <g/>
       <w_ id="2cjk" dep="2cjj-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2cjl">
+      <w_ id="2cjl" dep="2cjf-csubj">
         <w lemma="понаписувати" ana="verb:perf:inf:coll">понаписувать</w>
       </w_>
       <w_ id="2cjm" dep="2cjl-obj">
         <w lemma="освіта" ana="noun:inanim:p:f:v_rod">освіт</w>
       </w_>
       <g/>
-      <w_ id="2cjn" dep="2cjl-punct">
+      <w_ id="2cjn" dep="2cjf-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2cjo"/>
@@ -2952,7 +2952,7 @@
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="2ck6"/>
-      <w_ id="2ck7" dep="2ck8-nsubj">
+      <w_ id="2ck7" dep="2ck8-amod">
         <w lemma="тракторний" ana="adj:f:v_naz">Тракторна</w>
       </w_>
       <w_ id="2ck8" promoted="yes">
@@ -2999,13 +2999,13 @@
         <w lemma="..." ana="punct">...</w>
       </w_>
       <sb id="2ckn"/>
-      <w_ id="2cko" dep="2ckq-advmod">
+      <w_ id="2cko">
         <w lemma="можна" ana="adv">Можна</w>
       </w_>
       <w_ id="2ckp" dep="2ckq-advmod">
         <w lemma="чесно" ana="adv:compb">чесно</w>
       </w_>
-      <w_ id="2ckq">
+      <w_ id="2ckq" dep="2cko-csubj">
         <w lemma="записувати" ana="verb:imperf:inf">записувати</w>
       </w_>
       <w_ id="2ckr" dep="2cks-case">
@@ -3071,7 +3071,7 @@
         <w lemma="освіта" ana="noun:inanim:f:v_zna">освіту</w>
       </w_>
       <g/>
-      <w_ id="2cl9" dep="2ckq-punct">
+      <w_ id="2cl9" dep="2cko-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2cla"/>

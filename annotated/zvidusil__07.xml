@@ -6191,7 +6191,7 @@
         <w lemma="Єрко" ana="noun:anim:m:v_rod:prop:lname">Єрка</w>
       </w_>
       <g/>
-      <w_ id="1trj" dep="1trs-punct">
+      <w_ id="1trj" dep="1trn-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1trk" dep="1trm-case">
@@ -6203,7 +6203,7 @@
       <w_ id="1trm" dep="1trs-obl">
         <w lemma="ілюстрація" ana="noun:inanim:p:f:v_zna">ілюстрації</w>
       </w_>
-      <w_ id="1trn" dep="1trs-advmod">
+      <w_ id="1trn" dep="1trc-parataxis">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
       <w_ id="1tro" dep="1trq-mark">
@@ -6212,14 +6212,14 @@
       <w_ id="1trp" dep="1trq-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1trq" dep="1trs-advcl">
+      <w_ id="1trq" dep="1trn-advcl">
         <w lemma="вогонь" ana="noun:inanim:m:v_zna">вогонь</w>
       </w_>
       <g/>
       <w_ id="1trr" dep="1trq-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1trs" dep="1trc-parataxis">
+      <w_ id="1trs" dep="1trn-csubj">
         <w lemma="дивитися" ana="verb:rev:imperf:inf">дивитись</w>
       </w_>
       <w_ id="1trt" dep="1trs-advmod">
@@ -6927,7 +6927,7 @@
     </p>
     <p id="1ty9">
       <sb id="1tya"/>
-      <w_ id="1tyb" dep="1tye-advmod">
+      <w_ id="1tyb">
         <w lemma="приємно" ana="adv:compb">Приємно</w>
       </w_>
       <w_ id="1tyc" dep="1tyd-cc">
@@ -6936,11 +6936,11 @@
       <w_ id="1tyd" dep="1tyb-conj">
         <w lemma="цікаво" ana="adv:compb">цікаво</w>
       </w_>
-      <w_ id="1tye">
+      <w_ id="1tye" dep="1tyb-csubj">
         <w lemma="дивитися" ana="verb:rev:imperf:inf">дивитися</w>
       </w_>
       <g/>
-      <w_ id="1tyf" dep="1tye-punct">
+      <w_ id="1tyf" dep="1tyb-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1tyg"/>
@@ -7640,10 +7640,10 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="1u4w" dep="1u4x-nsubj">
+      <w_ id="1u4w" dep="1u4x-amod">
         <w lemma="мамин" ana="adj:p:v_naz">Мамині</w>
       </w_>
-      <w_ id="1u4x" dep="1u4u-flat:title" comment="#meta">
+      <w_ id="1u4x" dep="1u4u-flat:title">
         <w lemma="слово" ana="noun:inanim:p:n:v_naz">Слова</w>
       </w_>
       <g/>

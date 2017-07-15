@@ -1780,14 +1780,14 @@
       <w_ id="1z51" dep="1z5d-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1z52" dep="1z5d-mark">
+      <w_ id="1z52" dep="1z5c-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <g/>
       <w_ id="1z53" dep="1z54-punct" mtime-synt="2017-07-04 20:21:19">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1z54" dep="1z5d-advcl">
+      <w_ id="1z54">
         <w lemma="зважати" ana="verb:imperf:pres:advp">зважаючи</w>
       </w_>
       <w_ id="1z55" dep="1z56-case">
@@ -1812,16 +1812,16 @@
       <w_ id="1z5b" dep="1z5c-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1z5c" dep="1z5d-advmod">
+      <w_ id="1z5c">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="1z5d" dep="1z50-ccomp" comment="advcl?">
+      <w_ id="1z5d" dep="1z50-ccomp|1z5c-csubj" comment="advcl?">
         <w lemma="будувати" ana="verb:imperf:inf">будувати</w>
       </w_>
       <w_ id="1z5e" dep="1z5f-punct">
         <w lemma="–" ana="punct">–</w>
       </w_>
-      <w_ id="1z5f" dep="1z5d-parataxis" comment="advcl бо?">
+      <w_ id="1z5f" comment="advcl бо?">
         <w lemma="рости" ana="verb:imperf:pres:p:3">ростуть</w>
       </w_>
       <w_ id="1z5g" dep="1z5f-nsubj">
@@ -3305,13 +3305,13 @@
         <w lemma="ранок" ana="noun:inanim:m:v_naz">ранок</w>
       </w_>
       <g/>
-      <w_ id="1zix" dep="1ziy-punct">
+      <w_ id="1zix" dep="1ziz-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1ziy" dep="1ziw-parataxis">
+      <w_ id="1ziy" dep="1ziz-csubj">
         <w lemma="бігти" ana="verb:imperf:inf">бігти</w>
       </w_>
-      <w_ id="1ziz" dep="1ziy-advmod">
+      <w_ id="1ziz" dep="1ziw-parataxis">
         <w lemma="жарко" ana="adv:compb">жарко</w>
       </w_>
       <g/>
@@ -4750,7 +4750,7 @@
       <w_ id="1zw6" dep="1zw7-mark" mtime-synt="2017-07-05 01:50:45">
         <w lemma="щоб" ana="conj:subord">Щоб</w>
       </w_>
-      <w_ id="1zw7" dep="1zwe-advcl" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zw7" dep="1zwb-advcl" mtime-synt="2017-07-05 01:50:45">
         <w lemma="зродитися" ana="verb:rev:perf:past:n:auto">зродилось</w>
       </w_>
       <w_ id="1zw8" dep="1zw9-advmod" mtime-synt="2017-07-05 01:50:45">
@@ -4763,7 +4763,7 @@
       <w_ id="1zwa" dep="1zw7-punct" mtime-synt="2017-07-05 01:50:45">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1zwb" dep="1zwe-advmod" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zwb" mtime-synt="2017-07-05 01:50:45">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
       <w_ id="1zwc" dep="1zwe-advmod" mtime-synt="2017-07-05 01:50:45">
@@ -4772,11 +4772,11 @@
       <w_ id="1zwd" dep="1zwe-obj" mtime-synt="2017-07-05 01:50:45">
         <w lemma="старе" ana="adj:n:v_zna:compb:&amp;noun:inanim" lemma2="старий">старе</w>
       </w_>
-      <w_ id="1zwe">
+      <w_ id="1zwe" dep="1zwb-csubj">
         <w lemma="відсунути" ana="verb:perf:inf">відсунути</w>
       </w_>
       <g/>
-      <w_ id="1zwf" dep="1zwe-punct" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zwf" dep="1zwb-punct" mtime-synt="2017-07-05 01:50:45">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1zwg"/>
@@ -4843,7 +4843,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1zx1"/>
-      <w_ id="1zx2" dep="1zx6-advcl" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zx2" dep="1zx5-advcl" mtime-synt="2017-07-05 01:50:45">
         <w lemma="зруйнувати" ana="verb:perf:past:advp">Зруйнувавши</w>
       </w_>
       <w_ id="1zx3" dep="1zx2-obj" mtime-synt="2017-07-05 01:50:45">
@@ -4853,17 +4853,17 @@
       <w_ id="1zx4" dep="1zx2-punct" mtime-synt="2017-07-05 01:50:45">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1zx5" dep="1zx6-advmod" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zx5" mtime-synt="2017-07-05 01:50:45">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="1zx6">
+      <w_ id="1zx6" dep="1zx5-csubj">
         <w lemma="будувати" ana="verb:imperf:inf">будувати</w>
       </w_>
       <w_ id="1zx7" dep="1zx6-obj" mtime-synt="2017-07-05 01:50:45">
         <w lemma="нове" ana="adj:n:v_zna:compb:&amp;noun:inanim" lemma2="новий">нове</w>
       </w_>
       <g/>
-      <w_ id="1zx8" dep="1zx6-punct" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zx8" dep="1zx5-punct" mtime-synt="2017-07-05 01:50:45">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="1zx9"/>
@@ -5127,10 +5127,10 @@
         <w lemma="первень" ana="noun:inanim:m:v_naz">первень</w>
       </w_>
       <g/>
-      <w_ id="1zzp" dep="1zzu-punct" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zzp" dep="1zzt-punct" mtime-synt="2017-07-05 01:50:45">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1zzq" dep="1zzu-mark" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zzq" dep="1zzt-mark" mtime-synt="2017-07-05 01:50:45">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="1zzr" dep="1zzs-case" mtime-synt="2017-07-05 01:50:45">
@@ -5139,10 +5139,10 @@
       <w_ id="1zzs" dep="1zzu-obl" mtime-synt="2017-07-05 01:50:45">
         <w lemma="він" ana="noun:m:v_mis:rprep:&amp;pron:pers:3">ньому</w>
       </w_>
-      <w_ id="1zzt" dep="1zzu-advmod" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zzt" dep="1zzo-acl" mtime-synt="2017-07-05 01:50:45">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="1zzu" dep="1zzo-acl" mtime-synt="2017-07-05 01:50:45">
+      <w_ id="1zzu" dep="1zzt-csubj" mtime-synt="2017-07-05 01:50:45">
         <w lemma="опертися" ana="verb:rev:perf:inf">опертись</w>
       </w_>
       <g/>

@@ -1614,7 +1614,7 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="1k0c" dep="1k0a-nsubj" promoted="yes">
+    <w_ id="1k0c" dep="1k0a-nsubj" comment="#meta">
       <w lemma="жити" ana="verb:imperf:pres:p:1">Живем</w>
     </w_>
     <w_ id="1k0d" dep="1k0c-obl">
@@ -2792,20 +2792,20 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1kax"/>
-    <w_ id="1kay" dep="1kb1-discourse">
+    <w_ id="1kay" dep="1kaz-discourse">
       <w lemma="чи" ana="part">Чи</w>
     </w_>
-    <w_ id="1kaz" dep="1kb1-advmod">
+    <w_ id="1kaz">
       <w lemma="варт" ana="adv">варт</w>
     </w_>
     <w_ id="1kb0" dep="1kb1-obj">
       <w lemma="те" ana="noun:inanim:n:v_oru:&amp;pron:dem">тим</w>
     </w_>
-    <w_ id="1kb1">
+    <w_ id="1kb1" dep="1kaz-csubj">
       <w lemma="турбуватися" ana="verb:rev:imperf:inf">турбуватися</w>
     </w_>
     <g/>
-    <w_ id="1kb2" dep="1kb1-punct">
+    <w_ id="1kb2" dep="1kaz-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="1kb3"/>
@@ -3058,10 +3058,10 @@
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="1kdg"/>
-    <w_ id="1kdh" dep="1kdm-advmod">
+    <w_ id="1kdh">
       <w lemma="може" ana="adv">Може</w>
     </w_>
-    <w_ id="1kdi" dep="1kdh-discourse">
+    <w_ id="1kdi" dep="1kdh-aux">
       <w lemma="б" ana="part">б</w>
     </w_>
     <g/>
@@ -3074,7 +3074,7 @@
     <w_ id="1kdl" dep="1kdm-iobj">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
     </w_>
-    <w_ id="1kdm">
+    <w_ id="1kdm" dep="1kdh-csubj">
       <w lemma="прислати" ana="verb:perf:inf">прислати</w>
     </w_>
     <w_ id="1kdn" dep="1kdp-punct">
@@ -3098,7 +3098,7 @@
       <w lemma="»" ana="punct:quote:close">»</w>
     </w_>
     <g/>
-    <w_ id="1kdt" dep="1kdm-punct">
+    <w_ id="1kdt" dep="1kdh-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="1kdu"/>

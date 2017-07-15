@@ -1327,13 +1327,13 @@
       <w_ id="2632" dep="2633-discourse">
         <w lemma="тільки" ana="part">Тільки</w>
       </w_>
-      <w_ id="2633" dep="2635-advmod">
+      <w_ id="2633" dep="2634-advmod">
         <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
       </w_>
-      <w_ id="2634" dep="2635-advmod">
+      <w_ id="2634">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="2635">
+      <w_ id="2635" dep="2634-csubj">
         <w lemma="побачити" ana="verb:perf:inf">побачити</w>
       </w_>
       <w_ id="2636" dep="2637-nummod:gov">
@@ -1432,7 +1432,7 @@
         <w lemma="шорсткий" ana="adj:f:v_zna">шорстку</w>
       </w_>
       <g/>
-      <w_ id="263y" dep="2635-punct">
+      <w_ id="263y" dep="2634-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="263z"/>

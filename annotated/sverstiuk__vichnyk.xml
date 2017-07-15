@@ -1421,10 +1421,10 @@
   </fragment>
   <p id="141e">
     <sb id="141f"/>
-    <w_ id="141g" dep="141h-advmod">
+    <w_ id="141g">
       <w lemma="досить" ana="adv">Досить</w>
     </w_>
-    <w_ id="141h">
+    <w_ id="141h" dep="141g-csubj">
       <w lemma="сказати" ana="verb:perf:inf">сказати</w>
     </w_>
     <g/>
@@ -1507,7 +1507,7 @@
       <w lemma="названий" ana="adj:p:v_naz:&amp;adjp:perf:pasv">названі</w>
     </w_>
     <g/>
-    <w_ id="1427" dep="141h-punct">
+    <w_ id="1427" dep="141g-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1428"/>
@@ -2301,16 +2301,16 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="149n"/>
-    <w_ id="149o" dep="149r-advmod">
+    <w_ id="149o">
       <w lemma="можна" ana="adv">Можна</w>
     </w_>
     <w_ id="149p" dep="149o-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="149q" dep="149p-aux">
+    <w_ id="149q" dep="149o-aux">
       <w lemma="б" ana="part">б</w>
     </w_>
-    <w_ id="149r">
+    <w_ id="149r" dep="149o-csubj">
       <w lemma="порівняти" ana="verb:perf:inf">порівняти</w>
     </w_>
     <w_ id="149s" dep="149t-case">
@@ -2361,7 +2361,7 @@
       <w lemma="забарвлення" ana="noun:inanim:n:v_oru">забарвленням</w>
     </w_>
     <g/>
-    <w_ id="14a7" dep="149r-punct">
+    <w_ id="14a7" dep="149o-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="14a8"/>

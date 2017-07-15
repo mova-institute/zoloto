@@ -8871,7 +8871,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0t1e"/>
-    <w_ id="0t1f" dep="0t1g-det">
+    <w_ id="0t1f" dep="0t1g-det:numgov">
       <w lemma="кілька" ana="numr:p:v_zna:&amp;pron:ind">Кілька</w>
     </w_>
     <w_ id="0t1g" dep="0t1k-obl">
@@ -9644,7 +9644,7 @@
     <w_ id="0t8k" dep="0t8f-ccomp">
       <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
     </w_>
-    <w_ id="0t8l" dep="0t8k-nsubj" mark="reviewed">
+    <w_ id="0t8l" dep="0t8k-nsubj" promoted="yes" mark="reviewed">
       <w lemma="один" ana="adj:f:v_naz:&amp;pron:ind">одна</w>
     </w_>
     <w_ id="0t8m" dep="0t8n-case">
@@ -10108,7 +10108,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0tcv"/>
-    <w_ id="0tcw" dep="0td4-advmod">
+    <w_ id="0tcw">
       <w lemma="можна" ana="adv">Можна</w>
     </w_>
     <w_ id="0tcx" dep="0tcw-cop">
@@ -10134,7 +10134,7 @@
     <w_ id="0td3" dep="0td0-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0td4">
+    <w_ id="0td4" dep="0tcw-csubj">
       <w lemma="перейти" ana="verb:perf:inf">перейти</w>
     </w_>
     <w_ id="0td5" dep="0td7-discourse">
@@ -10147,7 +10147,7 @@
       <w lemma="Закарпаття" ana="noun:inanim:n:v_zna:prop">Закарпаття</w>
     </w_>
     <g/>
-    <w_ id="0td8" dep="0td4-punct">
+    <w_ id="0td8" dep="0tcw-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0td9"/>
@@ -13873,7 +13873,7 @@
     <w_ id="0ubn" dep="0ubr-mark">
       <w lemma="де" ana="conj:subord">де</w>
     </w_>
-    <w_ id="0ubo" dep="0ubr-nsubj">
+    <w_ id="0ubo" dep="0ubr-nsubj" promoted="yes">
       <w lemma="один" ana="adj:m:v_naz:&amp;pron:ind">один</w>
     </w_>
     <w_ id="0ubp" dep="0ubq-case">
@@ -14950,13 +14950,13 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0ull"/>
-    <w_ id="0ulm" dep="0ulo-advmod">
+    <w_ id="0ulm">
       <w lemma="можна" ana="adv">Можна</w>
     </w_>
     <w_ id="0uln" dep="0ulm-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0ulo">
+    <w_ id="0ulo" dep="0ulm-csubj">
       <w lemma="вертатися" ana="verb:rev:imperf:inf">вертатися</w>
     </w_>
     <w_ id="0ulp" dep="0ulq-case">
@@ -14966,7 +14966,7 @@
       <w lemma="кава" ana="noun:inanim:f:v_zna">каву</w>
     </w_>
     <g/>
-    <w_ id="0ulr" dep="0ulo-punct">
+    <w_ id="0ulr" dep="0ulm-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0uls"/>
@@ -15236,13 +15236,13 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0uo9"/>
-    <w_ id="0uoa" dep="0uoc-advmod">
+    <w_ id="0uoa">
       <w lemma="найкраще" ana="adv:super">Найкраще</w>
     </w_>
     <w_ id="0uob" dep="0uoc-obj" mark="resolved">
       <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
     </w_>
-    <w_ id="0uoc">
+    <w_ id="0uoc" dep="0uoa-csubj">
       <w lemma="робити" ana="verb:imperf:inf">робити</w>
     </w_>
     <w_ id="0uod" dep="0uoe-case">
@@ -15252,7 +15252,7 @@
       <w lemma="рух" ana="noun:inanim:m:v_mis">русі</w>
     </w_>
     <g/>
-    <w_ id="0uof" dep="0uoc-punct">
+    <w_ id="0uof" dep="0uoa-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0uog"/>
@@ -27331,13 +27331,13 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0xs1"/>
-    <w_ id="0xs2" dep="0xs4-advmod">
+    <w_ id="0xs2">
       <w lemma="найтяжче" ana="adv:super">Найтяжче</w>
     </w_>
-    <w_ id="0xs3" dep="0xs4-aux">
+    <w_ id="0xs3" dep="0xs2-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0xs4">
+    <w_ id="0xs4" dep="0xs2-csubj">
       <w lemma="згадати" ana="verb:perf:inf">згадати</w>
     </w_>
     <g/>
@@ -39253,10 +39253,10 @@
       <w lemma="знати" ana="verb:imperf:past:m">знав</w>
     </w_>
     <g/>
-    <w_ id="10tz" dep="10u5-punct">
+    <w_ id="10tz" dep="10u4-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="10u0" dep="10u5-mark">
+    <w_ id="10u0" dep="10u4-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
     <w_ id="10u1" dep="10u3-case">
@@ -39268,10 +39268,10 @@
     <w_ id="10u3" dep="10u5-obl">
       <w lemma="хвиля" ana="noun:inanim:f:v_zna">хвилю</w>
     </w_>
-    <w_ id="10u4" dep="10u5-advmod">
+    <w_ id="10u4" dep="10ty-ccomp">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
-    <w_ id="10u5" dep="10ty-ccomp">
+    <w_ id="10u5" dep="10u4-csubj">
       <w lemma="вернутися" ana="verb:rev:perf:inf">вернутися</w>
     </w_>
     <w_ id="10u6" dep="10u8-case">

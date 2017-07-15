@@ -139,19 +139,19 @@
     </p>
     <p id="2307">
       <sb id="2308"/>
-      <w_ id="2309" dep="230d-punct">
+      <w_ id="2309" dep="230c-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="230a" dep="230c-advmod">
+      <w_ id="230a" dep="230d-advmod">
         <w lemma="попередньо" ana="adv">Попередньо</w>
       </w_>
       <w_ id="230b" dep="230d-obj">
         <w lemma="птиця" ana="noun:anim:f:v_zna">птицю</w>
       </w_>
-      <w_ id="230c" dep="230d-advmod">
+      <w_ id="230c">
         <w lemma="потрібно" ana="adv:compb">потрібно</w>
       </w_>
-      <w_ id="230d">
+      <w_ id="230d" dep="230c-csubj">
         <w lemma="ошпарити" ana="verb:perf:inf">ошпарити</w>
       </w_>
       <w_ id="230e" dep="230d-obl">
@@ -171,7 +171,7 @@
         <w lemma="винахідник" ana="noun:anim:m:v_naz">винахідник</w>
       </w_>
       <g/>
-      <w_ id="230j" dep="230d-punct">
+      <w_ id="230j" dep="230c-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="230k"/>
@@ -591,7 +591,7 @@
       <w_ id="234g" dep="234h-case">
         <w lemma="по" ana="prep:rv_zna">По</w>
       </w_>
-      <w_ id="234h">
+      <w_ id="234h" dep="234k-obj" promoted="yes">
         <w lemma="десять" ana="numr:p:v_zna">десять</w>
       </w_>
       <g/>
@@ -602,7 +602,7 @@
       <w_ id="234j" dep="234h-conj">
         <w lemma="п’ятнадцять" ana="numr:p:v_zna">п'ятнадцять</w>
       </w_>
-      <w_ id="234k">
+      <w_ id="234k" dep="234n-csubj">
         <w lemma="общипувати" ana="verb:imperf:inf:coll">общипувать</w>
       </w_>
       <w_ id="234l" dep="234m-case">
@@ -611,11 +611,11 @@
       <w_ id="234m" dep="234k-obl">
         <w lemma="раз" ana="noun:inanim:m:v_zna">раз</w>
       </w_>
-      <w_ id="234n" dep="234k-advmod">
+      <w_ id="234n">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
       <g/>
-      <w_ id="234o" dep="234k-punct">
+      <w_ id="234o" dep="234n-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="234p"/>
@@ -1018,7 +1018,7 @@
       </w_>
       <sb id="238i"/>
       <g/>
-      <w_ id="238j" dep="238p-punct">
+      <w_ id="238j" dep="238o-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="238k" dep="238m-mark">
@@ -1027,17 +1027,17 @@
       <w_ id="238l" dep="238m-advmod">
         <w lemma="якісно" ana="adv:compb">якісно</w>
       </w_>
-      <w_ id="238m" dep="238p-advcl">
+      <w_ id="238m" dep="238o-advcl">
         <w lemma="обскубтися" ana="verb:rev:perf:past:n:auto">обскублось</w>
       </w_>
       <g/>
       <w_ id="238n" dep="238m-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="238o" dep="238p-advmod">
+      <w_ id="238o">
         <w lemma="потрібно" ana="adv:compb">потрібно</w>
       </w_>
-      <w_ id="238p">
+      <w_ id="238p" dep="238o-csubj">
         <w lemma="відрізати" ana="verb:perf:inf">відрізати</w>
       </w_>
       <w_ id="238q" dep="238p-obj">
@@ -1057,14 +1057,14 @@
       <w_ id="238u" dep="238v-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="238v" dep="238p-parataxis">
+      <w_ id="238v" dep="238o-parataxis">
         <w lemma="завершувати" ana="verb:imperf:pres:s:3">завершує</w>
       </w_>
       <w_ id="238w" dep="238v-obj">
         <w lemma="інструктаж" ana="noun:inanim:m:v_zna">інструктаж</w>
       </w_>
       <g/>
-      <w_ id="238x" dep="238p-punct">
+      <w_ id="238x">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="238y"/>

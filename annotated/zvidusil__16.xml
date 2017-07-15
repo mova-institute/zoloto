@@ -648,7 +648,7 @@
       <w_ id="271y" dep="271z-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="271z" dep="272l-advcl">
+      <w_ id="271z" dep="272k-advcl">
         <w lemma="назвати" ana="verb:perf:past:m">назвав</w>
       </w_>
       <w_ id="2720" dep="271z-obj">
@@ -698,7 +698,7 @@
       <w_ id="272d" dep="271z-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="272e" dep="272l-discourse">
+      <w_ id="272e" dep="272k-discourse">
         <w lemma="то" ana="conj:subord">то</w>
       </w_>
       <w_ id="272f" dep="272j-det">
@@ -719,10 +719,10 @@
       <w_ id="272j" dep="272l-obj">
         <w lemma="%" ana="noun:inanim:m:v_rod:nv:symbol">%</w>
       </w_>
-      <w_ id="272k" dep="272l-advmod">
+      <w_ id="272k">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="272l">
+      <w_ id="272l" dep="272k-csubj">
         <w lemma="вважати" ana="verb:imperf:inf">вважати</w>
       </w_>
       <w_ id="272m" dep="272n-discourse">
@@ -806,7 +806,7 @@
         <w lemma="дохід" ana="noun:inanim:p:m:v_rod">доходів</w>
       </w_>
       <g/>
-      <w_ id="273b" dep="272l-punct">
+      <w_ id="273b" dep="272k-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="273c"/>
@@ -1044,10 +1044,10 @@
     </p>
     <p id="275e">
       <sb id="275f"/>
-      <w_ id="275g" dep="275h-advmod">
+      <w_ id="275g">
         <w lemma="можна" ana="adv">Можна</w>
       </w_>
-      <w_ id="275h">
+      <w_ id="275h" dep="275g-csubj">
         <w lemma="сказати" ana="verb:perf:inf">сказати</w>
       </w_>
       <g/>
@@ -1189,7 +1189,7 @@
         <w lemma="громадянин" ana="noun:anim:p:m:v_rod">громадян</w>
       </w_>
       <g/>
-      <w_ id="276p" dep="275h-punct">
+      <w_ id="276p" dep="275g-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="276q"/>
@@ -1686,7 +1686,7 @@
         <w lemma="98" ana="numr:p:v_naz:nv">98</w>
       </w_>
       <g/>
-      <w_ id="27cd" dep="27ch-punct">
+      <w_ id="27cd" dep="27cg-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="27ce" dep="27cf-case">
@@ -1695,10 +1695,10 @@
       <w_ id="27cf" dep="27ch-obl">
         <w lemma="який" ana="adj:m:v_zna:rinanim:&amp;pron:rel">який</w>
       </w_>
-      <w_ id="27cg" dep="27ch-advmod">
+      <w_ id="27cg" dep="27c9-acl">
         <w lemma="потрібно" ana="adv:compb">потрібно</w>
       </w_>
-      <w_ id="27ch" dep="27c9-acl">
+      <w_ id="27ch" dep="27cg-csubj">
         <w lemma="помножити" ana="verb:perf:inf">помножити</w>
       </w_>
       <w_ id="27ci" dep="27cj-amod">
@@ -1726,7 +1726,7 @@
       <w_ id="27cp" dep="27cq-mark">
         <w lemma="щоб" ana="conj:subord">щоб</w>
       </w_>
-      <w_ id="27cq" dep="27ch-advcl">
+      <w_ id="27cq" dep="27cg-advcl">
         <w lemma="отримати" ana="verb:perf:inf">отримати</w>
       </w_>
       <w_ id="27cr" dep="27cs-det">
@@ -6318,7 +6318,7 @@
         <w lemma="увесь" ana="adj:p:v_naz:&amp;pron:gen">усі</w>
       </w_>
       <w_ id="28hx" dep="28hv-nsubj">
-        <w lemma="комплектуючий" ana="adj:p:v_naz:&amp;adjp:imperf:actv:bad:pres">комплектуючі</w>
+        <w lemma="комплектуючий" ana="adj:p:v_naz:&amp;adjp:imperf:actv:bad:pres:&amp;noun:inanim:nv">комплектуючі</w>
       </w_>
       <g/>
       <w_ id="28hy" dep="28hz-punct">
