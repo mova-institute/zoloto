@@ -1484,10 +1484,10 @@
       <w_ id="1uqh" dep="1uqf-nmod">
         <w lemma="підприємство" ana="noun:inanim:p:n:v_rod">підприємств</w>
       </w_>
-      <w_ id="1uqi" dep="1uqh-flat:title">
+      <w_ id="1uqi" dep="1uqf-appos">
         <w lemma="ТОВ" ana="noun:inanim:n:v_naz:nv:abbr">ТОВ</w>
       </w_>
-      <w_ id="1uqj" dep="1uqi-flat">
+      <w_ id="1uqj" dep="1uqi-flat:title">
         <w lemma="Укргаздоб" ana="noun:inanim:m:v_naz:prop">Укргаздоб</w>
       </w_>
       <w_ id="1uqk" dep="1uql-cc">
@@ -1496,7 +1496,7 @@
       <w_ id="1uql" dep="1uqi-conj">
         <w lemma="ТОВ" ana="noun:inanim:n:v_naz:nv:abbr">ТОВ</w>
       </w_>
-      <w_ id="1uqm" dep="1uql-flat">
+      <w_ id="1uqm" dep="1uql-flat:title">
         <w lemma="Нафтогазенергопром" ana="noun:inanim:m:v_naz:prop">Нафтогазенергопром</w>
       </w_>
       <g/>
@@ -3225,17 +3225,17 @@
       <w_ id="1v6f">
         <w lemma="наведений" ana="adj:p:v_oru:&amp;adjp:perf:pasv">наведеними</w>
       </w_>
-      <w_ id="1v6g">
+      <w_ id="1v6g" dep="1v6p-parataxis:discourse">
         <w lemma="дані" ana="adj:p:v_oru:ns:&amp;adjp:perf:pasv:&amp;noun:inanim" lemma2="даний">даними</w>
       </w_>
       <g/>
-      <w_ id="1v6h">
+      <w_ id="1v6h" dep="1v6g-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1v6i">
         <w lemma="зокрема" ana="adv">зокрема</w>
       </w_>
-      <w_ id="1v6j">
+      <w_ id="1v6j" dep="1v6p-nsubj">
         <w lemma="облігація" ana="noun:inanim:p:f:v_naz">облігації</w>
       </w_>
       <w_ id="1v6k">
@@ -3250,7 +3250,7 @@
       <w_ id="1v6n">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
-      <w_ id="1v6o">
+      <w_ id="1v6o" dep="1v6p-cop">
         <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
       </w_>
       <w_ id="1v6p">
@@ -3573,22 +3573,22 @@
     </p>
     <p id="1v9a">
       <sb id="1v9b"/>
-      <w_ id="1v9c">
+      <w_ id="1v9c" dep="1v9n-nsubj">
         <w lemma="сума" ana="noun:inanim:f:v_naz">Сума</w>
       </w_>
-      <w_ id="1v9d">
+      <w_ id="1v9d" dep="1v9h-amod">
         <w lemma="державний" ana="adj:m:v_rod">державного</w>
       </w_>
-      <w_ id="1v9e">
+      <w_ id="1v9e" dep="1v9f-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1v9f">
+      <w_ id="1v9f" dep="1v9d-conj">
         <w lemma="гарантований" ana="adj:m:v_rod:&amp;adjp:imperf:pasv">гарантованого</w>
       </w_>
-      <w_ id="1v9g">
+      <w_ id="1v9g" dep="1v9f-obl">
         <w lemma="держава" ana="noun:inanim:f:v_oru">державою</w>
       </w_>
-      <w_ id="1v9h">
+      <w_ id="1v9h" dep="1v9c-nmod">
         <w lemma="борг" ana="noun:inanim:m:v_rod">боргу</w>
       </w_>
       <w_ id="1v9i" dep="1v9h-nmod">
@@ -3621,17 +3621,17 @@
       <w_ id="1v9p">
         <w lemma="трлн" ana="numr:p:v_rod:nv:abbr">трлн</w>
       </w_>
-      <w_ id="1v9q">
+      <w_ id="1v9q" dep="1v9s-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="1v9r">
+      <w_ id="1v9r" dep="1v9s-amod">
         <w lemma="гривневий" ana="adj:m:v_mis">гривневому</w>
       </w_>
       <w_ id="1v9s">
         <w lemma="еквівалент" ana="noun:inanim:m:v_mis">еквіваленті</w>
       </w_>
       <g/>
-      <w_ id="1v9t">
+      <w_ id="1v9t" dep="1v9n-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1v9u"/>
@@ -3774,25 +3774,25 @@
     </p>
     <p id="1vaw">
       <sb id="1vax"/>
-      <w_ id="1vay">
+      <w_ id="1vay" dep="1vaz-case">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
-      <w_ id="1vaz">
+      <w_ id="1vaz" dep="1vb5-obl">
         <w lemma="результат" ana="noun:inanim:m:v_mis">результаті</w>
       </w_>
-      <w_ id="1vb0">
+      <w_ id="1vb0" dep="1vb2-amod">
         <w lemma="річний" ana="adj:m:v_naz">річний</w>
       </w_>
-      <w_ id="1vb1">
+      <w_ id="1vb1" dep="1vb2-amod">
         <w lemma="плановий" ana="adj:m:v_naz">плановий</w>
       </w_>
-      <w_ id="1vb2">
+      <w_ id="1vb2" dep="1vb5-nsubj">
         <w lemma="показник" ana="noun:inanim:m:v_naz">показник</w>
       </w_>
-      <w_ id="1vb3">
+      <w_ id="1vb3" dep="1vb2-nmod">
         <w lemma="дефіцит" ana="noun:inanim:m:v_rod">дефіциту</w>
       </w_>
-      <w_ id="1vb4">
+      <w_ id="1vb4" dep="1vb3-nmod">
         <w lemma="держбюджет" ana="noun:inanim:m:v_rod">держбюджету</w>
       </w_>
       <w_ id="1vb5">
@@ -3820,7 +3820,7 @@
       <w_ id="1vba">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1vbb">
+      <w_ id="1vbb" dep="1vb5-parataxis">
         <w lemma="нижче" ana="adv:compr">нижче</w>
       </w_>
       <w_ id="1vbc">
@@ -3854,7 +3854,7 @@
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
-      <w_ id="1vbk">
+      <w_ id="1vbk" dep="1vb5-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1vbl"/>

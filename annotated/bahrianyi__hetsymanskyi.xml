@@ -34,7 +34,7 @@
       <w_ id="028s" dep="028t-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="028t" dep="028k-conj:parataxis">
+      <w_ id="028t" dep="028q-conj">
         <w lemma="відлипати" ana="verb:imperf:past:f">відлипала</w>
       </w_>
       <w_ id="028u" dep="028t-nsubj">
@@ -52,7 +52,7 @@
       <w_ id="028y" dep="028z-nsubj">
         <w lemma="око" ana="noun:inanim:p:n:v_naz">очі</w>
       </w_>
-      <w_ id="028z" dep="028k-conj:parataxis">
+      <w_ id="028z" dep="028q-conj">
         <w lemma="дертися" ana="verb:rev:imperf:past:p">дерлися</w>
       </w_>
       <w_ id="0290" dep="0291-case">
@@ -454,7 +454,7 @@
         <w lemma="місце" ana="noun:inanim:n:v_rod">місця</w>
       </w_>
       <g/>
-      <w_ id="02cl">
+      <w_ id="02cl" dep="02bh-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="02cm"/>
@@ -477,7 +477,7 @@
       <w_ id="02ct" dep="02cu-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="02cu" dep="02cr-conj:repeat">
+      <w_ id="02cu" dep="02cr-flat:repeat">
         <w lemma="середина" ana="noun:inanim:f:v_zna">середину</w>
       </w_>
       <w_ id="02cv">
@@ -562,7 +562,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="02dn" dep="02dq-advmod">
+      <w_ id="02dn" dep="02dp-advmod">
         <w lemma="як" ana="adv:&amp;pron:int">Як</w>
       </w_>
       <w_ id="02do" dep="02dp-nsubj">
@@ -585,7 +585,7 @@
       <w_ id="02du" dep="02e3-nsubj">
         <w lemma="всі" ana="adj:p:v_naz:ns:&amp;pron:gen:&amp;noun:anim" lemma2="весь">Всі</w>
       </w_>
-      <w_ id="02dv" dep="02du-det">
+      <w_ id="02dv" dep="02e3-det">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
       <w_ id="02dw" dep="02e3-amod">
@@ -595,7 +595,7 @@
       <w_ id="02dx" dep="02dy-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="02dy" dep="02e3-amod">
+      <w_ id="02dy" dep="02dw-conj">
         <w lemma="благопристойний" ana="adj:p:v_naz:rare">благопристойні</w>
       </w_>
       <g/>
@@ -608,7 +608,7 @@
       <w_ id="02e1" dep="02e2-discourse">
         <w lemma="і" ana="part">і</w>
       </w_>
-      <w_ id="02e2" dep="02e3-amod">
+      <w_ id="02e2" dep="02dw-conj">
         <w lemma="змучений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">змучені</w>
       </w_>
       <w_ id="02e3">
@@ -680,7 +680,7 @@
       <w_ id="02ep">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="02eq" dep="02en-conj">
+      <w_ id="02eq" comment="сів готовий">
         <w lemma="готовий" ana="adj:m:v_naz">готовий</w>
       </w_>
       <w_ id="02er" dep="02eq-xcomp">

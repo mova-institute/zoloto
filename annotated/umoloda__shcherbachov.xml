@@ -42,7 +42,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="179h" dep="179f-appos">
+      <w_ id="179h" dep="179f-nmod">
         <w lemma="Євро" ana="noun:inanim:n:v_rod:nv:prop">Євро</w>
       </w_>
       <g/>
@@ -246,7 +246,7 @@
       <w_ id="17ba" dep="17b9-iobj">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
-      <w_ id="17bb" dep="17b9-ccomp">
+      <w_ id="17bb" dep="17b9-xcomp">
         <w lemma="працювати" ana="verb:imperf:inf">працювати</w>
       </w_>
       <w_ id="17bc" dep="17bd-case">
@@ -423,7 +423,7 @@
       <w_ id="17cu" dep="17cv-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="17cv" dep="17d1-dislocated">
+      <w_ id="17cv" dep="17d1-dislocated" comment="це теж прикладка?">
         <w lemma="НТКУ" ana="noun:inanim:f:v_rod:nv:prop:abbr">НТКУ</w>
       </w_>
       <g/>
@@ -638,7 +638,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="17es"/>
-      <w_ id="17et" dep="17ev-advmod">
+      <w_ id="17et" dep="17ev-discourse" comment="advmod?">
         <w lemma="мабуть" ana="adv">Мабуть</w>
       </w_>
       <g/>
@@ -674,7 +674,7 @@
       <w_ id="17f3" dep="17f6-nsubj">
         <w lemma="пан" ana="noun:anim:p:m:v_naz">пани</w>
       </w_>
-      <w_ id="17f4" dep="17f3-flat">
+      <w_ id="17f4" dep="17f3-flat:title">
         <w lemma="теленачальник" ana="noun:anim:p:m:v_naz:auto">теленачальники</w>
       </w_>
       <g/>
@@ -697,7 +697,7 @@
       <w_ id="17fa" dep="17f6-parataxis" tags="promoted">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="17fb" dep="17fa-advmod">
+      <w_ id="17fb">
         <w lemma="по-людськи" ana="adv">по-людськи</w>
       </w_>
       <g/>
@@ -785,7 +785,7 @@
       <w_ id="17g3" dep="17g4-amod">
         <w lemma="всенародний" ana="adj:n:v_naz:v-u">Всенародне</w>
       </w_>
-      <w_ id="17g4" dep="17g1-appos">
+      <w_ id="17g4" dep="17g1-flat:title">
         <w lemma="визнання" ana="noun:inanim:n:v_naz">визнання</w>
       </w_>
       <g/>
@@ -820,7 +820,7 @@
       <w_ id="17ge" dep="17gf-obl">
         <w lemma="рік" ana="noun:inanim:p:m:v_mis">роках</w>
       </w_>
-      <w_ id="17gf" dep="17g0-parataxis">
+      <w_ id="17gf" dep="17g0-conj">
         <w lemma="очолювати" ana="verb:imperf:past:m">очолював</w>
       </w_>
       <w_ id="17gg" dep="17gf-obj">
@@ -1111,7 +1111,7 @@
       <w_ id="17iv" dep="17iw-amod">
         <w lemma="національний" ana="adj:m:v_naz">Національний</w>
       </w_>
-      <w_ id="17iw" dep="17it-appos">
+      <w_ id="17iw" dep="17it-flat:title">
         <w lemma="реєстр" ana="noun:inanim:m:v_naz">реєстр</w>
       </w_>
       <w_ id="17ix" dep="17iw-nmod">
@@ -1327,7 +1327,7 @@
       <w_ id="17ku" dep="17kv-det">
         <w lemma="інший" ana="adj:p:v_rod:&amp;pron:ind">інших</w>
       </w_>
-      <w_ id="17kv" dep="17ky-obl">
+      <w_ id="17kv">
         <w lemma="захоплення" ana="noun:inanim:p:n:v_rod">захоплень</w>
       </w_>
       <w_ id="17kw" dep="17ky-punct">
@@ -1336,14 +1336,14 @@
       <w_ id="17kx" dep="17ky-amod">
         <w lemma="екстремальний" ana="adj:p:v_naz:compb">екстремальні</w>
       </w_>
-      <w_ id="17ky" tags="promoted">
+      <w_ id="17ky">
         <w lemma="вид" ana="noun:inanim:p:m:v_naz">види</w>
       </w_>
       <w_ id="17kz" dep="17ky-nmod">
         <w lemma="спорт" ana="noun:inanim:m:v_rod">спорту</w>
       </w_>
       <g/>
-      <w_ id="17l0" dep="17ky-punct">
+      <w_ id="17l0">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="17l1"/>
@@ -1353,10 +1353,10 @@
       <w_ id="17l3">
         <w lemma="організувати" ana="verb:perf:past:m">організував</w>
       </w_>
-      <w_ id="17l4" dep="17l3-advmod">
+      <w_ id="17l4" dep="17l5-advmod">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
-      <w_ id="17l5" dep="17l7-nummod">
+      <w_ id="17l5" dep="17l7-nummod:gov">
         <w lemma="30" ana="numr:p:v_rod">30-ти</w>
       </w_>
       <w_ id="17l6" dep="17l7-amod">
@@ -1429,7 +1429,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="17lt" dep="17lr-appos">
+      <w_ id="17lt" dep="17lr-flat:title">
         <w lemma="Україна" ana="noun:inanim:f:v_naz:prop">Україна</w>
       </w_>
       <w_ id="17lu" dep="17lw-punct">
@@ -1487,7 +1487,7 @@
       <w_ id="17ma" dep="17mb-case">
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
-      <w_ id="17mb" dep="17mi-parataxis">
+      <w_ id="17mb" dep="17mi-obl">
         <w lemma="відсутність" ana="noun:inanim:f:v_zna">відсутність</w>
       </w_>
       <w_ id="17mc" dep="17mb-nmod">
