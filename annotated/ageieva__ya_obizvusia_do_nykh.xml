@@ -3135,7 +3135,7 @@
       <w_ id="00ru" dep="00ry-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="00rv" dep="00ry-nmod">
+      <w_ id="00rv" dep="00ry-nsubj">
         <w lemma="вони" ana="noun:p:v_rod:&amp;pron:pers:3">їх</w>
       </w_>
       <w_ id="00rw" dep="00rx-case">
@@ -3144,7 +3144,7 @@
       <w_ id="00rx" dep="00ry-obl">
         <w lemma="дванадцятитомник" ana="noun:inanim:m:v_mis">дванадцятитомнику</w>
       </w_>
-      <w_ id="00ry" dep="00rm-acl" tags="promoted">
+      <w_ id="00ry" dep="00rm-acl">
         <w lemma="безліч" ana="noun:inanim:f:v_naz">безліч</w>
       </w_>
       <g/>
@@ -6902,7 +6902,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="01p8"/>
-      <w_ id="01p9">
+      <w_ id="01p9" dep="01pd-nsubj">
         <w lemma="справа" ana="noun:inanim:f:v_naz">Справа</w>
       </w_>
       <w_ id="01pa" dep="01pb-advmod">
@@ -6914,7 +6914,7 @@
       <w_ id="01pc" dep="01pd-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="01pd" dep="01p9-obl">
+      <w_ id="01pd">
         <w lemma="те" ana="noun:inanim:n:v_mis:&amp;pron:dem">тому</w>
       </w_>
       <g/>
@@ -6969,7 +6969,7 @@
         <w lemma="мова" ana="noun:inanim:f:v_zna">мову</w>
       </w_>
       <g/>
-      <w_ id="01pu" dep="01p9-punct">
+      <w_ id="01pu" dep="01pd-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="01pv"/>
