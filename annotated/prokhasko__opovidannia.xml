@@ -18660,10 +18660,10 @@
     <w_ id="0vk2" dep="0vk3-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="0vk3" dep="0vk4-cop">
+    <w_ id="0vk3">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0vk4">
+    <w_ id="0vk4" dep="0vk3-nsubj">
       <w lemma="електрика" ana="noun:inanim:f:v_rod">електрики</w>
     </w_>
     <g/>
@@ -18679,7 +18679,7 @@
     <w_ id="0vk8" dep="0vk9-advmod">
       <w lemma="щовечора" ana="adv">щовечора</w>
     </w_>
-    <w_ id="0vk9" dep="0vk4-conj:parataxis">
+    <w_ id="0vk9" dep="0vk3-conj:parataxis">
       <w lemma="декламувати" ana="verb:imperf:past:f">декламувала</w>
     </w_>
     <w_ id="0vka" dep="0vk9-obj">
@@ -18695,7 +18695,7 @@
       <w lemma="лампа" ana="noun:inanim:f:v_mis">лампі</w>
     </w_>
     <g/>
-    <w_ id="0vke" dep="0vk4-punct">
+    <w_ id="0vke" dep="0vk3-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0vkf"/>
