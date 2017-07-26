@@ -810,11 +810,11 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="273c"/>
-      <w_ id="273d">
+      <w_ id="273d" dep="2741-discourse">
         <w lemma="наприклад" ana="adv">Наприклад</w>
       </w_>
       <g/>
-      <w_ id="273e" dep="2741-punct">
+      <w_ id="273e" dep="273d-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="273f" dep="273j-case">
@@ -841,7 +841,7 @@
       <w_ id="273l" dep="273m-case">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
-      <w_ id="273m">
+      <w_ id="273m" dep="2741-parataxis:discourse">
         <w lemma="дані" ana="adj:p:v_oru:ns:&amp;adjp:perf:pasv:&amp;noun:inanim" lemma2="даний">даними</w>
       </w_>
       <w_ id="273n" dep="273m-nmod">
@@ -889,7 +889,7 @@
       <w_ id="2740" dep="273z-nmod">
         <w lemma="респондент" ana="noun:anim:p:m:v_rod">респондентів</w>
       </w_>
-      <w_ id="2741" dep="273m-parataxis|273d-parataxis">
+      <w_ id="2741">
         <w lemma="змушений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">змушені</w>
       </w_>
       <w_ id="2742" dep="2741-xcomp" comment="корінь змушені">

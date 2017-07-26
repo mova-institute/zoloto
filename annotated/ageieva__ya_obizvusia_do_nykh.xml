@@ -17,7 +17,7 @@
       <w_ id="0007" dep="0006-flat:title">
         <w lemma="Руфін" ana="noun:anim:m:v_rod:prop:fname">Руфіна</w>
       </w_>
-      <w_ id="0008" comment="існувала?">
+      <w_ id="0008">
         <w lemma="бути" ana="verb:imperf:past:f">була</w>
       </w_>
       <w_ id="0009" dep="000a-amod">
@@ -121,7 +121,7 @@
       <w_ id="0015" dep="0016-det">
         <w lemma="свій" ana="adj:n:v_rod:poss:&amp;pron:refl">свого</w>
       </w_>
-      <w_ id="0016" dep="0014-obl">
+      <w_ id="0016" dep="0014-obj">
         <w lemma="право" ana="noun:inanim:n:v_rod">права</w>
       </w_>
       <w_ id="0017" dep="0018-advmod">
@@ -3656,7 +3656,7 @@
           <w lemma="«" ana="punct:quote:open">«</w>
         </w_>
         <g/>
-        <w_ id="00wl" dep="00wj-obj">
+        <w_ id="00wl" dep="00wj-obj" tags="graft" comment="чи таки :inanimish?">
           <w lemma="гетьман" ana="noun:anim:p:m:v_naz">Гетьмани</w>
         </w_>
         <g/>

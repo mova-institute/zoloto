@@ -4952,7 +4952,7 @@
     <w_ id="0s0z" dep="0s10-case">
       <w lemma="у" ana="prep:rv_mis:v-u">У</w>
     </w_>
-    <w_ id="0s10">
+    <w_ id="0s10" dep="0s14-obl">
       <w lemma="кишеня" ana="noun:inanim:f:v_mis">кишені</w>
     </w_>
     <w_ id="0s11" dep="0s13-det">
@@ -4961,17 +4961,17 @@
     <w_ id="0s12" dep="0s13-amod">
       <w lemma="зимовий" ana="adj:m:v_rod">зимового</w>
     </w_>
-    <w_ id="0s13" dep="0s10-nmod|0s15-obl">
+    <w_ id="0s13" dep="0s10-nmod">
       <w lemma="плащ" ana="noun:inanim:m:v_rod">плаща</w>
     </w_>
-    <w_ id="0s14" dep="0s15-cop">
+    <w_ id="0s14">
       <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
     </w_>
-    <w_ id="0s15">
+    <w_ id="0s15" dep="0s14-nsubj">
       <w lemma="кастет" ana="noun:inanim:m:v_naz">кастет</w>
     </w_>
     <g/>
-    <w_ id="0s16" dep="0s15-punct">
+    <w_ id="0s16" dep="0s14-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0s17"/>
@@ -44294,13 +44294,13 @@
     <w_ id="124k" dep="124q-obl">
       <w lemma="демобілізація" ana="noun:inanim:f:v_rod">демобілізації</w>
     </w_>
-    <w_ id="124l" dep="124n-case">
+    <w_ id="124l">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
     <w_ id="124m">
       <w lemma="сорок" ana="numr:p:v_naz">сорок</w>
     </w_>
-    <w_ id="124n" dep="124m-flat|124k-nmod" tags="promoted" mark="reviewed">
+    <w_ id="124n" tags="promoted" mark="reviewed">
       <w lemma="шостий" ana="adj:m:v_mis:&amp;numr:&amp;noun:inanim" lemma2="шостий">шостому</w>
     </w_>
     <w_ id="124o" dep="124q-nsubj">
