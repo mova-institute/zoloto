@@ -32,7 +32,7 @@
       <div type="dedication">
         <p id="14fv">
           <sb id="14fw"/>
-          <w_ id="14fx" dep="14fz-obl">
+          <w_ id="14fx" dep="14fz-iobj">
             <w lemma="любов" ana="noun:inanim:f:v_dav">Любові</w>
           </w_>
           <w_ id="14fy" dep="14fx-amod">
@@ -76,7 +76,7 @@
           <w_ id="14ga" dep="14g3-obl">
             <w lemma="костюм" ana="noun:inanim:m:v_mis">костюмі</w>
           </w_>
-          <w_ id="14gb" dep="14gf-punct">
+          <w_ id="14gb" dep="14gn-punct">
             <w lemma="(" ana="punct:open">(</w>
           </w_>
           <g/>
@@ -89,7 +89,7 @@
           <w_ id="14ge" dep="14gd-nmod">
             <w lemma="цегла" ana="noun:inanim:f:v_rod">цегли</w>
           </w_>
-          <w_ id="14gf" dep="14g3-parataxis">
+          <w_ id="14gf" dep="14gn-advcl">
             <w lemma="розвантажити" ana="verb:perf:past:m">розвантажив</w>
           </w_>
           <w_ id="14gg" dep="14gh-case">
@@ -114,11 +114,11 @@
           <w_ id="14gm" dep="14gn-discourse">
             <w lemma="й" ana="part">й</w>
           </w_>
-          <w_ id="14gn">
+          <w_ id="14gn" dep="14ga-parataxis">
             <w lemma="купити" ana="verb:perf:past:m">купив</w>
           </w_>
           <g/>
-          <w_ id="14go" dep="14gf-punct">
+          <w_ id="14go" dep="14gn-punct">
             <w lemma=")" ana="punct:close">)</w>
           </w_>
           <w_ id="14gp" dep="14gr-cc">
@@ -160,7 +160,7 @@
           <w_ id="14h1" dep="14h2-punct">
             <w lemma="—" ana="punct">—</w>
           </w_>
-          <w_ id="14h2" dep="14h0-obj">
+          <w_ id="14h2" dep="14gx-nsubj">
             <w lemma="хата" ana="noun:inanim:f:v_zna">хату</w>
           </w_>
           <w_ id="14h3" dep="14h2-nmod" mark="resolved">
@@ -170,7 +170,7 @@
             <w lemma="Ярковий" ana="noun:anim:m:v_rod:prop:lname">Яркового</w>
           </w_>
           <g/>
-          <w_ id="14h5">
+          <w_ id="14h5" dep="14gx-punct">
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="14h6"/>
@@ -195,7 +195,7 @@
           <w_ id="14hd" dep="14he-amod">
             <w lemma="рівний" ana="adj:p:v_oru:compb">рівними</w>
           </w_>
-          <w_ id="14he" dep="14hc-nmod">
+          <w_ id="14he" dep="14hc-obl">
             <w lemma="рядочок" ana="noun:inanim:p:m:v_oru">рядочками</w>
           </w_>
           <w_ id="14hf" dep="14hh-case">
@@ -204,7 +204,7 @@
           <w_ id="14hg" dep="14hh-amod">
             <w lemma="жовтий" ana="adj:m:v_mis:compb">жовтому</w>
           </w_>
-          <w_ id="14hh" dep="14hc-nmod">
+          <w_ id="14hh" dep="14hc-obl">
             <w lemma="пісок" ana="noun:inanim:m:v_mis">піску</w>
           </w_>
           <g/>
@@ -259,7 +259,7 @@
           <w_ id="14hz" dep="14i0-case">
             <w lemma="без" ana="prep:rv_rod">без</w>
           </w_>
-          <w_ id="14i0" dep="14hx-acl">
+          <w_ id="14i0" dep="14hy-obl">
             <w lemma="хустка" ana="noun:inanim:f:v_rod">хустки</w>
           </w_>
           <g/>
@@ -273,7 +273,7 @@
           <w_ id="14i3" dep="14i4-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="14i4" dep="14hx-conj">
+          <w_ id="14i4" dep="14i0-conj">
             <w lemma="пишноволосий" ana="adj:f:v_naz">пишноволоса</w>
           </w_>
           <w_ id="14i5" dep="14i9-punct">
@@ -297,7 +297,7 @@
           <w_ id="14ib" dep="14i9-obl">
             <w lemma="сонце" ana="noun:inanim:n:v_rod">сонця</w>
           </w_>
-          <w_ id="14ic" dep="14i9-xcomp">
+          <w_ id="14ic" dep="14i9-advcl:2">
             <w lemma="золотий" ana="adj:n:v_oru">золотим</w>
           </w_>
           <g/>
@@ -318,11 +318,11 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="14ii"/>
-          <w_ id="14ij" dep="14ip-advmod">
+          <w_ id="14ij" dep="14ip-parataxis:discourse">
             <w lemma="видно" ana="adv:compb">Видно</w>
           </w_>
           <g/>
-          <w_ id="14ik" dep="14il-punct">
+          <w_ id="14ik" dep="14il-punct|14ij-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
           <w_ id="14il" dep="14ip-parataxis">
@@ -378,7 +378,7 @@
           <w_ id="14j2">
             <w lemma="вклонятися" ana="verb:rev:imperf:pres:s:1:v-u">вклоняюся</w>
           </w_>
-          <w_ id="14j3" dep="14j2-obl">
+          <w_ id="14j3" dep="14j2-iobj">
             <w lemma="Марфа" ana="noun:anim:f:v_dav:prop:fname">Марфі</w>
           </w_>
           <w_ id="14j4" dep="14j5-cc">
@@ -431,10 +431,10 @@
           <w_ id="14jm">
             <w lemma="ворушити" ana="verb:imperf:pres:s:3">ворушить</w>
           </w_>
-          <w_ id="14jn" dep="14jm-obl:agent">
+          <w_ id="14jn" dep="14jm-obl">
             <w lemma="губа" ana="noun:inanim:p:f:v_oru">губами</w>
           </w_>
-          <w_ id="14jo" mark="reviewed">
+          <w_ id="14jo" dep="14jp-cc" mark="reviewed">
             <w lemma="і" ana="conj:coord">і</w>
           </w_>
           <w_ id="14jp" dep="14jm-conj">
@@ -495,7 +495,7 @@
           <w_ id="14k6" dep="14k7-obj">
             <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
           </w_>
-          <w_ id="14k7" dep="14jz-acl">
+          <w_ id="14k7" dep="14jz-parataxis" comment="звідти паратакса?">
             <w lemma="називати" ana="verb:imperf:pres:p:3">називають</w>
           </w_>
           <w_ id="14k8" dep="14k7-discourse">
@@ -560,20 +560,20 @@
           <w_ id="14kr" dep="14ks-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="14ks" dep="14kp-parataxis">
+          <w_ id="14ks" dep="14kp-conj">
             <w lemma="радіти" ana="verb:imperf:pres:s:3">радіє</w>
           </w_>
           <g/>
           <w_ id="14kt" dep="14ku-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="14ku" dep="14kp-parataxis">
+          <w_ id="14ku" dep="14kp-conj">
             <w lemma="плакати" ana="verb:imperf:pres:s:3">плаче</w>
           </w_>
           <w_ id="14kv" dep="14kw-cc">
             <w lemma="і" ana="conj:coord">і</w>
           </w_>
-          <w_ id="14kw" dep="14kp-conj:parataxis">
+          <w_ id="14kw" dep="14kp-conj">
             <w lemma="підставляти" ana="verb:imperf:pres:s:3">підставляє</w>
           </w_>
           <w_ id="14kx" dep="14kw-iobj">
@@ -602,17 +602,17 @@
           <w_ id="14l6" dep="14l7-punct">
             <w lemma="—" ana="punct">—</w>
           </w_>
-          <w_ id="14l7" dep="14la-vocative">
+          <w_ id="14l7" dep="14m1-vocative">
             <w lemma="мама" ana="noun:anim:f:v_kly">Мамо</w>
           </w_>
           <g/>
-          <w_ id="14l8" dep="14l7-punct">
+          <w_ id="14l8" dep="14la-punct|14l7-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
           <w_ id="14l9" dep="14la-punct">
             <w lemma="—" ana="punct">—</w>
           </w_>
-          <w_ id="14la">
+          <w_ id="14la" dep="14m1-parataxis">
             <w lemma="питати" ana="verb:imperf:pres:s:1">питаю</w>
           </w_>
           <w_ id="14lb" dep="14lc-case">
@@ -671,7 +671,7 @@
           <w_ id="14lr" dep="14li-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="14ls" dep="14m1-punct">
+          <w_ id="14ls" dep="14li-punct">
             <w lemma="—" ana="punct">—</w>
           </w_>
           <w_ id="14lt" dep="14m1-discourse" mark="resolved">
@@ -698,11 +698,11 @@
           <w_ id="14m0" dep="14m1-advmod">
             <w lemma="так" ana="adv:&amp;pron:dem">так</w>
           </w_>
-          <w_ id="14m1" dep="14la-parataxis">
+          <w_ id="14m1">
             <w lemma="дивитися" ana="verb:rev:imperf:pres:s:3">дивиться</w>
           </w_>
           <g/>
-          <w_ id="14m2" dep="14la-punct">
+          <w_ id="14m2" dep="14m1-punct">
             <w lemma="?" ana="punct">?</w>
           </w_>
         </p>
@@ -738,7 +738,7 @@
         <w lemma="казати" ana="verb:imperf:pres:s:3">каже</w>
       </w_>
       <g/>
-      <w_ id="14md">
+      <w_ id="14md" dep="14m7-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
     </p>
@@ -815,7 +815,7 @@
       <w_ id="14n2" dep="14n3-obl">
         <w lemma="зріст" ana="noun:inanim:m:v_zna">зріст</w>
       </w_>
-      <w_ id="14n3" dep="14mu-acl">
+      <w_ id="14n3" dep="14n9-parataxis">
         <w lemma="звати" ana="verb:imperf:past:p">звали</w>
       </w_>
       <w_ id="14n4" dep="14n6-punct">
@@ -884,7 +884,7 @@
       <w_ id="14no" dep="14np-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14np" dep="14nm-advmod">
+      <w_ id="14np" dep="14ns-discourse">
         <w lemma="мабуть" ana="adv">мабуть</w>
       </w_>
       <g/>
@@ -908,10 +908,10 @@
         <w lemma="лист" ana="noun:inanim:m:v_zna:xp1">лист</w>
       </w_>
       <g/>
-      <w_ id="14nw" dep="14nv-punct">
+      <w_ id="14nw" dep="14o1-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14nx" dep="14np-conj:repeat">
+      <w_ id="14nx" dep="14o1-discourse">
         <w lemma="мабуть" ana="adv">мабуть</w>
       </w_>
       <g/>
@@ -956,7 +956,7 @@
       <w_ id="14ob" dep="14oc-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14oc" dep="14o8-parataxis">
+      <w_ id="14oc" dep="14o8-conj">
         <w lemma="сісти" ana="verb:perf:futr:s:3">сяде</w>
       </w_>
       <w_ id="14od" dep="14oe-case">
@@ -968,7 +968,7 @@
       <w_ id="14of" dep="14og-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="14og" dep="14oc-nsubj" tags="promoted" comment="перерозібрати коли з цим дивним acl розберемося">
+      <w_ id="14og" dep="14oc-advcl">
         <w lemma="тонесенький" ana="adj:f:v_naz">тонесенька</w>
       </w_>
       <g/>
@@ -1018,14 +1018,14 @@
       <w_ id="14ov" dep="14ow-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="14ow" dep="14o8-parataxis">
+      <w_ id="14ow" dep="14o8-conj">
         <w lemma="сидіти" ana="verb:imperf:pres:s:3">сидить</w>
       </w_>
       <g/>
       <w_ id="14ox" dep="14oy-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14oy" dep="14ow-parataxis">
+      <w_ id="14oy" dep="14ow-conj">
         <w lemma="сяяти" ana="verb:imperf:pres:s:3">сяє</w>
       </w_>
       <w_ id="14oz" dep="14p0-amod">
@@ -1040,14 +1040,14 @@
       <w_ id="14p2" dep="14p3-amod">
         <w lemma="чорний" ana="adj:f:v_rod:compb">чорної</w>
       </w_>
-      <w_ id="14p3" dep="14p0-nmod">
+      <w_ id="14p3" dep="14oy-obl">
         <w lemma="хустка" ana="noun:inanim:f:v_rod">хустки</w>
       </w_>
       <g/>
       <w_ id="14p4" dep="14p5-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="14p5" dep="14ow-parataxis">
+      <w_ id="14p5" dep="14o8-parataxis">
         <w lemma="втекти" ana="verb:perf:past:f:v-u">втекла</w>
       </w_>
       <w_ id="14p6" dep="14p7-case">
@@ -1095,13 +1095,13 @@
       <w_ id="14pj" dep="14pm-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14pk" dep="14pm-obl">
+      <w_ id="14pk" dep="14pm-advmod">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="14pl" dep="14pm-obj">
         <w lemma="сіно" ana="noun:inanim:n:v_zna">сіно</w>
       </w_>
-      <w_ id="14pm" dep="14pi-advcl">
+      <w_ id="14pm" dep="14pi-acl">
         <w lemma="скиртувати" ana="verb:imperf:pres:p:3">скиртують</w>
       </w_>
       <g/>
@@ -1124,7 +1124,7 @@
       <w_ id="14pu" dep="14pv-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="14pv" dep="14pr-parataxis">
+      <w_ id="14pv" dep="14pr-conj">
         <w lemma="обривати" ana="verb:imperf:pres:s:3">обриває</w>
       </w_>
       <w_ id="14pw" dep="14pv-obj">
@@ -1165,7 +1165,7 @@
       <w_ id="14q6" dep="14q7-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14q7" dep="14q3-conj:repeat" mark="resolved">
+      <w_ id="14q7" dep="14q3-flat:repeat" mark="resolved">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <w_ id="14q8" dep="14q9-punct">
@@ -1178,7 +1178,7 @@
       <w_ id="14qa" dep="14qb-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14qb" dep="14q3-conj:repeat" mark="resolved">
+      <w_ id="14qb" dep="14q3-flat:repeat" mark="resolved">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <g/>
@@ -1220,7 +1220,7 @@
       <w_ id="14qp" dep="14qq-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="14qq" dep="14qm-acl">
+      <w_ id="14qq" dep="14qm-amod">
         <w lemma="височенний" ana="adj:m:v_naz">височенний</w>
       </w_>
       <g/>
@@ -1265,7 +1265,7 @@
       <w_ id="14r3" dep="14r4-advmod">
         <w lemma="гостро" ana="adv:compb">гостро</w>
       </w_>
-      <w_ id="14r4" dep="14r6-acl">
+      <w_ id="14r4" dep="14r6-amod">
         <w lemma="піднятий" ana="adj:n:v_zna:&amp;adjp:perf:pasv">підняте</w>
       </w_>
       <w_ id="14r5" dep="14r4-advmod">
@@ -1275,7 +1275,7 @@
         <w lemma="плече" ana="noun:inanim:n:v_zna">плече</w>
       </w_>
       <g/>
-      <w_ id="14r7" dep="14r1-punct">
+      <w_ id="14r7" dep="14qk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="14r8" dep="14r9-nsubj">
@@ -1287,7 +1287,7 @@
       <w_ id="14ra" dep="14rb-obj">
         <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
       </w_>
-      <w_ id="14rb" dep="14r9-advcl">
+      <w_ id="14rb" dep="14r9-advmod">
         <w lemma="назустріч" ana="adv">назустріч</w>
       </w_>
       <w_ id="14rc" dep="14rd-cc">
@@ -1368,7 +1368,7 @@
         <w lemma="мати" ana="verb:imperf:pres:s:3:neg">Нема</w>
       </w_>
       <g/>
-      <w_ id="14s2" dep="14s1-punct">
+      <w_ id="14s2" dep="14s4-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="14s3" dep="14s4-punct">
@@ -1422,7 +1422,7 @@
         <w lemma="хустка" ana="noun:inanim:f:v_rod">хустки</w>
       </w_>
       <g/>
-      <w_ id="14sj" dep="14s4-punct">
+      <w_ id="14sj" dep="14s1-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="14sk"/>
@@ -1483,16 +1483,16 @@
       <w lemma="бути" ana="verb:imperf:pres:s:3">Є</w>
     </w_>
     <g/>
-    <w_ id="14t6" dep="14t7-punct">
+    <w_ id="14t6" dep="14t9-punct">
       <w lemma="…" ana="punct">…</w>
     </w_>
-    <w_ id="14t7" dep="14t9-discourse">
+    <w_ id="14t7" dep="14t9-cc">
       <w lemma="так" ana="conj:coord">так</w>
     </w_>
     <w_ id="14t8" dep="14t9-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="14t9" dep="14t5-parataxis" tags="promoted">
+    <w_ id="14t9" dep="14t5-conj" tags="promoted">
       <w lemma="ти" ana="noun:anim:s:v_dav:&amp;pron:pers:2">тобі</w>
     </w_>
     <g/>
@@ -1519,7 +1519,7 @@
     <w_ id="14ti">
       <w lemma="дядечко" ana="noun:anim:m:v_kly">Дядечку</w>
     </w_>
-    <w_ id="14tj" dep="14ti-appos">
+    <w_ id="14tj" dep="14ti-flat:title">
       <w lemma="Левко" ana="noun:anim:m:v_kly:prop:fname:xp1">Левку</w>
     </w_>
     <g/>
@@ -1545,7 +1545,7 @@
     <w_ id="14tr" dep="14ts-obl">
       <w lemma="рука" ana="noun:inanim:p:f:v_mis">руках</w>
     </w_>
-    <w_ id="14ts" dep="14tm-ccomp">
+    <w_ id="14ts" dep="14tm-compound:svc">
       <w lemma="подержати" ana="verb:perf:futr:s:1:auto">подержу</w>
     </w_>
     <g/>
@@ -1680,7 +1680,7 @@
     <w_ id="14v3" dep="14v4-advmod" mark="reviewed">
       <w lemma="ще" ana="adv">ще</w>
     </w_>
-    <w_ id="14v4" dep="14ut-acl">
+    <w_ id="14v4" dep="14ux-advcl:2">
       <w lemma="синіший" ana="adj:p:v_naz:compr">синіші</w>
     </w_>
     <g/>
@@ -1767,7 +1767,7 @@
       <w lemma="Марфа" ana="noun:anim:f:v_dav:prop:fname">Марфі</w>
     </w_>
     <g/>
-    <w_ id="14vy">
+    <w_ id="14vy" dep="14vr-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
   </p>
@@ -1889,23 +1889,23 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="14x2"/>
-    <w_ id="14x3" dep="14x6-punct">
+    <w_ id="14x3">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="14x4" dep="14x6-discourse">
+    <w_ id="14x4">
       <w lemma="ось" ana="part">Ось</w>
     </w_>
-    <w_ id="14x5" dep="14x6-obj">
+    <w_ id="14x5">
       <w lemma="ви" ana="noun:anim:p:v_dav:&amp;pron:pers:2:formal">вам</w>
     </w_>
-    <w_ id="14x6" tags="promoted">
+    <w_ id="14x6">
       <w lemma="хрест" ana="noun:inanim:m:v_naz">хрест</w>
     </w_>
     <w_ id="14x7" dep="14x6-amod">
       <w lemma="святий" ana="adj:m:v_naz:compb">святий</w>
     </w_>
     <g/>
-    <w_ id="14x8" dep="14x6-punct">
+    <w_ id="14x8">
       <w lemma="!" ana="punct">!</w>
     </w_>
     <sb id="14x9"/>
@@ -1918,16 +1918,16 @@
     <w_ id="14xd">
       <w lemma="хапати" ana="verb:imperf:pres:s:3">хапає</w>
     </w_>
-    <w_ id="14xe" dep="14xg-case">
+    <w_ id="14xe" dep="14xf-case">
       <w lemma="з" ana="prep:rv_rod">з</w>
     </w_>
-    <w_ id="14xf" dep="14xg-amod" mark="reviewed">
+    <w_ id="14xf" dep="14xd-obl" mark="reviewed" comment="чи не пропущені руки?">
       <w lemma="Левків" ana="adj:p:v_rod">Левкових</w>
     </w_>
-    <w_ id="14xg" dep="14xd-obl" mark="reviewed">
+    <w_ id="14xg" dep="14xd-obj" mark="reviewed">
       <w lemma="пучка" ana="noun:inanim:p:f:v_rod">пучок</w>
     </w_>
-    <w_ id="14xh" dep="14xd-obj">
+    <w_ id="14xh" dep="14xg-nmod">
       <w lemma="лист" ana="noun:inanim:m:v_rod:xp1">листа</w>
     </w_>
     <w_ id="14xi" dep="14xj-punct">
@@ -1942,7 +1942,7 @@
     <w_ id="14xl" dep="14xd-parataxis">
       <w lemma="котитися" ana="verb:rev:imperf:pres:p:3">котяться</w>
     </w_>
-    <w_ id="14xm" mark="resolved">
+    <w_ id="14xm" dep="14xl-iobj" mark="resolved">
       <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">їй</w>
     </w_>
     <w_ id="14xn" dep="14xo-case">
@@ -1951,10 +1951,10 @@
     <w_ id="14xo" dep="14xl-obl">
       <w lemma="щока" ana="noun:inanim:p:f:v_mis">щоках</w>
     </w_>
-    <w_ id="14xp" dep="14xq-punct">
+    <w_ id="14xp" dep="14xl-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="14xq" dep="14xd-parataxis">
+    <w_ id="14xq" dep="14xd-conj">
       <w lemma="пригортати" ana="verb:imperf:pres:s:3">пригортає</w>
     </w_>
     <w_ id="14xr" dep="14xq-obj">
@@ -1970,7 +1970,7 @@
     <w_ id="14xu" dep="14xv-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="14xv" dep="14xd-parataxis">
+    <w_ id="14xv" dep="14xd-conj">
       <w lemma="цілувати" ana="verb:imperf:pres:s:3">цілує</w>
     </w_>
     <w_ id="14xw" dep="14xy-case" mark="reviewed">
@@ -2103,14 +2103,14 @@
     <w_ id="14z3" dep="14z4-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="14z4" dep="14yt-parataxis">
+    <w_ id="14z4" dep="14yt-conj">
       <w lemma="шепотати" ana="verb:imperf:pres:s:3">шепоче</w>
     </w_>
     <g/>
     <w_ id="14z5" dep="14z6-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="14z6" dep="14z4-conj:repeat">
+    <w_ id="14z6" dep="14z4-flat:repeat">
       <w lemma="шепотати" ana="verb:imperf:pres:s:3">шепоче</w>
     </w_>
     <g/>
@@ -2134,7 +2134,7 @@
     <w_ id="14ze" dep="14zf-discourse">
       <w lemma="от" ana="part">от</w>
     </w_>
-    <w_ id="14zf" dep="14zm-parataxis" mark="resolved" comment="ccomp?">
+    <w_ id="14zf" dep="14zm-parataxis:discourse" mark="resolved" comment="ccomp?">
       <w lemma="бачити" ana="verb:imperf:pres:p:2">бачте</w>
     </w_>
     <g/>
@@ -2170,7 +2170,7 @@
     <w_ id="14zq">
       <w lemma="нести" ana="verb:imperf:impr:p:2">несіть</w>
     </w_>
-    <w_ id="14zr" dep="14zq-obj">
+    <w_ id="14zr" dep="14zq-iobj">
       <w lemma="Софія" ana="noun:anim:f:v_dav:prop:fname:xp1">Софії</w>
     </w_>
     <g/>
@@ -2181,7 +2181,7 @@
     <w_ id="14zu" dep="14zz-nsubj">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
     </w_>
-    <w_ id="14zv" dep="14zu-discourse">
+    <w_ id="14zv" dep="14zz-discourse">
       <w lemma="ж" ana="part">ж</w>
     </w_>
     <w_ id="14zw" dep="14zz-obj">
@@ -2215,7 +2215,7 @@
     <w_ id="1505" dep="1504-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1506" dep="1504-acl" mark="reviewed">
+    <w_ id="1506" dep="1504-amod" mark="reviewed">
       <w lemma="рідненький" ana="adj:m:v_kly">рідненький</w>
     </w_>
     <g/>
@@ -2370,7 +2370,7 @@
       <w_ id="151l" dep="151o-nsubj">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
-      <w_ id="151m" dep="151o-discourse">
+      <w_ id="151m" dep="151o-advmod">
         <w lemma="й" ana="part">й</w>
       </w_>
       <w_ id="151n" dep="151m-fixed">
@@ -2560,10 +2560,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="153d"/>
-      <w_ id="153e" dep="153f-advmod">
+      <w_ id="153e" dep="153g-cc">
         <w lemma="не" ana="part:neg">Не</w>
       </w_>
-      <w_ id="153f" dep="153g-advmod" mark="resolved">
+      <w_ id="153f" dep="153e-fixed" mark="resolved">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
       <w_ id="153g" dep="153l-nsubj">
@@ -2576,7 +2576,7 @@
       <w_ id="153i" dep="153k-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="153j" dep="153k-cc">
+      <w_ id="153j" dep="153i-fixed">
         <w lemma="й" ana="conj:coord">й</w>
       </w_>
       <w_ id="153k" dep="153g-conj">
@@ -2600,7 +2600,7 @@
       <w_ id="153q" dep="153u-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="153r" dep="153u-advmod">
+      <w_ id="153r" dep="153u-discourse">
         <w lemma="може" ana="adv">може</w>
       </w_>
       <g/>
@@ -2610,7 +2610,7 @@
       <w_ id="153t" dep="153u-nsubj" mark="reviewed">
         <w lemma="то" ana="noun:inanim:n:v_naz:&amp;pron:dem">то</w>
       </w_>
-      <w_ id="153u" dep="153p-parataxis" tags="promoted">
+      <w_ id="153u" dep="153p-parataxis">
         <w lemma="іній" ana="noun:inanim:m:v_naz">іній</w>
       </w_>
       <w_ id="153v" dep="153x-punct">
@@ -2643,17 +2643,17 @@
       <w_ id="1543" dep="1544-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="1544" dep="1541-parataxis" mark="resolved">
+      <w_ id="1544" dep="1547-discourse" mark="resolved">
         <w lemma="ні" ana="intj">ні</w>
       </w_>
       <g/>
-      <w_ id="1545" dep="1547-punct">
+      <w_ id="1545" dep="1544-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1546" dep="1547-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1547" dep="1544-parataxis">
+      <w_ id="1547" dep="1541-parataxis">
         <w lemma="іній" ana="noun:inanim:m:v_naz">іній</w>
       </w_>
       <g/>
