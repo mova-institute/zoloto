@@ -568,10 +568,10 @@
             <w_ id="03ix" dep="03iz-nummod:gov">
               <w lemma="тридцять" ana="numr:p:v_zna">тридцять</w>
             </w_>
-            <w_ id="03iy" dep="03iz-nummod:gov">
+            <w_ id="03iy" dep="03ix-flat">
               <w lemma="дев’ять" ana="numr:p:v_zna">дев’ять</w>
             </w_>
-            <w_ id="03iz" dep="03iw-obl">
+            <w_ id="03iz" dep="03iw-obj">
               <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
             </w_>
             <w_ id="03j0" dep="03j2-cc">
@@ -580,7 +580,7 @@
             <w_ id="03j1" dep="03j2-amod">
               <w lemma="варикозний" ana="adj:f:v_zna">варикозну</w>
             </w_>
-            <w_ id="03j2" dep="03iw-obj">
+            <w_ id="03j2" dep="03iz-conj">
               <w lemma="виразка" ana="noun:inanim:f:v_zna">виразку</w>
             </w_>
             <w_ id="03j3" dep="03j5-case">
@@ -2060,16 +2060,16 @@
           <w_ id="03wm" dep="03wt-advmod">
             <w lemma="часто" ana="adv:compb">часто</w>
           </w_>
-          <w_ id="03wn" dep="03wo-cc">
+          <w_ id="03wn" dep="03wq-cc">
             <w lemma="чи" ana="conj:coord">чи</w>
           </w_>
-          <w_ id="03wo" dep="03wm-conj">
-            <w lemma="згідно" ana="adv">згідно</w>
+          <w_ id="03wo" dep="03wq-case">
+            <w lemma="згідно" ana="prep:rv_rod">згідно</w>
           </w_>
           <w_ id="03wp" dep="03wq-det">
             <w lemma="який" ana="adj:f:v_rod:&amp;pron:rel">якої</w>
           </w_>
-          <w_ id="03wq" dep="03wo-obl">
+          <w_ id="03wq" dep="03wm-conj">
             <w lemma="система" ana="noun:inanim:f:v_rod">системи</w>
           </w_>
           <w_ id="03wr" dep="03wt-nsubj">
@@ -2190,7 +2190,7 @@
           <w_ id="03xu" dep="03xm-obl">
             <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
           </w_>
-          <w_ id="03xv" dep="03xy-obl">
+          <w_ id="03xv" dep="03xy-advmod">
             <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
           </w_>
           <w_ id="03xw" dep="03xy-nsubj">
@@ -3166,7 +3166,7 @@
           <w_ id="046t" dep="0470-obl">
             <w lemma="місце" ana="noun:inanim:n:v_rod">місця</w>
           </w_>
-          <w_ id="046u" dep="046v-obl">
+          <w_ id="046u" dep="046v-advmod">
             <w lemma="де" ana="adv:&amp;pron:rel">де</w>
           </w_>
           <w_ id="046v" dep="046t-acl">
@@ -6098,7 +6098,7 @@
           <w_ id="04y0" dep="04y1-amod">
             <w lemma="масткий" ana="adj:m:v_rod">масткого</w>
           </w_>
-          <w_ id="04y1" dep="04xz-obl">
+          <w_ id="04y1" dep="04xz-obj">
             <w lemma="бруд" ana="noun:inanim:m:v_rod">бруду</w>
           </w_>
           <g/>
@@ -9488,7 +9488,7 @@
           <w_ id="05tm" dep="05to-nummod:gov">
             <w lemma="двадцять" ana="numr:p:v_rod">двадцяти</w>
           </w_>
-          <w_ id="05tn" dep="05to-nummod:gov">
+          <w_ id="05tn" dep="05tm-flat">
             <w lemma="сім" ana="numr:p:v_rod">семи</w>
           </w_>
           <w_ id="05to" dep="05ti-acl">
@@ -15841,7 +15841,7 @@
           <w_ id="07ft" dep="07fu-det">
             <w lemma="свій" ana="adj:m:v_rod:poss:&amp;pron:refl">свого</w>
           </w_>
-          <w_ id="07fu" dep="07fs-obl">
+          <w_ id="07fu" dep="07fs-obj">
             <w lemma="апогей" ana="noun:inanim:m:v_rod">апогею</w>
           </w_>
           <g/>

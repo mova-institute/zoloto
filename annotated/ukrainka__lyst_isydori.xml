@@ -247,7 +247,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="15fb"/>
-      <w_ id="15fc" dep="15ff-cop">
+      <w_ id="15fc" comment="переробити">
         <w lemma="бути" ana="verb:aux:imperf:past:n">Було</w>
       </w_>
       <w_ id="15fd" dep="15fc-advmod">
@@ -257,7 +257,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <foreign lang="ru">
-        <w_ id="15ff">
+        <w_ id="15ff" dep="15fc-nsubj">
           <w lemma="утро" ana="noun:foreign">утро</w>
         </w_>
       </foreign>
@@ -293,10 +293,10 @@
       <w_ id="15fp" dep="15fr-cc">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="15fq" dep="15ff-det">
+      <w_ id="15fq" dep="15fr-det">
         <w lemma="такий" ana="adj:n:v_naz:&amp;pron:dem">таке</w>
       </w_>
-      <w_ id="15fr" dep="15ff-amod">
+      <w_ id="15fr" dep="15ff-conj" tags="promoted" comment="?">
         <w lemma="поганий" ana="adj:n:v_naz:compb">погане</w>
       </w_>
       <g/>
@@ -312,7 +312,7 @@
       <w_ id="15fv" dep="15fw-discourse">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
-      <w_ id="15fw" dep="15g2-obj" comment="obj?">
+      <w_ id="15fw" comment="obj?">
         <w lemma="актор" ana="noun:anim:p:m:v_dav">акторам</w>
       </w_>
       <g/>
@@ -331,7 +331,7 @@
       <w_ id="15g1" dep="15g2-cop">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
-      <w_ id="15g2" dep="15fr-advcl">
+      <w_ id="15g2">
         <w lemma="сором" ana="adv">сором</w>
       </w_>
       <w_ id="15g3" dep="15g4-cc">
@@ -353,7 +353,7 @@
         <w lemma="другий" ana="adj:p:v_zna:ranim:&amp;pron:ind">других</w>
       </w_>
       <g/>
-      <w_ id="15g9" dep="15ff-punct">
+      <w_ id="15g9" dep="15fc-punct">
         <w lemma="…" ana="punct">…</w>
       </w_>
       <sb id="15ga"/>
