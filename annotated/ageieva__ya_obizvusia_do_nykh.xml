@@ -146,7 +146,7 @@
       <w_ id="001d" dep="001e-det">
         <w lemma="вони" ana="adj:m:v_zna:poss:nv:&amp;pron:pers:odd:3">їх</w>
       </w_>
-      <w_ id="001e">
+      <w_ id="001e" dep="0019-advcl">
         <w lemma="погляд" ana="noun:inanim:m:v_zna">погляд</w>
       </w_>
       <g/>
@@ -216,7 +216,7 @@
       <w_ id="0020" dep="0025-mark">
         <w lemma="як" ana="conj:subord">Як</w>
       </w_>
-      <w_ id="0021" dep="0020-discourse">
+      <w_ id="0021" dep="0025-discourse">
         <w lemma="і" ana="part">і</w>
       </w_>
       <w_ id="0022" dep="0025-det:numgov">
@@ -244,7 +244,7 @@
       <w_ id="0029" dep="002a-amod">
         <w lemma="візіонерський" ana="adj:n:v_oru">візіонерським</w>
       </w_>
-      <w_ id="002a" dep="0028-xcomp">
+      <w_ id="002a" dep="0028-xcomp:2">
         <w lemma="передбачення" ana="noun:inanim:n:v_oru">передбаченням</w>
       </w_>
       <g/>
@@ -257,7 +257,7 @@
       <w_ id="002d" dep="002e-det">
         <w lemma="якийсь" ana="adj:n:v_zna:&amp;pron:ind">якесь</w>
       </w_>
-      <w_ id="002e" dep="002n-obl">
+      <w_ id="002e" dep="002m-obl">
         <w lemma="десятиліття" ana="noun:inanim:n:v_zna">десятиліття</w>
       </w_>
       <w_ id="002f" dep="002g-case">
@@ -297,13 +297,13 @@
       <w_ id="002q" dep="002w-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="002r" dep="002s-case">
+      <w_ id="002r" dep="002w-cc">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="002s" dep="002w-obl">
+      <w_ id="002s" dep="002r-fixed">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
-      <w_ id="002t" dep="002s-discourse">
+      <w_ id="002t" dep="002r-fixed">
         <w lemma="ж" ana="part">ж</w>
       </w_>
       <w_ id="002u" dep="002w-obj">
@@ -312,7 +312,7 @@
       <w_ id="002v" dep="002w-nsubj">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
-      <w_ id="002w" dep="002m-parataxis">
+      <w_ id="002w" dep="002m-conj:parataxis">
         <w lemma="володіти" ana="verb:imperf:past:p">володіли</w>
       </w_>
       <w_ id="002x" dep="002y-advmod">
@@ -337,7 +337,7 @@
       <w_ id="0033" dep="0034-case">
         <w lemma="при" ana="prep:rv_mis">при</w>
       </w_>
-      <w_ id="0034" dep="0032-nmod">
+      <w_ id="0034" dep="0032-nmod" comment="obl?">
         <w lemma="початок" ana="noun:inanim:m:v_mis:xp2">початку</w>
       </w_>
       <w_ id="0035" dep="0036-amod">
@@ -461,7 +461,7 @@
       <w_ id="0048" dep="0046-xcomp">
         <w lemma="виховувати" ana="verb:imperf:inf">виховувати</w>
       </w_>
-      <w_ id="0049" dep="004c-acl">
+      <w_ id="0049" dep="004c-amod">
         <w lemma="лояльний" ana="adj:p:v_zna:ranim:compb">лояльних</w>
       </w_>
       <w_ id="004a" dep="004b-case">
@@ -575,10 +575,10 @@
       <w_ id="0059" dep="004x-conj">
         <w lemma="виважити" ana="verb:perf:inf">виважити</w>
       </w_>
-      <w_ id="005a" dep="0059-obj">
+      <w_ id="005a" dep="005b-amod">
         <w lemma="весь" ana="adj:n:v_zna:&amp;pron:gen">все</w>
       </w_>
-      <w_ id="005b" dep="005a-amod">
+      <w_ id="005b" dep="0059-obj">
         <w lemma="найдобірніший" ana="adj:n:v_zna:super:&amp;noun:inanim">найдобірніше</w>
       </w_>
       <w_ id="005c" dep="005d-cc">
@@ -619,7 +619,7 @@
       <w_ id="005o" dep="005p-amod">
         <w lemma="канонотворчий" ana="adj:f:v_naz">канонотворча</w>
       </w_>
-      <w_ id="005p" dep="005s-nsubj:pass">
+      <w_ id="005p" dep="005s-nsubj">
         <w lemma="робота" ana="noun:inanim:f:v_naz">робота</w>
       </w_>
       <w_ id="005q" dep="005s-advmod">
@@ -628,7 +628,7 @@
       <w_ id="005r" dep="005s-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="005s" tags="promoted">
+      <w_ id="005s">
         <w lemma="виконаний" ana="adj:f:v_naz:&amp;adjp:perf:pasv">виконана</w>
       </w_>
       <g/>

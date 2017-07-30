@@ -276,7 +276,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="08nr"/>
-    <w_ id="08ns">
+    <w_ id="08ns" dep="08nx-discourse">
       <w lemma="благо" ana="adv">Благо</w>
     </w_>
     <g/>
@@ -292,7 +292,7 @@
     <w_ id="08nw" dep="08nx-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="08nx" dep="08ns-parataxis">
+    <w_ id="08nx">
       <w lemma="дійти" ana="verb:perf:past:n">дійшло</w>
     </w_>
     <g/>
@@ -394,7 +394,7 @@
       <w lemma="рік" ana="noun:inanim:p:m:v_zna">роки</w>
     </w_>
     <g/>
-    <w_ id="08ot" dep="08ns-punct">
+    <w_ id="08ot" dep="08nx-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="08ou"/>
@@ -423,7 +423,7 @@
     <w_ id="08p3" dep="08p4-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="08p4" dep="08p6-parataxis">
+    <w_ id="08p4" dep="08p6-parataxis:discourse">
       <w lemma="схоже" ana="adv">схоже</w>
     </w_>
     <g/>
@@ -659,7 +659,7 @@
   </p>
   <p id="08r7">
     <sb id="08r8"/>
-    <w_ id="08r9" dep="08rh-parataxis">
+    <w_ id="08r9" dep="08rh-discourse">
       <w lemma="втім" ana="adv:v-u">Втім</w>
     </w_>
     <g/>

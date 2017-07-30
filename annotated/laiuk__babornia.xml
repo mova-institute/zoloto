@@ -53,7 +53,7 @@
       <w_ id="09pu" dep="09pv-mark" mark="reviewed">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="09pv" dep="09ps-acl">
+      <w_ id="09pv" dep="09pr-acl">
         <w lemma="делегувати" ana="verb:perf:past:p">делегували</w>
       </w_>
       <w_ id="09pw" dep="09pv-obj">
@@ -191,7 +191,7 @@
       <w_ id="09r3" dep="09qw-conj:repeat">
         <w lemma="слово" ana="noun:inanim:p:n:v_zna">слова</w>
       </w_>
-      <w_ id="09r4" dep="09r5-discourse">
+      <w_ id="09r4" dep="09r5-discourse" comment="advmod?">
         <w lemma="нібито" ana="part">нібито</w>
       </w_>
       <w_ id="09r5" dep="09r3-amod">
@@ -261,7 +261,7 @@
         <w lemma="інше" ana="adj:n:v_rod:&amp;pron:ind:&amp;noun:inanim" lemma2="інший">іншого</w>
       </w_>
       <g/>
-      <w_ id="09rr" dep="09rm-punct">
+      <w_ id="09rr" dep="09rt-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <w_ id="09rs" dep="09rt-cc">
@@ -388,7 +388,7 @@
       <w_ id="09su" dep="09sv-amod">
         <w lemma="прозорий" ana="adj:p:v_oru:compb">прозорими</w>
       </w_>
-      <w_ id="09sv" dep="09t1-nmod">
+      <w_ id="09sv" dep="09t1-obl">
         <w lemma="вікно" ana="noun:inanim:p:n:v_oru">вікнами</w>
       </w_>
       <w_ id="09sw" dep="09sy-case">
@@ -397,7 +397,7 @@
       <w_ id="09sx" dep="09sy-amod">
         <w lemma="підвальний" ana="adj:n:v_mis">підвальному</w>
       </w_>
-      <w_ id="09sy" dep="09t1-nmod">
+      <w_ id="09sy" dep="09t1-obl">
         <w lemma="приміщення" ana="noun:inanim:n:v_mis">приміщенні</w>
       </w_>
       <w_ id="09sz" dep="09t1-punct">
@@ -406,7 +406,7 @@
       <w_ id="09t0" dep="09t1-amod">
         <w lemma="чоловічий" ana="adj:f:v_naz">чоловіча</w>
       </w_>
-      <w_ id="09t1" dep="09sq-acl">
+      <w_ id="09t1" dep="09sq-acl" tags="promoted">
         <w lemma="качалка" ana="noun:inanim:f:v_naz">качалка</w>
       </w_>
       <g/>
@@ -481,7 +481,7 @@
       <w_ id="09to" dep="09te-conj">
         <w lemma="ставати" ana="verb:imperf:past:f">ставала</w>
       </w_>
-      <w_ id="09tp" dep="09to-obj" tags="promoted">
+      <w_ id="09tp" dep="09to-xcomp" tags="promoted">
         <w lemma="той" ana="adj:f:v_oru:&amp;pron:dem">тією</w>
       </w_>
       <g/>
@@ -505,7 +505,7 @@
     </p>
     <p id="09tw">
       <sb id="09tx"/>
-      <w_ id="09ty" dep="09uc-discourse">
+      <w_ id="09ty" dep="09uc-cc" comment="#&gt;conj:coord">
         <w lemma="і" ana="part">І</w>
       </w_>
       <w_ id="09tz" dep="09u1-discourse" mark="reviewed">
@@ -619,7 +619,7 @@
       <w_ id="09uy">
         <w lemma="посміхнутися" ana="verb:rev:perf:past:f">посміхнулася</w>
       </w_>
-      <w_ id="09uz" dep="09ux-amod" comment="хитре">
+      <w_ id="09uz" dep="09uy-advcl:2" comment="хитре">
         <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">сама</w>
       </w_>
       <w_ id="09v0" dep="09v1-case" mark="reviewed">
@@ -647,16 +647,16 @@
       <w_ id="09v7" dep="09vt-det">
         <w lemma="той" ana="adj:m:v_zna:rinanim:&amp;pron:dem">той</w>
       </w_>
-      <w_ id="09v8" dep="09vt-amod">
+      <w_ id="09v8">
         <w lemma="типовий" ana="adj:m:v_zna:rinanim:compb">типовий</w>
       </w_>
-      <w_ id="09v9" dep="09vb-compound">
+      <w_ id="09v9" comment="еліпс наперед">
         <w lemma="легкий" ana="adj:beforeadj">легко</w>
       </w_>
-      <w_ id="09va" dep="09v9-punct">
+      <w_ id="09va" dep="09vb-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="09vb" dep="09vt-amod">
+      <w_ id="09vb" dep="09v9-compound">
         <w lemma="фіолетовий" ana="adj:m:v_zna:rinanim">фіолетовий</w>
       </w_>
       <g/>
@@ -669,7 +669,7 @@
       <w_ id="09ve" dep="09vf-advmod">
         <w lemma="зовсім" ana="adv">зовсім</w>
       </w_>
-      <w_ id="09vf" dep="09vb-conj">
+      <w_ id="09vf">
         <w lemma="оранжевий" ana="adj:m:v_zna:rinanim">оранжевий</w>
       </w_>
       <g/>
@@ -689,7 +689,7 @@
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="09vl" dep="09vi-parataxis">
+      <w_ id="09vl" dep="09vj-appos">
         <w lemma="Carica" ana="noun:foreign">Carica</w>
       </w_>
       <w_ id="09vm" dep="09vl-flat:foreign">
@@ -884,7 +884,7 @@
       <w_ id="09xd" dep="09xe-nsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
-      <w_ id="09xe">
+      <w_ id="09xe" comment="переробити">
         <w lemma="мусити" ana="verb:imperf:pres:s:3">мусить</w>
       </w_>
       <w_ id="09xf" dep="09xp-cop">

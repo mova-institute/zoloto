@@ -1,23 +1,23 @@
 <doc id="16f6" author="" dataset-ud="test-hidden" date="" src="" title="">
   <p id="16f7">
     <sb id="16f8"/>
-    <w_ id="16f9" dep="16fa-nsubj" mark="resolved">
+    <w_ id="16f9" dep="16fc-nsubj" mark="resolved">
       <w lemma="се" ana="noun:inanim:n:v_naz:&amp;pron:dem:odd">Се</w>
     </w_>
-    <w_ id="16fa">
+    <w_ id="16fa" dep="16fc-cop">
       <w lemma="бути" ana="verb:imperf:past:n">було</w>
     </w_>
     <w_ id="16fb" dep="16fc-case">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="16fc" dep="16fa-obl" mark="reviewed">
+    <w_ id="16fc" mark="reviewed">
       <w lemma="початок" ana="noun:inanim:m:v_mis:xp2">початку</w>
     </w_>
     <w_ id="16fd" dep="16fc-nmod">
       <w lemma="вік" ana="noun:inanim:p:m:v_rod">віків</w>
     </w_>
     <g/>
-    <w_ id="16fe" dep="16fa-punct">
+    <w_ id="16fe" dep="16fc-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="16ff"/>
@@ -131,7 +131,7 @@
     <w_ id="16gf" dep="16gk-case">
       <w lemma="в" ana="prep:rv_zna:v-u">в</w>
     </w_>
-    <w_ id="16gg" dep="16gk-nummod" mark="resolved">
+    <w_ id="16gg" dep="16gk-det" mark="resolved">
       <w lemma="один" ana="adj:n:v_zna:&amp;pron:dem">одне</w>
     </w_>
     <w_ id="16gh" dep="16gk-amod">
@@ -191,17 +191,17 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="16gz"/>
-    <w_ id="16h0" dep="16h1-advmod">
+    <w_ id="16h0">
       <w lemma="так" ana="adv:&amp;pron:dem">Так</w>
     </w_>
     <w_ id="16h1">
       <w lemma="бути" ana="verb:imperf:past:n">було</w>
     </w_>
-    <w_ id="16h2" dep="16h1-advmod">
+    <w_ id="16h2">
       <w lemma="довго" ana="adv:compb">довго</w>
     </w_>
     <g/>
-    <w_ id="16h3" dep="16h1-punct">
+    <w_ id="16h3">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="16h4"/>
@@ -259,7 +259,7 @@
     <w_ id="16hn" dep="16ho-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
     </w_>
-    <w_ id="16ho" dep="16hg-conj" mark="reviewed">
+    <w_ id="16ho" dep="16hg-conj:parataxis" mark="reviewed">
       <w lemma="лихий" ana="adj:m:v_naz">лихий</w>
     </w_>
     <g/>
@@ -296,7 +296,7 @@
     <w_ id="16hz" dep="16i0-nsubj">
       <w lemma="сон" ana="noun:inanim:p:m:v_naz">сни</w>
     </w_>
-    <w_ id="16i0" dep="16hr-parataxis">
+    <w_ id="16i0" dep="16hv-parataxis">
       <w lemma="мучити" ana="verb:imperf:pres:p:3">мучать</w>
     </w_>
     <w_ id="16i1" dep="16i0-obj">
@@ -347,7 +347,7 @@
     <w_ id="16ig" dep="16ih-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="16ih" dep="16ie-conj">
+    <w_ id="16ih" dep="16ij-obl" comment="appos">
       <w lemma="земля" ana="noun:inanim:f:v_mis">землі</w>
     </w_>
     <g/>
@@ -420,7 +420,7 @@
     <w_ id="16j4" dep="16j2-xcomp">
       <w lemma="носити" ana="verb:imperf:inf">носити</w>
     </w_>
-    <w_ id="16j5" dep="16j3-amod" mark="reviewed">
+    <w_ id="16j5" dep="16j4-advcl:2" mark="reviewed">
       <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
     </w_>
     <w_ id="16j6" dep="16j7-det">
@@ -783,14 +783,14 @@
     <w_ id="16mf" dep="16mg-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
-    <w_ id="16mg" dep="16m5-parataxis">
+    <w_ id="16mg" dep="16me-parataxis">
       <w lemma="голод" ana="noun:inanim:m:v_naz">голод</w>
     </w_>
     <g/>
     <w_ id="16mh" dep="16mg-punct">
       <w lemma="!.." ana="punct">!..</w>
     </w_>
-    <w_ id="16mi" dep="16m5-parataxis">
+    <w_ id="16mi" dep="16mg-flat:repeat">
       <w lemma="голод" ana="noun:inanim:m:v_naz">голод</w>
     </w_>
     <g/>
@@ -991,7 +991,7 @@
     <w_ id="16od" dep="16oe-nsubj">
       <w lemma="спокій" ana="noun:inanim:m:v_naz">спокій</w>
     </w_>
-    <w_ id="16oe" dep="16o6-conj">
+    <w_ id="16oe" dep="16o6-conj:parataxis">
       <w lemma="бути" ana="verb:imperf:past:m">був</w>
     </w_>
     <w_ id="16of" dep="16og-case" mark="reviewed">
@@ -1117,7 +1117,7 @@
     <w_ id="16pl" dep="16pm-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="16pm" dep="16pk-conj">
+    <w_ id="16pm" dep="16pk-conj" comment="flat:repeat? appos?">
       <w lemma="полонина" ana="noun:inanim:p:f:v_oru">полонинами</w>
     </w_>
     <g/>
@@ -1232,7 +1232,7 @@
     <w_ id="16ql" dep="16qm-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="16qm" dep="16qk-conj">
+    <w_ id="16qm" dep="16qk-flat:repeat">
       <w lemma="смерть" ana="noun:inanim:f:v_naz">смерть</w>
     </w_>
     <g/>
