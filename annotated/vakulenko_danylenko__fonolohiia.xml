@@ -2008,8 +2008,8 @@
     <w_ id="1a86" dep="1a88-discourse">
       <w lemma="ще" ana="part">Ще</w>
     </w_>
-    <w_ id="1a87" dep="1a88-amod" comment="#&gt;adj:m:v_rod:nv:&amp;numr">
-      <w lemma="1866" ana="numr:p:v_rod:nv">1866</w>
+    <w_ id="1a87" dep="1a88-amod">
+      <w lemma="1866" ana="adj:m:v_rod:nv:&amp;numr">1866</w>
     </w_>
     <w_ id="1a88" dep="1a8b-obl">
       <w lemma="р." ana="noun:inanim:m:v_rod:nv:np:abbr">р</w>
@@ -2117,7 +2117,7 @@
     <w_ id="1a94" dep="1a92-obj">
       <w lemma="характер" ana="noun:inanim:m:v_zna">характер</w>
     </w_>
-    <w_ id="1a95" dep="1a96-punct">
+    <w_ id="1a95" dep="1a96-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
     <w_ id="1a96" dep="1a92-conj">
@@ -2177,7 +2177,7 @@
       <w lemma="наш" ana="adj:f:v_naz:poss:&amp;pron:pers:1">наша</w>
     </w_>
     <w_ id="1a9p" dep="1a9r-cc">
-      <w lemma="бути" ana="verb:aux:imperf:pres:s:3">є</w>
+      <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
     </w_>
     <w_ id="1a9q" dep="1a9r-discourse">
       <w lemma="лише" ana="part">лише</w>
@@ -10973,8 +10973,8 @@
     <w_ id="1cfz" dep="1cfu-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1cg0" comment="#&gt;verb:imperf:pres:s:3">
-      <w lemma="може" ana="adv">може</w>
+    <w_ id="1cg0">
+      <w lemma="може" ana="verb:imperf:pres:s:3">може</w>
     </w_>
     <w_ id="1cg1" dep="1cg0-xcomp">
       <w lemma="правити" ana="verb:imperf:inf">правити</w>
@@ -11326,7 +11326,7 @@
       <w lemma="подеколи" ana="adv">подеколи</w>
     </w_>
     <w_ id="1cj6" dep="1cj7-cop">
-      <w lemma="бути" ana="verb:imperf:inf">бути</w>
+      <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
     </w_>
     <w_ id="1cj7" dep="1cj4-xcomp">
       <w lemma="тривалий" ana="adj:m:v_oru:compb">тривалим</w>
