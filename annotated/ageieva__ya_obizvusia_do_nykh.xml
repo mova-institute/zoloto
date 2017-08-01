@@ -2828,7 +2828,7 @@
       <w_ id="00p6" dep="00pa-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="00p7" dep="00p2-conj">
+      <w_ id="00p7">
         <w lemma="зоставатися" ana="verb:rev:imperf:pres:s:3">зостається</w>
       </w_>
       <w_ id="00p8" dep="00pa-discourse">
@@ -2837,7 +2837,7 @@
       <w_ id="00p9" dep="00pa-obl">
         <w lemma="диво" ana="noun:inanim:n:v_oru">дивом</w>
       </w_>
-      <w_ id="00pa" dep="00p7-xcomp">
+      <w_ id="00pa" dep="00p2-conj:parataxis|00p7-xcomp">
         <w lemma="дивуватися" ana="verb:rev:imperf:inf">дивуватися</w>
       </w_>
       <g/>
@@ -4246,7 +4246,7 @@
         <w_ id="011q">
           <w lemma="слід" ana="adv">слід</w>
         </w_>
-        <w_ id="011r" dep="011q-discourse">
+        <w_ id="011r" dep="011q-aux">
           <w lemma="би" ana="part">би</w>
         </w_>
         <w_ id="011s" dep="011u-case">
