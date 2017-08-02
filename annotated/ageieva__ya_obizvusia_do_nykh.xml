@@ -921,7 +921,7 @@
       <w_ id="008e" dep="008f-amod">
         <w lemma="неприхований" ana="adj:m:v_rod:&amp;adjp:perf:pasv">неприхованого</w>
       </w_>
-      <w_ id="008f" dep="008o-advcl">
+      <w_ id="008f" dep="008o-parataxis:discourse">
         <w lemma="обман" ana="noun:inanim:m:v_rod">обману</w>
       </w_>
       <g/>
@@ -952,10 +952,10 @@
       <w_ id="008o">
         <w lemma="спричинювати" ana="verb:imperf:pres:s:3">спричинює</w>
       </w_>
-      <w_ id="008p">
+      <w_ id="008p" dep="008q-advmod">
         <w lemma="ледь" ana="adv">ледь</w>
       </w_>
-      <w_ id="008q">
+      <w_ id="008q" dep="008s-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="008r" dep="008s-amod">
@@ -987,7 +987,7 @@
         <w lemma="розуміти" ana="verb:imperf:inf">розуміти</w>
       </w_>
       <g/>
-      <w_ id="0090">
+      <w_ id="0090" dep="0096-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="0091" dep="0096-advmod">
@@ -6315,14 +6315,14 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="01jy"/>
-      <w_ id="01jz">
-        <w lemma="втім" ana="conj:coord:v-u">Втім</w>
+      <w_ id="01jz" dep="01k3-discourse">
+        <w lemma="втім" ana="adv:v-u">Втім</w>
       </w_>
       <g/>
       <w_ id="01k0" dep="01jz-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="01k1">
+      <w_ id="01k1" dep="01k3-iobj">
         <w lemma="Євген" ana="noun:anim:m:v_dav:prop:fname">Євгенові</w>
       </w_>
       <w_ id="01k2" dep="01k1-flat:name">
@@ -6332,19 +6332,19 @@
         <w lemma="звірятися" ana="verb:rev:imperf:past:m">звірявся</w>
       </w_>
       <g/>
-      <w_ id="01k4">
+      <w_ id="01k4" dep="01k6-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="01k5">
+      <w_ id="01k5" dep="01k6-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="01k6">
+      <w_ id="01k6" dep="01k3-xcomp">
         <w lemma="зробити" ana="verb:perf:inf">зробити</w>
       </w_>
       <w_ id="01k7" dep="01k6-obj">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="01k8">
+      <w_ id="01k8" dep="01k6-advmod">
         <w lemma="нелегко" ana="adv">нелегко</w>
       </w_>
       <g/>
