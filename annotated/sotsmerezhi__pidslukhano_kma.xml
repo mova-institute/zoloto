@@ -80,10 +80,10 @@
     <w_ id="130i" dep="130g-advcl">
       <w lemma="хотіти" ana="verb:imperf:pres:p:2">хочете</w>
     </w_>
-    <w_ id="130j" dep="130o-punct">
+    <w_ id="130j" dep="130x-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="130k" dep="130o-cc">
+    <w_ id="130k" dep="130x-cc">
       <w lemma="але" ana="conj:coord">але</w>
     </w_>
     <w_ id="130l" dep="130o-mark">
@@ -105,7 +105,7 @@
     <w_ id="130q" dep="130t-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="130r" dep="130v-obj">
+    <w_ id="130r" dep="130t-mark" comment="#&gt;conj:subord">
       <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">що</w>
     </w_>
     <w_ id="130s" dep="130t-discourse">
@@ -123,17 +123,17 @@
     <w_ id="130w" dep="130x-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="130x" dep="130g-parataxis">
+    <w_ id="130x" dep="130g-conj:parataxis">
       <w lemma="написати" ana="verb:perf:impr:p:2">напишіть</w>
     </w_>
-    <w_ id="130y" dep="130x-obj">
+    <w_ id="130y" dep="130x-iobj">
       <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
     </w_>
     <g/>
     <w_ id="130z" dep="1310-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1310" dep="130x-parataxis">
+    <w_ id="1310" dep="130x-parataxis:discourse">
       <w lemma="бути" ana="verb:imperf:impr:s:2">будь</w>
     </w_>
     <w_ id="1311" dep="1310-fixed">
@@ -950,7 +950,7 @@
     <w_ id="138c" dep="138d-advmod">
       <w lemma="дуже" ana="adv:compb">дуже</w>
     </w_>
-    <w_ id="138d" dep="1383-acl">
+    <w_ id="138d" dep="1388-conj">
       <w lemma="схожий" ana="adj:m:v_zna:ranim">схожого</w>
     </w_>
     <w_ id="138e" dep="138f-case">

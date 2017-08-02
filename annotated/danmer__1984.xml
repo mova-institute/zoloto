@@ -961,13 +961,13 @@
           <w_ id="03mj" dep="03mk-discourse">
             <w lemma="ще" ana="part">ще</w>
           </w_>
-          <w_ id="03mk" dep="03md-conj:parataxis">
+          <w_ id="03mk">
             <w lemma="можна" ana="adv">можна</w>
           </w_>
           <w_ id="03ml" dep="03mk-cop">
             <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
           </w_>
-          <w_ id="03mm" dep="03mk-csubj">
+          <w_ id="03mm" dep="03mk-csubj|03md-conj:parataxis">
             <w lemma="розібрати" ana="verb:perf:inf">розібрати</w>
           </w_>
           <g/>
@@ -20226,10 +20226,10 @@
             <w lemma="барабан" ana="noun:inanim:m:v_naz">барабан</w>
           </w_>
           <g/>
-          <w_ id="08ki" dep="08kl-punct">
+          <w_ id="08ki" dep="08kv-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="08kj" dep="08kl-cc">
+          <w_ id="08kj" dep="08kv-cc">
             <w lemma="але" ana="conj:coord">але</w>
           </w_>
           <w_ id="08kk" dep="08kl-det">
