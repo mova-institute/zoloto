@@ -23252,7 +23252,7 @@
     <w_ id="0wqf" dep="0wqd-obl">
       <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
     </w_>
-    <w_ id="0wqg">
+    <w_ id="0wqg" dep="0wqh-det">
       <w lemma="свій" ana="adj:f:v_zna:poss:&amp;pron:refl">свою</w>
     </w_>
     <w_ id="0wqh" dep="0wqd-obj">
@@ -29237,7 +29237,7 @@
     <w_ id="0y9l" dep="0y9n-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="0y9m">
+    <w_ id="0y9m" dep="0y9n-amod">
       <w lemma="третій" ana="adj:m:v_mis:&amp;numr">третьому</w>
     </w_>
     <w_ id="0y9n" dep="0y9k-nmod">
@@ -29246,10 +29246,10 @@
     <w_ id="0y9o" dep="0y9p-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="0y9p" dep="0y9n-appos">
+    <w_ id="0y9p">
       <w lemma="центр" ana="noun:inanim:m:v_mis:xp2">центрі</w>
     </w_>
-    <w_ id="0y9q" dep="0y9p-nmod">
+    <w_ id="0y9q" dep="0y9p-nmod|0y9k-nmod">
       <w lemma="Франківськ" ana="noun:inanim:m:v_rod:prop">Франківська</w>
     </w_>
     <g/>
@@ -33920,7 +33920,7 @@
     <w_ id="0zgw" dep="0zh1-advcl">
       <w lemma="загинути" ana="verb:perf:futr:s:3">загине</w>
     </w_>
-    <w_ id="0zgx" comment="туду">
+    <w_ id="0zgx" dep="0zgw-xcomp:2" comment="туду">
       <w lemma="офіцер" ana="noun:anim:m:v_oru">офіцером</w>
     </w_>
     <g/>
@@ -36031,7 +36031,7 @@
     <w_ id="100c" dep="100e-nsubj">
       <w lemma="вчитель" ana="noun:anim:m:v_naz:v-u">вчитель</w>
     </w_>
-    <w_ id="100d">
+    <w_ id="100d" dep="100e-advmod">
       <w lemma="попередньо" ana="adv">попередньо</w>
     </w_>
     <w_ id="100e" dep="1009-acl">
@@ -37091,11 +37091,11 @@
     <w_ id="10a1" dep="10a2-case">
       <w lemma="крім" ana="prep:rv_rod">Крім</w>
     </w_>
-    <w_ id="10a2" dep="10a6-advcl">
+    <w_ id="10a2" dep="10a6-parataxis:discourse">
       <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
     </w_>
     <g/>
-    <w_ id="10a3">
+    <w_ id="10a3" dep="10a2-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="10a4" dep="10a6-nsubj">
@@ -38091,7 +38091,7 @@
       <w lemma="місяць" ana="noun:inanim:p:m:v_rod">місяців</w>
     </w_>
     <g/>
-    <w_ id="10j8">
+    <w_ id="10j8" dep="10jb-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="10j9" dep="10jb-obl">
@@ -38100,7 +38100,7 @@
     <w_ id="10ja" dep="10jb-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
     </w_>
-    <w_ id="10jb" dep="10j2-advcl" mark="resolved">
+    <w_ id="10jb" dep="10j7-acl" mark="resolved">
       <w lemma="безробітний" ana="adj:m:v_oru:&amp;noun:anim" lemma2="безробітний">безробітним</w>
     </w_>
     <g/>

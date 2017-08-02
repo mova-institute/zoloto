@@ -691,13 +691,13 @@
       <w_ id="17f8" dep="17f9-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="17f9" dep="17fa-obl">
+      <w_ id="17f9" dep="17fb-obl">
         <w lemma="людина" ana="noun:anim:p:f:v_oru">людьми</w>
       </w_>
       <w_ id="17fa" dep="17f6-parataxis" tags="promoted">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="17fb">
+      <w_ id="17fb" dep="17fa-csubj" tags="promoted" comment="як засвідчити, що конж не з промотованого?">
         <w lemma="по-людськи" ana="adv">по-людськи</w>
       </w_>
       <g/>
@@ -1132,7 +1132,7 @@
       <w_ id="17j2" dep="17j3-case">
         <w lemma="до" ana="prep:rv_rod">До</w>
       </w_>
-      <w_ id="17j3" dep="17ja-parataxis:discourse">
+      <w_ id="17j3" dep="17j7-parataxis:discourse">
         <w lemma="річ" ana="noun:inanim:f:v_rod">речі</w>
       </w_>
       <g/>
@@ -1142,10 +1142,10 @@
       <w_ id="17j5" dep="17j6-case">
         <w lemma="серед" ana="prep:rv_rod">серед</w>
       </w_>
-      <w_ id="17j6">
+      <w_ id="17j6" dep="17j7-obl">
         <w lemma="рекорд" ana="noun:inanim:p:m:v_rod">рекордів</w>
       </w_>
-      <w_ id="17j7" dep="17j6-cop">
+      <w_ id="17j7">
         <w lemma="бути" ana="verb:aux:imperf:pres:s:3">є</w>
       </w_>
       <w_ id="17j8" dep="17ja-discourse">
@@ -1154,7 +1154,7 @@
       <w_ id="17j9" dep="17ja-det">
         <w lemma="його" ana="adj:m:v_naz:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ id="17ja" tags="promoted">
+      <w_ id="17ja" dep="17j7-nsubj" tags="promoted">
         <w lemma="власний" ana="adj:m:v_naz">власний</w>
       </w_>
       <w_ id="17jb" dep="17jg-punct">
@@ -1172,7 +1172,7 @@
       <w_ id="17jf" dep="17jg-nsubj">
         <w lemma="коментатор" ana="noun:anim:m:v_naz">коментатор</w>
       </w_>
-      <w_ id="17jg" dep="17ja-parataxis">
+      <w_ id="17jg" dep="17j7-parataxis">
         <w lemma="провести" ana="verb:perf:past:m">провів</w>
       </w_>
       <w_ id="17jh" dep="17jj-nummod:gov">
@@ -1240,7 +1240,7 @@
         <w lemma="година" ana="noun:inanim:p:f:v_zna">години</w>
       </w_>
       <g/>
-      <w_ id="17k1" dep="17ja-punct">
+      <w_ id="17k1" dep="17jg-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="17k2"/>

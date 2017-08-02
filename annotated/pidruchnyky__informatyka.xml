@@ -2486,16 +2486,16 @@
       <w lemma="виявитися" ana="verb:rev:perf:futr:s:3">виявиться</w>
     </w_>
     <g/>
-    <w_ id="0ob8" dep="0obb-punct">
+    <w_ id="0ob8" dep="0obj-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0ob9" dep="0obb-mark">
+    <w_ id="0ob9" dep="0obj-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="0oba" dep="0obb-advmod">
+    <w_ id="0oba" dep="0obj-advmod">
       <w lemma="всього" ana="adv:&amp;pron:gen">всього</w>
     </w_>
-    <w_ id="0obb" dep="0ob7-ccomp" tags="promoted">
+    <w_ id="0obb" dep="0obj-nsubj" tags="promoted">
       <w lemma="символ" ana="noun:inanim:p:m:v_rod">символів</w>
     </w_>
     <g/>
@@ -2521,7 +2521,7 @@
     <w_ id="0obi" dep="0obj-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0obj" dep="0obb-nummod:gov">
+    <w_ id="0obj" dep="0ob7-ccomp">
       <w lemma="28" ana="numr:p:v_naz:nv">28</w>
     </w_>
     <g/>
@@ -2531,7 +2531,7 @@
     <w_ id="0obl" dep="0obm-advmod">
       <w lemma="частіше" ana="adv:compr">частіше</w>
     </w_>
-    <w_ id="0obm" dep="0obb-conj:parataxis">
+    <w_ id="0obm" dep="0obj-conj">
       <w lemma="зустрічатися" ana="verb:rev:imperf:pres:s:3">зустрічається</w>
     </w_>
     <w_ id="0obn" dep="0obm-nsubj">
@@ -2554,14 +2554,14 @@
     <w_ id="0obs" dep="0obt-nummod:gov">
       <w lemma="14" ana="numr:p:v_zna:nv">14</w>
     </w_>
-    <w_ id="0obt">
+    <w_ id="0obt" dep="0obm-parataxis" comment="прикладка з частіше?">
       <w lemma="раз" ana="noun:inanim:p:m:v_rod">разів</w>
     </w_>
     <g/>
     <w_ id="0obu" dep="0obv-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0obv" dep="0obb-conj:parataxis">
+    <w_ id="0obv" dep="0obj-conj" tags="promoted">
       <w lemma="символ" ana="noun:inanim:m:v_naz">символ</w>
     </w_>
     <w_ id="0obw" dep="0obx-punct">
@@ -2578,7 +2578,7 @@
     <w_ id="0obz" dep="0oc0-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0oc0" dep="0obv-orphan">
+    <w_ id="0oc0" dep="0obv-obl" tags="promoted">
       <w lemma="10" ana="numr:p:v_zna:nv">10</w>
     </w_>
     <g/>
@@ -2589,7 +2589,7 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="0oc3" dep="0obb-conj:parataxis">
+    <w_ id="0oc3" dep="0obj-conj" tags="promoted">
       <w lemma="О" ana="noun:inanim:prop">о</w>
     </w_>
     <g/>
@@ -2599,7 +2599,7 @@
     <w_ id="0oc5" dep="0oc6-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0oc6" dep="0oc3-orphan">
+    <w_ id="0oc6" dep="0oc3-obl" tags="promoted">
       <w lemma="9" ana="numr:p:v_zna:nv">9</w>
     </w_>
     <g/>
@@ -2610,7 +2610,7 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="0oc9" dep="0obb-conj:parataxis">
+    <w_ id="0oc9" dep="0obj-conj" tags="promoted">
       <w lemma="С" ana="noun:inanim:prop">с</w>
     </w_>
     <g/>
@@ -2620,7 +2620,7 @@
     <w_ id="0ocb" dep="0occ-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0occ" dep="0oc9-orphan">
+    <w_ id="0occ" dep="0oc9-obl" tags="promoted">
       <w lemma="7" ana="numr:p:v_zna:nv">7</w>
     </w_>
     <g/>
@@ -2631,7 +2631,7 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="0ocf" dep="0obb-conj:parataxis">
+    <w_ id="0ocf" dep="0obj-conj" tags="promoted">
       <w lemma="В" ana="noun:inanim:prop">в</w>
     </w_>
     <g/>
@@ -2641,7 +2641,7 @@
     <w_ id="0och" dep="0oci-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0oci" dep="0ocf-orphan">
+    <w_ id="0oci" dep="0ocf-obl" tags="promoted">
       <w lemma="6" ana="numr:p:v_zna:nv">6</w>
     </w_>
     <w_ id="0ocj" dep="0ocm-cc">
@@ -2654,7 +2654,7 @@
     <w_ id="0ocl" dep="0ock-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
-    <w_ id="0ocm" dep="0obb-conj:parataxis">
+    <w_ id="0ocm" dep="0obj-conj">
       <w lemma="д." ana="adv:abbr">д</w>
     </w_>
     <g/>

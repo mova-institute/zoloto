@@ -183,7 +183,7 @@
       <w_ id="2bs9" dep="2bsc-advmod">
         <w lemma="досі" ana="adv:&amp;pron:dem">досі</w>
       </w_>
-      <w_ id="2bsa">
+      <w_ id="2bsa" dep="2bsc-advmod">
         <w lemma="ще" ana="part">ще</w>
       </w_>
       <w_ id="2bsb" dep="2bsc-advmod">
@@ -480,7 +480,7 @@
     </p>
     <p id="2buz">
       <sb id="2bv0"/>
-      <w_ id="2bv1">
+      <w_ id="2bv1" dep="2bv2-advmod">
         <w lemma="багато" ana="adv:compb">Багато</w>
       </w_>
       <w_ id="2bv2" dep="2bvd-nsubj">
@@ -1539,7 +1539,7 @@
       <w_ id="2c4k" dep="2c4f-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2c4l">
+      <w_ id="2c4l" dep="2c4m-expl">
         <w lemma="це" ana="part">це</w>
       </w_>
       <w_ id="2c4m" dep="2c49-csubj">
@@ -1679,13 +1679,13 @@
       <w_ id="2c5u" dep="2c5x-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="2c5v" comment="sconj?">
+      <w_ id="2c5v">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="2c5w" dep="2c5x-nsubj">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="2c5x" dep="2c5o-acl">
+      <w_ id="2c5x" dep="2c67-parataxis" comment="чи з розмаїтості?">
         <w lemma="властивість" ana="noun:inanim:p:f:v_naz">властивості</w>
       </w_>
       <g/>
@@ -2011,7 +2011,7 @@
       <w_ id="2c8v" dep="2c8w-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="2c8w">
+      <w_ id="2c8w" dep="2c8s-parataxis" comment="знайти краще рішення? воно ж явно від практичне чи завдання залежить">
         <w lemma="стати" ana="verb:perf:inf">стати</w>
       </w_>
       <w_ id="2c8x" dep="2c8y-discourse">

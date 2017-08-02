@@ -4965,19 +4965,19 @@
   <doc id="21en" author="Мураховська Валентина" date="2017-03-02 18:52" src="https://gazeta.ua/articles/history-journal/_snigostupi-yakimi-mozhna-bulo-vpolyuvati-zajcya/754598" title="Снігоступи, якими можна було вполювати зайця">
     <p id="21eo">
       <sb id="21ep"/>
-      <w_ id="21eq" dep="21es-punct">
+      <w_ id="21eq" dep="21eu-case">
         <w lemma="–" ana="punct">–</w>
       </w_>
-      <w_ id="21er" dep="21es-advmod">
+      <w_ id="21er" dep="21et-advmod">
         <w lemma="раніше" ana="adv:compr">Раніше</w>
       </w_>
-      <w_ id="21es">
+      <w_ id="21es" dep="21eu-nsubj">
         <w lemma="зима" ana="noun:inanim:p:f:v_naz">зими</w>
       </w_>
-      <w_ id="21et" dep="21es-cop">
+      <w_ id="21et" dep="21eu-cop">
         <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
       </w_>
-      <w_ id="21eu" dep="21es-det">
+      <w_ id="21eu">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
       <g/>
@@ -4990,7 +4990,7 @@
       <w_ id="21ex" dep="21ey-obj">
         <w lemma="сніг" ana="noun:inanim:m:v_rod">снігу</w>
       </w_>
-      <w_ id="21ey" dep="21es-acl">
+      <w_ id="21ey" dep="21eu-acl">
         <w lemma="випадати" ana="verb:imperf:past:n">випадало</w>
       </w_>
       <w_ id="21ez" dep="21f0-case">
@@ -5016,13 +5016,13 @@
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
       <g/>
-      <w_ id="21f6" dep="21es-punct">
+      <w_ id="21f6" dep="21f8-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="21f7" dep="21f8-punct">
         <w lemma="–" ana="punct">–</w>
       </w_>
-      <w_ id="21f8" dep="21es-parataxis">
+      <w_ id="21f8" dep="21eu-parataxis">
         <w lemma="розповідати" ana="verb:imperf:pres:s:3">розповідає</w>
       </w_>
       <w_ id="21f9" dep="21f8-nsubj">
@@ -5062,11 +5062,11 @@
       <w_ id="21fk" dep="21fl-nummod:gov">
         <w lemma="73" ana="numr:p:v_naz:nv">73</w>
       </w_>
-      <w_ id="21fl">
+      <w_ id="21fl" dep="21fh-parataxis" comment="звідти паратакса?">
         <w lemma="рік" ana="noun:inanim:p:m:v_naz">роки</w>
       </w_>
       <g/>
-      <w_ id="21fm" dep="21es-punct">
+      <w_ id="21fm" dep="21eu-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="21fn"/>
@@ -5971,7 +5971,7 @@
       <w_ id="21o3" dep="21o6-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="21o4">
+      <w_ id="21o4" dep="21o3-fixed">
         <w lemma="також" ana="adv">також</w>
       </w_>
       <w_ id="21o5" dep="21o6-case">
@@ -6286,26 +6286,26 @@
       <w_ id="21qz" dep="21qt-conj">
         <w lemma="вважати" ana="verb:imperf:pres:s:3">вважає</w>
       </w_>
-      <w_ id="21r0">
+      <w_ id="21r0" dep="21qz-xcomp:2">
         <w lemma="шкідливий" ana="adj:p:v_oru:compb">шкідливими</w>
       </w_>
-      <w_ id="21r1">
+      <w_ id="21r1" dep="21r2-case">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="21r2">
+      <w_ id="21r2" dep="21r0-obl">
         <w lemma="здоров’я" ana="noun:inanim:n:v_rod">здоров'я</w>
       </w_>
-      <w_ id="21r3">
+      <w_ id="21r3" dep="21r5-amod">
         <w lemma="частий" ana="adj:p:v_zna:rinanim:compb">часті</w>
       </w_>
-      <w_ id="21r4">
+      <w_ id="21r4" dep="21r3-advmod">
         <w lemma="там" ana="adv:&amp;pron:dem">там</w>
       </w_>
-      <w_ id="21r5">
+      <w_ id="21r5" dep="21qz-obj">
         <w lemma="туман" ana="noun:inanim:p:m:v_zna">тумани</w>
       </w_>
       <g/>
-      <w_ id="21r6">
+      <w_ id="21r6" dep="21qp-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="21r7"/>
