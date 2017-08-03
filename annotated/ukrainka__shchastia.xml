@@ -1709,13 +1709,13 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="16v1"/>
-    <w_ id="16v2" dep="16v3-cop">
+    <w_ id="16v2">
       <w lemma="бути" ana="verb:aux:imperf:past:f">Була</w>
     </w_>
-    <w_ id="16v3">
+    <w_ id="16v3" dep="16v4-amod">
       <w lemma="темний" ana="adj:f:v_naz:compb">темна</w>
     </w_>
-    <w_ id="16v4" dep="16v3-nsubj">
+    <w_ id="16v4" dep="16v2-nsubj">
       <w lemma="ніч" ana="noun:inanim:f:v_naz">ніч</w>
     </w_>
     <g/>
@@ -1725,7 +1725,7 @@
     <w_ id="16v6" dep="16v7-nsubj">
       <w lemma="табір" ana="noun:inanim:p:m:v_naz">табори</w>
     </w_>
-    <w_ id="16v7" dep="16v3-parataxis">
+    <w_ id="16v7" dep="16v2-parataxis">
       <w lemma="спати" ana="verb:imperf:past:p">спали</w>
     </w_>
     <g/>
@@ -1741,7 +1741,7 @@
     <w_ id="16vb" dep="16vc-nsubj">
       <w lemma="пастух" ana="noun:anim:p:m:v_naz">пастухи</w>
     </w_>
-    <w_ id="16vc" dep="16v3-parataxis">
+    <w_ id="16vc" dep="16v2-parataxis">
       <w lemma="сидіти" ana="verb:imperf:past:p">сиділи</w>
     </w_>
     <w_ id="16vd" dep="16ve-case">
@@ -1779,7 +1779,7 @@
       <w lemma="співати" ana="verb:imperf:past:p">співали</w>
     </w_>
     <g/>
-    <w_ id="16vo" dep="16v3-punct">
+    <w_ id="16vo" dep="16v2-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="16vp"/>
@@ -1818,7 +1818,7 @@
     <w_ id="16w0" dep="16w3-nsubj">
       <w lemma="око" ana="noun:inanim:p:n:v_naz">очі</w>
     </w_>
-    <w_ id="16w1" dep="16w3-obj">
+    <w_ id="16w1" dep="16w3-iobj">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
     </w_>
     <w_ id="16w2" dep="16w3-cop">
@@ -2075,7 +2075,7 @@
     <w_ id="16yd">
       <w lemma="сказати" ana="verb:perf:past:m">сказав</w>
     </w_>
-    <w_ id="16ye" dep="16yd-obl">
+    <w_ id="16ye" dep="16yd-iobj">
       <w lemma="брат" ana="noun:anim:p:m:v_dav">братам</w>
     </w_>
     <w_ id="16yf" dep="16ye-det">
@@ -2151,7 +2151,7 @@
     <w_ id="16z1" dep="16z5-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="16z2" dep="16z5-obj">
+    <w_ id="16z2" dep="16z5-iobj">
       <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">їм</w>
     </w_>
     <w_ id="16z3" dep="16z4-case">
@@ -2184,7 +2184,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="16zc"/>
-    <w_ id="16zd" dep="16zf-obj">
+    <w_ id="16zd" dep="16zf-iobj">
       <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">Їм</w>
     </w_>
     <w_ id="16ze" dep="16zf-cop">
@@ -2209,7 +2209,7 @@
     <w_ id="16zk" dep="16zl-case">
       <w lemma="в" ana="prep:rv_rod:v-u">в</w>
     </w_>
-    <w_ id="16zl" dep="16zj-nmod">
+    <w_ id="16zl" dep="16zm-obl">
       <w lemma="вони" ana="noun:p:v_rod:&amp;pron:pers:3">них</w>
     </w_>
     <w_ id="16zm" dep="16zf-advcl">
@@ -2381,7 +2381,7 @@
     <w_ id="1714" dep="1717-nsubj">
       <w lemma="постать" ana="noun:inanim:f:v_naz">постать</w>
     </w_>
-    <w_ id="1715" dep="1716-discourse" mark="reviewed">
+    <w_ id="1715" dep="1716-discourse" mark="reviewed" comment="adv??">
       <w lemma="все" ana="part:v-u">все</w>
     </w_>
     <w_ id="1716" dep="1717-advmod">
@@ -2533,7 +2533,7 @@
     <w_ id="172i" dep="172g-conj">
       <w lemma="загублений" ana="adj:n:v_kly:&amp;adjp:perf:pasv">загублене</w>
     </w_>
-    <w_ id="172j" dep="172d-conj:repeat">
+    <w_ id="172j" dep="172d-parataxis">
       <w lemma="щастя" ana="noun:inanim:n:v_kly">щастя</w>
     </w_>
     <g/>
@@ -2849,7 +2849,7 @@
     <w_ id="175f" dep="175h-nsubj">
       <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">Хто</w>
     </w_>
-    <w_ id="175g" dep="175h-iobj">
+    <w_ id="175g" dep="175h-obl">
       <w lemma="раз" ana="noun:inanim:m:v_zna">раз</w>
     </w_>
     <w_ id="175h" dep="175k-acl">
@@ -2859,7 +2859,7 @@
       <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
     </w_>
     <g/>
-    <w_ id="175j" dep="175m-punct">
+    <w_ id="175j" dep="175h-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="175k" dep="175m-nsubj" tags="promoted">
@@ -2936,7 +2936,7 @@
     <w_ id="1768" dep="1767-obj">
       <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="1769" dep="1768-amod">
+    <w_ id="1769" dep="1767-advcl:2">
       <w lemma="цілий" ana="adj:n:v_zna">ціле</w>
     </w_>
     <w_ id="176a" dep="176c-case">
@@ -3080,13 +3080,13 @@
     <w_ id="177j" dep="177k-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="177k" dep="1772-conj">
+    <w_ id="177k" dep="1772-conj:parataxis">
       <w lemma="мати" ana="verb:imperf:past:m">мав</w>
     </w_>
     <w_ id="177l" dep="177k-obj" mark="reviewed">
       <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="177m" dep="177l-amod">
+    <w_ id="177m" dep="177k-advcl:2">
       <w lemma="цілий" ana="adj:n:v_zna">ціле</w>
     </w_>
     <w_ id="177n" dep="177o-case">
