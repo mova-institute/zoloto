@@ -704,7 +704,7 @@
       <w_ id="272f" dep="272j-det">
         <w lemma="цей" ana="adj:p:v_naz:&amp;pron:dem">ці</w>
       </w_>
-      <w_ id="272g">
+      <w_ id="272g" dep="272j-nummod">
         <w lemma="0" ana="numr:p:v_naz:nv">0</w>
       </w_>
       <g/>
@@ -1261,11 +1261,11 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="277c"/>
-      <w_ id="277d">
+      <w_ id="277d" dep="277h-discourse">
         <w lemma="наприклад" ana="adv">Наприклад</w>
       </w_>
       <g/>
-      <w_ id="277e" dep="277h-punct">
+      <w_ id="277e" dep="277d-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="277f" dep="277g-case">
@@ -1274,7 +1274,7 @@
       <w_ id="277g" dep="277h-obl">
         <w lemma="США" ana="noun:inanim:p:v_mis:nv:ns:prop">США</w>
       </w_>
-      <w_ id="277h" dep="277d-parataxis">
+      <w_ id="277h">
         <w lemma="йтися" ana="verb:rev:imperf:pres:s:3">йдеться</w>
       </w_>
       <w_ id="277i" dep="277j-case">
@@ -1296,10 +1296,10 @@
       <w_ id="277n" dep="277o-case">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="277o" dep="277q-list" comment="range?">
+      <w_ id="277o">
         <w lemma="2" ana="numr:p:v_rod:nv">2</w>
       </w_>
-      <w_ id="277p" dep="2eqh-case">
+      <w_ id="277p" dep="277q-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ id="277q">
@@ -1308,13 +1308,13 @@
       <w_ id="2eqg" dep="2eqh-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2eqh" dep="277q-compound" tags="promoted" comment="голова 7">
+      <w_ id="2eqh" dep="277q-compound" tags="promoted">
         <w lemma="5" ana="numr:p:v_rod:nv">5</w>
       </w_>
       <w_ id="277r" dep="277s-amod">
         <w lemma="прожитковий" ana="adj:m:v_rod">прожиткового</w>
       </w_>
-      <w_ id="277s" dep="2eqh-nmod">
+      <w_ id="277s">
         <w lemma="мінімум" ana="noun:inanim:m:v_rod">мінімуму</w>
       </w_>
       <w_ id="277t" dep="277u-case">
@@ -1327,7 +1327,7 @@
         <w lemma="сім’я" ana="noun:inanim:f:v_rod">сім’ї</w>
       </w_>
       <g/>
-      <w_ id="277w" dep="277d-punct">
+      <w_ id="277w">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="277x"/>
