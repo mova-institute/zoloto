@@ -178,7 +178,7 @@
         <w_ id="1kgb" dep="1kgc-discourse">
           <w lemma="от" ana="part">от</w>
         </w_>
-        <w_ id="1kgc" dep="1kg7-parataxis">
+        <w_ id="1kgc" dep="1kg7-conj:parataxis">
           <w lemma="мати" ana="verb:imperf:pres:s:1">маю</w>
         </w_>
         <w_ id="1kgd" dep="1kgc-xcomp">
@@ -201,7 +201,7 @@
         <w_ id="1kgk" dep="1kgl-case">
           <w lemma="на" ana="prep:rv_zna">На</w>
         </w_>
-        <w_ id="1kgl">
+        <w_ id="1kgl" dep="1kgx-parataxis:discourse">
           <w lemma="жаль" ana="noun:inanim:m:v_zna">жаль</w>
         </w_>
         <g/>
@@ -240,14 +240,14 @@
         <w_ id="1kgw" dep="1kgx-advmod">
           <w lemma="не" ana="part:neg">не</w>
         </w_>
-        <w_ id="1kgx" dep="1kgl-parataxis">
+        <w_ id="1kgx">
           <w lemma="можна" ana="adv">можна</w>
         </w_>
         <w_ id="1kgy" dep="1kgx-csubj">
           <w lemma="зробити" ana="verb:perf:inf">зробити</w>
         </w_>
         <g/>
-        <w_ id="1kgz" dep="1kgl-punct">
+        <w_ id="1kgz" dep="1kgx-punct">
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="1kh0"/>
@@ -323,7 +323,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="1khn"/>
-        <w_ id="1kho" dep="1khp-xcomp">
+        <w_ id="1kho" dep="1khp-xcomp:2">
           <w lemma="недрукований" ana="adj:p:v_naz:&amp;adjp:imperf:pasv">Недруковані</w>
         </w_>
         <w_ id="1khp">
@@ -409,7 +409,7 @@
           <w lemma="(" ana="punct:open">(</w>
         </w_>
         <g/>
-        <w_ id="1kif" dep="1kid-acl">
+        <w_ id="1kif" dep="1kid-amod">
           <w lemma="7-й" ana="adj:m:v_naz:&amp;numr">7-й</w>
         </w_>
         <g/>
@@ -431,7 +431,7 @@
         <w_ id="1kil" dep="1kik-obj">
           <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
         </w_>
-        <w_ id="1kim" dep="1kik-obl" tags="promoted">
+        <w_ id="1kim" dep="1kik-xcomp:2" tags="promoted">
           <w lemma="новий" ana="adj:m:v_oru:compb">новим</w>
         </w_>
         <g/>
@@ -475,7 +475,7 @@
       </p>
       <p id="1kj0">
         <sb id="1kj1"/>
-        <w_ id="1kj2" dep="1kj7-nsubj">
+        <w_ id="1kj2">
           <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">Що</w>
         </w_>
         <w_ id="1kj3" dep="1kj2-discourse">
@@ -490,7 +490,7 @@
         <w_ id="1kj6" dep="1kj7-obj">
           <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
         </w_>
-        <w_ id="1kj7" dep="1kjm-advcl" tags="promoted">
+        <w_ id="1kj7">
           <w lemma="доручення" ana="noun:inanim:n:v_rod">доручення</w>
         </w_>
         <w_ id="1kj8" dep="1kj7-acl">
