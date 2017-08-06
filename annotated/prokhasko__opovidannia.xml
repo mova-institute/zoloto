@@ -982,7 +982,7 @@
     <w_ id="0r0a" dep="0r0b-det:numgov">
       <w lemma="кілька" ana="numr:p:v_zna:&amp;pron:ind">кілька</w>
     </w_>
-    <w_ id="0r0b" dep="0r09-obj">
+    <w_ id="0r0b" dep="0r09-obl">
       <w lemma="метр" ana="noun:inanim:p:m:v_rod:xp2">метрів</w>
     </w_>
     <w_ id="0r0c" dep="0r0d-cc">
@@ -3200,7 +3200,7 @@
     <w_ id="0rkq" dep="0rkr-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="0rkr" dep="0rkp-obl">
+    <w_ id="0rkr" dep="0rkp-nmod">
       <w lemma="гімназія" ana="noun:inanim:f:v_mis">гімназії</w>
     </w_>
     <w_ id="0rks" dep="0rkr-nmod">
@@ -9304,20 +9304,20 @@
     <w_ id="0t5f" dep="0t5g-case">
       <w lemma="у" ana="prep:rv_mis:v-u">У</w>
     </w_>
-    <w_ id="0t5g" dep="0t5j-obl">
+    <w_ id="0t5g" dep="0t5h-obl">
       <w lemma="зона" ana="noun:inanim:f:v_mis">зоні</w>
     </w_>
-    <w_ id="0t5h" dep="0t5j-cop">
+    <w_ id="0t5h">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0t5i" dep="0t5j-nummod:gov">
+    <w_ id="0t5i" dep="0t5j-nummod">
       <w lemma="три" ana="numr:p:v_naz">три</w>
     </w_>
-    <w_ id="0t5j">
+    <w_ id="0t5j" dep="0t5h-nsubj">
       <w lemma="зона" ana="noun:inanim:p:f:v_naz">зони</w>
     </w_>
     <g/>
-    <w_ id="0t5k" dep="0t5j-punct">
+    <w_ id="0t5k" dep="0t5h-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0t5l"/>
@@ -27082,7 +27082,7 @@
     <w_ id="0xpr" dep="0xpt-case">
       <w lemma="на" ana="prep:rv_zna">На</w>
     </w_>
-    <w_ id="0xps" dep="0xpt-nummod">
+    <w_ id="0xps" dep="0xpt-amod">
       <w lemma="другий" ana="adj:m:v_zna:rinanim:&amp;numr">другий</w>
     </w_>
     <w_ id="0xpt" dep="0xpx-obl">
@@ -36456,7 +36456,7 @@
       <w lemma="швидкість" ana="noun:inanim:f:v_mis">швидкості</w>
     </w_>
     <g/>
-    <w_ id="1047" dep="1041-punct">
+    <w_ id="1047" dep="1040-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1048"/>
@@ -39309,7 +39309,7 @@
     <w_ id="10uh" dep="10ui-advmod">
       <w lemma="дуже" ana="adv:compb">дуже</w>
     </w_>
-    <w_ id="10ui" dep="10uj-nummod:gov" mark="reviewed">
+    <w_ id="10ui" dep="10uj-advmod" mark="reviewed">
       <w lemma="багато" ana="adv:compb">багато</w>
     </w_>
     <w_ id="10uj" dep="10ue-obj">
@@ -41434,7 +41434,7 @@
       <w lemma="радіостанція" ana="noun:inanim:f:v_rod">радіостанції</w>
     </w_>
     <g/>
-    <w_ id="11e6" dep="11dr-punct">
+    <w_ id="11e6" dep="11dq-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="11e7"/>

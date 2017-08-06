@@ -647,7 +647,7 @@
       <w_ id="005x" dep="005y-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="005y" dep="005s-advcl">
+      <w_ id="005y">
         <w lemma="рівень" ana="noun:inanim:m:v_mis">рівні</w>
       </w_>
       <w_ id="005z" dep="0060-amod">
@@ -2453,7 +2453,7 @@
       <w_ id="00lu" dep="00lg-parataxis">
         <w lemma="бачити" ana="verb:imperf:pres:s:1">бачу</w>
       </w_>
-      <w_ id="00lv" dep="00lw-nummod:gov">
+      <w_ id="00lv" dep="00lw-det:numgov">
         <w lemma="багато" ana="numr:p:v_zna:&amp;pron:ind">багато</w>
       </w_>
       <w_ id="00lw" dep="00lu-obj">
@@ -3713,7 +3713,7 @@
         <w_ id="00x0" dep="00x1-advmod">
           <w lemma="не" ana="part:neg">не</w>
         </w_>
-        <w_ id="00x1" dep="00wx-obj">
+        <w_ id="00x1" dep="00wx-obj" tags="graft">
           <w lemma="дивувати" ana="verb:imperf:impr:p:2">дивуйте</w>
         </w_>
         <g/>
@@ -5890,13 +5890,13 @@
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="01g4"/>
-      <w_ id="01g5">
+      <w_ id="01g5" dep="01g6-cc">
         <w lemma="та" ana="conj:coord">Та</w>
       </w_>
-      <w_ id="01g6">
+      <w_ id="01g6" comment="#&gt;adv">
         <w lemma="пора" ana="noun:inanim:f:v_naz">пора</w>
       </w_>
-      <w_ id="01g7">
+      <w_ id="01g7" dep="01g6-advmod">
         <w lemma="вже" ana="adv:v-u">вже</w>
       </w_>
       <w_ id="01g8" dep="01g9-discourse">
@@ -5908,7 +5908,7 @@
       <w_ id="01ga" dep="01g9-det">
         <w lemma="наш" ana="adj:f:v_zna:poss:&amp;pron:pers:1">нашу</w>
       </w_>
-      <w_ id="01gb">
+      <w_ id="01gb" dep="01g6-csubj">
         <w lemma="привчити" ana="verb:perf:inf">привчити</w>
       </w_>
       <w_ id="01gc" dep="01ge-punct">
