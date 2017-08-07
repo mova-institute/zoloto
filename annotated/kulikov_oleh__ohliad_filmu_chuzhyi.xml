@@ -906,11 +906,11 @@
     <w_ id="08th" dep="08u2-discourse">
       <w lemma="ну" ana="part">Ну</w>
     </w_>
-    <w_ id="08ti" dep="08u2-cc" comment="#&gt;conj:coord">
-      <w lemma="а" ana="part">а</w>
+    <w_ id="08ti" dep="08u2-cc">
+      <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="08tj" dep="08tm-advmod" comment="#&gt;adv:&amp;pron:rel">
-      <w lemma="коли" ana="conj:subord">коли</w>
+    <w_ id="08tj" dep="08tm-advmod">
+      <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
     </w_>
     <w_ id="08tk" dep="08tm-nsubj">
       <w lemma="щось" ana="noun:inanim:n:v_naz:&amp;pron:ind">щось</w>
@@ -1348,7 +1348,7 @@
       <w lemma="—" ana="punct">—</w>
     </w_>
     <w_ id="08xj" dep="08xl-expl">
-      <w lemma="це" ana="part">це</w>
+      <w lemma="це" ana="noun:inanim:n:v_naz:dem:&amp;amp;pron">це</w>
     </w_>
     <w_ id="08xk" dep="08xl-advmod">
       <w lemma="фактично" ana="adv">фактично</w>
@@ -1896,8 +1896,8 @@
     <w_ id="092h" dep="092i-advmod">
       <w lemma="так" ana="adv:&amp;pron:dem">так</w>
     </w_>
-    <w_ id="092i" dep="092j-advmod" comment="#&gt;adv:compb" correct="просто">
-      <w lemma="просто" ana="part:typo">прості</w>
+    <w_ id="092i" dep="092j-advmod" correct="просто">
+      <w lemma="просто" ana="adv:compb:typo">прості</w>
     </w_>
     <w_ id="092j" dep="092g-xcomp">
       <w lemma="взяти" ana="verb:perf:inf">взяти</w>
@@ -1973,7 +1973,7 @@
       <w lemma="примітно" ana="adv:compb">Примітно</w>
     </w_>
     <w_ id="0937" dep="0936-obj">
-      <w lemma="інший" ana="adj:n:v_naz:&amp;pron:ind:&amp;noun:inanim">інше</w>
+      <w lemma="інше" ana="adj:n:v_naz:&amp;pron:ind:&amp;noun:inanim" lemma2="інший">інше</w>
     </w_>
     <g/>
     <w_ id="0938" dep="0949-punct">
@@ -3390,8 +3390,8 @@
     <w_ id="09fz" dep="09g1-nsubj">
       <w lemma="Деніелс" ana="noun:anim:f:v_naz:nv:np:prop:lname">Деніелс</w>
     </w_>
-    <w_ id="09g0" dep="09g1-discourse" comment="#&gt;part">
-      <w lemma="просто" ana="adv:compb">просто</w>
+    <w_ id="09g0" dep="09g1-discourse">
+      <w lemma="просто" ana="part">просто</w>
     </w_>
     <w_ id="09g1">
       <w lemma="прожити" ana="verb:perf:past:f">прожила</w>
@@ -3423,8 +3423,8 @@
     <w_ id="09gb" dep="09go-cc">
       <w lemma="і" ana="conj:coord">І</w>
     </w_>
-    <w_ id="09gc" dep="09gi-mark" comment="#&gt;conj:subord">
-      <w lemma="раз" ana="adv">раз</w>
+    <w_ id="09gc" dep="09gi-mark">
+      <w lemma="раз" ana="conj:subord">раз</w>
     </w_>
     <w_ id="09gd" dep="09gf-advmod">
       <w lemma="так" ana="adv:&amp;pron:dem">так</w>
