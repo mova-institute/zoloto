@@ -638,7 +638,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="17es"/>
-      <w_ id="17et" dep="17ev-discourse" comment="advmod?">
+      <w_ id="17et" dep="17ev-discourse">
         <w lemma="мабуть" ana="adv">Мабуть</w>
       </w_>
       <g/>
@@ -950,7 +950,7 @@
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="17hk" dep="17hi-compound">
+      <w_ id="17hk" dep="17hi-conj" comment="conj? compound?">
         <w lemma="хокей" ana="noun:inanim:m:v_naz">хокей</w>
       </w_>
       <g/>
@@ -1016,39 +1016,39 @@
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
       <g/>
-      <w_ id="17i2" dep="17i4-punct">
+      <w_ id="17i2" dep="17i5-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="17i3" dep="17i4-punct">
+      <w_ id="17i3" dep="17i5-punct">
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="17i4" dep="17h3-conj">
+      <w_ id="17i4" dep="17i5-compound">
         <w lemma="спорт" ana="noun:inanim:m:v_naz">Спорт</w>
       </w_>
-      <w_ id="17i5" dep="17i4-compound">
+      <w_ id="17i5" dep="17h3-conj">
         <w lemma="арбітраж" ana="noun:inanim:m:v_naz">арбітраж</w>
       </w_>
       <g/>
-      <w_ id="17i6" dep="17i4-punct">
+      <w_ id="17i6" dep="17i5-punct">
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
       <g/>
-      <w_ id="17i7" dep="17i9-punct">
+      <w_ id="17i7" dep="17ia-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="17i8" dep="17i9-punct">
+      <w_ id="17i8" dep="17ia-punct">
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="17i9" dep="17h3-conj">
+      <w_ id="17i9" dep="17ia-compound">
         <w lemma="спорт" ana="noun:inanim:m:v_naz">Спорт</w>
       </w_>
-      <w_ id="17ia" dep="17i9-compound">
+      <w_ id="17ia" dep="17h3-conj">
         <w lemma="майдан" ana="noun:inanim:m:v_naz">майдан</w>
       </w_>
       <g/>
-      <w_ id="17ib" dep="17i9-punct">
+      <w_ id="17ib" dep="17ia-punct">
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
       <g/>
@@ -1075,7 +1075,7 @@
       <w_ id="17ii" dep="17ij-cc">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="17ij" dep="17h3-conj">
+      <w_ id="17ij" dep="17h3-conj" tags="promoted">
         <w lemma="інший" ana="adj:p:v_naz:&amp;pron:ind">інші</w>
       </w_>
       <g/>
@@ -1336,7 +1336,7 @@
       <w_ id="17kx" dep="17ky-amod">
         <w lemma="екстремальний" ana="adj:p:v_naz:compb">екстремальні</w>
       </w_>
-      <w_ id="17ky">
+      <w_ id="17ky" dep="17kv-nsubj">
         <w lemma="вид" ana="noun:inanim:p:m:v_naz">види</w>
       </w_>
       <w_ id="17kz" dep="17ky-nmod">
@@ -1438,10 +1438,10 @@
       <w_ id="17lv" dep="17lw-amod">
         <w lemma="північний" ana="adj:m:v_naz:compb">Північний</w>
       </w_>
-      <w_ id="17lw" dep="17lt-conj">
+      <w_ id="17lw" dep="17lt-list">
         <w lemma="полюс" ana="noun:inanim:m:v_naz">полюс</w>
       </w_>
-      <w_ id="17lx" dep="17lw-flat">
+      <w_ id="17lx" dep="17lw-flat:title">
         <w lemma="2000" ana="numr:p:v_naz:nv">2000</w>
       </w_>
       <g/>
