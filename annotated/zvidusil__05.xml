@@ -375,8 +375,8 @@
       <w_ id="1phn" dep="1phu-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="1pho" dep="1phu-obl" tags="promoted" comment="#&gt;adj:n:v_rod:nv:&amp;amp;numr">
-        <w lemma="1" ana="numr:n:v_rod:nv">1</w>
+      <w_ id="1pho" dep="1phu-obl" tags="promoted">
+        <w lemma="1" ana="adj:n:v_rod:nv:&amp;numr">1</w>
       </w_>
       <w_ id="1php" dep="1pho-nmod">
         <w lemma="лютий" ana="adj:m:v_rod:compb:&amp;noun:inanim" lemma2="лютий">лютого</w>
@@ -681,7 +681,7 @@
         <w lemma="сотня" ana="noun:inanim:f:v_naz">сотня</w>
       </w_>
       <g/>
-      <w_ id="1pke" dep="1pkf-cc">
+      <w_ id="1pke" dep="1pkf-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
@@ -723,7 +723,7 @@
         <w lemma="то" ana="noun:inanim:n:v_naz:&amp;pron:dem">то</w>
       </w_>
       <w_ id="1pkq" dep="1pks-cop">
-        <w lemma="бути" ana="verb:imperf:past:f">була</w>
+        <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
       </w_>
       <w_ id="1pkr" dep="1pks-discourse">
         <w lemma="тільки" ana="part">тільки</w>
@@ -1161,7 +1161,7 @@
         <w lemma="могти" ana="verb:imperf:past:n">могло</w>
       </w_>
       <w_ id="1pon" dep="1por-cop">
-        <w lemma="бути" ana="verb:imperf:inf">бути</w>
+        <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
       <w_ id="1poo" dep="1por-advmod">
         <w lemma="значно" ana="adv:compb">значно</w>
@@ -2361,8 +2361,8 @@
       <w_ id="1pzd" dep="1pzg-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="1pze" dep="1pzg-discourse" comment="#&gt;part">
-        <w lemma="хоч" ana="conj:subord">хоч</w>
+      <w_ id="1pze" dep="1pzg-discourse">
+        <w lemma="хоч" ana="part">хоч</w>
       </w_>
       <w_ id="1pzf" dep="1pzg-advmod">
         <w lemma="би" ana="part">би</w>
@@ -4120,7 +4120,7 @@
       <w_ id="1qfo" dep="1qfn-obj">
         <w lemma="анкета" ana="noun:inanim:f:v_zna">анкету</w>
       </w_>
-      <w_ id="1qfp" dep="1qfq-punct">
+      <w_ id="1qfp" dep="1qfq-cc">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
       <w_ id="1qfq" dep="1qfn-conj">
