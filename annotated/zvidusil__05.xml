@@ -2011,24 +2011,24 @@
       <w_ id="1pw8">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="1pw9">
+      <w_ id="1pw9" dep="1pwa-punct">
         <w lemma="&quot;" ana="punct:quote:open">"</w>
       </w_>
       <g/>
       <w_ id="1pwa">
         <w lemma="віддати" ana="verb:perf:impr:p:2">віддайте</w>
       </w_>
-      <w_ id="1pwb">
+      <w_ id="1pwb" dep="1pwa-iobj">
         <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">їм</w>
       </w_>
-      <w_ id="1pwc">
+      <w_ id="1pwc" dep="1pwa-obj">
         <w lemma="Джулія" ana="noun:anim:f:v_zna:prop:fname">Джулію</w>
       </w_>
       <g/>
-      <w_ id="1pwd">
+      <w_ id="1pwd" dep="1pwa-punct">
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
-      <w_ id="1pwe">
+      <w_ id="1pwe" dep="1pwf-punct">
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
@@ -2036,7 +2036,7 @@
         <w lemma="c" ana="x:foreign:typo">с</w>
       </w_>
       <g/>
-      <w_ id="1pwg">
+      <w_ id="1pwg" dep="1pwf-punct">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
       <g/>
@@ -2056,19 +2056,19 @@
       <w_ id="1pwl">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1pwm">
+      <w_ id="1pwm" dep="1pwo-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="1pwn">
+      <w_ id="1pwn" dep="1pwo-det">
         <w lemma="цей" ana="adj:m:v_mis:&amp;pron:dem">цьому</w>
       </w_>
       <w_ id="1pwo">
         <w lemma="випадок" ana="noun:inanim:m:v_mis">випадку</w>
       </w_>
-      <w_ id="1pwp">
+      <w_ id="1pwp" dep="1pwq-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="1pwq">
+      <w_ id="1pwq" dep="1pwo-obj">
         <w lemma="Україна" ana="noun:inanim:f:v_zna:prop">Україну</w>
       </w_>
       <g/>
@@ -2089,27 +2089,27 @@
       <w_ id="1pwx">
         <w lemma="що" ana="part">що</w>
       </w_>
-      <w_ id="1pwy">
+      <w_ id="1pwy" dep="1pwz-nsubj">
         <w lemma="все" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">все</w>
       </w_>
       <w_ id="1pwz">
         <w lemma="закономірно" ana="adv">закономірно</w>
       </w_>
       <g/>
-      <w_ id="1px0">
+      <w_ id="1px0" dep="1px1-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1px1">
+      <w_ id="1px1" dep="1pwz-parataxis" comment="#&gt;adv">
         <w lemma="час" ana="noun:inanim:m:v_naz">час</w>
       </w_>
-      <w_ id="1px2">
+      <w_ id="1px2" dep="1px1-csubj">
         <w lemma="збирати" ana="verb:imperf:inf">збирати</w>
       </w_>
-      <w_ id="1px3">
+      <w_ id="1px3" dep="1px2-obj">
         <w lemma="каміння" ana="noun:inanim:p:n:v_zna">каміння</w>
       </w_>
       <g/>
-      <w_ id="1px4">
+      <w_ id="1px4" dep="1pwz-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1px5"/>
