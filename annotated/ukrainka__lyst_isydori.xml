@@ -38,10 +38,10 @@
       <w_ id="15de" dep="15di-nsubj">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="15df" dep="15di-obj">
+      <w_ id="15df" dep="15di-iobj">
         <w lemma="ти" ana="noun:anim:s:v_dav:&amp;pron:pers:2">тобі</w>
       </w_>
-      <w_ id="15dg" dep="15di-advmod">
+      <w_ id="15dg" dep="15dh-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="15dh" dep="15di-advmod">
@@ -239,7 +239,7 @@
       <w_ id="15f8" dep="15f9-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="15f9" dep="15f6-nmod">
+      <w_ id="15f9" dep="15f7-obl">
         <w lemma="описання" ana="noun:inanim:n:v_rod">описання</w>
       </w_>
       <g/>
@@ -247,7 +247,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="15fb"/>
-      <w_ id="15fc" comment="переробити">
+      <w_ id="15fc">
         <w lemma="бути" ana="verb:aux:imperf:past:n">Було</w>
       </w_>
       <w_ id="15fd" dep="15fc-advmod">
@@ -296,7 +296,7 @@
       <w_ id="15fq" dep="15fr-det">
         <w lemma="такий" ana="adj:n:v_naz:&amp;pron:dem">таке</w>
       </w_>
-      <w_ id="15fr" dep="15ff-conj" tags="promoted" comment="?">
+      <w_ id="15fr" dep="15ff-conj:parataxis" tags="promoted" comment="?">
         <w lemma="поганий" ana="adj:n:v_naz:compb">погане</w>
       </w_>
       <g/>
@@ -325,7 +325,7 @@
       <w_ id="15fz" dep="15g0-discourse">
         <w lemma="навіть" ana="part">навіть</w>
       </w_>
-      <w_ id="15g0" dep="15fw-conj">
+      <w_ id="15g0" dep="15fw-conj|15g2-iobj">
         <w lemma="публіка" ana="noun:inanim:f:v_dav:xp2">публіці</w>
       </w_>
       <w_ id="15g1" dep="15g2-cop">
