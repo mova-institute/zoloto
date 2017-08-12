@@ -198,7 +198,7 @@
       <w_ id="26y3" dep="26y4-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="26y4">
+      <w_ id="26y4" dep="26xz-conj:parataxis">
         <w lemma="робити" ana="verb:imperf:past:p">робили</w>
       </w_>
       <g/>
@@ -223,7 +223,7 @@
       <w_ id="26ya" dep="26yb-advmod">
         <w lemma="постійно" ana="adv">постійно</w>
       </w_>
-      <w_ id="26yb">
+      <w_ id="26yb" dep="26xz-parataxis">
         <w lemma="відмовляти" ana="verb:imperf:past:p">відмовляли</w>
       </w_>
       <w_ id="26yc" dep="26yb-iobj">
@@ -242,7 +242,7 @@
       <w_ id="26yg" dep="26yh-case">
         <w lemma="окрім" ana="prep:rv_rod">окрім</w>
       </w_>
-      <w_ id="26yh" dep="26ye-conj" comment="окрім не conj">
+      <w_ id="26yh" dep="26ye-nmod" comment="~">
         <w lemma="харчування" ana="noun:inanim:n:v_rod">харчування</w>
       </w_>
       <g/>
@@ -742,7 +742,7 @@
         <w lemma="27" ana="numr:p:v_naz:nv">27</w>
       </w_>
       <g/>
-      <w_ id="272r">
+      <w_ id="272r" dep="272k-conj:parataxis" comment="не orphan?">
         <w lemma="%" ana="noun:inanim:p:m:v_rod:nv:symbol">%</w>
       </w_>
       <w_ id="272s" dep="272t-punct">
@@ -765,7 +765,7 @@
       <w_ id="272x" dep="272y-amod">
         <w lemma="середній" ana="adj:m:v_oru">середнім</w>
       </w_>
-      <w_ id="272y" dep="272r-orphan">
+      <w_ id="272y" dep="272r-xcomp:2">
         <w lemma="клас" ana="noun:inanim:m:v_oru">класом</w>
       </w_>
       <g/>
@@ -1741,7 +1741,7 @@
       <w_ id="27cu" dep="27cv-amod">
         <w lemma="сполучений" ana="adj:p:v_mis:&amp;adjp:perf:pasv">Сполучених</w>
       </w_>
-      <w_ id="27cv" dep="27cs-obl">
+      <w_ id="27cv" dep="27cs-nmod">
         <w lemma="штат" ana="noun:inanim:p:m:v_mis">Штатах</w>
       </w_>
       <g/>
