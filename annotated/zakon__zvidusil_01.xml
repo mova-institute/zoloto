@@ -536,7 +536,7 @@
       </w_>
       <g/>
       <w_ id="2eye" dep="2ey8-nmod" n="160">
-        <w lemma="накладний" ana="adj:f:v_mis:&amp;noun:inanim">накладній</w>
+        <w lemma="накладна" ana="adj:f:v_mis:&amp;noun:inanim" lemma2="накладний">накладній</w>
       </w_>
       <w_ id="2eyf" dep="2ey8-nmod" n="161">
         <w lemma="підпис" ana="noun:inanim:m:v_rod">підпису</w>
@@ -869,7 +869,7 @@
         <w lemma="забір" ana="noun:inanim:m:v_rod">забору</w>
       </w_>
       <g/>
-      <w_ id="2f16" dep="2f17-cc" n="260">
+      <w_ id="2f16" dep="2f17-punct" n="260">
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
@@ -889,7 +889,7 @@
         <w lemma="прийматися" ana="verb:rev:imperf:pres:p:3">приймаються</w>
       </w_>
       <g/>
-      <w_ id="2f1c" dep="2f1d-cc" n="266">
+      <w_ id="2f1c" dep="2f1d-punct" n="266">
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
@@ -1049,8 +1049,8 @@
       <w_ id="2f2o" dep="2f2r-obl" n="314">
         <w lemma="розмір" ana="noun:inanim:p:m:v_oru">розмірами</w>
       </w_>
-      <w_ id="2f2p" dep="2f2q-cc" comment="#&gt;conj:coord" n="315">
-        <w lemma="чи" ana="conj:subord">чи</w>
+      <w_ id="2f2p" dep="2f2q-cc" n="315">
+        <w lemma="чи" ana="conj:coord">чи</w>
       </w_>
       <w_ id="2f2q" dep="2f2o-conj" n="316">
         <w lemma="вага" ana="noun:inanim:f:v_oru">вагою</w>
@@ -1177,7 +1177,7 @@
       <w_ id="2f3q" dep="2f3p-punct" n="352">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <sb/>
+      <sb id="2fpk"/>
       <w_ id="2f3r" n="353">
         <w lemma="дозволятися" ana="verb:rev:imperf:pres:s:3">Дозволяється</w>
       </w_>
