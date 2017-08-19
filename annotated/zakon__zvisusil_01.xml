@@ -6415,9 +6415,17 @@
       <w_ id="2la4" n="1970">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="2la5" n="1971">
-        <w lemma="TORCH-інфекції" ana="error">TORCH-інфекції</w>
-      </w_>
+      <mi:w_>
+        <w lemma="TORCH" ana="x:foreign">TORCH</w>
+      </mi:w_>
+      <g/>
+      <mi:w_>
+        <w lemma="-" ana="punct">-</w>
+      </mi:w_>
+      <g/>
+      <mi:w_>
+        <w lemma="інфекція" ana="noun:inanim:p:f:v_zna">інфекції</w>
+      </mi:w_>
       <w_ id="2la6" n="1972">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
@@ -6437,8 +6445,8 @@
       <w_ id="2lab" n="1977">
         <w lemma="передаватися" ana="verb:rev:imperf:pres:p:3">передаються</w>
       </w_>
-      <w_ id="2lac" n="1978">
-        <w lemma="статевих" ana="error">статевих</w>
+      <w_ id="2lac" n="1978" correct="статевим">
+        <w lemma="статевий" ana="adj:m:v_oru:typo">статевих</w>
       </w_>
       <w_ id="2lad" n="1979">
         <w lemma="шлях" ana="noun:inanim:m:v_oru">шляхом</w>
@@ -6763,14 +6771,14 @@
       <w_ id="2ld5" n="2079">
         <w lemma="гепатит" ana="noun:inanim:p:m:v_zna">гепатити</w>
       </w_>
-      <w_ id="2ld6" n="2080">
-        <w lemma="В" ana="error">В</w>
+      <w_ id="2ld6" n="2080" correct="B">
+        <w lemma="B" ana="x:foreign:typo">В</w>
       </w_>
       <w_ id="2ld7" n="2081">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="2ld8" n="2082">
-        <w lemma="С" ana="error">С</w>
+      <w_ id="2ld8" n="2082" correct="C">
+        <w lemma="C" ana="x:foreign:typo">С</w>
       </w_>
       <g/>
       <w_ id="2ld9" n="2083">
@@ -6953,14 +6961,14 @@
       <w_ id="2let" n="2139">
         <w lemma="тип" ana="noun:inanim:p:m:v_rod">типів</w>
       </w_>
-      <w_ id="2leu" n="2140">
-        <w lemma="А" ana="error">А</w>
+      <w_ id="2leu" n="2140" correct="A">
+        <w lemma="A" ana="x:foreign:typo">А</w>
       </w_>
       <w_ id="2lev" n="2141">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
-      <w_ id="2lew" n="2142">
-        <w lemma="В" ana="error">В</w>
+      <w_ id="2lew" n="2142" correct="B">
+        <w lemma="B" ana="x:foreign:typo">В</w>
       </w_>
       <w_ id="2lex" n="2143">
         <w lemma="або" ana="conj:coord">або</w>
@@ -7205,10 +7213,10 @@
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2lh5" n="2218">
-        <w lemma="які" ana="error">які</w>
+        <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="2lh6" n="2219">
-        <w lemma="становити" ana="verb:imperf:pres:s:3">становить</w>
+      <w_ id="2lh6" n="2219" correct="становлять">
+        <w lemma="становити" ana="verb:imperf:pres:p:3">становить</w>
       </w_>
       <w_ id="2lh7" n="2220">
         <w lemma="70" ana="numr:p:v_naz:nv">70</w>
