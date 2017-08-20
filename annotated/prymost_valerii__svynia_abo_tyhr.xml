@@ -600,7 +600,7 @@
     <w_ id="2lql" dep="2lqn-case" n="183">
       <w lemma="з" ana="prep:rv_oru">З</w>
     </w_>
-    <w_ id="2lqm" dep="2lqn-punct" n="184" correct="дрібною">
+    <w_ id="2lqm" dep="2lqn-amod" correct="дрібною" n="184">
       <w lemma="дрібний" ana="adj:f:v_oru:compb:typo">дрібної</w>
     </w_>
     <w_ id="2lqn" dep="2lqr-obl" n="185">
@@ -786,7 +786,7 @@
     <w_ id="2lsd" dep="2lse-case" n="244">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="2lse" dep="2lsc-obl" n="245">
+    <w_ id="2lse" dep="2lsc-nmod" n="245">
       <w lemma="Сінгапур" ana="noun:inanim:m:v_mis:prop">Сінгапурі</w>
     </w_>
     <g/>
@@ -1088,7 +1088,7 @@
     <w_ id="2lv2" dep="2lux-amod" n="336">
       <w lemma="викритий" ana="adj:p:v_rod:&amp;adjp:perf:pasv">викритих</w>
     </w_>
-    <w_ id="2lv3" dep="2lv4-expl" n="337">
+    <w_ id="2lv3" dep="2lv4-case" n="337">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
     <w_ id="2lv4" dep="2lv2-obl" n="338">
@@ -1600,7 +1600,7 @@
     <w_ id="2lzn" dep="2lzp-case" n="493">
       <w lemma="у" ana="prep:rv_mis:v-u">У</w>
     </w_>
-    <w_ id="2lzo" dep="2lzp-punct" n="494">
+    <w_ id="2lzo" dep="2lzp-amod" n="494">
       <w lemma="1959" ana="adj:m:v_mis:nv:&amp;numr">1959</w>
     </w_>
     <w_ id="2lzp" dep="2m07-obl" n="495">
@@ -1730,7 +1730,7 @@
     <w_ id="2m0t" dep="2m0w-case" n="533">
       <w lemma="із" ana="prep:rv_oru">із</w>
     </w_>
-    <w_ id="2m0v" dep="2m0w-nummod:gov" n="535">
+    <w_ id="2m0v" dep="2m0w-nummod" n="535">
       <w lemma="26000" ana="numr:p:v_oru:nv">26 000</w>
     </w_>
     <w_ id="2m0w" n="536">
@@ -1848,13 +1848,13 @@
     <w_ id="2m1y" dep="2m21-case" n="573">
       <w lemma="у" ana="prep:rv_zna:v-u">у</w>
     </w_>
-    <w_ id="2m1z" n="574">
+    <w_ id="2m1z" dep="2m21-nummod:gov" n="574">
       <w lemma="162" ana="numr:p:v_zna:nv">162</w>
     </w_>
-    <w_ id="2m20" n="575">
+    <w_ id="2m20" dep="2m1z-flat" n="575">
       <w lemma="млрд" ana="numr:p:v_rod:nv:abbr">млрд</w>
     </w_>
-    <w_ id="2m21" dep="2m1x-obj" n="576">
+    <w_ id="2m21" dep="2m1x-nmod" n="576">
       <w lemma="дол." ana="noun:inanim:p:m:v_rod:nv:abbr">дол</w>
     </w_>
     <g/>
@@ -2405,7 +2405,7 @@
     <w_ id="2m6y" dep="2m6x-acl" n="743">
       <w lemma="користуватися" ana="verb:rev:imperf:inf">користуватися</w>
     </w_>
-    <w_ id="2m6z" dep="2m70-punct" n="744">
+    <w_ id="2m6z" dep="2m70-amod" n="744">
       <w lemma="протизаплідний" ana="adj:p:v_oru">протизаплідними</w>
     </w_>
     <w_ id="2m70" dep="2m6y-obl" n="745">
@@ -2859,7 +2859,7 @@
     <w_ id="2mb2" dep="2mb3-amod" n="882">
       <w lemma="державний" ana="adj:f:v_zna">державну</w>
     </w_>
-    <w_ id="2mb3" dep="2mb0-obj" n="883">
+    <w_ id="2mb3" dep="2may-obj" n="883">
       <w lemma="скарбниця" ana="noun:inanim:f:v_zna">скарбницю</w>
     </w_>
     <g/>
@@ -3053,7 +3053,7 @@
     <w_ id="2mcr" n="942">
       <w lemma="відрізнятися" ana="verb:rev:imperf:past:m">відрізнявся</w>
     </w_>
-    <w_ id="2mcs" dep="2mct-expl" n="943">
+    <w_ id="2mcs" dep="2mct-case" n="943">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
     <w_ id="2mct" dep="2mcr-obl" n="944">
