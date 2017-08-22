@@ -439,7 +439,7 @@
       <w_ id="2gqx" dep="2gqz-case" n="134">
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
-      <w_ id="2gqy" dep="2gqz-det" n="135">
+      <w_ id="2gqy" dep="2gqz-det:numgov" n="135">
         <w lemma="кілька" ana="numr:p:v_zna:&amp;pron:ind">кілька</w>
       </w_>
       <w_ id="2gqz" dep="2gr0-obl" n="136">
@@ -686,7 +686,7 @@
         <w lemma="пригадувати" ana="verb:imperf:inf">пригадувати</w>
       </w_>
       <w_ id="2gt7" dep="2gt6-obj" n="211">
-        <w lemma="загиблий" ana="adj:p:v_rod:&amp;adjp:perf:actv:&amp;noun:anim:m">загиблих</w>
+        <w lemma="загиблий" ana="adj:m:p:v_rod:&amp;adjp:perf:actv:&amp;noun:anim" lemma2="загиблий">загиблих</w>
       </w_>
       <g/>
       <w_ id="2gt8" dep="2gsx-punct" n="212">
@@ -729,7 +729,7 @@
         <w lemma="під" ana="prep:rv_zna">під</w>
       </w_>
       <w_ id="2gtm" dep="2gtk-obl" n="224">
-        <w lemma="вихідний" ana="adj:p:v_zna:rinanim:&amp;noun:inanim:ns">вихідні</w>
+        <w lemma="вихідні" ana="adj:p:v_zna:rinanim:ns:&amp;noun:inanim" lemma2="вихідний">вихідні</w>
       </w_>
       <g/>
       <w_ id="2gtn" dep="2gts-punct" n="225">
@@ -1625,8 +1625,8 @@
       <w_ id="2h1q" dep="2h1s-nsubj" n="496">
         <w lemma="Айнштайн" ana="noun:anim:m:v_naz:prop:lname">Айнштайн</w>
       </w_>
-      <w_ id="2h1r" dep="2h1s-discourse" comment="#&gt;part" n="497">
-        <w lemma="і" ana="conj:coord">і</w>
+      <w_ id="2h1r" dep="2h1s-discourse" n="497">
+        <w lemma="і" ana="part">і</w>
       </w_>
       <w_ id="2h1s" n="498">
         <w lemma="ввести" ana="verb:perf:past:m:v-u">ввів</w>
@@ -2071,7 +2071,7 @@
       <w_ id="2h5r" dep="2h5p-nsubj" n="631">
         <w lemma="похибка" ana="noun:inanim:f:v_naz">похибка</w>
       </w_>
-      <w_ id="2h5s" dep="2h5t-det" n="632">
+      <w_ id="2h5s" dep="2h5t-det:numgov" n="632">
         <w lemma="кілька" ana="numr:p:v_naz:&amp;pron:ind">кілька</w>
       </w_>
       <w_ id="2h5t" dep="2h5r-flat:title" n="633">
@@ -2436,8 +2436,8 @@
         <w lemma="«" ana="punct">«</w>
       </w_>
       <g/>
-      <w_ id="2h92" dep="2h96-discourse" comment="#&gt;part" n="742">
-        <w lemma="а" ana="conj:coord">А</w>
+      <w_ id="2h92" dep="2h96-discourse" n="742">
+        <w lemma="а" ana="part">А</w>
       </w_>
       <w_ id="2h93" dep="2h95-det" n="743">
         <w lemma="який" ana="adj:m:v_zna:rinanim:&amp;pron:rel">який</w>
@@ -2965,7 +2965,7 @@
       <w_ id="2hdt" dep="2hd4-punct" n="902">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <sb/>
+      <sb id="2sti"/>
       <w_ id="2hdu" dep="2he1-cc" n="903">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
@@ -3004,7 +3004,7 @@
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="2he6" dep="2he3-acl" n="915">
-        <w lemma="бути" ana="verb:aux:imperf:pres:s:3">є</w>
+        <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <w_ id="2he7" dep="2he8-case" n="916">
         <w lemma="серед" ana="prep:rv_rod">серед</w>

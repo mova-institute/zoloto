@@ -1259,7 +1259,7 @@
       <w_ id="2nhj" dep="2nhl-case" n="376">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="2nhk" dep="2nhl-nummod:gov" n="377">
+      <w_ id="2nhk" dep="2nhl-nummod" n="377">
         <w lemma="9" ana="numr:p:v_rod:nv">9</w>
       </w_>
       <g/>
@@ -1288,7 +1288,7 @@
         <w lemma="дніпропетровський" ana="adj:f:v_rod">Дніпропетровської</w>
       </w_>
       <g/>
-      <w_ id="2nht" dep="2nhu-amod" n="386">
+      <w_ id="2nht" dep="2nhu-punct" n="386">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2nhu" dep="2nhs-conj" n="387">
@@ -1304,7 +1304,7 @@
         <w lemma="область" ana="noun:inanim:p:f:v_rod">областей</w>
       </w_>
       <g/>
-      <w_ id="2nhy" dep="2nhp-amod" n="391">
+      <w_ id="2nhy" dep="2nhp-punct" n="391">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2nhz"/>
@@ -1743,7 +1743,7 @@
       <w_ id="2nlt" dep="2nls-punct" n="523">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="2nlu" dep="2nlw-amod" n="524">
+      <w_ id="2nlu" dep="2nlw-punct" n="524">
         <w lemma="«" ana="punct">«</w>
       </w_>
       <g/>
@@ -1940,7 +1940,7 @@
       <w_ id="2nnk" dep="2nnm-case" n="584">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
-      <w_ id="2nnl" dep="2nnm-nummod:gov" n="585">
+      <w_ id="2nnl" dep="2nnm-nummod" n="585">
         <w lemma="сім" ana="numr:p:v_mis">семи</w>
       </w_>
       <w_ id="2nnm" dep="2nny-obl" n="586">
@@ -2573,7 +2573,7 @@
         <w lemma="медіа" ana="noun:inanim:p:v_naz:nv:ns">медіа</w>
       </w_>
       <g/>
-      <w_ id="2nt4" dep="2nt3-csubj:pass" n="775">
+      <w_ id="2nt4" dep="2nt3-punct" n="775">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
@@ -3676,7 +3676,7 @@
       <w_ id="2o34" dep="2o37-obl" n="1117">
         <w lemma="він" ana="noun:m:v_oru:&amp;pron:pers:3">ним</w>
       </w_>
-      <w_ id="2o35" dep="2o36-det" n="1118">
+      <w_ id="2o35" dep="2o36-det:numgov" n="1118">
         <w lemma="декілька" ana="numr:p:v_zna:&amp;pron:ind">декілька</w>
       </w_>
       <w_ id="2o36" dep="2o37-obl" n="1119">
@@ -3818,7 +3818,7 @@
       <w_ id="2o4f" dep="2o47-punct" n="1161">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <sb/>
+      <sb id="2sth"/>
     </p>
     <gap/>
     <p id="2o4g">
@@ -4053,7 +4053,7 @@
         <w lemma="лікувати" ana="verb:imperf:inf">лікувати</w>
       </w_>
       <w_ id="2o6k" dep="2o6j-obj" n="1234">
-        <w lemma="хворий" ana="adj:p:v_zna:ranim:&amp;noun:anim:m">хворих</w>
+        <w lemma="хворий" ana="adj:m:p:v_zna:ranim:&amp;noun:anim" lemma2="хворий">хворих</w>
       </w_>
       <g/>
       <w_ id="2o6l" dep="2o68-punct" n="1235">
@@ -4249,7 +4249,7 @@
         <w lemma="весь" ana="adj:n:v_zna:&amp;pron:gen">все</w>
       </w_>
       <w_ id="2o8b" dep="2o88-obl" n="1293">
-        <w lemma="інший" ana="adj:n:v_naz:&amp;pron:ind:&amp;noun:inanim">інше</w>
+        <w lemma="інше" ana="adj:n:v_naz:&amp;pron:ind:&amp;noun:inanim" lemma2="інший">інше</w>
       </w_>
       <g/>
       <w_ id="2o8c" dep="2o8e-punct" n="1294">
@@ -4577,7 +4577,7 @@
         <w lemma="Румунія" ana="noun:inanim:f:v_rod:prop">Румунії</w>
       </w_>
       <g/>
-      <w_ id="2oba" dep="2oaw-acl" n="1393">
+      <w_ id="2oba" dep="2oaw-punct" n="1393">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2obb"/>
@@ -4630,8 +4630,8 @@
       <w_ id="2obr" n="1408">
         <w lemma="виступати" ana="verb:imperf:past:m">виступав</w>
       </w_>
-      <w_ id="2obs" dep="2obt-discourse" comment="#&gt;part" n="1409">
-        <w lemma="і" ana="conj:coord">і</w>
+      <w_ id="2obs" dep="2obt-discourse" n="1409">
+        <w lemma="і" ana="part">і</w>
       </w_>
       <w_ id="2obt" dep="2obr-nsubj" n="1410">
         <w lemma="депутат" ana="noun:anim:m:v_naz">депутат</w>
@@ -5026,7 +5026,7 @@
       <w_ id="2ofe" dep="2ofg-case" n="1530">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="2off" dep="2ofg-nummod:gov" n="1531">
+      <w_ id="2off" dep="2ofg-nummod" n="1531">
         <w lemma="п’ять" ana="numr:p:v_rod">п’яти</w>
       </w_>
       <w_ id="2ofg" dep="2ofd-nmod" n="1532">
