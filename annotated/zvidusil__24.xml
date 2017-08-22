@@ -837,7 +837,7 @@
       <w_ id="2rfl" dep="2rfm-advmod" n="259">
         <w lemma="щонайменше" ana="adv:abs">щонайменше</w>
       </w_>
-      <w_ id="2rfm" dep="2rfn-nummod:gov" n="260">
+      <w_ id="2rfm" dep="2rfn-nummod" n="260">
         <w lemma="24" ana="numr:p:v_zna:nv">24</w>
       </w_>
       <w_ id="2rfn" dep="2rfg-obj" n="261">
@@ -1036,7 +1036,7 @@
       <w_ id="2rhf" dep="2rhg-advmod" n="319">
         <w lemma="майже" ana="adv">майже</w>
       </w_>
-      <w_ id="2rhg" dep="2rhh-nummod:gov" n="320">
+      <w_ id="2rhg" dep="2rhh-nummod" n="320">
         <w lemma="400" ana="numr:p:v_rod:nv">400</w>
       </w_>
       <w_ id="2rhh" dep="2rhe-nmod" n="321">
@@ -1570,7 +1570,7 @@
       <w_ id="2rm2" dep="2rm3-amod" n="475">
         <w lemma="державний" ana="adj:p:v_rod">державних</w>
       </w_>
-      <w_ id="2rm3" dep="2rm0-nmod" n="476">
+      <w_ id="2rm3" dep="2rm0-conj" n="476">
         <w lemma="номер" ana="noun:inanim:p:m:v_rod">номерів</w>
       </w_>
       <w_ id="2rm4" dep="2rm3-nmod" n="477">
@@ -2416,17 +2416,17 @@
         <w lemma="субота" ana="noun:inanim:f:v_rod">суботи</w>
       </w_>
       <g/>
-      <w_ id="2rtt" dep="2rtv-punct" n="734">
+      <w_ id="2rtt" dep="2rtu-punct" n="734">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2rtu" dep="2rtv-amod" n="735">
+      <w_ id="2rtu" dep="2rts-appos:nonnom" tags="promoted" n="735">
         <w lemma="12" ana="adj:n:v_rod:nv:&amp;numr">12</w>
       </w_>
-      <w_ id="2rtv" dep="2rts-appos:nonnom" n="736">
+      <w_ id="2rtv" dep="2rtu-nmod" n="736">
         <w lemma="серпень" ana="noun:inanim:m:v_rod">серпня</w>
       </w_>
       <g/>
-      <w_ id="2rtw" dep="2rtv-punct" n="737">
+      <w_ id="2rtw" dep="2rtu-punct" n="737">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2rtx" dep="2ru0-amod" n="738">
@@ -2901,13 +2901,13 @@
       <w_ id="2ry7" dep="2rya-punct" n="882">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2ry8" dep="2rya-nsubj" n="883">
+      <w_ id="2ry8" dep="2rya-mark" comment="#&gt;conj:subord" n="883">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="2ry9" dep="2rya-advmod" n="884">
         <w lemma="нерідко" ana="adv">нерідко</w>
       </w_>
-      <w_ id="2rya" dep="2ry1-parataxis" n="885">
+      <w_ id="2rya" dep="2ry1-acl" n="885">
         <w lemma="розходитися" ana="verb:rev:imperf:past:p">розходились</w>
       </w_>
       <w_ id="2ryb" dep="2ryd-case" n="886">
@@ -3752,7 +3752,7 @@
       <w_ id="2s5x" dep="2s5z-obl" n="1147">
         <w lemma="редакція" ana="noun:inanim:f:v_mis">редакції</w>
       </w_>
-      <w_ id="2s5y" dep="2s5z-nsubj" n="1148">
+      <w_ id="2s5y" dep="2s5z-obj" n="1148">
         <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
       </w_>
       <w_ id="2s5z" n="1149">
