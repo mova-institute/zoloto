@@ -2142,7 +2142,7 @@
     <w_ id="1a9c">
       <w lemma="зокрема" ana="adv">зокрема</w>
     </w_>
-    <w_ id="1a9d" dep="1a9e-discourse">
+    <w_ id="1a9d" dep="1a9e-discourse" comment="#&gt;part">
       <w lemma="й" ana="part">й</w>
     </w_>
     <w_ id="1a9e">
@@ -4762,7 +4762,7 @@
     <w_ id="1awl" dep="1awj-nsubj">
       <w lemma="варіант" ana="noun:inanim:p:m:v_naz">варіанти</w>
     </w_>
-    <w_ id="1awm" dep="1awn-nmod">
+    <w_ id="1awm" dep="1awn-det">
       <w lemma="її" ana="adj:n:v_rod:poss:nv:&amp;pron:pers:3">її</w>
     </w_>
     <w_ id="1awn" dep="1awl-nmod">
@@ -5863,7 +5863,7 @@
     <w_ id="1b6i" dep="1b6j-cc">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ id="1b6j" dep="1b6o-nsubj">
+    <w_ id="1b6j" dep="1b6o-amod">
       <w lemma="волинський" ana="adj:p:v_rod">волинських</w>
     </w_>
     <g/>
@@ -5901,8 +5901,8 @@
     <w_ id="1b6u" dep="1b70-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1b6v" dep="1b70-nsubj">
-      <w lemma="більшість" ana="noun:inanim:f:v_naz">більшість</w>
+    <w_ id="1b6v" dep="1b70-obj">
+      <w lemma="більшість" ana="noun:inanim:f:v_zna">більшість</w>
     </w_>
     <w_ id="1b6w" dep="1b6x-case">
       <w lemma="із" ana="prep:rv_rod">із</w>
@@ -8723,11 +8723,11 @@
     <w_ id="1bvs" dep="1bvt-amod">
       <w lemma="український" ana="adj:f:v_rod">української</w>
     </w_>
-    <w_ id="1bvt" dep="1bvr-nmod|1bvq-punct">
+    <w_ id="1bvt" dep="1bvr-nmod">
       <w lemma="мова" ana="noun:inanim:f:v_rod">мови</w>
     </w_>
     <g/>
-    <w_ id="1bvu">
+    <w_ id="1bvu" dep="1bvq-punct">
       <w lemma="»" ana="punct:quote:close">»</w>
     </w_>
     <w_ id="1bvv" dep="1bvq-nmod">
@@ -8842,7 +8842,7 @@
     <w_ id="1bws">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="1bwt" dep="1bwu-advmod">
+    <w_ id="1bwt" dep="1bwu-advmod" comment="#&gt;adv">
       <w lemma="ще" ana="adv">ще</w>
     </w_>
     <w_ id="1bwu">

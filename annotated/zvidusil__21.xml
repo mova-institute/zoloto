@@ -598,7 +598,7 @@
       <w_ id="2gsd" dep="2gsg-nsubj" n="183">
         <w lemma="день" ana="noun:inanim:m:v_naz">День</w>
       </w_>
-      <w_ id="2gse" dep="2gsd-obl" n="184">
+      <w_ id="2gse" dep="2gsd-nmod" n="184">
         <w lemma="зарплата" ana="noun:inanim:f:v_rod">зарплати</w>
       </w_>
       <w_ id="2gsf" dep="2gsg-cop" n="185">
@@ -825,7 +825,7 @@
         <w lemma="з" ana="prep:rv_zna">з</w>
       </w_>
       <w_ id="2gui" dep="2gug-obl" n="253">
-        <w lemma="рік" ana="noun:inanim:m:v_naz">рік</w>
+        <w lemma="рік" ana="noun:inanim:m:v_zna">рік</w>
       </w_>
       <g/>
       <w_ id="2guj" dep="2guk-punct" n="254">
@@ -1160,7 +1160,7 @@
         <w lemma="дівчина" ana="noun:anim:f:v_rod">дівчини</w>
       </w_>
       <w_ id="2gxi" dep="2gxk-case" n="352">
-        <w lemma="з" ana="prep:rv_oru">з</w>
+        <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="2gxj" dep="2gxk-det" n="353">
         <w lemma="мій" ana="adj:f:v_rod:poss:&amp;pron:pers:1">моєї</w>
@@ -1255,7 +1255,7 @@
         <w lemma="століття" ana="noun:inanim:n:v_rod">століття</w>
       </w_>
       <w_ id="2gyf" dep="2gzc-obj" n="383">
-        <w lemma="напівпровідник" ana="noun:inanim:p:m:v_naz">напівпровідники</w>
+        <w lemma="напівпровідник" ana="noun:inanim:p:m:v_zna">напівпровідники</w>
       </w_>
       <g/>
       <w_ id="2gyg" dep="2gyi-punct" n="384">
@@ -1605,7 +1605,7 @@
         <w lemma="електрон" ana="noun:inanim:p:m:v_zna">електрони</w>
       </w_>
       <w_ id="2h1k" dep="2h1l-case" n="491">
-        <w lemma="з" ana="prep:rv_oru">з</w>
+        <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="2h1l" dep="2h1i-obl" n="492">
         <w lemma="метал" ana="noun:inanim:p:m:v_rod">металів</w>
@@ -1994,7 +1994,7 @@
       <w_ id="2h51" dep="2h52-case" n="607">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2h52" dep="2h50-nmod" n="608">
+      <w_ id="2h52" dep="2h50-obl" n="608">
         <w lemma="розрахунок" ana="noun:inanim:m:v_rod">розрахунку</w>
       </w_>
       <w_ id="2h53" dep="2h52-nmod" n="609">
@@ -2774,7 +2774,7 @@
       <w_ id="2hc4" dep="2hc7-obl" n="843">
         <w lemma="коло" ana="noun:inanim:n:v_rod">кола</w>
       </w_>
-      <w_ id="2hc5" dep="2hc4-nmod" n="844">
+      <w_ id="2hc5" dep="2hc4-nmod" tags="promoted" n="844">
         <w lemma="50" ana="numr:p:v_rod:nv">50</w>
       </w_>
       <w_ id="2hc6" dep="2hc7-nsubj" n="845">
@@ -3236,7 +3236,7 @@
       <w_ id="2hgb" dep="2hgc-case" n="986">
         <w lemma="довкола" ana="prep:rv_rod">довкола</w>
       </w_>
-      <w_ id="2hgc" dep="2hga-obl" n="987">
+      <w_ id="2hgc" dep="2hga-nmod" n="987">
         <w lemma="себе" ana="noun:v_rod:&amp;pron:refl">себе</w>
       </w_>
       <g/>
@@ -3343,7 +3343,7 @@
       <w_ id="2hh9" n="1018">
         <w lemma="кінематограф" ana="noun:inanim:m:v_oru">кінематографом</w>
       </w_>
-      <w_ id="2hha" dep="2hhc-nsubj" n="1019">
+      <w_ id="2hha" dep="2hhc-case" n="1019">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
       <w_ id="2hhb" dep="2hhc-amod" n="1020">
@@ -3631,7 +3631,7 @@
       <w_ id="2hjw" dep="2hjy-amod" n="1106">
         <w lemma="доступний" ana="adj:m:v_rod:compb">доступного</w>
       </w_>
-      <w_ id="2hjx" dep="2hjw-nmod" n="1107">
+      <w_ id="2hjx" dep="2hjw-iobj" n="1107">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <w_ id="2hjy" dep="2hjt-obj" tags="promoted" comment="еліпс наперед" n="1108">
@@ -3722,13 +3722,13 @@
         <w lemma="відтворювати" ana="verb:imperf:pres:s:1">відтворюю</w>
       </w_>
       <w_ id="2hkq" dep="2hkp-obj" n="1135">
-        <w lemma="побачений" ana="adj:n:v_zna:&amp;adjp:perf:pasv">побачене</w>
+        <w lemma="побачений" ana="adj:n:v_zna:&amp;adjp:perf:pasv:&amp;noun:inanim">побачене</w>
       </w_>
       <w_ id="2hkr" dep="2hks-cc" n="1136">
         <w lemma="й" ana="conj:coord">й</w>
       </w_>
       <w_ id="2hks" dep="2hkq-conj" n="1137">
-        <w lemma="почутий" ana="adj:n:v_zna:&amp;adjp:perf:pasv">почуте</w>
+        <w lemma="почутий" ana="adj:n:v_zna:&amp;adjp:perf:pasv:&amp;noun:inanim">почуте</w>
       </w_>
       <g/>
       <w_ id="2hkt" dep="2hkw-punct" n="1138">

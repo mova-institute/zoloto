@@ -3145,7 +3145,7 @@
       <w_ id="1o4f" dep="1o4d-obl">
         <w lemma="він" ana="noun:m:v_rod:rprep:&amp;pron:pers:3">нього</w>
       </w_>
-      <w_ id="1o4g" dep="1o4d-xcomp:2">
+      <w_ id="1o4g" dep="1o4d-obj">
         <w lemma="Made" ana="x:foreign">Made</w>
       </w_>
       <w_ id="1o4h" dep="1o4g-flat:foreign">
@@ -3171,22 +3171,22 @@
   <doc id="1o4n" author="Уповноважений @ tereveni.org" date="2015-11-09 11:36" src="http://tereveni.org/topic/30010/page__p__864909#entry864909" title="[Який телефон/планшет до 2 тисяч взяти для Skype?]">
     <p id="1o4o">
       <sb id="1o4p"/>
-      <w_ id="1o4q" dep="1o4r-discourse">
+      <w_ id="1o4q" dep="1o4u-discourse">
         <w lemma="ну" ana="part">ну</w>
       </w_>
-      <w_ id="1o4r" dep="1o4v-mark">
+      <w_ id="1o4r" dep="1o4u-mark">
         <w lemma="якщо" ana="conj:subord">якщо</w>
       </w_>
       <w_ id="1o4s" dep="1o4t-case">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="1o4t" dep="1o4v-obl">
+      <w_ id="1o4t" dep="1o4u-obl">
         <w lemma="ти" ana="noun:anim:s:v_rod:&amp;pron:pers:2">тебе</w>
       </w_>
-      <w_ id="1o4u" dep="1o4v-cop">
+      <w_ id="1o4u">
         <w lemma="бути" ana="verb:aux:imperf:pres:s:3">є</w>
       </w_>
-      <w_ id="1o4v">
+      <w_ id="1o4v" dep="1o4u-nsubj">
         <w lemma="покриття" ana="noun:inanim:n:v_naz">покриття</w>
       </w_>
       <w_ id="1o4w" dep="1o4v-flat:title">
@@ -3205,7 +3205,7 @@
         <w lemma="Лайф" ana="noun:inanim:m:v_rod:nv:prop:auto">лайф</w>
       </w_>
       <g/>
-      <w_ id="1o51" dep="1o4v-punct">
+      <w_ id="1o51" dep="1o4u-punct">
         <w lemma="...." ana="punct">....</w>
       </w_>
       <sb id="1o52"/>
@@ -4057,7 +4057,7 @@
       <w_ id="1od0" dep="1od1-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1od1" dep="1ocy-obl">
+      <w_ id="1od1" dep="1ocy-nmod">
         <w lemma="інтернет" ana="noun:inanim:m:v_mis">інтернеті</w>
       </w_>
       <g/>

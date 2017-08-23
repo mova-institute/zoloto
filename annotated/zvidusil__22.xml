@@ -101,13 +101,13 @@
         <w lemma="думати" ana="verb:imperf:pres:p:2">думаєте</w>
       </w_>
       <g/>
-      <w_ id="2ili" dep="2iln-punct" n="28">
+      <w_ id="2ili" dep="2ilk-punct" n="28">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2ilj" dep="2ilk-obj" n="29">
         <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
       </w_>
-      <w_ id="2ilk" n="30">
+      <w_ id="2ilk" dep="2ilh-parataxis" n="30">
         <w lemma="вигнати" ana="verb:perf:futr:p:3">виженуть</w>
       </w_>
       <w_ id="2ill" dep="2iln-case" n="31">
@@ -116,7 +116,7 @@
       <w_ id="2ilm" dep="2iln-amod" n="32">
         <w lemma="перший" ana="adj:f:v_rod:compb:&amp;numr">першої</w>
       </w_>
-      <w_ id="2iln" dep="2ilk-obl|2ilh-parataxis" n="33">
+      <w_ id="2iln" dep="2ilk-obl" n="33">
         <w lemma="сесія" ana="noun:inanim:f:v_rod">сесії</w>
       </w_>
       <w_ id="2ilo" dep="2ilq-cc" n="34">
@@ -382,7 +382,7 @@
         <w lemma="приймальний" ana="adj:f:v_rod">приймальної</w>
       </w_>
       <w_ id="2io4" dep="2io1-obl" n="113">
-        <w lemma="комісія" ana="noun:inanim:f:v_dav">комісії</w>
+        <w lemma="комісія" ana="noun:inanim:f:v_rod">комісії</w>
       </w_>
       <w_ id="2io5" dep="2io6-cc" n="114">
         <w lemma="і" ana="conj:coord">і</w>
@@ -612,7 +612,7 @@
         <w lemma="о" ana="prep:rv_mis">О</w>
       </w_>
       <w_ id="2iq9" dep="2iqf-obl" tags="promoted" n="180">
-        <w lemma="17" ana="adj:f:v_rod:nv:&amp;numr">17</w>
+        <w lemma="17" ana="adj:f:v_mis:nv:&amp;numr">17</w>
       </w_>
       <g/>
       <w_ id="2iqa" dep="2iqb-punct" n="181">
@@ -678,7 +678,7 @@
       <w_ id="2iqu" dep="2iqy-obl" n="200">
         <w lemma="контора" ana="noun:inanim:f:v_mis">конторі</w>
       </w_>
-      <w_ id="2iqv" dep="2iqy-nsubj" n="201">
+      <w_ id="2iqv" dep="2iqy-obj" n="201">
         <w lemma="все" ana="noun:inanim:n:v_zna:&amp;pron:gen:v-u">все</w>
       </w_>
       <w_ id="2iqw" dep="2iqy-advmod" n="202">
@@ -757,7 +757,7 @@
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
       <w_ id="2irl" dep="2irj-nmod" n="225">
-        <w lemma="Мен" ana="noun:inanim:m:v_kly:prop:auto">мене</w>
+        <w lemma="Мен" ana="noun:inanim:m:v_rod:prop:auto">мене</w>
       </w_>
       <g/>
       <w_ id="2irm" dep="2ira-punct" n="226">
@@ -988,7 +988,7 @@
       <sb id="2itr"/>
     </p>
     <p id="2its">
-      <w_ id="2itt" n="293">
+      <w_ id="2itt" tags="promoted" n="293">
         <w lemma="один" ana="adj:f:v_naz:&amp;pron:ind">Одна</w>
       </w_>
       <w_ id="2itu" dep="2itv-case" n="294">
@@ -1161,7 +1161,7 @@
         <w lemma="мій" ana="adj:p:v_zna:ranim:poss:&amp;pron:pers:1">моїх</w>
       </w_>
       <w_ id="2ivh" dep="2ivd-obl" n="342">
-        <w lemma="брат" ana="noun:anim:p:m:v_rod">братів</w>
+        <w lemma="брат" ana="noun:anim:p:m:v_zna">братів</w>
       </w_>
       <w_ id="2ivi" dep="2ivj-cc" n="343">
         <w lemma="і" ana="conj:coord">і</w>
