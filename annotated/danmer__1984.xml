@@ -1008,22 +1008,22 @@
             <w lemma="приглушити" ana="verb:perf:inf">приглушити</w>
           </w_>
           <g/>
-          <w_ id="03mz" dep="03n4-punct">
+          <w_ id="03mz" dep="03n2-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="03n0" dep="03n4-cc">
+          <w_ id="03n0" dep="03n2-cc">
             <w lemma="але" ana="conj:coord">але</w>
           </w_>
           <w_ id="03n1" dep="03n2-advmod">
             <w lemma="не" ana="part:neg">не</w>
           </w_>
-          <w_ id="03n2" dep="03n4-cop">
+          <w_ id="03n2" dep="03mw-conj:parataxis">
             <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
           </w_>
           <w_ id="03n3" dep="03n4-det">
             <w lemma="жодний" ana="adj:m:v_rod:&amp;pron:neg">жодного</w>
           </w_>
-          <w_ id="03n4" dep="03mw-conj:parataxis">
+          <w_ id="03n4" dep="03n2-nsubj">
             <w lemma="спосіб" ana="noun:inanim:m:v_rod">способу</w>
           </w_>
           <w_ id="03n5" dep="03n4-acl">
@@ -1998,19 +1998,19 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="03w1"/>
-          <w_ id="03w2" dep="03w6-advmod">
+          <w_ id="03w2" dep="03w4-advmod" comment="discourse?">
             <w lemma="звісно" ana="adv">Звісно</w>
           </w_>
           <w_ id="03w3" dep="03w4-advmod">
             <w lemma="не" ana="part:neg">не</w>
           </w_>
-          <w_ id="03w4" dep="03w6-cop">
+          <w_ id="03w4">
             <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
           </w_>
           <w_ id="03w5" dep="03w6-det">
             <w lemma="жодний" ana="adj:m:v_rod:&amp;pron:neg">жодного</w>
           </w_>
-          <w_ id="03w6">
+          <w_ id="03w6" dep="03w4-nsubj">
             <w lemma="спосіб" ana="noun:inanim:m:v_rod">способу</w>
           </w_>
           <w_ id="03w7" dep="03w6-acl">
@@ -2044,7 +2044,7 @@
             <w lemma="час" ana="noun:inanim:m:v_rod">часу</w>
           </w_>
           <g/>
-          <w_ id="03wh" dep="03w6-punct">
+          <w_ id="03wh" dep="03w4-punct">
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="03wi"/>
@@ -2636,22 +2636,22 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="041y"/>
-          <w_ id="041z" dep="0424-discourse">
+          <w_ id="041z" dep="0420-discourse">
             <w lemma="чи" ana="part">Чи</w>
           </w_>
-          <w_ id="0420" dep="0424-cop">
+          <w_ id="0420">
             <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
           </w_>
-          <w_ id="0421" dep="0424-advmod">
+          <w_ id="0421" dep="0420-advmod">
             <w lemma="там" ana="adv:&amp;pron:dem">там</w>
           </w_>
-          <w_ id="0422" dep="0424-advmod">
+          <w_ id="0422" dep="0420-advmod">
             <w lemma="завжди" ana="adv:&amp;pron:gen">завжди</w>
           </w_>
           <w_ id="0423" dep="0424-det">
             <w lemma="цей" ana="adj:p:v_naz:&amp;pron:dem">ці</w>
           </w_>
-          <w_ id="0424">
+          <w_ id="0424" dep="0420-nsubj">
             <w lemma="веренва" ana="noun:inanim:p:f:v_naz">веренви</w>
           </w_>
           <w_ id="0425" dep="0428-amod">
@@ -2778,7 +2778,7 @@
             <w lemma="бік" ana="noun:inanim:p:m:v_zna">боки</w>
           </w_>
           <g/>
-          <w_ id="0439" dep="0424-punct">
+          <w_ id="0439" dep="0420-punct">
             <w lemma="?" ana="punct">?</w>
           </w_>
           <sb id="043a"/>
@@ -3359,13 +3359,13 @@
           <w_ id="048m" dep="048j-obl">
             <w lemma="Лондон" ana="noun:inanim:m:v_mis:prop:xp2">Лондону</w>
           </w_>
-          <w_ id="048n" dep="0490-advmod">
+          <w_ id="048n" dep="048o-case">
             <w lemma="де" ana="adv:&amp;pron:rel">де</w>
           </w_>
-          <w_ id="048o" dep="0490-cop">
+          <w_ id="048o" dep="048m-acl">
             <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
           </w_>
-          <w_ id="048p" dep="048r-discourse">
+          <w_ id="048p">
             <w lemma="ще" ana="part">ще</w>
           </w_>
           <w_ id="048q" dep="048r-discourse">
@@ -3398,7 +3398,7 @@
           <w_ id="048z" dep="048x-conj">
             <w lemma="розмір" ana="noun:inanim:p:m:v_oru">розмірами</w>
           </w_>
-          <w_ id="0490" dep="048m-acl">
+          <w_ id="0490" dep="048o-nsubj">
             <w lemma="будівля" ana="noun:inanim:p:f:v_naz">будівлі</w>
           </w_>
           <g/>

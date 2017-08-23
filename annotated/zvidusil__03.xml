@@ -1795,13 +1795,13 @@
   <doc id="1nry" author="Негребецький Олекса" date="2017-01-10 04:40" src="https://www.facebook.com/Nehrebeckyj/posts/1367975406600223" title="[Поганий буде вкраїнський Фейсбук]">
     <p id="1nrz">
       <sb id="1ns0"/>
-      <w_ id="1ns1" dep="1ns3-cop">
+      <w_ id="1ns1">
         <w lemma="бути" ana="verb:aux:imperf:pres:s:3">Є</w>
       </w_>
       <w_ id="1ns2" dep="1ns3-det">
         <w lemma="такий" ana="adj:f:v_naz:&amp;pron:dem">така</w>
       </w_>
-      <w_ id="1ns3">
+      <w_ id="1ns3" dep="1ns1-nsubj">
         <w lemma="думка" ana="noun:inanim:f:v_naz">думка</w>
       </w_>
       <g/>
@@ -1838,7 +1838,7 @@
         <w lemma="56" ana="numr:p:v_naz:nv">56</w>
       </w_>
       <g/>
-      <w_ id="1nse" dep="1ns3-punct">
+      <w_ id="1nse" dep="1ns1-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1nsf"/>
@@ -3669,19 +3669,19 @@
       <w_ id="1o99" dep="1o94-csubj">
         <w lemma="пошукати" ana="verb:perf:inf">пошукати</w>
       </w_>
-      <w_ id="1o9a" dep="1o9e-punct">
+      <w_ id="1o9a" dep="1o9c-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="1o9b" dep="1o9e-advmod">
+      <w_ id="1o9b" dep="1o9c-advmod">
         <w lemma="там" ana="adv:&amp;pron:dem">там</w>
       </w_>
-      <w_ id="1o9c" dep="1o9e-cop">
+      <w_ id="1o9c" dep="1o94-parataxis">
         <w lemma="бути" ana="verb:aux:imperf:pres:p:3">є</w>
       </w_>
       <w_ id="1o9d" dep="1o9e-amod">
         <w lemma="недорогий" ana="adj:p:v_naz">недорогі</w>
       </w_>
-      <w_ id="1o9e" dep="1o94-parataxis">
+      <w_ id="1o9e" dep="1o9c-nsubj">
         <w lemma="модель" ana="noun:inanim:p:f:v_naz">моделі</w>
       </w_>
       <g/>
