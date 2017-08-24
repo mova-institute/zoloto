@@ -3656,8 +3656,8 @@
           <w lemma="«" ana="punct:quote:open">«</w>
         </w_>
         <g/>
-        <w_ id="00wl" dep="00wj-obj" tags="graft" comment="чи таки :inanimish?">
-          <w lemma="гетьман" ana="noun:anim:p:m:v_naz">Гетьмани</w>
+        <w_ id="00wl" dep="00wj-obj">
+          <w lemma="гетьман" ana="noun:anim:p:m:v_zna:inanimish">Гетьмани</w>
         </w_>
         <g/>
         <w_ id="00wm" dep="00wl-punct">
@@ -3763,7 +3763,7 @@
         <w_ id="00xe" dep="00xc-conj:repeat">
           <w lemma="чом" ana="adv:&amp;pron:int:coll">чом</w>
         </w_>
-        <w_ id="00xf" dep="00x4-orphan">
+        <w_ id="00xf" dep="00x4-orphan" tags="graft">
           <w lemma="чорнобров" ana="noun:anim:m:v_naz">чорнобров</w>
         </w_>
         <g/>
@@ -3796,7 +3796,7 @@
           <w lemma="«" ana="punct:quote:open">«</w>
         </w_>
         <g/>
-        <w_ id="00xp" dep="00xn-obj">
+        <w_ id="00xp" dep="00xn-obj" tags="graft">
           <w lemma="Српиjа" ana="noun:foreign">Српиjа</w>
         </w_>
         <w_ id="00xq" dep="00xp-flat:foreign">
@@ -4303,7 +4303,7 @@
         <w_ id="0128" dep="012a-advmod">
           <w lemma="скоріше" ana="adv:compr">скоріше</w>
         </w_>
-        <w_ id="0129" dep="012a-iobj">
+        <w_ id="0129" dep="012a-obj">
           <w lemma="версифікація" ana="noun:inanim:f:v_rod">версифікації</w>
         </w_>
         <w_ id="012a" dep="011q-advcl">
@@ -4313,7 +4313,7 @@
         <w_ id="012b" dep="012c-punct">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="012c" dep="0127-acl">
+        <w_ id="012c" dep="012a-advcl:2">
           <w lemma="примушений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">примушені</w>
         </w_>
         <w_ id="012d" dep="012e-case">
@@ -8389,7 +8389,7 @@
         </w_>
         <sb id="022c"/>
         <w_ id="022d" dep="022p-obj">
-          <w lemma="М." ana="noun:anim:nv:prop:abbr">М</w>
+          <w lemma="М." ana="noun:anim:m:v_rod:prop:fname:abbr:nv">М</w>
         </w_>
         <g/>
         <w_ id="022e" dep="022d-punct">
