@@ -1447,7 +1447,7 @@
       <w_ id="1oyf" dep="1oye-punct">
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
-      <w_ id="1oyg">
+      <w_ id="1oyg" dep="1oy6-flat:title">
         <w lemma="позивний" ana="adj:m:v_naz:&amp;noun:inanim" lemma2="позивний">позивний</w>
       </w_>
       <w_ id="1oyh" dep="1oyi-punct">
@@ -1462,7 +1462,7 @@
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
       <g/>
-      <w_ id="1oyk">
+      <w_ id="1oyk" dep="1oy6-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1oyl" dep="1oym-cop">
@@ -1560,7 +1560,7 @@
         <w lemma="го" ana="x">го</w>
       </w_>
       <g/>
-      <w_ id="1ozf">
+      <w_ id="1ozf" dep="1ozh-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1ozg" dep="1ozh-case">
@@ -1569,8 +1569,8 @@
       <w_ id="1ozh" dep="1oz4-conj">
         <w lemma="район" ana="noun:inanim:m:v_mis">районі</w>
       </w_>
-      <w_ id="1ozi" dep="1ozh-flat:title">
-        <w lemma="Маринівка" ana="noun:inanim:f:v_naz:prop">Маринівка</w>
+      <w_ id="1ozi" dep="1ozh-nmod" correct="Маринівки">
+        <w lemma="Маринівка" ana="noun:inanim:f:v_rod:prop">Маринівка</w>
       </w_>
       <g/>
       <w_ id="1ozj" dep="1ozk-punct">
@@ -1603,7 +1603,7 @@
         <w lemma="підрозділ" ana="noun:inanim:p:m:v_rod">підрозділів</w>
       </w_>
       <g/>
-      <w_ id="1ozs">
+      <w_ id="1ozs" dep="1ozx-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1ozt">
@@ -1615,14 +1615,14 @@
       <w_ id="1ozv">
         <w lemma="число" ana="noun:inanim:n:v_mis">числі</w>
       </w_>
-      <w_ id="1ozw">
+      <w_ id="1ozw" dep="1ozx-amod">
         <w lemma="72-й" ana="adj:f:v_rod:&amp;numr">72-ї</w>
       </w_>
       <w_ id="1ozx">
         <w lemma="бригада" ana="noun:inanim:f:v_rod">бригади</w>
       </w_>
       <g/>
-      <w_ id="1ozy">
+      <w_ id="1ozy" dep="1ozx-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1ozz" dep="1p00-cop">
@@ -1669,10 +1669,10 @@
         <w lemma="бій" ana="noun:inanim:p:m:v_mis">боях</w>
       </w_>
       <w_ id="1p0d" dep="1p0e-case">
-        <w lemma="за" ana="prep:rv_rod">за</w>
+        <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="1p0e">
-        <w lemma="Ясинувата" ana="noun:inanim:f:v_rod:prop:n2adj">Ясинуватої</w>
+      <w_ id="1p0e" dep="1p0c-nmod" correct="Ясинувату">
+        <w lemma="Ясинувата" ana="noun:inanim:f:v_zna:prop:n2adj">Ясинуватої</w>
       </w_>
       <w_ id="1p0f" dep="1p0g-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
@@ -1747,7 +1747,7 @@
         <w lemma="армія" ana="noun:inanim:f:v_rod">армії</w>
       </w_>
       <g/>
-      <w_ id="1p11">
+      <w_ id="1p11" dep="1p0w-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1p12" dep="1p09-conj">
