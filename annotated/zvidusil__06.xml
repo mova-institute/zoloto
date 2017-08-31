@@ -3188,15 +3188,15 @@
       <w_ id="1ran" dep="1rar-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="1rao" dep="1rar-amod">
+      <w_ id="1rao" dep="1raq-compound">
         <w lemma="містичний" ana="adj:beforeadj">містично</w>
       </w_>
       <g/>
-      <w_ id="1rap" dep="1raq-punct">
+      <w_ id="1rap" dep="1rao-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="1raq" dep="1rao-compound">
+      <w_ id="1raq" dep="1rar-amod">
         <w lemma="куртуазний" ana="adj:f:v_naz">куртуазна</w>
       </w_>
       <w_ id="1rar">
@@ -3632,14 +3632,14 @@
       <w_ id="1ren">
         <w lemma="борець" ana="noun:anim:m:v_naz">борець</w>
       </w_>
-      <w_ id="1reo" dep="1rer-amod">
+      <w_ id="1reo" dep="1req-compound">
         <!-- немає в словнику (є грецько) -->
         <w lemma="грецький" ana="adj:beforeadj">греко</w>
       </w_>
-      <w_ id="1rep" dep="1req-punct">
+      <w_ id="1rep" dep="1reo-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="1req" dep="1reo-compound">
+      <w_ id="1req" dep="1rer-amod">
         <w lemma="римський" ana="adj:m:v_rod">римського</w>
       </w_>
       <w_ id="1rer" dep="1ren-nmod">
@@ -3734,14 +3734,14 @@
       <w_ id="1rfj" dep="1rfn-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="1rfk" dep="1rfn-amod">
+      <w_ id="1rfk" dep="1rfm-compound">
         <!-- немає в словнику (є грецько) -->
         <w lemma="грецький" ana="adj:beforeadj">греко</w>
       </w_>
-      <w_ id="1rfl" dep="1rfm-punct">
+      <w_ id="1rfl" dep="1rfk-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="1rfm" dep="1rfk-compound">
+      <w_ id="1rfm" dep="1rfn-amod">
         <w lemma="римський" ana="adj:f:v_rod">римської</w>
       </w_>
       <w_ id="1rfn" dep="1rfi-nmod">
@@ -3808,14 +3808,14 @@
       <w_ id="1rg8" dep="1rg1-nmod">
         <w lemma="борець" ana="noun:anim:m:v_oru">борцем</w>
       </w_>
-      <w_ id="1rg9" dep="1rgc-amod">
+      <w_ id="1rg9" dep="1rgb-compound">
         <!-- немає в словнику (є грецько) -->
         <w lemma="грецький" ana="adj:beforeadj">греко</w>
       </w_>
-      <w_ id="1rga" dep="1rgb-punct">
+      <w_ id="1rga" dep="1rg9-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="1rgb" dep="1rg9-compound">
+      <w_ id="1rgb" dep="1rgc-amod">
         <w lemma="римський" ana="adj:m:v_rod">римського</w>
       </w_>
       <w_ id="1rgc" dep="1rg8-nmod">
@@ -4410,26 +4410,26 @@
       <w_ id="1rlw" dep="1rlt-conj">
         <w lemma="редактор" ana="noun:anim:m:v_oru">редактором</w>
       </w_>
-      <w_ id="1rlx" dep="1rm3-amod">
+      <w_ id="1rlx" dep="1rlz-compound">
         <w lemma="нью-йоркський" ana="adj:beforeadj">нью-йорксько</w>
       </w_>
       <g/>
-      <w_ id="1rly" dep="1rlz-punct">
+      <w_ id="1rly" dep="1rlx-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="1rlz" dep="1rlx-compound">
+      <w_ id="1rlz" dep="1rm3-amod">
         <w lemma="київський" ana="adj:m:v_rod">київського</w>
       </w_>
-      <w_ id="1rm0" dep="1rm3-amod">
+      <w_ id="1rm0" dep="1rm2-compound">
         <w lemma="літературний" ana="adj:beforeadj">літературно</w>
       </w_>
       <g/>
-      <w_ id="1rm1" dep="1rm2-punct">
+      <w_ id="1rm1" dep="1rm0-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="1rm2" dep="1rm0-compound">
+      <w_ id="1rm2" dep="1rm3-amod">
         <w lemma="мистецький" ana="adj:m:v_rod">мистецького</w>
       </w_>
       <w_ id="1rm3" dep="1rlt-nmod">

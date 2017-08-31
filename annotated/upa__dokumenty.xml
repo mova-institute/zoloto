@@ -57,15 +57,15 @@
       <w_ id="17nu">
         <w lemma="жовнір" ana="noun:anim:p:m:v_naz">ЖОВНІРИ</w>
       </w_>
-      <w_ id="17nv" dep="17ny-amod">
+      <w_ id="17nv" dep="17nx-compound">
         <w lemma="чеський" ana="adj:beforeadj">ЧЕСЬКО</w>
       </w_>
       <g/>
-      <w_ id="17nw" dep="17nx-punct">
+      <w_ id="17nw" dep="17nv-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="17nx" dep="17nv-compound">
+      <w_ id="17nx" dep="17ny-amod">
         <w lemma="словацький" ana="adj:f:v_rod">СЛОВАЦЬКОЇ</w>
       </w_>
       <w_ id="17ny" dep="17nu-nmod">
@@ -2315,15 +2315,15 @@
       <w_ id="188v" dep="188u-obj">
         <w lemma="ряд" ana="noun:inanim:p:m:v_zna">ряди</w>
       </w_>
-      <w_ id="188w" dep="188z-amod">
+      <w_ id="188w" dep="188y-compound">
         <w lemma="визвольний" ana="adj:beforeadj">визвольно</w>
       </w_>
       <g/>
-      <w_ id="188x" dep="188y-punct">
+      <w_ id="188x" dep="188w-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="188y" dep="188w-compound">
+      <w_ id="188y" dep="188z-amod">
         <w lemma="революційний" ana="adj:n:v_rod:compb">революційного</w>
       </w_>
       <w_ id="188z" dep="188v-nmod">
@@ -2365,15 +2365,15 @@
       <w_ id="189b" dep="189f-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="189c" dep="189f-amod">
+      <w_ id="189c" dep="189e-compound">
         <w lemma="визвольний" ana="adj:beforeadj">визвольно</w>
       </w_>
       <g/>
-      <w_ id="189d" dep="189e-punct">
+      <w_ id="189d" dep="189c-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="189e" dep="189c-compound">
+      <w_ id="189e" dep="189f-amod">
         <w lemma="революційний" ana="adj:n:v_rod:compb">революційного</w>
       </w_>
       <w_ id="189f" dep="189a-conj">
@@ -2489,15 +2489,15 @@
       <w_ id="18ag" dep="18ak-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="18ah" dep="18ak-amod">
+      <w_ id="18ah" dep="18aj-compound">
         <w lemma="визвольний" ana="adj:beforeadj">визвольно</w>
       </w_>
       <g/>
-      <w_ id="18ai" dep="18aj-punct">
+      <w_ id="18ai" dep="18ah-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="18aj" dep="18ah-compound">
+      <w_ id="18aj" dep="18ak-amod">
         <w lemma="революційний" ana="adj:n:v_rod:compb">революційного</w>
       </w_>
       <w_ id="18ak" dep="18af-conj">
@@ -2885,21 +2885,21 @@
       <w_ id="18e4" dep="18ea-case">
         <w lemma="відносно" ana="prep:rv_rod">відносно</w>
       </w_>
-      <w_ id="18e5" dep="18ea-amod">
+      <w_ id="18e5" dep="18e7-compound">
         <w lemma="політичний" ana="adj:beforeadj">політично</w>
       </w_>
       <g/>
-      <w_ id="18e6" dep="18e7-punct">
+      <w_ id="18e6" dep="18e5-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="18e7" dep="18e5-compound">
+      <w_ id="18e7" dep="18ea-amod">
         <w lemma="пропагандивний" ana="adj:f:v_rod">пропагандивної</w>
       </w_>
       <w_ id="18e8" dep="18e9-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="18e9" dep="18e5-conj">
+      <w_ id="18e9" dep="18e7-conj">
         <w lemma="боєвий" ana="adj:f:v_rod:odd">боєвої</w>
       </w_>
       <w_ id="18ea" dep="18e0-nmod">
@@ -3095,21 +3095,21 @@
         <w lemma="товариський" ana="adj:f:v_naz">товариська</w>
       </w_>
       <g/>
-      <w_ id="18g0" dep="18g2-punct">
+      <w_ id="18g0" dep="18g4-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="18g1" dep="18g2-cc">
+      <w_ id="18g1" dep="18g4-cc">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="18g2" dep="18fz-conj">
+      <w_ id="18g2" dep="18g4-compound">
         <w lemma="військовий" ana="adj:beforeadj">військово</w>
       </w_>
       <g/>
-      <w_ id="18g3" dep="18g4-punct">
+      <w_ id="18g3" dep="18g2-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="18g4" dep="18g2-compound">
+      <w_ id="18g4" dep="18fz-conj">
         <w lemma="дисциплінарний" ana="adj:f:v_naz">дисциплінарна</w>
       </w_>
       <g/>
@@ -6766,18 +6766,18 @@
       <w_ id="19d7" dep="19d1-conj:parataxis">
         <w lemma="носій" ana="noun:anim:p:m:v_oru">носіями</w>
       </w_>
-      <w_ id="19d8" dep="19d9-advmod">
+      <w_ id="19d8" dep="19db-advmod">
         <w lemma="якнайбільш" ana="adv:abs">якнайбільш</w>
       </w_>
-      <w_ id="19d9" dep="19dc-amod">
+      <w_ id="19d9" dep="19db-compound">
         <w lemma="гуманний" ana="adj:beforeadj">гуманно</w>
       </w_>
       <g/>
-      <w_ id="19da" dep="19db-punct">
+      <w_ id="19da" dep="19d9-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="19db" dep="19d9-compound">
+      <w_ id="19db" dep="19dc-amod">
         <w lemma="демократичний" ana="adj:p:v_rod:compb">демократичних</w>
       </w_>
       <w_ id="19dc" dep="19d7-nmod">
@@ -6964,15 +6964,15 @@
       <w_ id="19ez" dep="19f3-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="19f0" dep="19f3-amod">
+      <w_ id="19f0" dep="19f2-compound">
         <w lemma="східний" ana="adj:beforeadj">східньо</w>
       </w_>
       <g/>
-      <w_ id="19f1" dep="19f2-punct">
+      <w_ id="19f1" dep="19f0-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="19f2" dep="19f0-compound">
+      <w_ id="19f2" dep="19f3-amod">
         <w lemma="европейський" ana="adj:p:v_rod:alt">европейських</w>
       </w_>
       <w_ id="19f3" dep="19ew-nmod">

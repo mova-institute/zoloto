@@ -1313,13 +1313,13 @@
     <w_ id="00bx" dep="00c1-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="00by" dep="00c1-amod">
+    <w_ id="00by" dep="00c0-compound">
       <w lemma="ліберальний" ana="adj:beforeadj">ліберально</w>
     </w_>
-    <w_ id="00bz" dep="00c0-punct">
+    <w_ id="00bz" dep="00by-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="00c0" dep="00by-compound">
+    <w_ id="00c0" dep="00c1-amod">
       <w lemma="буржуазний" ana="adj:p:v_mis">буржуазних</w>
     </w_>
     <w_ id="00c1" dep="00bw-obl">
@@ -1452,13 +1452,13 @@
     <w_ id="00d5" dep="00d9-amod">
       <w lemma="власний" ana="adj:m:v_zna:rinanim">власний</w>
     </w_>
-    <w_ id="00d6" dep="00d9-amod">
+    <w_ id="00d6" dep="00d8-compound">
       <w lemma="революційний" ana="adj:beforeadj">революційно</w>
     </w_>
-    <w_ id="00d7" dep="00d8-punct">
+    <w_ id="00d7" dep="00d6-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="00d8" dep="00d6-compound">
+    <w_ id="00d8" dep="00d9-amod">
       <w lemma="демократичний" ana="adj:m:v_zna:rinanim:compb">демократичний</w>
     </w_>
     <w_ id="00d9" dep="00d4-obj">
@@ -2716,13 +2716,13 @@
     <w_ id="00o6" dep="00o4-obl">
       <w lemma="табір" ana="noun:inanim:m:v_mis">таборі</w>
     </w_>
-    <w_ id="00o7" dep="00oa-amod">
+    <w_ id="00o7" dep="00o9-compound">
       <w lemma="буржуазний" ana="adj:beforeadj">буржуазно</w>
     </w_>
-    <w_ id="00o8" dep="00o9-punct">
+    <w_ id="00o8" dep="00o7-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="00o9" dep="00o7-compound">
+    <w_ id="00o9" dep="00oa-amod">
       <w lemma="націоналістичний" ana="adj:f:v_rod">націоналістичної</w>
     </w_>
     <w_ id="00oa" dep="00o6-nmod">
@@ -2911,23 +2911,23 @@
     <w_ id="00py" dep="00q4-amod">
       <w lemma="ворожий" ana="adj:p:v_mis">ворожих</w>
     </w_>
-    <w_ id="00pz" dep="00q0-punct">
+    <w_ id="00pz" dep="00q2-punct">
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="00q0" dep="00q4-amod">
+    <w_ id="00q0" dep="00q2-compound">
       <w lemma="буржуазний" ana="adj:beforeadj">буржуазно</w>
     </w_>
     <g/>
-    <w_ id="00q1" dep="00q2-punct">
+    <w_ id="00q1" dep="00q0-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
     <g/>
-    <w_ id="00q2" dep="00q0-compound">
+    <w_ id="00q2" dep="00q4-amod">
       <w lemma="націоналістичний" ana="adj:p:v_mis">націоналістичних</w>
     </w_>
     <g/>
-    <w_ id="00q3" dep="00q0-punct">
+    <w_ id="00q3" dep="00q2-punct">
       <w lemma="»" ana="punct:quote:close">»</w>
     </w_>
     <w_ id="00q4" dep="00pv-obl">
@@ -3009,15 +3009,15 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="00qr" dep="00qu-amod">
+    <w_ id="00qr" dep="00qt-compound">
       <w lemma="літературний" ana="adj:beforeadj">Літературно</w>
     </w_>
     <g/>
-    <w_ id="00qs" dep="00qt-punct">
+    <w_ id="00qs" dep="00qr-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
     <g/>
-    <w_ id="00qt" dep="00qr-compound">
+    <w_ id="00qt" dep="00qu-amod">
       <w lemma="науковий" ana="adj:m:v_zna:rinanim">науковий</w>
     </w_>
     <w_ id="00qu" dep="00qn-obl">
@@ -3554,13 +3554,13 @@
     <w_ id="00vq" dep="00vp-discourse">
       <w lemma="б" ana="part">б</w>
     </w_>
-    <w_ id="00vr" dep="00vu-amod">
+    <w_ id="00vr" dep="00vt-compound">
       <w lemma="щиросердний" ana="adj:beforeadj">щиросердно</w>
     </w_>
-    <w_ id="00vs" dep="00vt-punct">
+    <w_ id="00vs" dep="00vr-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="00vt" dep="00vr-compound">
+    <w_ id="00vt" dep="00vu-amod">
       <w lemma="радісний" ana="adj:m:v_naz:compb">радісний</w>
     </w_>
     <w_ id="00vu" dep="00vo-nsubj">
@@ -5311,13 +5311,13 @@
     <w_ id="01b6" dep="01b4-obl">
       <w lemma="інтерпретація" ana="noun:inanim:f:v_mis">інтерпретації</w>
     </w_>
-    <w_ id="01b7" dep="01ba-amod">
+    <w_ id="01b7" dep="01b9-compound">
       <w lemma="український" ana="adj:beforeadj">українсько</w>
     </w_>
-    <w_ id="01b8" dep="01b9-punct">
+    <w_ id="01b8" dep="01b7-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="01b9" dep="01b7-compound">
+    <w_ id="01b9" dep="01ba-amod">
       <w lemma="російський" ana="adj:p:v_rod">російських</w>
     </w_>
     <w_ id="01ba" dep="01b6-nmod">
@@ -5364,13 +5364,13 @@
     <w_ id="01bn" dep="01bm-fixed">
       <w lemma="те" ana="noun:inanim:n:v_oru:&amp;pron:dem">тим</w>
     </w_>
-    <w_ id="01bo" dep="01br-amod">
+    <w_ id="01bo" dep="01bq-compound">
       <w lemma="погордливий" ana="adj:beforeadj">погордливо</w>
     </w_>
-    <w_ id="01bp" dep="01bq-punct">
+    <w_ id="01bp" dep="01bo-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="01bq" dep="01bo-compound">
+    <w_ id="01bq" dep="01br-amod">
       <w lemma="зневажливий" ana="adj:n:v_naz">зневажливе</w>
     </w_>
     <w_ id="01br" dep="01bz-nsubj">
@@ -8015,13 +8015,13 @@
     <w_ id="01z5">
       <w lemma="приймати" ana="verb:imperf:pres:s:3">приймає</w>
     </w_>
-    <w_ id="01z6" dep="01z9-amod">
+    <w_ id="01z6" dep="01z8-compound">
       <w lemma="утилітарний" ana="adj:beforeadj">утилітарно</w>
     </w_>
-    <w_ id="01z7" dep="01z8-punct">
+    <w_ id="01z7" dep="01z6-punct">
       <w lemma="-" ana="punct">-</w>
     </w_>
-    <w_ id="01z8" dep="01z6-compound">
+    <w_ id="01z8" dep="01z9-amod">
       <w lemma="народницький" ana="adj:p:v_zna:rinanim">народницькі</w>
     </w_>
     <w_ id="01z9" dep="01z5-obj">
