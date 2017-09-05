@@ -1071,7 +1071,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2y04"/>
-    <w_ id="2y05" dep="2y08-punct" n="322">
+    <w_ id="2y05" dep="2y06-punct" n="322">
       <w lemma="«" ana="punct">«</w>
     </w_>
     <g/>
@@ -1096,21 +1096,21 @@
     <w_ id="2y0c" dep="2y0d-nummod" n="329">
       <w lemma="два" ana="numr:m:v_oru">двома</w>
     </w_>
-    <w_ id="2y0d" dep="2y0f-obl|2y08-parataxis" n="330">
+    <w_ id="2y0d" dep="2y0f-obl" n="330">
       <w lemma="тип" ana="noun:inanim:p:m:v_oru">типами</w>
     </w_>
-    <w_ id="2y0e" n="331">
+    <w_ id="2y0e" dep="2y06-parataxis" n="331">
       <w lemma="мусити" ana="verb:imperf:pres:p:2">мусите</w>
     </w_>
     <w_ id="2y0f" dep="2y0e-xcomp" n="332">
       <w lemma="вибирати" ana="verb:imperf:inf">вибирати</w>
     </w_>
     <g/>
-    <w_ id="2y0g" dep="2y08-punct" n="333">
+    <w_ id="2y0g" dep="2y06-punct" n="333">
       <w lemma="»" ana="punct">»</w>
     </w_>
     <g/>
-    <w_ id="2y0h" dep="2y08-punct" n="334">
+    <w_ id="2y0h" dep="2y06-punct" n="334">
       <w lemma="!" ana="punct">!</w>
     </w_>
     <sb id="2y0i"/>
@@ -1123,7 +1123,7 @@
     <w_ id="2y0l" dep="2y0m-cc" n="337">
       <w lemma="й" ana="conj:coord">й</w>
     </w_>
-    <w_ id="2y0m" dep="2y0s-nsubj" n="338">
+    <w_ id="2y0m" dep="2y0s-nsubj" tags="promoted" n="338">
       <w lemma="один" ana="adj:m:v_naz:&amp;pron:ind">один</w>
     </w_>
     <g/>
@@ -1133,7 +1133,7 @@
     <w_ id="2y0o" dep="2y0p-cc" n="340">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="2y0p" dep="2y0m-conj" n="341">
+    <w_ id="2y0p" dep="2y0m-conj" tags="promoted" n="341">
       <w lemma="другий" ana="adj:m:v_naz:&amp;pron:ind">другий</w>
     </w_>
     <w_ id="2y0q" dep="2y0s-advmod" n="342">
@@ -1400,7 +1400,7 @@
     <w_ id="2y34" dep="2y3c-cop" n="422">
       <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
     </w_>
-    <w_ id="2y35" dep="2y3c-aux" n="423">
+    <w_ id="2y35" dep="2y3c-nsubj" n="423">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
     <w_ id="2y36" dep="2y38-case" n="424">
@@ -2357,7 +2357,7 @@
     <w_ id="2ybt" n="715">
       <w lemma="часом" ana="adv">часом</w>
     </w_>
-    <w_ id="2ybu" dep="2ybv-conj" n="716">
+    <w_ id="2ybu" dep="2ybv-cc" n="716">
       <w lemma="і" ana="part">і</w>
     </w_>
     <w_ id="2ybv" n="717">
@@ -2389,7 +2389,7 @@
     <w_ id="2yc3" dep="2yc4-cc" n="725">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="2yc4" dep="2yc2-nmod" n="726">
+    <w_ id="2yc4" dep="2yc2-conj" n="726">
       <w lemma="подобіє" ana="noun:inanim:n:v_mis">подобію</w>
     </w_>
     <g/>
@@ -2697,7 +2697,7 @@
     <w_ id="2yew" dep="2yf0-mark" n="821">
       <w lemma="бо" ana="conj:subord">Бо</w>
     </w_>
-    <w_ id="2yex" dep="2yey-punct" n="822">
+    <w_ id="2yex" dep="2yey-amod" n="822">
       <w lemma="український" ana="adj:f:v_naz">українська</w>
     </w_>
     <w_ id="2yey" dep="2yf0-nsubj" n="823">
@@ -2775,16 +2775,16 @@
       <w lemma="збагнути" ana="verb:perf:futr:s:3">збагне</w>
     </w_>
     <w_ id="2yfm" dep="2yfq-det" n="847">
-      <w lemma="весь" ana="adj:p:v_rod:ranim:&amp;pron:gen">всіх</w>
+      <w lemma="весь" ana="adj:p:v_rod:&amp;pron:gen">всіх</w>
     </w_>
     <w_ id="2yfn" dep="2yfq-amod" n="848">
-      <w lemma="суворий" ana="adj:p:v_rod:ranim:compb">суворих</w>
+      <w lemma="суворий" ana="adj:p:v_rod:compb">суворих</w>
     </w_>
     <w_ id="2yfo" dep="2yfp-cc" n="849">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
     <w_ id="2yfp" dep="2yfn-conj" n="850">
-      <w lemma="жорстокий" ana="adj:p:v_rod:ranim:compb">жорстоких</w>
+      <w lemma="жорстокий" ana="adj:p:v_rod:compb">жорстоких</w>
     </w_>
     <w_ id="2yfq" dep="2yfl-obj" n="851">
       <w lemma="вимога" ana="noun:inanim:p:f:v_rod">вимог</w>
@@ -2954,7 +2954,7 @@
     <w_ id="2yh7" dep="2yh8-case" n="902">
       <w lemma="при" ana="prep:rv_mis">при</w>
     </w_>
-    <w_ id="2yh8" dep="2yh6-obl" n="903">
+    <w_ id="2yh8" dep="2yh5-obl" n="903">
       <w lemma="себе" ana="noun:v_mis:&amp;pron:refl">собі</w>
     </w_>
     <g/>
