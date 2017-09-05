@@ -612,13 +612,13 @@
         <w lemma="податковий" ana="adj:f:v_naz">Податкова</w>
       </w_>
       <w_ id="2yo1" dep="2yp7-nsubj" n="191">
-        <w lemma="накладний" ana="adj:f:v_naz:&amp;noun:inanim">накладна</w>
+        <w lemma="накладна" ana="adj:f:v_naz:&amp;noun:inanim" lemma2="накладний">накладна</w>
       </w_>
       <w_ id="2yo2" dep="2yo5-cc" n="192">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
       <g/>
-      <w_ id="2yo3" dep="2yo4-cc" n="193">
+      <w_ id="2yo3" dep="2yo4-punct" n="193">
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
@@ -678,7 +678,7 @@
         <w lemma="податковий" ana="adj:p:v_rod">податкових</w>
       </w_>
       <w_ id="2yom" dep="2yok-nmod" n="212">
-        <w lemma="накладний" ana="adj:p:v_rod:&amp;noun:inanim:f">накладних</w>
+        <w lemma="накладна" ana="adj:f:p:v_rod:&amp;noun:inanim" lemma2="накладний">накладних</w>
       </w_>
       <w_ id="2yon" dep="2yoa-obl:agent" n="213">
         <w lemma="платник" ana="noun:anim:m:v_oru">платником</w>
@@ -709,7 +709,7 @@
         <w lemma="товар" ana="noun:inanim:p:m:v_rod">товарів</w>
       </w_>
       <g/>
-      <w_ id="2yow" dep="2yox-cc" n="222">
+      <w_ id="2yow" dep="2yox-punct" n="222">
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
@@ -736,7 +736,7 @@
         <w lemma="товар" ana="noun:inanim:p:m:v_rod">товарів</w>
       </w_>
       <g/>
-      <w_ id="2yp4" dep="2yp5-cc" n="230">
+      <w_ id="2yp4" dep="2yp5-punct" n="230">
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
@@ -1231,7 +1231,7 @@
         <w lemma="кошти" ana="noun:inanim:p:v_naz:ns">кошти</w>
       </w_>
       <g/>
-      <w_ id="2yti" dep="2yty-acl" n="384">
+      <w_ id="2yti" dep="2yty-punct" n="384">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2ytj" dep="2yty-mark" n="385">
@@ -1247,7 +1247,7 @@
         <w lemma="закон" ana="noun:inanim:m:v_rod">закону</w>
       </w_>
       <g/>
-      <w_ id="2ytn" dep="2ytp-acl" n="389">
+      <w_ id="2ytn" dep="2ytp-punct" n="389">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2yto" n="390">
@@ -1278,7 +1278,7 @@
         <w lemma="управління" ana="noun:inanim:n:v_rod">управління</w>
       </w_>
       <g/>
-      <w_ id="2ytx" dep="2ytp-acl" n="399">
+      <w_ id="2ytx" dep="2ytp-punct" n="399">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2yty" n="400">
@@ -1321,7 +1321,7 @@
         <w lemma="управління" ana="noun:inanim:n:v_rod">управління</w>
       </w_>
       <g/>
-      <w_ id="2yub" dep="2yuc-acl" n="413">
+      <w_ id="2yub" dep="2yuc-punct" n="413">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2yuc" dep="2yu8-amod" n="414">
@@ -1359,7 +1359,7 @@
         <w lemma="вклад" ana="noun:inanim:p:m:v_rod">вкладів</w>
       </w_>
       <g/>
-      <w_ id="2yun" dep="2yuo-acl" n="425">
+      <w_ id="2yun" dep="2yuo-punct" n="425">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2yuo" dep="2yuk-amod" n="426">
@@ -1479,7 +1479,7 @@
         <w lemma="122" ana="numr:p:v_naz:nv">122</w>
       </w_>
       <g/>
-      <w_ id="2yvq" dep="2yvr-cc" n="461">
+      <w_ id="2yvq" dep="2yvr-punct" n="461">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
@@ -1632,7 +1632,7 @@
       <w_ id="2yx0" dep="2yww-nmod" n="507">
         <w lemma="призначення" ana="noun:inanim:n:v_rod">призначення</w>
       </w_>
-      <w_ id="2yx1" dep="2yx2-acl" n="508">
+      <w_ id="2yx1" dep="2yx2-punct" n="508">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
@@ -1640,7 +1640,7 @@
         <w lemma="ліс" ana="noun:inanim:p:m:v_naz">ліси</w>
       </w_>
       <g/>
-      <w_ id="2yx3" dep="2yx2-acl" n="510">
+      <w_ id="2yx3" dep="2yx2-punct" n="510">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
@@ -2571,7 +2571,7 @@
       <w_ id="2z5k" dep="2z5i-advmod" n="793">
         <w lemma="відповідно" ana="adv:compb">відповідно</w>
       </w_>
-      <w_ id="2z5l" dep="2z5m-expl" n="794">
+      <w_ id="2z5l" dep="2z5m-case" n="794">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ id="2z5m" dep="2z5k-obl" n="795">
