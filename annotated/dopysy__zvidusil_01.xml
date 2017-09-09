@@ -4131,8 +4131,8 @@
       <w_ id="31s2" n="1240">
         <w lemma="новостворений" ana="adj:f:v_rod:&amp;adjp:perf:pasv">новоствореної</w>
       </w_>
-      <w_ id="31s3" n="1241">
-        <w lemma="сімї" ana="error">сімї</w>
+      <w_ id="31s3" n="1241" correct="сім’ї">
+        <w lemma="сім’я" ana="noun:inanim:f:v_rod">сімї</w>
       </w_>
       <w_ id="31s4" n="1242">
         <w lemma="піти" ana="verb:perf:futr:s:3">піде</w>
@@ -4407,16 +4407,8 @@
       <w_ id="31un" n="1323">
         <w lemma="мій" ana="adj:f:v_naz:poss:&amp;pron:pers:1">моя</w>
       </w_>
-      <w_ id="31uo" n="1324">
-        <w lemma="сім" ana="error">сім</w>
-      </w_>
-      <g/>
-      <w_ id="31up" n="1325">
-        <w lemma="&quot;" ana="punct">"</w>
-      </w_>
-      <g/>
-      <w_ id="31uq" n="1326">
-        <w lemma="я" ana="error">я</w>
+      <w_ id="31uo">
+        <w lemma="сім’я" ana="noun:inanim:f:v_naz">сім"я</w>
       </w_>
       <g/>
       <w_ id="31ur" n="1327">
@@ -4825,8 +4817,8 @@
       <w_ id="31ye" n="1450">
         <w lemma="при" ana="prep:rv_mis">при</w>
       </w_>
-      <w_ id="31yf" n="1451">
-        <w lemma="переїзда" ana="error">переїзда</w>
+      <w_ id="31yf" correct="переїзді">
+        <w lemma="переїзда" ana="noun:inanim:m:v_mis">переїзда</w>
       </w_>
       <g/>
       <w_ id="31yg" n="1452">
@@ -7051,20 +7043,20 @@
       <w_ id="32j1" n="2111">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="32j2" corect="вважають" n="2112">
-        <w lemma="важають" ana="error">важають</w>
+      <w_ id="32j2" corect="вважають">
+        <w lemma="вважати" ana="verb:imperf:pres:p:3">важають</w>
       </w_>
       <w_ id="32j3" n="2113">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="32j4" n="2114">
+      <!-- <w_ id="32j4" n="2114">
         <w lemma="це" ana="error">це</w>
-      </w_>
+      </w_> -->
       <w_ id="32j5" n="2115">
         <w lemma="єдиний" ana="adj:m:v_oru">єдиним</w>
       </w_>
       <w_ id="32j6" n="2116">
-        <w lemma="спосібом" ana="error">спосібом</w>
+        <w lemma="спосіб" ana="noun:inanim:m:v_oru:odd">спосібом</w>
       </w_>
       <w_ id="32j7" n="2117">
         <w lemma="довести" ana="verb:perf:inf">довести</w>
