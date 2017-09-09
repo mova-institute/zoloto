@@ -3188,21 +3188,21 @@
         <w lemma="е" ana="intj">Е</w>
       </w_>
       <g/>
-      <w_ id="31ja" n="957">
+      <w_ id="31ja" dep="31jb-punct" n="957">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="31jb" n="958">
+      <w_ id="31jb" dep="31j9-flat:repeat" n="958">
         <w lemma="е" ana="intj">е</w>
       </w_>
       <g/>
-      <w_ id="31jc" n="959">
+      <w_ id="31jc" dep="31jd-punct" n="959">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="31jd" n="960">
+      <w_ id="31jd" dep="31j9-flat:repeat" n="960">
         <w lemma="е" ana="intj">е</w>
       </w_>
       <g/>
-      <w_ id="31je" n="961">
+      <w_ id="31je" dep="31j9-punct" n="961">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="31jf"/>
@@ -4131,7 +4131,7 @@
       <w_ id="31s2" n="1240">
         <w lemma="новостворений" ana="adj:f:v_rod:&amp;adjp:perf:pasv">новоствореної</w>
       </w_>
-      <w_ id="31s3" n="1241" correct="сім’ї">
+      <w_ id="31s3" correct="сім’ї" n="1241">
         <w lemma="сім’я" ana="noun:inanim:f:v_rod">сімї</w>
       </w_>
       <w_ id="31s4" n="1242">
@@ -4882,7 +4882,7 @@
       <w_ id="31yz" n="1470">
         <w lemma="..." ana="punct">...</w>
       </w_>
-      <sb/>
+      <sb id="357j"/>
       <w_ id="31z0" n="1471">
         <w lemma="казати" ana="verb:imperf:pres:s:3">Каже</w>
       </w_>
@@ -5074,57 +5074,57 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="320p"/>
-      <w_ id="320q" n="1527">
+      <w_ id="320q" dep="320t-csubj" n="1527">
         <w lemma="показувати" ana="verb:imperf:inf">Показувати</w>
       </w_>
-      <w_ id="320r" n="1528">
+      <w_ id="320r" dep="320q-obj" n="1528">
         <w lemma="приклад" ana="noun:inanim:m:v_naz">приклад</w>
       </w_>
-      <w_ id="320s" n="1529">
+      <w_ id="320s" dep="320r-amod" n="1529">
         <w lemma="хороший" ana="adj:m:v_naz:compb">хороший</w>
       </w_>
       <w_ id="320t" n="1530">
         <w lemma="варто" ana="adv">варто</w>
       </w_>
       <g/>
-      <w_ id="320u" n="1531">
+      <w_ id="320u" dep="3212-punct" n="1531">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="320v" n="1532">
+      <w_ id="320v" dep="3212-cc" n="1532">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="320w" n="1533">
+      <w_ id="320w" dep="320x-advmod" n="1533">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="320x" n="1534">
+      <w_ id="320x" dep="3212-nsubj" n="1534">
         <w lemma="кожний" ana="adj:m:v_naz:short:&amp;pron:gen">кожен</w>
       </w_>
-      <w_ id="320y" n="1535">
+      <w_ id="320y" dep="3210-case" n="1535">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="320z" n="1536">
+      <w_ id="320z" dep="3210-amod" n="1536">
         <w lemma="малий" ana="adj:m:v_rod:compb">малого</w>
       </w_>
-      <w_ id="3210" n="1537">
+      <w_ id="3210" dep="3212-obl" n="1537">
         <w lemma="вік" ana="noun:inanim:m:v_rod">віку</w>
       </w_>
-      <w_ id="3211" n="1538">
+      <w_ id="3211" dep="3212-aux" n="1538">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
-      <w_ id="3212" n="1539">
+      <w_ id="3212" dep="320t-conj:parataxis" n="1539">
         <w lemma="вбирати" ana="verb:imperf:inf:v-u">вбирати</w>
       </w_>
-      <w_ id="3213" n="1540">
-        <w lemma="це" ana="part">це</w>
+      <w_ id="3213" dep="3212-obj" n="1540">
+        <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="3214" n="1541">
+      <w_ id="3214" dep="3215-mark" n="1541">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="3215" n="1542">
+      <w_ id="3215" dep="3212-advcl" n="1542">
         <w lemma="губка" ana="noun:inanim:f:v_naz">губка</w>
       </w_>
       <g/>
-      <w_ id="3216" n="1543">
+      <w_ id="3216" dep="320t-punct" n="1543">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3217"/>
@@ -7050,9 +7050,7 @@
       <w_ id="32j3" n="2113">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
-      <!-- <w_ id="32j4" n="2114">
-        <w lemma="це" ana="error">це</w>
-      </w_> -->
+      <!-- <w_ id="32j4" n="2114"><w lemma="це" ana="error">це</w></w_> -->
       <w_ id="32j5" n="2115">
         <w lemma="єдиний" ana="adj:m:v_oru">єдиним</w>
       </w_>
