@@ -59,7 +59,7 @@
       <w_ id="3585" dep="3582-obl" n="17">
         <w lemma="бік" ana="noun:inanim:p:m:v_zna">боки</w>
       </w_>
-      <w_ id="3586" dep="3589-det" n="18">
+      <w_ id="3586" dep="3589-det:numgov" n="18">
         <w lemma="кілька" ana="numr:p:v_naz:&amp;pron:ind">кілька</w>
       </w_>
       <w_ id="3587" dep="3589-amod" n="19">
@@ -309,7 +309,7 @@
       <w_ id="35ag" dep="35af-amod" n="95">
         <w lemma="божий" ana="adj:f:v_naz">божа</w>
       </w_>
-      <w_ id="35ah" dep="35ai-punct" n="96">
+      <w_ id="35ah" dep="35ai-cc" n="96">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
       <w_ id="35ai" dep="35ae-conj" n="97">
@@ -366,7 +366,7 @@
       <w_ id="35az" dep="35ay-fixed" n="113">
         <w lemma="що" ana="part">що</w>
       </w_>
-      <w_ id="35b0" dep="35b1-expl" n="114">
+      <w_ id="35b0" dep="35b1-case" n="114">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="35b1" dep="35b3-obl" n="115">
@@ -596,7 +596,7 @@
       <w_ id="35d4" dep="35d2-obl" n="183">
         <w lemma="город" ana="noun:inanim:m:v_zna">город</w>
       </w_>
-      <w_ id="35d5" dep="35d6-punct" n="184">
+      <w_ id="35d5" dep="35d6-cc" n="184">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
       <w_ id="35d6" dep="35d2-conj" n="185">
@@ -739,7 +739,7 @@
         <w lemma="далі" ana="adv">далі</w>
       </w_>
       <g/>
-      <w_ id="35eg" dep="35ee-amod" n="226">
+      <w_ id="35eg" dep="35ee-punct" n="226">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="35eh"/>
@@ -1690,7 +1690,7 @@
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="35mz" dep="35n2-expl" n="512">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="35n0" dep="35n2-det" n="513">
         <w lemma="його" ana="adj:m:v_naz:poss:nv:&amp;pron:pers:3">його</w>
@@ -2044,8 +2044,8 @@
       <w_ id="35q6" dep="35qj-cc" n="620">
         <w lemma="і" ana="conj:coord">І</w>
       </w_>
-      <w_ id="35q7" comment="#&gt;part" n="621">
-        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
+      <w_ id="35q7" n="621">
+        <w lemma="це" ana="part">це</w>
       </w_>
       <g/>
       <w_ id="35q8" dep="35q9-punct" n="622">
@@ -2531,7 +2531,7 @@
       <w_ id="35uo" dep="35uq-punct" n="770">
         <w lemma="–" ana="punct">–</w>
       </w_>
-      <w_ id="35up" dep="35uq-case" n="771">
+      <w_ id="35up" dep="35uq-advmod" n="771">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="35uq" n="772">
@@ -2635,7 +2635,7 @@
       <w_ id="35vm" n="802">
         <w lemma="якщо" ana="conj:subord">якщо</w>
       </w_>
-      <w_ id="35vn" dep="35vo-case" n="803">
+      <w_ id="35vn" dep="35vo-advmod" n="803">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="35vo" n="804">
@@ -2850,8 +2850,8 @@
     <gap/>
     <p id="35xk">
       <sb id="35xl"/>
-      <w_ id="35xm" dep="35xq-discourse" comment="#&gt;part" n="866">
-        <w lemma="але" ana="conj:coord">Але</w>
+      <w_ id="35xm" dep="35xq-discourse" n="866">
+        <w lemma="але" ana="part">Але</w>
       </w_>
       <w_ id="35xn" dep="35xq-advmod" n="867">
         <w lemma="чому" ana="adv:&amp;pron:int">чому</w>
@@ -2887,7 +2887,7 @@
       <w_ id="35xx" dep="35xz-cc" n="877">
         <w lemma="й" ana="conj:coord">й</w>
       </w_>
-      <w_ id="35xy" dep="35xz-cc" n="878">
+      <w_ id="35xy" dep="35xz-advmod" n="878">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="35xz" dep="35xw-conj" n="879">
@@ -2963,7 +2963,7 @@
         <w lemma="я" ana="noun:anim:s:v_rod:&amp;pron:pers:1">мене</w>
       </w_>
       <g/>
-      <w_ id="35yn" dep="35yo-amod" n="901">
+      <w_ id="35yn" dep="35yo-punct" n="901">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="35yo" n="902">
@@ -3114,7 +3114,7 @@
       <w_ id="35zz" dep="35zq-conj:parataxis" n="947">
         <w lemma="мати" ana="verb:imperf:pres:p:3">мають</w>
       </w_>
-      <w_ id="3600" dep="3601-det" n="948">
+      <w_ id="3600" dep="3601-det:numgov" n="948">
         <w lemma="стільки" ana="numr:p:v_zna:&amp;pron:dem">стільки</w>
       </w_>
       <w_ id="3601" dep="35zz-obj" n="949">
@@ -3513,8 +3513,8 @@
       <w_ id="363m" dep="363n-punct" n="1069">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="363n" dep="363i-appos" comment="#&gt;:v_zna" n="1070">
-        <w lemma="обвинувачення" ana="noun:inanim:p:n:v_naz">обвинувачення</w>
+      <w_ id="363n" dep="363i-appos" n="1070">
+        <w lemma="обвинувачення" ana=":v_zna">обвинувачення</w>
       </w_>
       <w_ id="363o" dep="363p-case" n="1071">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
@@ -3769,7 +3769,7 @@
       <w_ id="365y" n="1148">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <sb/>
+      <sb id="36vk"/>
       <w_ id="365z" dep="3661-nsubj" n="1149">
         <w lemma="Америка" ana="noun:inanim:f:v_naz:prop">Америка</w>
       </w_>
