@@ -45,17 +45,17 @@
       <w_ id="26wq" dep="26wv-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26wr" dep="26wv-cc">
+      <w_ id="26wr" dep="26wv-cc" comment="#commed_conj">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="26ws" dep="26wv-mark">
+      <w_ id="26ws" dep="26wr-fixed" comment="#&gt;part">
         <w lemma="отже" ana="conj:subord">отже</w>
       </w_>
       <g/>
-      <w_ id="26wt" dep="26ws-punct">
+      <w_ id="26wt" dep="26wr-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26wu">
+      <w_ id="26wu" dep="26wv-discourse">
         <w lemma="й" ana="part">й</w>
       </w_>
       <w_ id="26wv" dep="26we-conj">
@@ -85,10 +85,10 @@
       <w_ id="26x3" dep="26wy-nmod">
         <w lemma="Україна" ana="noun:inanim:f:v_mis:prop">Україні</w>
       </w_>
-      <w_ id="26x4">
+      <w_ id="26x4" dep="26x5-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="26x5">
+      <w_ id="26x5" dep="26x6-advmod">
         <w lemma="менш" ana="adv:compr">менш</w>
       </w_>
       <w_ id="26x6">
@@ -104,7 +104,7 @@
       <w_ id="26x9" dep="26xa-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="26xa">
+      <w_ id="26xa" dep="26x5-advcl">
         <w lemma="випадок" ana="noun:inanim:m:v_mis">випадку</w>
       </w_>
       <w_ id="26xb" dep="26xf-case">
