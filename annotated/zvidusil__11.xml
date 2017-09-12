@@ -37,7 +37,7 @@
       <w_ id="204p" dep="204o-punct">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
-      <w_ id="204q" dep="204j-nmod">
+      <w_ id="204q" dep="204j-flat:title">
         <w lemma="см" ana="noun:inanim:p:m:v_rod:nv:abbr">см</w>
       </w_>
       <g/>
@@ -59,7 +59,7 @@
         <w lemma="гіллястий" ana="adj:n:v_naz">гіллясте</w>
       </w_>
       <g/>
-      <w_ id="204w">
+      <w_ id="204w" dep="2050-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="204x" dep="2050-nummod:gov">
@@ -73,28 +73,28 @@
       <w_ id="204z" dep="204x-conj">
         <w lemma="70" ana="numr:p:v_naz:nv">70</w>
       </w_>
-      <w_ id="2050">
+      <w_ id="2050" dep="204t-conj">
         <w lemma="см" ana="noun:inanim:p:m:v_rod:nv:abbr">см</w>
       </w_>
-      <w_ id="2051">
+      <w_ id="2051" dep="2050-advmod">
         <w lemma="заввишки" ana="adv">заввишки</w>
       </w_>
       <g/>
-      <w_ id="2052">
+      <w_ id="2052" dep="204t-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb/>
-      <w_ id="2053">
+      <w_ id="2053" dep="2054-nsubj">
         <w lemma="листок" ana="noun:inanim:p:m:v_naz">Листки</w>
       </w_>
       <w_ id="2054">
         <w lemma="цілісний" ana="adj:p:v_naz">цілісні</w>
       </w_>
-      <w_ id="2055">
+      <w_ id="2055" dep="2054-conj" comment="! вимушений conj: не буває неоднорідних присудків">
         <w lemma="лінійний" ana="adj:p:v_naz">лінійні</w>
       </w_>
       <g/>
-      <w_ id="2056">
+      <w_ id="2056" dep="2054-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2057"/>
@@ -127,7 +127,7 @@
       <w_ id="205h" dep="205i-case">
         <w lemma="по" ana="prep:rv_mis">по</w>
       </w_>
-      <w_ id="205i" dep="205j-obl">
+      <w_ id="205i" dep="205j-obl" comment="чи з _обгорток_?">
         <w lemma="край" ana="noun:inanim:m:v_mis">краю</w>
       </w_>
       <w_ id="205j">
@@ -206,7 +206,7 @@
         <w lemma="квітка" ana="noun:inanim:p:f:v_zna">квітки</w>
       </w_>
       <g/>
-      <w_ id="2069" dep="205y-punct">
+      <w_ id="2069" dep="2061-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="206a"/>
@@ -387,7 +387,7 @@
       <w_ id="207y" dep="207z-amod">
         <w lemma="прийнятий" ana="adj:f:v_oru:&amp;adjp:perf:pasv">прийнятою</w>
       </w_>
-      <w_ id="207z" dep="207x-obl">
+      <w_ id="207z" dep="207x-xcomp:2">
         <w lemma="назва" ana="noun:inanim:f:v_oru">назвою</w>
       </w_>
       <w_ id="2080" dep="2081-det">
@@ -418,13 +418,13 @@
       <w_ id="2088" dep="2087-flat:foreign">
         <w lemma="cyanus" ana="x:foreign">cyanus</w>
       </w_>
-      <w_ id="2089" dep="207x-conj:repeat">
+      <w_ id="2089" dep="207x-conj:parataxis">
         <w lemma="вказувати" ana="verb:imperf:pres:p:3:v-u">вказують</w>
       </w_>
       <w_ id="208a" dep="208b-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="208b" dep="2089-advcl">
+      <w_ id="208b" dep="2089-xcomp:2">
         <w lemma="синонім" ana="noun:inanim:m:v_zna">синонім</w>
       </w_>
       <g/>
@@ -441,13 +441,13 @@
       <w_ id="208f" dep="208g-nsubj" tags="promoted">
         <w lemma="інший" ana="adj:p:v_naz:&amp;pron:ind">інші</w>
       </w_>
-      <w_ id="208g">
+      <w_ id="208g" dep="207x-parataxis">
         <w lemma="вказувати" ana="verb:imperf:pres:p:3:v-u">вказують</w>
       </w_>
       <w_ id="208h" dep="208i-amod">
         <w lemma="прийнятий" ana="adj:f:v_oru:&amp;adjp:perf:pasv">прийнятою</w>
       </w_>
-      <w_ id="208i" dep="208g-obl">
+      <w_ id="208i" dep="208g-xcomp:2">
         <w lemma="назва" ana="noun:inanim:f:v_oru">назвою</w>
       </w_>
       <w_ id="208j" dep="208g-obj">
@@ -463,20 +463,20 @@
       <w_ id="208m" dep="208n-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="208n">
+      <w_ id="208n" dep="208g-conj:parataxis" tags="promoted">
         <w lemma="Cyanus" ana="x:foreign">Cyanus</w>
       </w_>
       <w_ id="208o" dep="208n-flat:foreign">
         <w lemma="segetum" ana="x:foreign">segetum</w>
       </w_>
-      <w_ id="208p">
+      <w_ id="208p" dep="208q-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="208q">
+      <w_ id="208q" dep="208n-xcomp:2">
         <w lemma="синонім" ana="noun:inanim:m:v_oru">синонімом</w>
       </w_>
       <g/>
-      <w_ id="208r" dep="207x-punct">
+      <w_ id="208r" dep="208g-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="208s"/>
@@ -512,7 +512,7 @@
       <w_ id="2093" dep="2094-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2094">
+      <w_ id="2094" dep="2090-parataxis">
         <w lemma="Бережани" ana="noun:inanim:p:v_naz:ns:prop">Бережани</w>
       </w_>
       <w_ id="2095" dep="2096-punct">
@@ -531,7 +531,7 @@
       <w_ id="2099" dep="209a-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="209a">
+      <w_ id="209a" dep="2096-parataxis">
         <w lemma="Львів" ana="noun:inanim:m:v_naz:prop">Львів</w>
       </w_>
       <g/>
@@ -711,7 +711,7 @@
       <w_ id="20aw" dep="20ax-case">
         <w lemma="по" ana="prep:rv_mis">по</w>
       </w_>
-      <w_ id="20ax" dep="20aq-conj">
+      <w_ id="20ax" dep="20at-nmod">
         <w lemma="суть" ana="noun:inanim:f:v_mis">суті</w>
       </w_>
       <g/>
@@ -758,7 +758,7 @@
       <w_ id="20bb" dep="20bd-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="20bc" dep="20bd-advmod">
+      <w_ id="20bc" dep="20bb-fixed">
         <w lemma="також" ana="adv">також</w>
       </w_>
       <w_ id="20bd" dep="20ak-conj">
@@ -993,7 +993,7 @@
       <w_ id="20dh" dep="20di-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="20di" dep="20dc-advcl">
+      <w_ id="20di" dep="20dc-advcl" comment="~">
         <w lemma="покинути" ana="verb:perf:past:m">покинув</w>
       </w_>
       <w_ id="20dj" dep="20di-obj">
@@ -1015,7 +1015,7 @@
         <w lemma="театр" ana="noun:inanim:m:v_rod">театру</w>
       </w_>
       <g/>
-      <w_ id="20dp" dep="20dc-punct">
+      <w_ id="20dp" dep="20dr-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="20dq" dep="20dr-punct">
@@ -1069,7 +1069,7 @@
         <w lemma="Водяний" ana="noun:anim:m:v_rod:prop:lname:n2adj">Водяного</w>
       </w_>
       <g/>
-      <w_ id="20e6" dep="20dc-punct">
+      <w_ id="20e6" dep="20dr-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="20e7"/>
@@ -1082,7 +1082,7 @@
       <w_ id="20ea" dep="20eh-nsubj">
         <w lemma="той" ana="adj:m:v_naz:&amp;pron:dem:&amp;noun:anim" lemma2="той">той</w>
       </w_>
-      <w_ id="20eb" dep="20eh-advmod" comment="fixed?">
+      <w_ id="20eb" dep="20eh-advmod">
         <w lemma="разом" ana="adv">разом</w>
       </w_>
       <w_ id="20ec" dep="20ee-case">
@@ -1103,7 +1103,7 @@
       <w_ id="20eh">
         <w lemma="їхати" ana="verb:imperf:pres:s:3">їде</w>
       </w_>
-      <w_ id="20ei" dep="20eh-ccomp">
+      <w_ id="20ei" dep="20eh-advcl">
         <w lemma="навчатися" ana="verb:rev:imperf:inf">навчатися</w>
       </w_>
       <w_ id="20ej" dep="20el-case">
@@ -1158,7 +1158,7 @@
       <w_ id="20f0">
         <w lemma="думати" ana="verb:imperf:pres:s:3">думає</w>
       </w_>
-      <w_ id="20f1" dep="20f0-ccomp">
+      <w_ id="20f1" dep="20f0-xcomp">
         <w lemma="йти" ana="verb:imperf:inf">йти</w>
       </w_>
       <w_ id="20f2" dep="20f3-case">
@@ -1324,7 +1324,7 @@
       <w_ id="20gl" dep="20gp-nsubj">
         <w lemma="юнак" ana="noun:anim:p:m:v_naz">юнаки</w>
       </w_>
-      <w_ id="20gm" dep="20gp-advmod" comment="fixed?">
+      <w_ id="20gm" dep="20gp-advmod">
         <w lemma="перш" ana="adv">перш</w>
       </w_>
       <w_ id="20gn" dep="20go-case">
@@ -1345,7 +1345,7 @@
       <w_ id="20gs" dep="20gp-conj">
         <w lemma="братися" ana="verb:rev:imperf:pres:p:3">беруться</w>
       </w_>
-      <w_ id="20gt" dep="20gs-xcomp">
+      <w_ id="20gt">
         <w lemma="оглядати" ana="verb:imperf:inf">оглядати</w>
       </w_>
       <w_ id="20gu" dep="20gt-obj">
@@ -1394,7 +1394,7 @@
       <w_ id="20h9" dep="20ha-punct">
         <w lemma="–" ana="punct">–</w>
       </w_>
-      <w_ id="20ha" dep="20he-advmod" comment="fixed?">
+      <w_ id="20ha" dep="20he-advmod">
         <w lemma="потай" ana="adv">потай</w>
       </w_>
       <w_ id="20hb" dep="20hc-case">
@@ -1415,7 +1415,7 @@
       <w_ id="20hg" dep="20hh-amod">
         <w lemma="театральний" ana="adj:p:v_zna:rinanim">театральні</w>
       </w_>
-      <w_ id="20hh" dep="20he-conj">
+      <w_ id="20hh" dep="20he-obl">
         <w lemma="вистава" ana="noun:inanim:p:f:v_zna">вистави</w>
       </w_>
       <g/>
@@ -1443,7 +1443,7 @@
       <w_ id="20hq" dep="20hr-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="20hr" dep="20hp-conj">
+      <w_ id="20hr" dep="20hp-conj" comment="flat:repeat?">
         <w lemma="дуже" ana="adv:compb">дуже</w>
       </w_>
       <w_ id="20hs">
@@ -1462,7 +1462,7 @@
       <w_ id="20hw" dep="20hx-advmod">
         <w lemma="задивляче" ana="adv">задивляче</w>
       </w_>
-      <w_ id="20hx" dep="20hs-conj">
+      <w_ id="20hx">
         <w lemma="помисловий" ana="adj:f:v_naz">помислова</w>
       </w_>
       <g/>
