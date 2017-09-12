@@ -2371,7 +2371,7 @@
         <w lemma="інший" ana="adj:m:v_zna:rinanim:&amp;pron:ind">інший</w>
       </w_>
       <g/>
-      <w_ id="1zad" dep="1zaf-cc">
+      <w_ id="1zad" dep="1zaf-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1zae" dep="1zaf-advmod">
@@ -2514,7 +2514,7 @@
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="1zbn" dep="1zbl-cop">
-        <w lemma="бути" ana="verb:imperf:futr:p:3">будуть</w>
+        <w lemma="бути" ana="verb:aux:imperf:futr:p:3">будуть</w>
       </w_>
       <g/>
       <w_ id="1zbo">
@@ -2606,8 +2606,8 @@
       <w_ id="1zch" dep="1zcj-cc">
         <w lemma="й" ana="conj:coord">й</w>
       </w_>
-      <w_ id="1zci" dep="1zcj-advmod:amtgov">
-        <w lemma="багато" ana="adv:compb">багато</w>
+      <w_ id="1zci" dep="1zcj-nummod:gov">
+        <w lemma="багато" ana="numr:p:v_naz:&amp;pron:ind">багато</w>
       </w_>
       <w_ id="1zcj" dep="1zcg-conj">
         <w lemma="гриб" ana="noun:inanim:p:m:v_rod">грибів</w>
@@ -2646,8 +2646,8 @@
       <w_ id="1zct" dep="1zco-punct">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
-      <w_ id="1zcu" dep="1zcv-nsubj" comment="#&gt;noun:inanim:n:v_naz:&amp;amp;pron:dem">
-        <w lemma="це" ana="part">це</w>
+      <w_ id="1zcu" dep="1zcv-nsubj">
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="1zcv" dep="1zcg-parataxis">
         <w lemma="добре" ana="adv:compb">добре</w>
@@ -5502,8 +5502,8 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2038"/>
-      <w_ id="2039" dep="203e-discourse" comment="#&gt;part">
-        <w lemma="отже" ana="conj:subord">Отже</w>
+      <w_ id="2039" dep="203e-discourse">
+        <w lemma="отже" ana="part">Отже</w>
       </w_>
       <w_ id="203a" dep="203b-nummod:gov">
         <w lemma="двадцять" ana="numr:p:v_zna">двадцять</w>

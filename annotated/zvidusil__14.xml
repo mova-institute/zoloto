@@ -221,8 +221,8 @@
       <w_ id="24en" dep="24er-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="24eo" dep="24er-advmod" comment="#&gt;adv:&amp;pron:rel">
-        <w lemma="коли" ana="conj:subord">коли</w>
+      <w_ id="24eo" dep="24er-advmod">
+        <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
       <w_ id="24ep" dep="24er-nsubj">
         <w lemma="юнак" ana="noun:anim:p:m:v_naz">юнаки</w>
@@ -604,8 +604,8 @@
       <w_ id="24i5" dep="24i4-discourse">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="24i6" dep="24i9-advmod" mark="reviewed" comment="#&gt;adv:&amp;pron:dem">
-        <w lemma="так" ana="part">так</w>
+      <w_ id="24i6" dep="24i9-advmod" mark="reviewed">
+        <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <w_ id="24i7" dep="24i8-case">
         <w lemma="про" ana="prep:rv_zna">про</w>
@@ -2509,7 +2509,7 @@
         <w lemma="інструкція" ana="noun:inanim:f:v_zna">інструкцію</w>
       </w_>
       <g/>
-      <w_ id="24zc" dep="24zd-cc">
+      <w_ id="24zc" dep="24zd-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="24zd" dep="24z9-conj" mark="reviewed">
@@ -2527,7 +2527,7 @@
         <w lemma="могти" ana="verb:imperf:pres:p:3">можуть</w>
       </w_>
       <w_ id="24zi" dep="24zg-cop">
-        <w lemma="бути" ana="verb:imperf:inf">бути</w>
+        <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
       <w_ id="24zj" dep="24zk-discourse" mark="resolved">
         <w lemma="тільки" ana="part" author="30:Саморідна">тільки</w>
@@ -2545,7 +2545,7 @@
         <w lemma="електростанція" ana="noun:inanim:f:v_rod">електростанції</w>
       </w_>
       <g/>
-      <w_ id="24zo" dep="24zh-amod">
+      <w_ id="24zo" dep="24zh-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="24zp"/>
