@@ -5555,25 +5555,25 @@
     <gap/>
     <p id="2d7x">
       <sb id="2d7y"/>
-      <w_ id="2d7z">
+      <w_ id="2d7z" dep="2d8r-nsubj">
         <w lemma="визначення" ana="noun:inanim:n:v_naz">Визначення</w>
       </w_>
       <w_ id="2d80">
         <w lemma="слідчий" ana="adj:m:v_rod">слідчого</w>
       </w_>
-      <w_ id="2d81">
+      <w_ id="2d81" dep="2d7z-nmod">
         <w lemma="ізолятор" ana="noun:inanim:m:v_rod">ізолятора</w>
       </w_>
       <w_ id="2d82">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
-      <w_ id="2d83">
+      <w_ id="2d83" dep="2d81-conj">
         <w lemma="установа" ana="noun:inanim:f:v_rod">установи</w>
       </w_>
-      <w_ id="2d84">
+      <w_ id="2d84" dep="2d83-nmod">
         <w lemma="виконання" ana="noun:inanim:n:v_rod">виконання</w>
       </w_>
-      <w_ id="2d85">
+      <w_ id="2d85" dep="2d84-nmod">
         <w lemma="покарання" ana="noun:inanim:p:n:v_rod">покарань</w>
       </w_>
       <w_ id="2d86">
@@ -5585,10 +5585,10 @@
       <w_ id="2d88">
         <w lemma="відбування" ana="noun:inanim:n:v_rod">відбування</w>
       </w_>
-      <w_ id="2d89">
+      <w_ id="2d89" dep="2d88-nmod">
         <w lemma="покарання" ana="noun:inanim:n:v_rod">покарання</w>
       </w_>
-      <w_ id="2d8a">
+      <w_ id="2d8a" dep="2d89-nmod">
         <w lemma="засуджений" ana="adj:m:v_rod:&amp;adjp:perf:pasv:&amp;noun:anim" lemma2="засуджений">засудженого</w>
       </w_>
       <g/>
@@ -5601,7 +5601,7 @@
       <w_ id="2d8d">
         <w lemma="який" ana="adj:m:v_rod:&amp;pron:rel">якого</w>
       </w_>
-      <w_ id="2d8e">
+      <w_ id="2d8e" dep="2d8a-acl">
         <w lemma="застосовуватися" ana="verb:rev:imperf:pres:s:3">застосовується</w>
       </w_>
       <w_ id="2d8f">
@@ -5611,10 +5611,10 @@
         <w lemma="безпека" ana="noun:inanim:f:v_rod">безпеки</w>
       </w_>
       <g/>
-      <w_ id="2d8h">
+      <w_ id="2d8h" dep="2d8e-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2d8i">
+      <w_ id="2d8i" dep="2d7z-conj">
         <w lemma="переведення" ana="noun:inanim:n:v_naz">переведення</w>
       </w_>
       <w_ id="2d8j">
@@ -5644,26 +5644,26 @@
       <w_ id="2d8r">
         <w lemma="здійснюватися" ana="verb:rev:imperf:pres:p:3">здійснюються</w>
       </w_>
-      <w_ id="2d8s">
+      <w_ id="2d8s" dep="2d8r-advmod">
         <w lemma="відповідно" ana="adv:compb">відповідно</w>
       </w_>
       <w_ id="2d8t">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="2d8u">
+      <w_ id="2d8u" dep="2d8s-obl">
         <w lemma="положення" ana="noun:inanim:n:v_rod">Положення</w>
       </w_>
       <w_ id="2d8v">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="2d8w">
+      <w_ id="2d8w" dep="2d8u-nmod">
         <w lemma="визначення" ana="noun:inanim:n:v_zna">визначення</w>
       </w_>
-      <w_ id="2d8x">
+      <w_ id="2d8x" dep="2d8w-nmod">
         <w lemma="особа" ana="noun:anim:p:f:v_dav">особам</w>
       </w_>
       <g/>
-      <w_ id="2d8y">
+      <w_ id="2d8y" dep="2d8z-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2d8z">
@@ -5700,13 +5700,13 @@
         <w lemma="строк" ana="noun:inanim:m:v_zna">строк</w>
       </w_>
       <g/>
-      <w_ id="2d9a">
+      <w_ id="2d9a" dep="2d8z-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2d9b">
+      <w_ id="2d9b" dep="2d8w-nmod">
         <w lemma="вид" ana="noun:inanim:m:v_rod">виду</w>
       </w_>
-      <w_ id="2d9c">
+      <w_ id="2d9c" dep="2d9b-nmod">
         <w lemma="колонія" ana="noun:inanim:f:v_rod">колонії</w>
       </w_>
       <g/>
