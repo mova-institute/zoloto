@@ -2877,7 +2877,7 @@
       <w_ id="27mt">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="27mu" dep="27mv-case">
+      <w_ id="27mu" dep="27mv-det">
         <w lemma="увесь" ana="adj:n:v_naz:&amp;pron:gen">усе</w>
       </w_>
       <w_ id="27mv">
@@ -3296,7 +3296,7 @@
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="27qp" dep="27qr-expl">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="27qq" dep="27qr-amod">
         <w lemma="шаховий" ana="adj:f:v_naz">шахова</w>
@@ -4374,8 +4374,8 @@
       <w_ id="280g" dep="280e-nmod">
         <w lemma="спокуса" ana="noun:inanim:f:v_rod">Спокуси</w>
       </w_>
-      <w_ id="280h" dep="280j-amod" comment="#&gt;adj:m:v_rod:nv:abbr">
-        <w lemma="св." ana="noun:anim:m:v_rod:nv:abbr">св</w>
+      <w_ id="280h" dep="280j-amod">
+        <w lemma="св." ana="adj:m:v_rod:abbr:nv">св</w>
       </w_>
       <g/>
       <w_ id="280i" dep="280h-punct">
@@ -4469,7 +4469,7 @@
         <w lemma="XV" ana="adj:n:v_rod:nv:&amp;numr">XV</w>
       </w_>
       <g/>
-      <w_ id="281a" dep="281b-cc">
+      <w_ id="281a" dep="281b-punct">
         <w lemma="–" ana="punct">–</w>
       </w_>
       <g/>
@@ -4496,7 +4496,7 @@
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
       <w_ id="281i" dep="281j-det">
-        <w lemma="його" ana="adj:m:v_dav:poss:nv:&amp;pron:pers:3">його</w>
+        <w lemma="його" ana="adj:p:v_dav:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="281j" dep="281f-conj">
         <w lemma="помічник" ana="noun:anim:p:m:v_dav">помічникам</w>
@@ -4542,7 +4542,7 @@
         <w lemma="справді" ana="adv">справді</w>
       </w_>
       <w_ id="281y" dep="2820-cop">
-        <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
+        <w lemma="бути" ana="verb:aux:imperf:pres:s:3">є</w>
       </w_>
       <w_ id="281z" dep="2820-discourse">
         <w lemma="лише" ana="part">лише</w>
@@ -4709,7 +4709,7 @@
         <w lemma="цей" ana="adj:m:v_naz:&amp;pron:dem">цей</w>
       </w_>
       <w_ id="283f" dep="283g-cop">
-        <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
+        <w lemma="бути" ana="verb:aux:imperf:pres:s:3">є</w>
       </w_>
       <w_ id="283g" dep="283a-conj:parataxis">
         <w lemma="автентичний" ana="adj:m:v_oru">автентичним</w>
@@ -5409,7 +5409,7 @@
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="289p" dep="289v-expl">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="289q" dep="289v-amod">
         <w lemma="єдиний" ana="adj:n:v_naz">єдине</w>
@@ -6503,8 +6503,8 @@
       <w_ id="28ji" dep="28jk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="28jj" dep="28jk-nsubj" comment="#&gt;noun:inanim:n:v_naz:&amp;amp;pron:rel">
-        <w lemma="що" ana="conj:subord">що</w>
+      <w_ id="28jj" dep="28jk-nsubj">
+        <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="28jk" dep="28j9-parataxis">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
@@ -6565,7 +6565,7 @@
         <w lemma="-" ana="punct">-</w>
       </w_>
       <w_ id="28k4" dep="28k7-expl">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="28k5" dep="28k6-advmod">
         <w lemma="абсолютно" ana="adv">абсолютно</w>
@@ -7154,7 +7154,7 @@
       <w_ id="28pg" dep="28pi-case">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="28ph" dep="28pi-det">
+      <w_ id="28ph" dep="28pi-det:numgov">
         <w lemma="кілька" ana="numr:p:v_zna:&amp;pron:ind">кілька</w>
       </w_>
       <w_ id="28pi" dep="28pm-obl">
@@ -7262,8 +7262,8 @@
       <w_ id="28qg">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="28qh" dep="28qj-mark" comment="#&gt;conj:subord">
-        <w lemma="як" ana="adv:&amp;pron:rel">як</w>
+      <w_ id="28qh" dep="28qj-mark">
+        <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ id="28qi" dep="28qj-amod">
         <w lemma="непоганий" ana="adj:m:v_rod">непоганого</w>
@@ -7278,7 +7278,7 @@
         <w lemma="жанр" ana="noun:inanim:m:v_rod">жанру</w>
       </w_>
       <g/>
-      <w_ id="28qm" dep="28qd-amod">
+      <w_ id="28qm" dep="28qd-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="28qn"/>
@@ -7648,8 +7648,8 @@
       <w_ id="28tu" dep="28to-advcl">
         <w lemma="отримати" ana="verb:perf:past:advp">отримавши</w>
       </w_>
-      <w_ id="28tv" dep="28tx-discourse" comment="#&gt;part">
-        <w lemma="всього" ana="adv:&amp;pron:gen">всього</w>
+      <w_ id="28tv" dep="28tx-discourse">
+        <w lemma="всього" ana="part">всього</w>
       </w_>
       <w_ id="28tw" dep="28tx-nummod:gov">
         <w lemma="68" ana="numr:p:v_zna:nv">68</w>
