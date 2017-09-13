@@ -420,38 +420,38 @@
       <w_ id="232w">
         <w lemma="давати" ana="verb:imperf:impr:s:2">Давай</w>
       </w_>
-      <w_ id="232x">
+      <w_ id="232x" dep="232y-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="232y">
+      <w_ id="232y" dep="232z-obl">
         <w lemma="інтернет" ana="noun:inanim:m:v_mis">Інтернеті</w>
       </w_>
-      <w_ id="232z">
+      <w_ id="232z" dep="232w-compound:svc">
         <w lemma="дивитися" ana="verb:rev:imperf:inf">дивитися</w>
       </w_>
       <g/>
-      <w_ id="2330">
+      <w_ id="2330" dep="232w-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2331"/>
-      <w_ id="2332">
+      <w_ id="2332" dep="2334-discourse">
         <w lemma="справді" ana="adv">Справді</w>
       </w_>
       <g/>
-      <w_ id="2333">
+      <w_ id="2333" dep="2332-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2334">
         <w lemma="бути" ana="verb:aux:imperf:pres:p:3">є</w>
       </w_>
-      <w_ id="2335">
+      <w_ id="2335" dep="2336-det">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
-      <w_ id="2336">
+      <w_ id="2336" dep="2334-nsubj">
         <w lemma="машина" ana="noun:inanim:p:f:v_naz">машини</w>
       </w_>
       <g/>
-      <w_ id="2337">
+      <w_ id="2337" dep="2334-nsubj">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2338"/>
@@ -472,10 +472,10 @@
       <w_ id="233e">
         <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
       </w_>
-      <w_ id="233f">
+      <w_ id="233f" dep="233h-case">
         <w lemma="по" ana="prep:rv_zna">по</w>
       </w_>
-      <w_ id="233g">
+      <w_ id="233g" dep="233h-nummod:gov">
         <w lemma="8" ana="numr:p:v_zna:nv">8</w>
       </w_>
       <w_ id="233h">
@@ -534,7 +534,7 @@
       <w_ id="233w">
         <w lemma="такий" ana="adj:f:v_zna:&amp;pron:dem">таку</w>
       </w_>
-      <w_ id="233x">
+      <w_ id="233x" dep="233y-obj">
         <w lemma="дорогий" ana="adj:f:v_zna:compb">дорогу</w>
       </w_>
       <w_ id="233y">
