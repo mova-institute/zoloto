@@ -1444,31 +1444,31 @@
       <w_ id="35kr" dep="35ky-mark" n="437">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="35ks" n="438">
+      <w_ id="35ks" dep="35kt-amod" n="438">
         <w lemma="великий" ana="adj:f:v_zna:compb">велику</w>
       </w_>
-      <w_ id="35kt" n="439">
+      <w_ id="35kt" dep="35ky-obj" n="439">
         <w lemma="частина" ana="noun:inanim:f:v_zna">частину</w>
       </w_>
-      <w_ id="35ku" n="440">
+      <w_ id="35ku" dep="35kv-advmod" n="440">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
-      <w_ id="35kv" n="441">
+      <w_ id="35kv" dep="35kx-amod" n="441">
         <w lemma="званий" ana="adj:f:v_rod:&amp;adjp:imperf:pasv">званої</w>
       </w_>
-      <w_ id="35kw" n="442">
+      <w_ id="35kw" dep="35kx-amod" n="442">
         <w lemma="агітаційний" ana="adj:f:v_rod">агітаційної</w>
       </w_>
-      <w_ id="35kx" n="443">
+      <w_ id="35kx" dep="35kt-nmod" n="443">
         <w lemma="література" ana="noun:inanim:f:v_rod">літератури</w>
       </w_>
       <w_ id="35ky" dep="35kp-csubj" n="444">
         <w lemma="писати" ana="verb:imperf:past:f">писала</w>
       </w_>
-      <w_ id="35kz" n="445">
+      <w_ id="35kz" dep="35l1-amod" n="445">
         <w lemma="безпринципний" ana="adj:f:v_naz">безпринципна</w>
       </w_>
-      <w_ id="35l0" n="446">
+      <w_ id="35l0" dep="35l1-amod" n="446">
         <w lemma="міщанський" ana="adj:f:v_naz">міщанська</w>
       </w_>
       <w_ id="35l1" dep="35ky-nsubj" n="447">
@@ -2044,7 +2044,7 @@
       <w_ id="35q6" dep="35qj-cc" n="620">
         <w lemma="і" ana="conj:coord">І</w>
       </w_>
-      <w_ id="35q7" n="621">
+      <w_ id="35q7" dep="35qj-discourse" comment="~" n="621">
         <w lemma="це" ana="part">це</w>
       </w_>
       <g/>
@@ -3135,10 +3135,10 @@
         <w lemma="приказка" ana="noun:inanim:f:v_naz">приказка</w>
       </w_>
       <g/>
-      <w_ id="3607" n="954">
+      <w_ id="3607" dep="3608-punct" n="954">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3608" n="955">
+      <w_ id="3608" dep="3606-appos" n="955">
         <w lemma="щось" ana="noun:inanim:n:v_naz:&amp;pron:ind">щось</w>
       </w_>
       <w_ id="3609" dep="360a-case" n="956">
@@ -3147,7 +3147,7 @@
       <w_ id="360a" dep="3608-nmod" n="957">
         <w lemma="зразок" ana="noun:inanim:m:v_zna">зразок</w>
       </w_>
-      <w_ id="360b" n="958">
+      <w_ id="360b" dep="360k-punct" n="958">
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="360c" dep="360f-mark" n="959">
@@ -3176,7 +3176,7 @@
       <w_ id="360j" dep="360f-punct" n="966">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="360k" n="967">
+      <w_ id="360k" dep="360a-nmod" tags="graft" n="967">
         <w lemma="піти" ana="verb:perf:impr:s:2">піди</w>
       </w_>
       <w_ id="360l" dep="360k-conj:svc" n="968">
@@ -3189,7 +3189,7 @@
         <w lemma="проспатися" ana="verb:rev:perf:impr:s:2">проспися</w>
       </w_>
       <g/>
-      <w_ id="360o" n="971">
+      <w_ id="360o" dep="3604-punct" n="971">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="360p"/>
