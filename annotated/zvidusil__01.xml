@@ -4019,7 +4019,7 @@
     </p>
     <p id="1m3y">
       <sb id="1m3z"/>
-      <w_ id="1m40" dep="1m44-parataxis:discourse">
+      <w_ id="1m40" dep="1m44-parataxis:discourse" comment="~ ccomp?">
         <w lemma="нагадати" ana="verb:perf:futr:p:1">Нагадаємо</w>
       </w_>
       <g/>
@@ -4044,7 +4044,7 @@
       <w_ id="1m47" dep="1m4a-case">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
-      <w_ id="1m48" dep="1m49-compound">
+      <w_ id="1m48" dep="1m49-nummod">
         <w lemma="24" ana="numr:p:v_naz:nv">24</w>
       </w_>
       <w_ id="2ens" dep="2ent-punct">
@@ -4053,17 +4053,17 @@
       <w_ id="2ent" dep="1m48-compound">
         <w lemma="5" ana="numr:p:v_naz:nv">5</w>
       </w_>
-      <w_ id="1m49">
+      <w_ id="1m49" dep="1m4a-nummod:gov">
         <w lemma="млн" ana="numr:m:v_rod:nv:abbr">млн</w>
       </w_>
       <w_ id="1m4a" dep="1m44-obl">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
-      <w_ id="1m4b">
+      <w_ id="1m4b" dep="1m4i-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1m4c">
+      <w_ id="1m4c" dep="1m4i-mark">
         <w lemma="тобто" ana="conj:subord">тобто</w>
       </w_>
       <w_ id="1m4d" dep="1m4h-case">
@@ -4082,14 +4082,14 @@
       <w_ id="1m4g" dep="1m4h-nummod:gov">
         <w lemma="млн" ana="numr:m:v_rod:nv:abbr">млн</w>
       </w_>
-      <w_ id="1m4h">
+      <w_ id="1m4h" dep="1m4i-obl">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
-      <w_ id="1m4i" tags="promoted">
+      <w_ id="1m4i" dep="1m44-parataxis:thatis" tags="promoted" comment="~">
         <w lemma="кожний" ana="adj:m:v_naz:&amp;pron:gen">кожний</w>
       </w_>
       <g/>
-      <w_ id="1m4j">
+      <w_ id="1m4j" dep="1m44-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1m4k"/>
