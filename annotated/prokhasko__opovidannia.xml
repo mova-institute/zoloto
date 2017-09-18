@@ -4423,10 +4423,10 @@
   <w_ id="0rw1" dep="0rw2-det:numgov">
     <w lemma="кілька" ana="numr:v_zna:&amp;pron:ind">кілька</w>
   </w_>
-  <w_ id="0rw2" dep="0rw0-obl">
+  <w_ id="0rw2" dep="0rw3-obl">
     <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
   </w_>
-  <w_ id="0rw3" dep="0rw2-advmod" mark="reviewed">
+  <w_ id="0rw3" dep="0rw0-advmod" mark="reviewed">
     <w lemma="тому" ana="adv:xp1">тому</w>
   </w_>
   <g/>
@@ -18107,10 +18107,10 @@
   <w_ id="0vex" dep="0vey-discourse">
     <w lemma="ще" ana="part">ще</w>
   </w_>
-  <w_ id="0vey" dep="0vf0-obl">
+  <w_ id="0vey" dep="0vez-obl">
     <w lemma="хвилина" ana="noun:inanim:f:v_zna">хвилину</w>
   </w_>
-  <w_ id="0vez" dep="0vey-advmod">
+  <w_ id="0vez" dep="0vf0-advmod">
     <w lemma="тому" ana="adv:xp1">тому</w>
   </w_>
   <w_ id="0vf0" dep="0vf7-advcl">
@@ -40756,19 +40756,19 @@
   <w_ id="117y" dep="117w-obj">
     <w lemma="гостини" ana="noun:inanim:p:v_zna:ns">гостини</w>
   </w_>
-  <w_ id="117z" dep="1180-amod">
+  <w_ id="117z" dep="117w-obl" tags="promoted">
     <w lemma="перший" ana="adj:m:v_rod:compb:&amp;numr">першого</w>
   </w_>
-  <w_ id="1180" dep="117w-obl">
+  <w_ id="1180" dep="117z-nmod">
     <w lemma="травень" ana="noun:inanim:m:v_rod">травня</w>
   </w_>
-  <w_ id="1181" dep="1183-cc">
+  <w_ id="1181" dep="1182-cc">
     <w lemma="і" ana="conj:coord">і</w>
   </w_>
-  <w_ id="1182" dep="1183-amod">
+  <w_ id="1182" dep="117z-conj" tags="promoted">
     <w lemma="сьомий" ana="adj:m:v_rod:&amp;numr">сьомого</w>
   </w_>
-  <w_ id="1183" dep="1180-conj">
+  <w_ id="1183" dep="1182-nmod">
     <w lemma="листопад" ana="noun:inanim:m:v_rod:xp1">листопада</w>
   </w_>
   <g/>
