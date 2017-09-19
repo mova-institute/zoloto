@@ -4942,8 +4942,8 @@
       <w_ id="3847" n="1497">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="3848" dep="3849-det:numgov" comment="#&gt;numr:v_naz:&amp;amp;pron:ind" n="1498">
-        <w lemma="багато" ana="adv:compb">багато</w>
+      <w_ id="3848" dep="3849-det:numgov" n="1498">
+        <w lemma="багато" ana="numr:v_naz:&amp;pron:ind">багато</w>
       </w_>
       <w_ id="3849" n="1499">
         <w lemma="дорога" ana="noun:inanim:p:f:v_rod">доріг</w>
@@ -5164,7 +5164,7 @@
       <w_ id="3867" n="1566">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="3868" dep="3869-det" n="1567">
+      <w_ id="3868" dep="3869-det:numgov" n="1567">
         <w lemma="багато" ana="numr:v_zna:&amp;pron:ind">багато</w>
       </w_>
       <w_ id="3869" dep="3866-obj" n="1568">
@@ -5278,7 +5278,7 @@
         <w lemma="2014" ana="adj:m:v_rod:nv:&amp;numr">2014</w>
       </w_>
       <g/>
-      <w_ id="3879" dep="387a-cc" n="1603">
+      <w_ id="3879" dep="387a-punct" n="1603">
         <w lemma="–" ana="punct">–</w>
       </w_>
       <g/>
@@ -5411,8 +5411,8 @@
       <w_ id="388f" dep="388g-cc" n="1642">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="388g" dep="388e-conj" comment="#&gt;:&amp;noun:inanim:ns" n="1643">
-        <w lemma="комплектуючий" ana="adj:p:v_rod:&amp;adjp:imperf:actv:bad:pres">комплектуючих</w>
+      <w_ id="388g" dep="388e-conj" n="1643">
+        <w lemma="комплектуючий" ana="adj:p:v_rod:ns:&amp;adjp:imperf:actv:&amp;noun:inanim:bad:pres">комплектуючих</w>
       </w_>
       <w_ id="388h" dep="388i-case" n="1644">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
@@ -6431,7 +6431,7 @@
       <w_ id="38hl" dep="38he-obl" n="1955">
         <w lemma="протидія" ana="noun:inanim:f:v_rod">протидії</w>
       </w_>
-      <w_ id="38hm" dep="38hn-advmod" comment="#&gt;adv:compr" n="1956">
+      <w_ id="38hm" dep="38hn-advmod" n="1956">
         <w lemma="більш" ana="adv:compr">більш</w>
       </w_>
       <w_ id="38hn" dep="38ho-amod" n="1957">
@@ -6634,7 +6634,7 @@
       <w_ id="38jh" n="2019">
         <w lemma="імам" ana="noun:anim:p:m:v_zna">імамів</w>
       </w_>
-      <w_ id="38ji" dep="38jj-case" n="2020">
+      <w_ id="38ji" dep="38jj-det" n="2020">
         <w lemma="цей" ana="adj:f:v_rod:&amp;pron:dem">цієї</w>
       </w_>
       <w_ id="38jj" dep="38jh-nmod" n="2021">
@@ -6652,7 +6652,7 @@
         <w lemma="вже" ana="adv:v-u">вже</w>
       </w_>
       <w_ id="38jo" n="2025">
-        <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
+        <w lemma="бути" ana="verb:imperf:past:p">були</w>
       </w_>
       <w_ id="38jp" dep="38jr-case" n="2026">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
