@@ -1139,7 +1139,7 @@
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
-      <w_ id="3763" dep="3764-nsubj" n="346">
+      <w_ id="3763" dep="3764-amod" n="346">
         <w lemma="російський" ana="adj:m:v_rod">російського</w>
       </w_>
       <w_ id="3764" dep="3760-nmod" n="347">
@@ -2322,7 +2322,7 @@
       <w_ id="37gu" dep="37gw-punct" n="706">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37gv" n="707">
+      <w_ id="37gv" dep="37gw-advmod" n="707">
         <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
       <w_ id="37gw" dep="37gt-acl" n="708">
@@ -2465,7 +2465,7 @@
       <w_ id="37i4" n="750">
         <w lemma="підтримувати" ana="verb:imperf:inf">підтримувати</w>
       </w_>
-      <w_ id="37i5" dep="37i4-nmod" n="751">
+      <w_ id="37i5" dep="37i4-obj" n="751">
         <w lemma="реформа" ana="noun:inanim:f:v_zna">реформу</w>
       </w_>
       <w_ id="37i6" dep="37i7-amod" n="752">
@@ -2901,10 +2901,10 @@
       <w_ id="37m5" dep="37mb-obl" n="886">
         <w lemma="підтримка" ana="noun:inanim:f:v_dav">підтримці</w>
       </w_>
-      <w_ id="37m6" dep="37m5-mark" n="887">
+      <w_ id="37m6" dep="37m5-nmod" n="887">
         <w lemma="президент" ana="noun:anim:m:v_rod">Президента</w>
       </w_>
-      <w_ id="37m7" dep="37m6-mark" n="888">
+      <w_ id="37m7" dep="37m6-nmod" n="888">
         <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
       </w_>
       <w_ id="37m8" dep="37m6-flat:title" n="889">
@@ -3053,7 +3053,7 @@
       <w_ id="37nj" dep="37no-punct" n="934">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37nk" dep="37nl-nsubj" n="935">
+      <w_ id="37nk" dep="37nl-amod" n="935">
         <w lemma="бездоганний" ana="adj:n:v_oru:compb">бездоганним</w>
       </w_>
       <w_ id="37nl" dep="37no-obl" n="936">
@@ -3373,7 +3373,7 @@
       <w_ id="37qg" dep="37qf-xcomp" n="1034">
         <w lemma="приймати" ana="verb:imperf:inf">приймати</w>
       </w_>
-      <w_ id="37qh" dep="37qg-nmod" n="1035">
+      <w_ id="37qh" dep="37qg-obj" n="1035">
         <w lemma="гість" ana="noun:anim:p:m:v_zna">гостей</w>
       </w_>
       <g/>
@@ -6582,7 +6582,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="38j0"/>
-      <w_ id="38j1" dep="38j5-amod" n="2003">
+      <w_ id="38j1" dep="38j5-nsubj" n="2003">
         <w lemma="представниця" ana="noun:anim:f:v_naz">Представниця</w>
       </w_>
       <w_ id="38j2" dep="38j1-nmod" n="2004">
@@ -7022,7 +7022,7 @@
       <w_ id="38mz" n="2139">
         <w lemma="запросити" ana="verb:perf:futr:p:3">запросять</w>
       </w_>
-      <w_ id="38n0" dep="38mz-advcl:2" n="2140">
+      <w_ id="38n0" dep="38mz-advcl:svc" n="2140">
         <w lemma="відвідувати" ana="verb:imperf:inf">відвідувати</w>
       </w_>
       <w_ id="38n1" dep="38n0-obj" n="2141">
