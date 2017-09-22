@@ -1645,13 +1645,13 @@
       <w_ id="29qy">
         <w lemma="налічувати" ana="verb:imperf:pres:s:3">налічує</w>
       </w_>
-      <w_ id="29qz">
+      <w_ id="29qz" dep="29r1-case">
         <w lemma="понад" ana="prep:rv_zna">понад</w>
       </w_>
-      <w_ id="29r0">
+      <w_ id="29r0" dep="29r1-nummod:gov">
         <w lemma="15" ana="numr:v_zna:nv">15</w>
       </w_>
-      <w_ id="29r1">
+      <w_ id="29r1" dep="29qy-obj">
         <w lemma="тисяча" ana="noun:inanim:p:f:v_rod:&amp;_numr">тисяч</w>
       </w_>
       <w_ id="29r2" dep="29r5-amod">
@@ -1663,20 +1663,20 @@
       <w_ id="29r4" dep="29r2-conj">
         <w lemma="мистецький" ana="adj:p:v_rod">мистецьких</w>
       </w_>
-      <w_ id="29r5" dep="29qy-obj">
+      <w_ id="29r5" dep="29r1-nmod">
         <w lemma="одиниця" ana="noun:inanim:p:f:v_rod">одиниць</w>
       </w_>
       <g/>
-      <w_ id="29r6">
+      <w_ id="29r6" dep="29r8-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="29r7" dep="29r8-case">
         <w lemma="серед" ana="prep:rv_rod">серед</w>
       </w_>
-      <w_ id="29r8">
+      <w_ id="29r8" dep="29r5-acl" comment="~">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
-      <w_ id="29r9">
+      <w_ id="29r9" dep="29ra-nummod">
         <w lemma="2" ana="numr:p:v_naz:nv">2</w>
       </w_>
       <w_ id="2eqq" dep="2eqr-punct">
@@ -1685,10 +1685,10 @@
       <w_ id="2eqr" dep="29r9-compound">
         <w lemma="7" ana="numr:v_naz:nv">7</w>
       </w_>
-      <w_ id="29ra">
+      <w_ id="29ra" dep="29r8-nsubj">
         <w lemma="тисяча" ana="noun:inanim:p:f:v_rod:&amp;_numr">тисяч</w>
       </w_>
-      <w_ id="29rb">
+      <w_ id="29rb" dep="29ra-nmod">
         <w lemma="зразок" ana="noun:inanim:p:m:v_rod">зразків</w>
       </w_>
       <w_ id="29rc" dep="29rb-nmod">
@@ -1698,7 +1698,7 @@
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="29re">
+      <w_ id="29re" dep="29rb-appos">
         <w lemma="рушник" ana="noun:inanim:p:m:v_naz">рушники</w>
       </w_>
       <g/>
@@ -1749,7 +1749,7 @@
       <w_ id="29rs">
         <w lemma="700" ana="numr:v_rod:nv">700</w>
       </w_>
-      <w_ id="29rt" dep="29rb-conj">
+      <w_ id="29rt">
         <w lemma="предмет" ana="noun:inanim:p:m:v_rod">предметів</w>
       </w_>
       <w_ id="29ru" dep="29rt-nmod">
@@ -1790,7 +1790,7 @@
       <w_ id="29s4" dep="29s5-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="29s5" dep="29rb-conj">
+      <w_ id="29s5">
         <w lemma="колекція" ana="noun:inanim:f:v_naz">колекція</w>
       </w_>
       <w_ id="29s6" dep="29s5-nmod">
@@ -1806,14 +1806,14 @@
       <w_ id="29s9" dep="29sa-amod">
         <w lemma="різьблений" ana="adj:p:v_naz:&amp;adjp:imperf:pasv">різьблені</w>
       </w_>
-      <w_ id="29sa" dep="29rb-conj">
+      <w_ id="29sa">
         <w lemma="річ" ana="noun:inanim:p:f:v_naz">речі</w>
       </w_>
       <g/>
       <w_ id="29sb" dep="29sc-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="29sc" dep="29rb-conj">
+      <w_ id="29sc">
         <w lemma="виріб" ana="noun:inanim:p:m:v_naz">вироби</w>
       </w_>
       <w_ id="29sd" dep="29se-case">
@@ -1832,7 +1832,7 @@
       <w_ id="29sh" dep="29si-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="29si" dep="29rb-conj">
+      <w_ id="29si">
         <w lemma="колекція" ana="noun:inanim:f:v_naz">колекція</w>
       </w_>
       <w_ id="29sj" dep="29sl-amod">
