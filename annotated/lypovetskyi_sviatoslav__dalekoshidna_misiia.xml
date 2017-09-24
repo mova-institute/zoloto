@@ -291,13 +291,13 @@
     <w_ id="2fs8" dep="2fs6-nmod" n="89">
       <w lemma="націоналіст" ana="noun:anim:p:m:v_rod">націоналістів</w>
     </w_>
-    <w_ id="2fs9" n="90">
+    <w_ id="2fs9" dep="2fsb-cc" n="90">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="2fsa" n="91">
+    <w_ id="2fsa" dep="2fsb-advmod" comment="#predmod" n="91">
       <w lemma="безпосередньо" ana="adv:compb">безпосередньо</w>
     </w_>
-    <w_ id="2fsb" n="92">
+    <w_ id="2fsb" dep="2fs6-conj" n="92">
       <w lemma="Коновалець" ana="noun:anim:m:v_naz:prop:lname">Коновалець</w>
     </w_>
     <w_ id="2fsc" dep="2fs3-advcl" n="93">
@@ -1114,35 +1114,35 @@
       <w lemma="територія" ana="noun:inanim:f:v_zna">територію</w>
     </w_>
     <g/>
-    <w_ id="2fzt" n="349">
+    <w_ id="2fzt" dep="2fzu-punct" n="349">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="2fzu" dep="2fzs-amod" n="350">
       <w lemma="відомий" ana="adj:f:v_zna:compb">відому</w>
     </w_>
-    <w_ id="2fzv" n="351">
+    <w_ id="2fzv" dep="2fzx-mark" n="351">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ id="2fzw" n="352">
+    <w_ id="2fzw" dep="2fzx-amod" n="352">
       <w lemma="зелений" ana="adj:m:v_naz:compb">Зелений</w>
     </w_>
-    <w_ id="2fzx" n="353">
+    <w_ id="2fzx" dep="2fzu-xcomp:2" n="353">
       <w lemma="клин" ana="noun:inanim:m:v_naz">Клин</w>
     </w_>
     <g/>
-    <w_ id="2fzy" n="354">
+    <w_ id="2fzy" dep="2fzu-punct" n="354">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2fzz" n="355">
+    <w_ id="2fzz" dep="2g01-advmod" n="355">
       <w lemma="ще" ana="adv">ще</w>
     </w_>
     <w_ id="2g00" dep="2g01-case" n="356">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="2g01" n="357">
+    <w_ id="2g01" dep="2g04-obl" n="357">
       <w lemma="початок" ana="noun:inanim:m:v_mis">початку</w>
     </w_>
-    <w_ id="2g02" correct="XX" n="358">
+    <w_ id="2g02" dep="2g03-amod" correct="XX" n="358">
       <w lemma="XX" ana="adj:n:v_rod:nv:&amp;numr">ХХ</w>
     </w_>
     <w_ id="2g03" dep="2g01-nmod" n="359">
@@ -1158,7 +1158,7 @@
       <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
     </w_>
     <g/>
-    <w_ id="2g07" n="363">
+    <w_ id="2g07" dep="2fza-punct" n="363">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2g08"/>

@@ -977,13 +977,13 @@
       <w_ id="1pmz" dep="1pmx-punct">
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
-      <w_ id="1pn0">
+      <w_ id="1pn0" dep="1pn2-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <w_ id="1pn1" dep="1pn2-discourse">
         <w lemma="ось" ana="part">ось</w>
       </w_>
-      <w_ id="1pn2" comment="#askud">
+      <w_ id="1pn2" dep="1pmt-parataxis" comment="#askud щось хитріше ща parataxis?">
         <w lemma="що" ana="noun:inanim:n:v_oru:&amp;pron:rel">чим</w>
       </w_>
       <w_ id="1pn3" dep="1pn2-cop">
@@ -1002,7 +1002,7 @@
       <w_ id="1pn7" dep="1pn8-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="1pn8">
+      <w_ id="1pn8" dep="1pmt-parataxis">
         <w lemma="діра" ana="noun:inanim:f:v_naz">діра</w>
       </w_>
       <w_ id="1pn9" dep="1pna-case">
@@ -1033,7 +1033,7 @@
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
       <g/>
-      <w_ id="1pnh">
+      <w_ id="1pnh" dep="1pn8-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1pni"/>
@@ -2083,10 +2083,10 @@
     </p>
     <p id="1pwu">
       <sb id="1pwv"/>
-      <w_ id="1pww">
+      <w_ id="1pww" dep="1pwz-mark">
         <w lemma="так" ana="conj:subord">Так</w>
       </w_>
-      <w_ id="1pwx">
+      <w_ id="1pwx" dep="1pww-fixed">
         <w lemma="що" ana="part">що</w>
       </w_>
       <w_ id="1pwy" dep="1pwz-nsubj">
@@ -2109,7 +2109,7 @@
         <w lemma="каміння" ana="noun:inanim:p:n:v_zna">каміння</w>
       </w_>
       <g/>
-      <w_ id="1px4" dep="1pwz-punct">
+      <w_ id="1px4" dep="1px1-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1px5"/>
@@ -3747,28 +3747,28 @@
         <w lemma="робота" ana="noun:inanim:p:f:v_rod">робіт</w>
       </w_>
       <g/>
-      <w_ id="1qc6">
+      <w_ id="1qc6" dep="1qcb-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1qc7">
+      <w_ id="1qc7" dep="1qcb-advmod">
         <w lemma="зокрема" ana="adv">зокрема</w>
       </w_>
-      <w_ id="1qc8">
+      <w_ id="1qc8" dep="1qcb-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="1qc9" dep="1qca-case">
+      <w_ id="1qc9" dep="1qcb-case">
         <w lemma="близько" ana="prep:rv_rod">близько</w>
       </w_>
-      <w_ id="1qca" dep="1qcd-nummod:gov">
+      <w_ id="1qca" dep="1qcb-nummod">
         <w lemma="95" ana="numr:v_rod:nv">95</w>
       </w_>
-      <w_ id="1qcb" dep="1qca-flat">
+      <w_ id="1qcb" dep="1qbg-appos">
         <w lemma="тисяча" ana="noun:inanim:p:f:v_rod:&amp;_numr">тисяч</w>
       </w_>
       <w_ id="1qcc" dep="1qcd-amod">
         <w lemma="закарпатський" ana="adj:p:v_rod">закарпатських</w>
       </w_>
-      <w_ id="1qcd">
+      <w_ id="1qcd" dep="1qcb-nmod">
         <w lemma="єврей" ana="noun:anim:p:m:v_rod">євреїв</w>
       </w_>
       <g/>
@@ -4104,14 +4104,14 @@
   <doc id="1qfh" author="" date="2017" src="https://www.sushiya.ua/ua/kompanija/karera/otpravit-rezyume/" title="Надіслати резюме">
     <p id="1qfi">
       <sb id="1qfj"/>
-      <w_ id="1qfk">
+      <w_ id="1qfk" dep="1qfn-parataxis:discourse">
         <w lemma="бути" ana="verb:imperf:impr:s:2">Будь</w>
       </w_>
-      <w_ id="1qfl">
+      <w_ id="1qfl" dep="1qfk-nsubj">
         <w lemma="ласка" ana="noun:inanim:f:v_naz">ласка</w>
       </w_>
       <g/>
-      <w_ id="1qfm">
+      <w_ id="1qfm" dep="1qfk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1qfn">
@@ -4133,7 +4133,7 @@
         <w lemma="резюме" ana="noun:inanim:n:v_zna:nv">резюме</w>
       </w_>
       <g/>
-      <w_ id="1qft">
+      <w_ id="1qft" dep="1qfn-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1qfu"/>
