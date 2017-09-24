@@ -386,8 +386,8 @@
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="2n9v" dep="2n9y-discourse" comment="#&gt;part" n="112">
-        <w lemma="лише" ana="conj:subord">Лише</w>
+      <w_ id="2n9v" dep="2n9y-discourse" n="112">
+        <w lemma="лише" ana="part">Лише</w>
       </w_>
       <w_ id="2n9w" dep="2n9y-case" n="113">
         <w lemma="з" ana="prep:rv_rod">з</w>
@@ -817,14 +817,14 @@
       <w_ id="2ndo" n="240">
         <w lemma="квартал" ana="noun:inanim:p:m:v_zna">квартали</w>
       </w_>
-      <w_ id="2ndp" dep="2nds-amod" comment="#&gt;adj:m:v_rod" n="241">
-        <w lemma="2017-ий" ana="adj:m:v_rod:&amp;numr:&amp;noun:inanim" lemma2="2017-ий">2017-го</w>
+      <w_ id="2ndp" dep="2nds-amod" n="241">
+        <w lemma="2017-ий" ana="adj:m:v_rod" lemma2="2017-ий">2017-го</w>
       </w_>
-      <w_ id="2ndq" dep="2ndr-punct" n="242">
+      <w_ id="2ndq" dep="2ndr-cc" n="242">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="2ndr" dep="2ndp-obj" comment="#&gt;adj:m:v_rod" n="243">
-        <w lemma="2014-ий" ana="adj:m:v_rod:&amp;numr:&amp;noun:inanim" lemma2="2014-ий">2014-го</w>
+      <w_ id="2ndr" dep="2ndp-obj" n="243">
+        <w lemma="2014-ий" ana="adj:m:v_rod" lemma2="2014-ий">2014-го</w>
       </w_>
       <w_ id="2nds" dep="2ndo-nmod" n="244">
         <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
@@ -4116,7 +4116,7 @@
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
       </w_>
       <w_ id="2o6v" comment="неоднозначність" n="1243">
-        <w lemma="бути" ana="verb:aux:imperf:pres:p:3">є</w>
+        <w lemma="бути" ana="verb:imperf:pres:p:3">є</w>
       </w_>
       <w_ id="2o6w" dep="2o6x-case" n="1244">
         <w lemma="на" ana="prep:rv_mis">на</w>
@@ -5118,7 +5118,7 @@
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ id="2og0" dep="2ofx-acl" comment="петля через _такому_?" n="1550">
-        <w lemma="бути" ana="verb:aux:imperf:pres:s:3">є</w>
+        <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <g/>
       <w_ id="2og1" dep="2og3-punct" n="1551">
@@ -5316,14 +5316,14 @@
       <w_ id="2ohs" n="1611">
         <w lemma="виступати" ana="verb:imperf:pres:p:3">виступають</w>
       </w_>
-      <w_ id="2oht" dep="2ohx-discourse" comment="#&gt;part" n="1612">
-        <w lemma="і" ana="conj:coord">і</w>
+      <w_ id="2oht" dep="2ohx-discourse" n="1612">
+        <w lemma="і" ana="part">і</w>
       </w_>
       <w_ id="2ohu" dep="2ohx-amod" n="1613">
         <w lemma="більший" ana="adj:p:v_naz:compr">більші</w>
       </w_>
       <g/>
-      <w_ id="2ohv" dep="2ohw-cc" n="1614">
+      <w_ id="2ohv" dep="2ohw-punct" n="1614">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2ohw" dep="2ohu-conj" n="1615">
@@ -5353,8 +5353,8 @@
       <w_ id="2oi3" dep="2oi4-cc" n="1622">
         <w lemma="чи" ana="conj:coord">чи</w>
       </w_>
-      <w_ id="2oi4" dep="2oi2-conj" comment="#&gt;adj:m:v_zna" n="1623">
-        <w lemma="Ізмаїльський" ana="noun:anim:m:v_naz:prop:lname">Ізмаїльський</w>
+      <w_ id="2oi4" dep="2oi2-conj" n="1623">
+        <w lemma="Ізмаїльський" ana="adj:m:v_zna">Ізмаїльський</w>
       </w_>
       <g/>
       <w_ id="2oi5" dep="2oi9-punct" n="1624">
