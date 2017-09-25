@@ -4703,14 +4703,14 @@
         <w lemma="фільм" ana="noun:inanim:p:m:v_zna">фільми</w>
       </w_>
       <g/>
-      <w_ id="21cc">
+      <w_ id="21cc" dep="21ce-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <w_ id="21cd" dep="21ce-punct">
         <w lemma="”" ana="punct:quote:open">”</w>
       </w_>
       <g/>
-      <w_ id="21ce" dep="21ci-nsubj">
+      <w_ id="21ce" dep="21cb-flat:title" comment="~">
         <w lemma="вендета" ana="noun:inanim:f:v_naz">Вендета</w>
       </w_>
       <g/>
@@ -4723,7 +4723,7 @@
       <w_ id="21ch" dep="21ci-case">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="21ci">
+      <w_ id="21ci" dep="21ce-appos">
         <w lemma="суперечка" ana="noun:inanim:f:v_zna">суперечку</w>
       </w_>
       <w_ id="21cj" dep="21ci-nmod">
@@ -4755,7 +4755,7 @@
         <w lemma="”" ana="punct:quote:open">”</w>
       </w_>
       <g/>
-      <w_ id="21cs" dep="21cv-nsubj">
+      <w_ id="21cs" dep="21ce-conj">
         <w lemma="Макдональд" ana="noun:anim:m:v_naz:prop:lname">Макдональд</w>
       </w_>
       <g/>
@@ -4765,7 +4765,7 @@
       <w_ id="21cu" dep="21cv-punct">
         <w lemma="–" ana="punct">–</w>
       </w_>
-      <w_ id="21cv">
+      <w_ id="21cv" dep="21cs-appos">
         <w lemma="памфлет" ana="noun:inanim:m:v_naz">памфлет</w>
       </w_>
       <g/>
@@ -4775,11 +4775,11 @@
       <w_ id="21cx" dep="21cv-acl">
         <w lemma="присвячений" ana="adj:m:v_naz:&amp;adjp:perf:pasv">присвячений</w>
       </w_>
-      <w_ id="21cy">
+      <w_ id="21cy" dep="21d0-compound">
         <w lemma="прем’єрний" ana="adj:stem">прем’єр</w>
       </w_>
       <g/>
-      <w_ id="21cz">
+      <w_ id="21cz" dep="21cy-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
@@ -4800,7 +4800,7 @@
         <w lemma="”" ana="punct:quote:open">”</w>
       </w_>
       <g/>
-      <w_ id="21d5" dep="21d8-nsubj">
+      <w_ id="21d5" dep="21d8-nsubj|21ce-conj">
         <w lemma="арсеналець" ana="noun:anim:p:m:v_naz">Арсенальці</w>
       </w_>
       <g/>
@@ -4810,7 +4810,7 @@
       <w_ id="21d7" dep="21d8-punct">
         <w lemma="–" ana="punct">–</w>
       </w_>
-      <w_ id="21d8">
+      <w_ id="21d8" dep="21d5-appos">
         <w lemma="епізод" ana="noun:inanim:m:v_naz">епізод</w>
       </w_>
       <w_ id="21d9" dep="21d8-nmod">
@@ -4826,7 +4826,7 @@
         <w lemma="Київ" ana="noun:inanim:m:v_mis:prop">Києві</w>
       </w_>
       <g/>
-      <w_ id="21dd">
+      <w_ id="21dd" dep="21c9-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="21de"/>
@@ -5470,7 +5470,7 @@
       <w_ id="21je">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="21jf">
+      <w_ id="21jf" dep="21jg-punct">
         <w lemma="–" ana="punct">–</w>
       </w_>
       <w_ id="21jg">
@@ -6494,16 +6494,16 @@
         <w lemma="1561-ий" ana="adj:m:v_rod:&amp;numr:&amp;noun:inanim" lemma2="1561-ий">1561-го</w>
       </w_>
       <g/>
-      <w_ id="21sy">
+      <w_ id="21sy" dep="21t1-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="21sz">
+      <w_ id="21sz" dep="21t1-advmod">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
       <w_ id="21t0" dep="21t1-obj">
         <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
       </w_>
-      <w_ id="21t1">
+      <w_ id="21t1" dep="21sx-acl">
         <w lemma="поділити" ana="verb:perf:past:p">поділили</w>
       </w_>
       <w_ id="21t2" dep="21t3-case">
@@ -6650,7 +6650,7 @@
         <w lemma="дорослий" ana="adj:m:p:v_zna:ranim:compb:&amp;noun:anim" lemma2="дорослий">дорослих</w>
       </w_>
       <g/>
-      <w_ id="21ug">
+      <w_ id="21ug" dep="21ua-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="21uh" dep="21ui-obj">

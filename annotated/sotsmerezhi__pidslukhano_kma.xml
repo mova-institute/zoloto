@@ -1017,7 +1017,7 @@
       <w lemma="305" ana="numr:v_naz:nv">305</w>
     </w_>
     <g/>
-    <w_ id="1390">
+    <w_ id="1390" dep="138r-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="1391"/>
@@ -1845,17 +1845,17 @@
     <w_ id="13gr" dep="13gs-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="13gs" dep="13gp-parataxis">
+    <w_ id="13gs" dep="13gp-parataxis:discourse">
       <w lemma="бути" ana="verb:imperf:impr:s:2">будь</w>
     </w_>
     <w_ id="13gt" dep="13gs-fixed">
       <w lemma="ласка" ana="noun:inanim:f:v_naz:xp2">ласка</w>
     </w_>
     <g/>
-    <w_ id="13gu" dep="13gs-punct|13gv-punct">
+    <w_ id="13gu" dep="13gv-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="13gv">
+    <w_ id="13gv" dep="13h0-discourse">
       <w lemma="може" ana="adv">може</w>
     </w_>
     <g/>
@@ -1915,7 +1915,7 @@
       <w lemma="сміттєпровід" ana="noun:inanim:m:v_zna">СМІТТЄПРОВІД</w>
     </w_>
     <g/>
-    <w_ id="13he" dep="13gp-punct">
+    <w_ id="13he">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="13hf"/>
@@ -2009,10 +2009,10 @@
     <w_ id="13i9" dep="13ic-cc">
       <w lemma="і" ana="conj:coord">І</w>
     </w_>
-    <w_ id="13ia" dep="13ib-advmod">
+    <w_ id="13ia" dep="13ic-cc">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="13ib">
+    <w_ id="13ib" dep="13ia-fixed">
       <w lemma="тільки" ana="part">тільки</w>
     </w_>
     <w_ id="13ic">
@@ -2022,10 +2022,10 @@
     <w_ id="13id" dep="13ig-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="13ie">
+    <w_ id="13ie" dep="13ig-cc">
       <w lemma="але" ana="conj:coord">але</w>
     </w_>
-    <w_ id="13if">
+    <w_ id="13if" dep="13ie-fixed" comment="#&gt;part">
       <w lemma="й" ana="conj:coord">й</w>
     </w_>
     <w_ id="13ig" dep="13ic-conj">
