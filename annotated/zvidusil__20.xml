@@ -532,13 +532,13 @@
       <w_ id="2nb7" dep="2nb8-case" n="156">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="2nb8" n="157">
+      <w_ id="2nb8" dep="2nbh-obl" n="157">
         <w lemma="січень" ana="noun:inanim:m:v_mis">січні</w>
       </w_>
       <w_ id="2nb9" dep="2nba-punct" n="158">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="2nba" n="159">
+      <w_ id="2nba" dep="2nb8-conj" n="159">
         <w lemma="червень" ana="noun:inanim:m:v_mis">червні</w>
       </w_>
       <w_ id="2nbb" dep="2nb8-nmod" n="160">
@@ -568,23 +568,23 @@
       <w_ id="2nbj" dep="2nbh-advmod" n="168">
         <w lemma="удвічі" ana="adv">удвічі</w>
       </w_>
-      <w_ id="2nbk" n="169">
+      <w_ id="2nbk" dep="2nbn-punct" n="169">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="2nbl" n="170">
+      <w_ id="2nbl" dep="2nbn-case" n="170">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="2nbm" n="171">
+      <w_ id="2nbm" dep="2nbn-nummod" n="171">
         <w lemma="30" ana="numr:v_rod:nv">30</w>
       </w_>
-      <w_ id="2nbn" n="172">
+      <w_ id="2nbn" dep="2nbj-appos:nonnom" n="172">
         <w lemma="млн" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
-      <w_ id="2nbo" n="173">
+      <w_ id="2nbo" dep="2nbn-nmod" n="173">
         <w lemma="кг" ana="noun:inanim:p:m:v_dav:nv:abbr">кг</w>
       </w_>
       <g/>
-      <w_ id="2nbp" n="174">
+      <w_ id="2nbp" dep="2nbh-punct" n="174">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2nbq"/>
@@ -814,7 +814,7 @@
       <w_ id="2ndn" dep="2ndo-amod" n="239">
         <w lemma="перший" ana="adj:p:v_zna:rinanim:compb:&amp;numr">перші</w>
       </w_>
-      <w_ id="2ndo" n="240">
+      <w_ id="2ndo" dep="2ndg-nmod" comment="~" n="240">
         <w lemma="квартал" ana="noun:inanim:p:m:v_zna">квартали</w>
       </w_>
       <w_ id="2ndp" dep="2nds-amod" n="241">
@@ -2771,27 +2771,27 @@
       <w_ id="2nul" dep="2nuk-punct" n="826">
         <w lemma="»" ana="punct">»</w>
       </w_>
-      <w_ id="2num" n="827">
+      <w_ id="2num" dep="2nuq-punct" n="827">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="2nun" n="828">
+      <w_ id="2nun" dep="2nuq-case" n="828">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="2nuo" n="829">
+      <w_ id="2nuo" dep="2nuq-amod" n="829">
         <w lemma="лат." ana="adj:n:v_rod:abbr:nv">лат</w>
       </w_>
       <g/>
       <w_ id="2nup" dep="2nuo-punct" n="830">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="2nuq" n="831">
+      <w_ id="2nuq" dep="2nuk-parataxis" n="831">
         <w lemma="projectus" ana="x:foreign">projectus</w>
       </w_>
       <w_ id="2nur" dep="2nus-punct" n="832">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="2nus" n="833">
+      <w_ id="2nus" dep="2nuq-appos:nonnom" n="833">
         <w lemma="закинутий" ana="adj:m:v_naz:&amp;adjp:perf:pasv">закинутий</w>
       </w_>
       <w_ id="2nut" dep="2nuu-case" n="834">
@@ -2801,7 +2801,7 @@
         <w lemma="майбутнє" ana="adj:n:v_zna:&amp;noun:inanim" lemma2="майбутній">майбутнє</w>
       </w_>
       <g/>
-      <w_ id="2nuv" n="836">
+      <w_ id="2nuv" dep="2nuq-punct" n="836">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>

@@ -433,13 +433,13 @@
         <w_ id="225h">
           <w lemma="бути" ana="verb:aux:imperf:past:n">Було</w>
         </w_>
-        <w_ id="225i">
+        <w_ id="225i" dep="225h-nsubj">
           <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
         </w_>
         <w_ id="225j" dep="225k-case">
           <w lemma="під" ana="prep:rv_oru">під</w>
         </w_>
-        <w_ id="225k">
+        <w_ id="225k" dep="225h-obl">
           <w lemma="Семиківці" ana="noun:inanim:p:v_oru:ns:prop">Семиківцями</w>
         </w_>
         <w_ id="225l" dep="225m-case">
@@ -757,10 +757,10 @@
           <w lemma="крикнути" ana="verb:perf:past:m">крикнув</w>
         </w_>
         <g/>
-        <w_ id="228i">
+        <w_ id="228i" dep="228n-punct">
           <w lemma=":" ana="punct">:</w>
         </w_>
-        <w_ id="228j">
+        <w_ id="228j" dep="228n-punct">
           <w lemma="-" ana="punct">-</w>
         </w_>
         <w_ id="228k">
@@ -784,7 +784,7 @@
           <w lemma="хлопець" ana="noun:anim:p:m:v_kly">хлопці</w>
         </w_>
         <g/>
-        <w_ id="228q" dep="228h-punct">
+        <w_ id="228q" dep="228n-punct">
           <w lemma="?" ana="punct">?</w>
         </w_>
         <sb id="228r"/>
@@ -797,7 +797,7 @@
         <w_ id="228u" dep="228s-obl">
           <w lemma="лихо" ana="noun:inanim:n:v_rod">лиха</w>
         </w_>
-        <w_ id="228v">
+        <w_ id="228v" dep="228s-obl">
           <w lemma="один" ana="adj:m:v_naz:&amp;pron:ind">один</w>
         </w_>
         <w_ id="228w" dep="228x-case">
@@ -1024,104 +1024,104 @@
       </p>
       <p id="22ay">
         <sb id="22az"/>
-        <w_ id="22b0">
+        <w_ id="22b0" dep="22bm-cc">
           <w lemma="але" ana="conj:coord">Але</w>
         </w_>
-        <w_ id="22b1">
+        <w_ id="22b1" dep="22b7-mark">
           <w lemma="що" ana="conj:subord">що</w>
         </w_>
-        <w_ id="22b2">
+        <w_ id="22b2" dep="22b3-case">
           <w lemma="на" ana="prep:rv_mis">на</w>
         </w_>
-        <w_ id="22b3">
+        <w_ id="22b3" dep="22b7-obl">
           <w lemma="лінія" ana="noun:inanim:f:v_mis">лінії</w>
         </w_>
-        <w_ id="22b4">
+        <w_ id="22b4" dep="22b3-nmod">
           <w lemma="стріл" ana="noun:inanim:m:v_rod">стрілу</w>
         </w_>
-        <w_ id="22b5">
+        <w_ id="22b5" dep="22b7-nsubj">
           <w lemma="терен" ana="noun:inanim:m:v_naz">терен</w>
         </w_>
-        <w_ id="22b6">
+        <w_ id="22b6" dep="22b7-advmod">
           <w lemma="легко" ana="adv:compb">легко</w>
         </w_>
-        <w_ id="22b7">
+        <w_ id="22b7" dep="22bm-advcl">
           <w lemma="підноситися" ana="verb:rev:imperf:past:m">підносився</w>
         </w_>
         <g/>
-        <w_ id="22b8">
+        <w_ id="22b8" dep="22bf-punct">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="22b9">
+        <w_ id="22b9" dep="22bf-cc">
           <w lemma="а" ana="conj:coord">а</w>
         </w_>
-        <w_ id="22ba">
+        <w_ id="22ba" dep="22bf-csubj">
           <w lemma="добігти" ana="verb:perf:inf">добігти</w>
         </w_>
-        <w_ id="22bb">
+        <w_ id="22bb" dep="22bd-case">
           <w lemma="до" ana="prep:rv_rod">до</w>
         </w_>
-        <w_ id="22bc">
+        <w_ id="22bc" dep="22bd-amod">
           <w lemma="вигідніший" ana="adj:n:v_rod:compr">вигіднішого</w>
         </w_>
-        <w_ id="22bd">
+        <w_ id="22bd" dep="22ba-obl">
           <w lemma="місце" ana="noun:inanim:n:v_rod">місця</w>
         </w_>
-        <w_ id="22be">
+        <w_ id="22be" dep="22bf-cop">
           <w lemma="бути" ana="verb:imperf:past:n">було</w>
         </w_>
-        <w_ id="22bf">
+        <w_ id="22bf" dep="22b7-conj">
           <w lemma="неможливо" ana="adv">неможливо</w>
         </w_>
         <g/>
-        <w_ id="22bg">
+        <w_ id="22bg" dep="22b7-punct">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="22bh">
+        <w_ id="22bh" dep="22bm-discourse" comment="#&gt;part:conseq">
           <w lemma="то" ana="conj:coord">то</w>
         </w_>
-        <w_ id="22bi">
+        <w_ id="22bi" dep="22bm-nsubj">
           <w lemma="стрілець" ana="noun:anim:p:m:v_naz">стрільці</w>
         </w_>
-        <w_ id="22bj">
+        <w_ id="22bj" dep="22bk-case">
           <w lemma="без" ana="prep:rv_rod">без</w>
         </w_>
-        <w_ id="22bk">
+        <w_ id="22bk" dep="22bm-obl">
           <w lemma="хвиля" ana="noun:inanim:f:v_rod">хвилі</w>
         </w_>
-        <w_ id="22bl">
+        <w_ id="22bl" dep="22bk-nmod">
           <w lemma="вагання" ana="noun:inanim:n:v_rod">вагання</w>
         </w_>
         <w_ id="22bm">
           <w lemma="спорудити" ana="verb:perf:past:p">спорудили</w>
         </w_>
-        <w_ id="22bn">
+        <w_ id="22bn" dep="22bm-obj">
           <w lemma="інструмент" ana="noun:inanim:m:v_zna">інструмент</w>
         </w_>
         <g/>
-        <w_ id="22bo">
+        <w_ id="22bo" dep="22br-punct">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="22bp">
+        <w_ id="22bp" dep="22br-mark">
           <w lemma="що" ana="conj:subord">що</w>
         </w_>
-        <w_ id="22bq">
+        <w_ id="22bq" dep="22br-discourse">
           <w lemma="аж" ana="part">аж</w>
         </w_>
-        <w_ id="22br">
+        <w_ id="22br" dep="22bn-acl">
           <w lemma="здивувати" ana="verb:perf:past:m">здивував</w>
         </w_>
-        <w_ id="22bs">
+        <w_ id="22bs" dep="22br-obj">
           <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
         </w_>
-        <w_ id="22bt">
+        <w_ id="22bt" dep="22bu-det">
           <w lemma="свій" ana="adj:f:v_oru:poss:&amp;pron:refl">своєю</w>
         </w_>
-        <w_ id="22bu">
+        <w_ id="22bu" dep="22br-obl">
           <w lemma="дотепність" ana="noun:inanim:f:v_oru">дотепністю</w>
         </w_>
         <g/>
-        <w_ id="22bv">
+        <w_ id="22bv" dep="22bm-punct">
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="22bw"/>
@@ -1339,10 +1339,10 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="22dw"/>
-        <w_ id="22dx" dep="22dy-mark">
+        <w_ id="22dx" dep="22dy-mark" comment="#&gt;adv:&amp;pron:rel">
           <w lemma="коли" ana="conj:subord">Коли</w>
         </w_>
-        <w_ id="22dy">
+        <w_ id="22dy" dep="22e4-advcl">
           <w lemma="розігнатися" ana="verb:rev:perf:past:p">розігнались</w>
         </w_>
         <w_ id="22dz" dep="22dy-aux">
@@ -1355,10 +1355,10 @@
           <w lemma="наступ" ana="noun:inanim:m:v_rod">наступу</w>
         </w_>
         <g/>
-        <w_ id="22e2">
+        <w_ id="22e2" dep="22dy-punct">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="22e3">
+        <w_ id="22e3" dep="22e4-discourse" comment="#&gt;part:conseq">
           <w lemma="то" ana="conj:coord">то</w>
         </w_>
         <w_ id="22e4">
@@ -1374,10 +1374,10 @@
         <w_ id="22e7" dep="22e8-advmod">
           <w lemma="не" ana="part:neg">не</w>
         </w_>
-        <w_ id="22e8" dep="22e5-advcl">
+        <w_ id="22e8" dep="22e5-conj">
           <w lemma="зважати" ana="verb:imperf:pres:advp">зважаючи</w>
         </w_>
-        <w_ id="22e9">
+        <w_ id="22e9" dep="22ec-advmod">
           <w lemma="ні" ana="part:neg">ні</w>
         </w_>
         <w_ id="22ea" dep="22ec-case">
@@ -1386,7 +1386,7 @@
         <w_ id="22eb" dep="22ec-det">
           <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
         </w_>
-        <w_ id="22ec">
+        <w_ id="22ec" dep="22e8-obl">
           <w lemma="втрата" ana="noun:inanim:p:f:v_zna:v-u">втрати</w>
         </w_>
         <g/>
@@ -2069,13 +2069,13 @@
         <w lemma="Берлін" ana="noun:inanim:m:v_naz:prop">БЕРЛІН</w>
       </w_>
       <g/>
-      <w_ id="22kk">
+      <w_ id="22kk" dep="22kl-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="22kl">
         <w lemma="21" ana="adj:n:v_naz:nv:&amp;numr">21</w>
       </w_>
-      <w_ id="22km">
+      <w_ id="22km" dep="22kl-nmod">
         <w lemma="лютий" ana="adj:m:v_rod:compb:&amp;noun:inanim" lemma2="лютий">лютого</w>
       </w_>
       <g/>
@@ -2083,208 +2083,208 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="22ko"/>
-      <w_ id="22kp">
+      <w_ id="22kp" dep="22ku-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="22kq">
+      <w_ id="22kq" dep="22kr-discourse">
         <w lemma="ще" ana="part">Ще</w>
       </w_>
-      <w_ id="22kr">
+      <w_ id="22kr" dep="22ku-advmod">
         <w lemma="тому" ana="adv">тому</w>
       </w_>
-      <w_ id="22ks">
+      <w_ id="22ks" dep="22kt-det">
         <w lemma="кілька" ana="numr:v_zna:&amp;pron:ind">кілька</w>
       </w_>
-      <w_ id="22kt">
+      <w_ id="22kt" dep="22kr-obl">
         <w lemma="день" ana="noun:inanim:p:m:v_rod">днів</w>
       </w_>
       <w_ id="22ku">
         <w lemma="спротивитися" ana="verb:rev:perf:past:m">спротивився</w>
       </w_>
-      <w_ id="22kv">
+      <w_ id="22kv" dep="22ku-nsubj">
         <w lemma="прем’єр" ana="noun:anim:m:v_naz">прем'єр</w>
       </w_>
-      <w_ id="22kw">
+      <w_ id="22kw" dep="22kx-amod">
         <w lemma="великий" ana="adj:f:v_rod:compb">Великої</w>
       </w_>
-      <w_ id="22kx">
+      <w_ id="22kx" dep="22kv-nmod">
         <w lemma="Британія" ana="noun:inanim:f:v_rod:prop">Британії</w>
       </w_>
       <g/>
-      <w_ id="22ky">
+      <w_ id="22ky" dep="22kz-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="22kz">
+      <w_ id="22kz" dep="22kv-flat:title">
         <w lemma="Черчіль" ana="noun:anim:m:v_naz:prop:lname:odd">Черчіль</w>
       </w_>
-      <w_ id="22l0">
+      <w_ id="22l0" dep="22l1-det">
         <w lemma="всякий" ana="adj:p:v_dav:&amp;pron:gen:v-u">всяким</w>
       </w_>
-      <w_ id="22l1">
+      <w_ id="22l1" dep="22ku-iobj">
         <w lemma="зміна" ana="noun:inanim:p:f:v_dav">змінам</w>
       </w_>
-      <w_ id="22l2">
+      <w_ id="22l2" dep="22l4-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="22l3">
+      <w_ id="22l3" dep="22l4-det">
         <w lemma="свій" ana="adj:m:v_mis:poss:&amp;pron:refl:odd">свому</w>
       </w_>
-      <w_ id="22l4">
+      <w_ id="22l4" dep="22l1-nmod">
         <w lemma="кабінет" ana="noun:inanim:m:v_mis">кабінеті</w>
       </w_>
       <g/>
-      <w_ id="22l5">
+      <w_ id="22l5" dep="22l9-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="22l6">
+      <w_ id="22l6" dep="22l9-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="22l7">
+      <w_ id="22l7" dep="22l9-advmod">
         <w lemma="сьогодні" ana="adv">сьогодні</w>
       </w_>
-      <w_ id="22l8">
+      <w_ id="22l8" dep="22l9-advmod">
         <w lemma="вже" ana="adv:v-u">вже</w>
       </w_>
-      <w_ id="22l9">
+      <w_ id="22l9" dep="22ku-conj:parataxis">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
-      <w_ id="22la">
+      <w_ id="22la" dep="22l9-nsubj">
         <w lemma="вістка" ana="noun:inanim:f:v_naz">вістка</w>
       </w_>
       <g/>
-      <w_ id="22lb">
+      <w_ id="22lb" dep="22lg-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="22lc">
+      <w_ id="22lc" dep="22lg-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="22ld">
+      <w_ id="22ld" dep="22le-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="22le">
+      <w_ id="22le" dep="22lg-obl">
         <w lemma="уряд" ana="noun:inanim:m:v_mis">уряді</w>
       </w_>
-      <w_ id="22lf">
+      <w_ id="22lf" dep="22le-nmod">
         <w lemma="Черчіль" ana="noun:anim:m:v_rod:prop:lname:odd">Черчіля</w>
       </w_>
-      <w_ id="22lg">
+      <w_ id="22lg" dep="22la-acl">
         <w lemma="проведений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">проведені</w>
       </w_>
-      <w_ id="22lh">
+      <w_ id="22lh" dep="22lg-nsubj">
         <w lemma="зміна" ana="noun:inanim:p:f:v_naz">зміни</w>
       </w_>
       <g/>
-      <w_ id="22li">
+      <w_ id="22li" dep="22ku-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="22lj"/>
-      <w_ id="22lk">
+      <w_ id="22lk" dep="22ll-nummod">
         <w lemma="двоє" ana="numr:v_zna">Двох</w>
       </w_>
-      <w_ id="22ll">
+      <w_ id="22ll" dep="22lm-obj">
         <w lemma="міністр" ana="noun:anim:p:m:v_zna">міністрів</w>
       </w_>
       <w_ id="22lm">
         <w lemma="усунути" ana="verb:perf:impers">усунено</w>
       </w_>
       <g/>
-      <w_ id="22ln">
+      <w_ id="22ln" dep="22lp-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="22lo">
+      <w_ id="22lo" dep="22lp-nsubj">
         <w lemma="Бівербрук" ana="noun:anim:m:v_naz:prop:lname">Бівербрук</w>
       </w_>
-      <w_ id="22lp">
+      <w_ id="22lp" dep="22lm-parataxis">
         <w lemma="від’їхати" ana="verb:perf:futr:s:3">від'їде</w>
       </w_>
-      <w_ id="22lq">
+      <w_ id="22lq" dep="22lr-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="22lr">
+      <w_ id="22lr" dep="22lp-obl">
         <w lemma="Вашінгтон" ana="noun:anim:m:v_rod:prop:lname:odd">Вашінгтона</w>
       </w_>
       <g/>
-      <w_ id="22ls">
+      <w_ id="22ls" dep="22lw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="22lt">
+      <w_ id="22lt" dep="22lw-parataxis:discourse">
         <w lemma="здаватися" ana="verb:rev:imperf:pres:s:3">здається</w>
       </w_>
-      <w_ id="22lu">
+      <w_ id="22lu" dep="22lw-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="22lv">
+      <w_ id="22lv" dep="22lw-amod">
         <w lemma="воєнний" ana="adj:f:v_rod">Воєнної</w>
       </w_>
-      <w_ id="22lw">
+      <w_ id="22lw" dep="22lp-obl">
         <w lemma="рада" ana="noun:inanim:f:v_rod">Ради</w>
       </w_>
       <g/>
-      <w_ id="22lx">
+      <w_ id="22lx" dep="22m3-punct">
         <w lemma=";" ana="punct">;</w>
       </w_>
-      <w_ id="22ly">
+      <w_ id="22ly" dep="22m3-cc">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="22lz">
+      <w_ id="22lz" dep="22ly-fixed">
         <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
       </w_>
-      <w_ id="22m0">
+      <w_ id="22m0" dep="22m1-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="22m1">
+      <w_ id="22m1" dep="22m3-obl">
         <w lemma="кабінет" ana="noun:inanim:m:v_rod">кабінету</w>
       </w_>
-      <w_ id="22m2">
+      <w_ id="22m2" dep="22m1-nmod">
         <w lemma="уряд" ana="noun:inanim:m:v_rod">уряду</w>
       </w_>
-      <w_ id="22m3">
+      <w_ id="22m3" dep="22lm-conj:parataxis">
         <w lemma="ввійти" ana="verb:perf:past:m:v-u">ввійшов</w>
       </w_>
-      <w_ id="22m4">
+      <w_ id="22m4" dep="22m9-amod">
         <w lemma="відомий" ana="adj:m:v_naz:compb">відомий</w>
       </w_>
-      <w_ id="22m5">
+      <w_ id="22m5" dep="22m8-case">
         <w lemma="зі" ana="prep:rv_rod">зі</w>
       </w_>
-      <w_ id="22m6">
+      <w_ id="22m6" dep="22m8-det">
         <w lemma="свій" ana="adj:f:v_rod:poss:&amp;pron:refl">своєї</w>
       </w_>
-      <w_ id="22m7">
+      <w_ id="22m7" dep="22m8-amod">
         <w lemma="большевицький" ana="adj:f:v_rod:alt">большевицької</w>
       </w_>
-      <w_ id="22m8">
+      <w_ id="22m8" dep="22m4-nmod">
         <w lemma="агітація" ana="noun:inanim:f:v_rod">агітації</w>
       </w_>
-      <w_ id="22m9">
+      <w_ id="22m9" dep="22m3-nsubj">
         <w lemma="Кріппс" ana="noun:anim:m:v_naz:prop:lname">Кріппс</w>
       </w_>
-      <w_ id="22ma">
+      <w_ id="22ma" dep="22mb-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="22mb">
+      <w_ id="22mb" dep="22m3-xcomp:2">
         <w lemma="льорд" ana="noun:anim:m:v_naz:odd">льорд</w>
       </w_>
-      <w_ id="22mc">
+      <w_ id="22mc" dep="22mb-nmod">
         <w lemma="печать" ana="noun:inanim:f:v_rod">печаті</w>
       </w_>
-      <w_ id="22md">
+      <w_ id="22md" dep="22me-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="22me">
+      <w_ id="22me" dep="22mb-conj">
         <w lemma="міністр" ana="noun:anim:m:v_naz">міністр</w>
       </w_>
-      <w_ id="22mf">
+      <w_ id="22mf" dep="22mg-case">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="22mg">
+      <w_ id="22mg" dep="22me-nmod">
         <w lemma="палата" ana="noun:inanim:f:v_rod">Палати</w>
       </w_>
-      <w_ id="22mh">
+      <w_ id="22mh" dep="22mg-nmod">
         <w lemma="громада" ana="noun:inanim:p:f:v_rod">Громад</w>
       </w_>
       <g/>
-      <w_ id="22mi">
+      <w_ id="22mi" dep="22lm-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="22mj"/>
@@ -2409,17 +2409,17 @@
         <w lemma="Черчіль" ana="noun:anim:m:v_zna:prop:lname:odd">Черчіля</w>
       </w_>
       <g/>
-      <w_ id="22nn">
+      <w_ id="22nn" dep="22np-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="22no">
+      <w_ id="22no" dep="22np-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="22np">
+      <w_ id="22np" dep="22nl-xcomp:2">
         <w lemma="недотепа" ana="noun:anim:m:v_zna">недотепу</w>
       </w_>
       <g/>
-      <w_ id="22nq">
+      <w_ id="22nq" dep="22mz-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="22nr"/>
