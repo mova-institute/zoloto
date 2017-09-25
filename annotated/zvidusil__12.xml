@@ -1068,7 +1068,7 @@
           <w lemma="місце" ana="noun:inanim:n:v_rod">місця</w>
         </w_>
         <w_ id="22be" dep="22bf-cop">
-          <w lemma="бути" ana="verb:imperf:past:n">було</w>
+          <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
         </w_>
         <w_ id="22bf" dep="22b7-conj">
           <w lemma="неможливо" ana="adv">неможливо</w>
@@ -1077,8 +1077,8 @@
         <w_ id="22bg" dep="22b7-punct">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="22bh" dep="22bm-discourse" comment="#&gt;part:conseq">
-          <w lemma="то" ana="conj:coord">то</w>
+        <w_ id="22bh" dep="22bm-discourse">
+          <w lemma="то" ana="part:conseq">то</w>
         </w_>
         <w_ id="22bi" dep="22bm-nsubj">
           <w lemma="стрілець" ana="noun:anim:p:m:v_naz">стрільці</w>
@@ -1339,8 +1339,8 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="22dw"/>
-        <w_ id="22dx" dep="22dy-mark" comment="#&gt;adv:&amp;pron:rel">
-          <w lemma="коли" ana="conj:subord">Коли</w>
+        <w_ id="22dx" dep="22dy-advmod">
+          <w lemma="коли" ana="adv:&amp;pron:rel">Коли</w>
         </w_>
         <w_ id="22dy" dep="22e4-advcl">
           <w lemma="розігнатися" ana="verb:rev:perf:past:p">розігнались</w>
@@ -1358,8 +1358,8 @@
         <w_ id="22e2" dep="22dy-punct">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="22e3" dep="22e4-discourse" comment="#&gt;part:conseq">
-          <w lemma="то" ana="conj:coord">то</w>
+        <w_ id="22e3" dep="22e4-discourse">
+          <w lemma="то" ana="part:conseq">то</w>
         </w_>
         <w_ id="22e4">
           <w lemma="йти" ana="verb:imperf:past:p">йшли</w>
@@ -2092,7 +2092,7 @@
       <w_ id="22kr" dep="22ku-advmod">
         <w lemma="тому" ana="adv">тому</w>
       </w_>
-      <w_ id="22ks" dep="22kt-det">
+      <w_ id="22ks" dep="22kt-det:numgov">
         <w lemma="кілька" ana="numr:v_zna:&amp;pron:ind">кілька</w>
       </w_>
       <w_ id="22kt" dep="22kr-obl">

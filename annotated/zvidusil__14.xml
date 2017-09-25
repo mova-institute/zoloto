@@ -107,8 +107,8 @@
       <w_ id="24dl" dep="24do-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="24dm" dep="24do-mark" comment="#&gt;adv:&amp;pron:rel">
-        <w lemma="як" ana="conj:subord">як</w>
+      <w_ id="24dm" dep="24do-advmod">
+        <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
       <w_ id="24dn" dep="24do-nsubj">
         <w lemma="натовп" ana="noun:inanim:m:v_naz">натовп</w>
@@ -2666,7 +2666,7 @@
         <w lemma="мати" ana="verb:imperf:pres:p:3">мають</w>
       </w_>
       <w_ id="250s" dep="250p-cop">
-        <w lemma="бути" ana="verb:imperf:inf">бути</w>
+        <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
       <w_ id="250t" dep="250r-nsubj" mark="reviewed">
         <w lemma="жилет" ana="noun:inanim:p:m:v_naz">жилети</w>
@@ -3602,7 +3602,7 @@
         <w lemma="3" ana="numr:v_naz:nv">3</w>
       </w_>
       <g/>
-      <w_ id="2591" dep="2592-cc">
+      <w_ id="2591" dep="2592-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <g/>
@@ -4918,7 +4918,7 @@
         <w lemma="-" ana="punct">-</w>
       </w_>
       <w_ id="25kh" dep="25kd-expl">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="25ki" dep="25kd-csubj">
         <w lemma="пити" ana="verb:imperf:inf">пити</w>
