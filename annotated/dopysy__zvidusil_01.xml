@@ -2155,8 +2155,8 @@
         <w lemma=")" ana="punct">)</w>
       </w_>
       <sb id="319h"/>
-      <w_ id="319i" dep="319r-cc" comment="#&gt;conj:coord" n="650">
-        <w lemma="а" ana="part">А</w>
+      <w_ id="319i" dep="319r-cc" n="650">
+        <w lemma="а" ana="conj:coord">А</w>
       </w_>
       <w_ id="319j" dep="319r-discourse" n="651">
         <w lemma="от" ana="part">от</w>
@@ -6432,8 +6432,8 @@
       <w_ id="32dg" dep="32dj-mark" n="1936">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="32dh" dep="32dj-nsubj" comment="#&gt;:&amp;noun:anim:m" n="1937">
-        <w lemma="дорослий" ana="adj:p:v_naz:compb">дорослі</w>
+      <w_ id="32dh" dep="32dj-nsubj" n="1937">
+        <w lemma="дорослий" ana="adj:m:p:v_naz:compb:&amp;noun:anim" lemma2="дорослий">дорослі</w>
       </w_>
       <w_ id="32di" dep="32dj-advmod" n="1938">
         <w lemma="обережно" ana="adv:compb">обережно</w>
@@ -6538,7 +6538,7 @@
         <w lemma="-" ana="punct">-</w>
       </w_>
       <w_ id="32eh" dep="32ei-expl" n="1969">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="32ei" n="1970">
         <w lemma="безчестя" ana="noun:inanim:n:v_naz">безчестя</w>
@@ -7624,7 +7624,7 @@
         <w lemma="-" ana="punct">-</w>
       </w_>
       <w_ id="32ol" dep="32on-expl" n="2290">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="32om" dep="32on-amod" n="2291">
         <w lemma="близький" ana="adj:p:v_naz:compb">близькі</w>
@@ -7727,8 +7727,8 @@
       <w_ id="32pk" dep="32pm-advmod" comment="~" n="2321">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="32pl" dep="32pm-det" comment="#&gt;adj:n:v_naz:&amp;amp;pron:dem@такий" n="2322">
-        <w lemma="таке" ana="noun:inanim:n:v_naz:&amp;pron:dem">таке</w>
+      <w_ id="32pl" dep="32pm-det" n="2322">
+        <w lemma="такий" ana="adj:n:v_naz:&amp;pron:dem">таке</w>
       </w_>
       <w_ id="32pm" n="2323">
         <w lemma="питання" ana="noun:inanim:n:v_naz">питання</w>
@@ -7909,8 +7909,8 @@
       <w_ id="32ra" n="2374">
         <w lemma="рах" ana="noun:inanim:m:v_zna">рах</w>
       </w_>
-      <w_ id="32rb" dep="32rc-mark" comment="#&gt;conj:subord" n="2375">
-        <w lemma="чи" ana="part">чи</w>
+      <w_ id="32rb" dep="32rc-mark" n="2375">
+        <w lemma="чи" ana="conj:subord">чи</w>
       </w_>
       <w_ id="32rc" dep="32ra-acl" n="2376">
         <w lemma="можна" ana="adv">можна</w>

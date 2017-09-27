@@ -716,8 +716,8 @@
       <w_ id="331v" dep="331w-case" n="213">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="331w" comment="#&gt;noun:inanim:n:v_rod:&amp;amp;pron:dem@те" n="214">
-        <w lemma="того" ana="adv:&amp;pron:dem">того</w>
+      <w_ id="331w" n="214">
+        <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
       <g/>
       <w_ id="331x" dep="3321-punct" n="215">
@@ -1516,10 +1516,10 @@
       <w_ id="3395" dep="3394-punct" n="452">
         <w lemma="!!" ana="punct">!!</w>
       </w_>
-      <sb/>
+      <sb id="38pi"/>
     </p>
     <p id="3396">
-      <sb/>
+      <sb id="38pj"/>
       <w_ id="3397" dep="339a-nsubj" n="453">
         <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">Ви</w>
       </w_>
@@ -2008,7 +2008,7 @@
       <w_ id="33do" dep="33dr-mark" n="599">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="33dp" dep="33dq-expl" n="600">
+      <w_ id="33dp" dep="33dq-case" n="600">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="33dq" dep="33dr-obl" n="601">
@@ -2064,7 +2064,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="33e7"/>
-      <w_ id="33e8" dep="33e9-case" n="617">
+      <w_ id="33e8" dep="33e9-det" n="617">
         <w lemma="цей" ana="adj:m:v_rod:&amp;pron:dem">Цього</w>
       </w_>
       <w_ id="33e9" dep="33eb-obl" n="618">
@@ -2246,8 +2246,8 @@
       <w_ id="33fv" dep="33fw-amod" n="670">
         <w lemma="добрий" ana="adj:p:v_naz:compb">добрі</w>
       </w_>
-      <w_ id="33fw" dep="33fz-advcl" comment="#&gt;:&amp;noun:anim:m" n="671">
-        <w lemma="знайомий" ana="adj:p:v_naz">знайомі</w>
+      <w_ id="33fw" dep="33fz-advcl" n="671">
+        <w lemma="знайомий" ana="adj:m:p:v_naz:&amp;noun:anim" lemma2="знайомий">знайомі</w>
       </w_>
       <g/>
       <w_ id="33fx" dep="33fw-punct" n="672">
@@ -2515,8 +2515,8 @@
       <w_ id="33i9" dep="33ib-advmod" n="751">
         <w lemma="передучора" ana="adv">передучора</w>
       </w_>
-      <w_ id="33ia" dep="33ib-nsubj" comment="#&gt;:&amp;noun:anim:m" n="752">
-        <w lemma="безробітний" ana="adj:p:v_naz">безробітні</w>
+      <w_ id="33ia" dep="33ib-nsubj" n="752">
+        <w lemma="безробітний" ana="adj:m:p:v_naz:&amp;noun:anim" lemma2="безробітний">безробітні</w>
       </w_>
       <w_ id="33ib" dep="33i4-ccomp" comment="~" n="753">
         <w lemma="витовкти" ana="verb:perf:past:p">витовкли</w>
@@ -4112,8 +4112,8 @@
       <sb id="33wu"/>
     </p>
     <p id="33wv">
-      <w_ id="33ww" dep="33x5-discourse" comment="#&gt;adv" n="1243">
-        <w lemma="однак" ana="conj:coord">Однак</w>
+      <w_ id="33ww" dep="33x5-discourse" n="1243">
+        <w lemma="однак" ana="adv">Однак</w>
       </w_>
       <g/>
       <w_ id="33wx" dep="33ww-punct" n="1244">
@@ -4180,7 +4180,7 @@
       <w_ id="33xi" n="1263">
         <w lemma="патрулювати" ana="verb:imperf:pres:p:3">патрулюють</w>
       </w_>
-      <w_ id="33xj" dep="33xk-punct" n="1264">
+      <w_ id="33xj" dep="33xk-cc" n="1264">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
       <w_ id="33xk" dep="33xi-conj" n="1265">
@@ -4415,7 +4415,7 @@
         <w lemma="монтіровка" ana="noun:inanim:f:v_oru">монтіровкою</w>
       </w_>
       <g/>
-      <w_ id="33zr" dep="33zu-case" n="1332">
+      <w_ id="33zr" dep="33zu-punct" n="1332">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="33zs" dep="33zu-case" n="1333">
@@ -4546,7 +4546,7 @@
       <w_ id="3411" dep="3412-cc" n="1368">
         <w lemma="чи" ana="conj:coord">чи</w>
       </w_>
-      <w_ id="3412" dep="340w-conj" n="1369">
+      <w_ id="3412" dep="340w-advmod" n="1369">
         <w lemma="ні" ana="part:neg">ні</w>
       </w_>
       <g/>
