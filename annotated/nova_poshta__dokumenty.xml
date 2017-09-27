@@ -1283,7 +1283,7 @@
       <w_ id="2f4l" dep="2f4m-amod" n="383">
         <w lemma="загальний" ana="adj:f:v_naz:compb">загальна</w>
       </w_>
-      <w_ id="2f4m" dep="2f4s-nsubj" n="384">
+      <w_ id="2f4m" n="384">
         <w lemma="вага" ana="noun:inanim:f:v_naz">вага</w>
       </w_>
       <w_ id="2f4n" n="385">
@@ -2171,7 +2171,7 @@
       <w_ id="2fby" dep="2fc7-advcl" n="648">
         <w lemma="становити" ana="verb:imperf:pres:s:3">становить</w>
       </w_>
-      <w_ id="2fbz" n="649">
+      <w_ id="2fbz" dep="2fc2-advmod:amtgov" n="649">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
       <w_ id="2fc0" dep="2fbz-fixed" n="650">
@@ -2180,7 +2180,7 @@
       <w_ id="2fc1" dep="2fc2-nummod:gov" n="651">
         <w lemma="30" ana="numr:v_zna:nv">30</w>
       </w_>
-      <w_ id="2fc2" n="652">
+      <w_ id="2fc2" dep="2fby-obj" n="652">
         <w lemma="кг" ana="noun:inanim:p:m:v_rod:nv:abbr">кг</w>
       </w_>
       <g/>
@@ -2428,55 +2428,55 @@
       <w_ id="2fe2" n="724">
         <w lemma="час" ana="noun:inanim:m:v_rod">часу</w>
       </w_>
-      <w_ id="2fe3" n="725">
+      <w_ id="2fe3" dep="2fe4-case" n="725">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="2fe4" n="726">
         <w lemma="9" ana="adj:f:v_rod:nv:&amp;numr">9</w>
       </w_>
       <g/>
-      <w_ id="2fe5" n="727">
+      <w_ id="2fe5" dep="2fe6-punct" n="727">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <g/>
-      <w_ id="2fe6" n="728">
+      <w_ id="2fe6" dep="2fe4-compound" n="728">
         <w lemma="00" ana="numr:v_naz:nv">00</w>
       </w_>
-      <w_ id="2fe7" n="729">
+      <w_ id="2fe7" dep="2fe8-case" n="729">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ id="2fe8" n="730">
         <w lemma="21" ana="numr:f:v_rod:nv">21</w>
       </w_>
       <g/>
-      <w_ id="2fe9" n="731">
+      <w_ id="2fe9" dep="2fea-punct" n="731">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <g/>
-      <w_ id="2fea" n="732">
+      <w_ id="2fea" dep="2fe8-compound" n="732">
         <w lemma="00" ana="numr:v_naz:nv">00</w>
       </w_>
       <g/>
       <w_ id="2feb" n="733">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2fec" n="734">
+      <w_ id="2fec" dep="2fed-case" n="734">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="2fed" n="735">
+      <w_ id="2fed" dep="2fee-obl" n="735">
         <w lemma="який" ana="adj:m:v_zna:rinanim:&amp;pron:rel">який</w>
       </w_>
       <w_ id="2fee" n="736">
         <w lemma="замовити" ana="verb:perf:impers">замовлено</w>
       </w_>
-      <w_ id="2fef" n="737">
+      <w_ id="2fef" dep="2fee-obj" n="737">
         <w lemma="забір" ana="noun:inanim:m:v_zna">забір</w>
       </w_>
       <g/>
       <w_ id="2feg" n="738">
         <w lemma=")" ana="punct">)</w>
       </w_>
-      <w_ id="2feh" n="739">
+      <w_ id="2feh" dep="2fei-case" n="739">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
       <w_ id="2fei" n="740">
@@ -2971,7 +2971,7 @@
       <w_ id="2fii" dep="2fi0-advcl" n="884">
         <w lemma="відбутися" ana="verb:rev:perf:past:n">відбулося</w>
       </w_>
-      <w_ id="2fij" n="885">
+      <w_ id="2fij" dep="2fik-case" n="885">
         <w lemma="внаслідок" ana="prep:rv_rod:v-u">внаслідок</w>
       </w_>
       <w_ id="2fik" dep="2fii-nmod" n="886">
@@ -2980,7 +2980,7 @@
       <w_ id="2fil" dep="2fik-nmod" n="887">
         <w lemma="обставина" ana="noun:inanim:p:f:v_rod">обставин</w>
       </w_>
-      <w_ id="2fim" n="888">
+      <w_ id="2fim" dep="2fin-amod" n="888">
         <w lemma="непереборний" ana="adj:f:v_rod">непереборної</w>
       </w_>
       <w_ id="2fin" dep="2fil-nmod" n="889">

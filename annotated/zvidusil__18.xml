@@ -1572,10 +1572,10 @@
       <w_ id="2b7b">
         <w lemma="приклад" ana="noun:inanim:m:v_naz">приклад</w>
       </w_>
-      <w_ id="2b7c">
+      <w_ id="2b7c" dep="2b8v-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="2b7d" dep="2b7v-mark">
+      <w_ id="2b7d" dep="2b8v-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="2b7e" dep="2b7f-advmod">
@@ -1587,7 +1587,7 @@
       <w_ id="2b7g" dep="2b7h-amod">
         <w lemma="милий" ana="adj:f:v_naz:compb">мила</w>
       </w_>
-      <w_ id="2b7h">
+      <w_ id="2b7h" dep="2b8v-nsubj">
         <w lemma="журналістка" ana="noun:anim:f:v_naz">журналістка</w>
       </w_>
       <g/>
@@ -1724,7 +1724,7 @@
         <w lemma="&quot;" ana="punct:quote:open">"</w>
       </w_>
       <g/>
-      <w_ id="2b8o" lang="ru">
+      <w_ id="2b8o" dep="2b86-parataxis" lang="ru">
         <w lemma="ШТО" ana="x:foreign">ШТО</w>
       </w_>
       <g/>
@@ -1746,7 +1746,7 @@
       <w_ id="2b8t">
         <w lemma="-" ana="punct">-</w>
       </w_>
-      <w_ id="2b8u">
+      <w_ id="2b8u" dep="2b8v-advmod">
         <w lemma="теж" ana="adv">теж</w>
       </w_>
       <w_ id="2b8v">
@@ -1789,7 +1789,7 @@
       <w_ id="2b97" dep="2b94-nmod">
         <w lemma="куратор" ana="noun:anim:m:v_rod">куратора</w>
       </w_>
-      <w_ id="2b98">
+      <w_ id="2b98" dep="2b9c-punct">
         <w lemma="-" ana="punct">-</w>
       </w_>
       <w_ id="2b99" dep="2b9b-case">
@@ -1801,7 +1801,7 @@
       <w_ id="2b9b" dep="2b9c-obl">
         <w lemma="оказія" ana="noun:inanim:f:v_mis">оказії</w>
       </w_>
-      <w_ id="2b9c">
+      <w_ id="2b9c" dep="2b94-acl">
         <w lemma="доводити" ana="verb:imperf:inf">доводити</w>
       </w_>
       <g/>
@@ -1869,7 +1869,7 @@
       <w_ id="2b9v">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
-      <w_ id="2b9w">
+      <w_ id="2b9w" dep="2emq-obj" comment="#&gt;noun:inanim:v_rod:&amp;amp;pron:neg@ніщо">
         <w lemma="нічого" ana="adv">нічого</w>
       </w_>
       <w_ id="2b9x" dep="2emq-punct">
@@ -1948,7 +1948,7 @@
       <w_ id="2bab" dep="2bac-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2bac">
+      <w_ id="2bac" dep="2ba2-advcl">
         <w lemma="розповісти" ana="verb:perf:past:m">розповів</w>
       </w_>
       <w_ id="2bad" dep="2baf-case">
