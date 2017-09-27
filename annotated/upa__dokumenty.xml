@@ -2335,10 +2335,10 @@
       </w_>
       <sb id="1891"/>
       <w_ id="1892" dep="1893-cop" comment="~ зв’язка в наказовому?">
-        <w lemma="бути" ana="verb:imperf:impr:p:2">Будьте</w>
+        <w lemma="бути" ana="verb:aux:imperf:impr:p:2">Будьте</w>
       </w_>
-      <w_ id="1893" comment="#&gt;adj:p:v_naz:compb@свідомий">
-        <w lemma="свідомі" ana="adj:p:v_naz:compb:ns:&amp;noun:anim" lemma2="свідомий">свідомі</w>
+      <w_ id="1893">
+        <w lemma="свідомий" ana="adj:p:v_naz:compb">свідомі</w>
       </w_>
       <w_ id="1894" dep="1893-obj">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
@@ -2575,7 +2575,7 @@
         <w lemma="свідомий" ana="adj:p:v_naz:compb">свідомі</w>
       </w_>
       <w_ id="18b9" dep="18b8-cop" comment="~">
-        <w lemma="бути" ana="verb:imperf:impr:p:2">будьте</w>
+        <w lemma="бути" ana="verb:aux:imperf:impr:p:2">будьте</w>
       </w_>
       <w_ id="18ba" dep="18bc-det">
         <w lemma="той" ana="adj:f:v_rod:&amp;pron:dem">тієї</w>
@@ -4041,8 +4041,8 @@
       <w_ id="18ok" dep="18om-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="18ol" dep="18om-mark" comment="#&gt;conj:subord">
-        <w lemma="як" ana="adv:&amp;pron:rel">як</w>
+      <w_ id="18ol" dep="18om-mark">
+        <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ id="18om" dep="18op-parataxis">
         <w lemma="знати" ana="verb:imperf:pres:p:1">знаємо</w>
@@ -4340,8 +4340,8 @@
         </w_>
         <sb id="18rb"/>
       </b>
-      <w_ id="18rc" dep="18rf-advmod" comment="#&gt;adv:&amp;pron:rel">
-        <w lemma="коли" ana="conj:subord">Коли</w>
+      <w_ id="18rc" dep="18rf-advmod">
+        <w lemma="коли" ana="adv:&amp;pron:rel">Коли</w>
       </w_>
       <w_ id="18rd" dep="18re-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
@@ -5976,8 +5976,8 @@
       <w_ id="1962" dep="1965-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1963" dep="1965-nmod" comment="#&gt;noun:inanim:n:v_dav:&amp;amp;pron:dem:abbr">
-        <w lemma="т." ana="adv:abbr:&amp;pron:dem">т</w>
+      <w_ id="1963" dep="1965-nmod">
+        <w lemma="т." ana="noun:inanim:n:v_dav:nv:abbr:&amp;pron:dem">т</w>
       </w_>
       <g/>
       <w_ id="1964" dep="1963-punct">
@@ -6111,8 +6111,8 @@
       <w_ id="197a" dep="1977-conj">
         <w lemma="утотожнювати" ana="verb:imperf:inf">утотожнювати</w>
       </w_>
-      <w_ id="197b" dep="197c-det" comment="#&gt;adj:n:v_zna:&amp;amp;pron:dem">
-        <w lemma="це" ana="noun:inanim:n:v_rod:&amp;pron:dem">цього</w>
+      <w_ id="197b" dep="197c-det">
+        <w lemma="це" ana="adj:n:v_zna:&amp;pron:dem">цього</w>
       </w_>
       <w_ id="197c" dep="197a-obj">
         <w lemma="все" ana="noun:inanim:n:v_rod:&amp;pron:gen:v-u">всього</w>

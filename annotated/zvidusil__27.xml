@@ -4769,8 +4769,8 @@
       <w_ id="3437" n="1434">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3438" comment="#&gt;adj:n:v_rod:compb:&amp;amp;numr" n="1435">
-        <w lemma="1" ana="numr:p:v_rod:nv">1</w>
+      <w_ id="3438" n="1435">
+        <w lemma="1" ana="adj:n:v_rod:compb:&amp;numr">1</w>
       </w_>
       <w_ id="3439" dep="3438-nmod" n="1436">
         <w lemma="вересень" ana="noun:inanim:m:v_rod">вересня</w>
@@ -4839,8 +4839,8 @@
       <w_ id="343t" dep="343u-det" n="1456">
         <w lemma="увесь" ana="adj:p:v_zna:ranim:&amp;pron:gen">усіх</w>
       </w_>
-      <w_ id="343u" dep="343q-obj" comment="#&gt;:&amp;noun:anim:m" n="1457">
-        <w lemma="перехожий" ana="adj:p:v_zna:ranim">перехожих</w>
+      <w_ id="343u" dep="343q-obj" n="1457">
+        <w lemma="перехожий" ana="adj:m:p:v_zna:ranim:&amp;noun:anim" lemma2="перехожий">перехожих</w>
       </w_>
       <w_ id="343v" dep="343w-case" n="1458">
         <w lemma="під" ana="prep:rv_oru">під</w>
@@ -5169,13 +5169,13 @@
         <w lemma="який" ana="adj:m:v_oru:&amp;pron:int">яким</w>
       </w_>
       <w_ id="346r" dep="346s-expl" comment="~" n="1556">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="346s" dep="346m-obj" tags="graft" n="1557">
         <w lemma="свято" ana="noun:inanim:n:v_oru">святом</w>
       </w_>
       <g/>
-      <w_ id="346t" dep="346s-punct|346s-punct" n="1558">
+      <w_ id="346t" dep="346s-punct" n="1558">
         <w lemma="?" ana="punct">?</w>
       </w_>
       <g/>
@@ -5188,8 +5188,8 @@
       <w_ id="346w" n="1561">
         <w lemma="зустріти" ana="verb:perf:past:m">зустрів</w>
       </w_>
-      <w_ id="346x" dep="346w-obj" comment="#&gt;:v_zna" n="1562">
-        <w lemma="хор" ana="noun:inanim:m:v_naz">хор</w>
+      <w_ id="346x" dep="346w-obj" n="1562">
+        <w lemma="хор" ana="noun:inanim:m:v_zna">хор</w>
       </w_>
       <g/>
       <w_ id="346y" n="1563">
@@ -6228,8 +6228,8 @@
       <w_ id="34gc" dep="34gd-case" n="1870">
         <w lemma="у" ana="prep:rv_rod:v-u">у</w>
       </w_>
-      <w_ id="34gd" dep="34gb-obl" comment="#&gt;:&amp;noun:anim:m" n="1871">
-        <w lemma="військовий" ana="adj:p:v_rod">військових</w>
+      <w_ id="34gd" dep="34gb-obl" n="1871">
+        <w lemma="військовий" ana="adj:m:p:v_rod:&amp;noun:anim" lemma2="військовий">військових</w>
       </w_>
       <g/>
       <w_ id="34ge" dep="34gj-punct" n="1872">

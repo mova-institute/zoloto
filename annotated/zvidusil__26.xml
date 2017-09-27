@@ -4576,7 +4576,7 @@
         <w lemma="Ржевуський" ana="noun:anim:m:v_rod:prop:lname">Ржевуського</w>
       </w_>
       <w_ id="2vtp" n="1392">
-        <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
+        <w lemma="бути" ana="verb:imperf:past:m">був</w>
       </w_>
       <w_ id="2vtq" dep="2vtr-amod" n="1393">
         <w lemma="арабський" ana="adj:m:v_naz">арабський</w>
@@ -5046,9 +5046,7 @@
       <w_ id="2vxs" dep="2vxa-conj" n="1537">
         <w lemma="сарай" ana="noun:inanim:p:m:v_naz">сараї</w>
       </w_>
-      <!-- <w_ id="2vxt" n="1538">
-        <w lemma="(" ana="punct">(</w>
-      </w_> -->
+      <!-- <w_ id="2vxt" n="1538"><w lemma="(" ana="punct">(</w></w_> -->
       <g/>
       <w_ id="2vxu" dep="2vxv-case" n="1539">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
@@ -5832,7 +5830,7 @@
         <w lemma="Паркани" ana="noun:inanim:p:v_mis:ns:prop">Парканах</w>
       </w_>
       <w_ id="2w4o" dep="2w2p-parataxis" n="1779">
-        <w lemma="бути" ana="verb:aux:imperf:pres:p:3">є</w>
+        <w lemma="бути" ana="verb:imperf:pres:p:3">є</w>
       </w_>
       <w_ id="2w4p" dep="2w4o-nsubj" n="1780">
         <w lemma="могила" ana="noun:inanim:p:f:v_naz">могили</w>
@@ -7865,8 +7863,8 @@
       <w_ id="2wmq" dep="2wmm-conj" n="2390">
         <w lemma="діждати" ana="verb:perf:past:m">діждав</w>
       </w_>
-      <w_ id="2wmr" dep="2wmt-discourse" comment="#&gt;part" n="2391">
-        <w lemma="і" ana="conj:coord">і</w>
+      <w_ id="2wmr" dep="2wmt-discourse" n="2391">
+        <w lemma="і" ana="part">і</w>
       </w_>
       <w_ id="2wms" dep="2wmt-advmod" n="2392">
         <w lemma="заміж" ana="adv">заміж</w>
@@ -9360,7 +9358,7 @@
         <w lemma="козак" ana="noun:anim:m:v_naz">козак</w>
       </w_>
       <g/>
-      <w_ id="2x0d" dep="2x0f-punct|2x0f-punct" n="2835">
+      <w_ id="2x0d" dep="2x0f-punct" n="2835">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2x0e" dep="2x0f-nsubj" n="2836">
@@ -10286,8 +10284,8 @@
       <w_ id="2x8j" dep="2x8l-punct" n="3116">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2x8k" dep="2x8l-mark" comment="~ #&gt;conj:subord" n="3117">
-        <w lemma="як" ana="adv:&amp;pron:rel">як</w>
+      <w_ id="2x8k" dep="2x8l-mark" comment="~" n="3117">
+        <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ id="2x8l" dep="2x8i-advcl" n="3118">
         <w lemma="боятися" ana="verb:rev:imperf:past:p">боялись</w>
@@ -10745,7 +10743,7 @@
       <w_ id="2xcm" dep="2xcn-mark" n="3257">
         <w lemma="коли" ana="conj:subord">коли</w>
       </w_>
-      <w_ id="2xcn" dep="2xcq-advcl" n="3258">
+      <w_ id="2xcn" dep="2xcq-advcl" tags="promoted" n="3258">
         <w lemma="ні" ana="part:neg">ні</w>
       </w_>
       <g/>
