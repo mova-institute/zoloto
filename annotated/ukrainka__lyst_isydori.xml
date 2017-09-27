@@ -331,7 +331,7 @@
       <w_ id="15g1" dep="15g2-cop">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
-      <w_ id="15g2">
+      <w_ id="15g2" dep="15fr-advcl" comment="~">
         <w lemma="сором" ana="adv">сором</w>
       </w_>
       <w_ id="15g3" dep="15g4-cc">
@@ -1557,10 +1557,10 @@
       <w_ id="15qu" dep="15qx-nsubj">
         <w lemma="яхта" ana="noun:inanim:p:f:v_naz">яхти</w>
       </w_>
-      <w_ id="15qv">
+      <w_ id="15qv" dep="15qx-advmod">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
-      <w_ id="15qw">
+      <w_ id="15qw" dep="15qx-expl">
         <w lemma="себе" ana="noun:v_dav:&amp;pron:refl">собі</w>
       </w_>
       <w_ id="15qx" dep="15qr-ccomp">
@@ -2982,16 +2982,16 @@
       <w_ id="163j" dep="163l-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="163k">
+      <w_ id="163k" dep="163l-mark">
         <w lemma="хоч" ana="conj:subord">хоч</w>
       </w_>
       <w_ id="163l" dep="163r-advcl">
         <w lemma="незнайомий" ana="adj:p:v_naz">незнайомі</w>
       </w_>
-      <w_ id="163m">
+      <w_ id="163m" dep="163n-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="163n">
+      <w_ id="163n" dep="163l-obl">
         <w lemma="він" ana="noun:m:v_oru:&amp;pron:pers:3">ним</w>
       </w_>
       <g/>
@@ -3088,7 +3088,7 @@
       <w_ id="164h" dep="164i-discourse">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
-      <w_ id="164i" mark="reviewed">
+      <w_ id="164i" dep="164g-amod" mark="reviewed">
         <w lemma="некупований" ana="adj:p:v_zna:rinanim:&amp;adjp:imperf:pasv:auto">некуповані</w>
       </w_>
       <w_ id="164j" dep="164c-conj:parataxis">
@@ -3530,7 +3530,7 @@
       <w_ id="168g" dep="168h-nummod:gov">
         <w lemma="3½" ana="numr:v_zna:nv">3½</w>
       </w_>
-      <w_ id="168h" mark="resolved">
+      <w_ id="168h" dep="168f-obl" mark="resolved" comment="~">
         <w lemma="год." ana="noun:inanim:f:v_zna:nv:abbr">год</w>
       </w_>
       <g/>

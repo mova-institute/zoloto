@@ -545,17 +545,17 @@
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="2340"/>
-      <w_ id="2341">
+      <w_ id="2341" dep="2343-cc">
         <w lemma="а" ana="conj:coord">А</w>
       </w_>
-      <w_ id="2342">
+      <w_ id="2342" dep="2343-csubj">
         <w lemma="щипати" ana="verb:imperf:inf">щипати</w>
       </w_>
       <w_ id="2343">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
       <g/>
-      <w_ id="2344">
+      <w_ id="2344" dep="2343-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2345"/>
@@ -1084,22 +1084,22 @@
         <w lemma="залишати" ana="verb:imperf:pres:s:1">залишаю</w>
       </w_>
       <g/>
-      <w_ id="2394" dep="2399-punct">
+      <w_ id="2394" dep="2396-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2395" dep="2399-mark">
+      <w_ id="2395" dep="2396-mark">
         <w lemma="щоб" ana="conj:subord">щоб</w>
       </w_>
-      <w_ id="2396" dep="2399-aux">
+      <w_ id="2396" dep="2393-advcl">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
-      <w_ id="2397">
+      <w_ id="2397" dep="2398-case">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="2398">
+      <w_ id="2398" dep="2399-obl">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:ind">що</w>
       </w_>
-      <w_ id="2399" dep="2393-advcl">
+      <w_ id="2399" dep="2396-csubj">
         <w lemma="витягати" ana="verb:imperf:inf">витягати</w>
       </w_>
       <w_ id="239a" dep="239c-case">
@@ -2022,7 +2022,7 @@
       <w_ id="23hs" dep="23ho-acl">
         <w lemma="набути" ana="verb:perf:past:m">набув</w>
       </w_>
-      <w_ id="23ht">
+      <w_ id="23ht" dep="23hv-case">
         <w lemma="наприкінці" ana="prep:rv_rod">наприкінці</w>
       </w_>
       <w_ id="23hu" dep="23hv-amod">
@@ -2375,7 +2375,7 @@
       <w_ id="23ky" dep="23kz-amod">
         <w lemma="самвидавський" ana="adj:m:v_naz">самвидавський</w>
       </w_>
-      <w_ id="23kz">
+      <w_ id="23kz" dep="23kt-parataxis" comment="~">
         <w lemma="журнал" ana="noun:inanim:m:v_naz">журнал</w>
       </w_>
       <w_ id="23l0" dep="23l1-punct">
@@ -2411,7 +2411,7 @@
       <w_ id="23l8" dep="23l9-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="23l9">
+      <w_ id="23l9" dep="23kz-parataxis" comment="~">
         <w lemma="Костянтин" ana="noun:anim:m:v_naz:prop:fname">Костянтин</w>
       </w_>
       <w_ id="23la" dep="23l9-flat:name">
@@ -3173,7 +3173,7 @@
       <w_ id="23s6" dep="23s4-flat:title|23sa-punct">
         <w lemma="1" ana="numr:m:v_naz:nv">1</w>
       </w_>
-      <w_ id="23s7">
+      <w_ id="23s7" dep="23sa-punct">
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
@@ -3589,7 +3589,7 @@
       <w_ id="23vs" dep="23vt-nsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="23vt">
+      <w_ id="23vt" dep="23vh-parataxis">
         <w lemma="використовуватися" ana="verb:rev:imperf:pres:s:3">використовується</w>
       </w_>
       <w_ id="23vu" dep="23vv-case">

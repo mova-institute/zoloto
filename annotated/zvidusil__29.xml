@@ -4964,7 +4964,7 @@
       <w_ id="384e" dep="384f-obl" n="1504">
         <w lemma="рік" ana="noun:inanim:p:m:v_zna">роки</w>
       </w_>
-      <w_ id="384f" n="1505">
+      <w_ id="384f" dep="384g-advmod" comment="~" n="1505">
         <w lemma="тому" ana="adv">тому</w>
       </w_>
       <w_ id="384g" dep="3849-acl" n="1506">
@@ -5111,7 +5111,7 @@
       <w_ id="385p" dep="385s-punct" n="1549">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="385q" n="1550">
+      <w_ id="385q" dep="385s-discourse" n="1550">
         <w lemma="навіть" ana="part">навіть</w>
       </w_>
       <w_ id="385r" dep="385s-case" n="1551">
@@ -5991,7 +5991,7 @@
       <w_ id="38dl" dep="38dm-det" n="1820">
         <w lemma="той" ana="adj:m:v_rod:&amp;pron:dem">того</w>
       </w_>
-      <w_ id="38dm" n="1821">
+      <w_ id="38dm" dep="38dr-obl" n="1821">
         <w lemma="момент" ana="noun:inanim:m:v_rod">моменту</w>
       </w_>
       <w_ id="38dn" dep="38do-iobj" n="1822">
@@ -6000,7 +6000,7 @@
       <w_ id="38do" n="1823">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="38dp" n="1824">
+      <w_ id="38dp" dep="38dr-advmod" comment="~" n="1824">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
       <w_ id="38dq" dep="38dr-advmod" n="1825">
@@ -6728,7 +6728,7 @@
       <w_ id="38kd" dep="38kh-nsubj" n="2048">
         <w lemma="DITIB" ana="x:foreign">DITIB</w>
       </w_>
-      <w_ id="38ke" n="2049">
+      <w_ id="38ke" dep="38kg-advmod" comment="~" n="2049">
         <w lemma="уже" ana="adv:v-u">уже</w>
       </w_>
       <w_ id="38kf" dep="38kg-advmod" n="2050">
@@ -7010,7 +7010,7 @@
       <w_ id="38mv" dep="38mw-case" n="2135">
         <w lemma="серед" ana="prep:rv_rod">серед</w>
       </w_>
-      <w_ id="38mw" n="2136">
+      <w_ id="38mw" dep="38mo-obl" n="2136">
         <w lemma="немусульманин" ana="noun:anim:p:m:v_rod:auto">немусульман</w>
       </w_>
       <w_ id="38mx" dep="38mz-punct" n="2137">
@@ -7019,7 +7019,7 @@
       <w_ id="38my" dep="38mz-obj" n="2138">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
-      <w_ id="38mz" n="2139">
+      <w_ id="38mz" dep="38mm-parataxis" n="2139">
         <w lemma="запросити" ana="verb:perf:futr:p:3">запросять</w>
       </w_>
       <w_ id="38n0" dep="38mz-advcl:svc" n="2140">
@@ -7039,7 +7039,7 @@
       <w_ id="38n4" dep="38n3-punct" n="2144">
         <w lemma=")" ana="punct">)</w>
       </w_>
-      <w_ id="38n5" n="2145">
+      <w_ id="38n5" dep="38n1-nmod" n="2145">
         <w lemma="харчування" ana="noun:inanim:n:v_rod">харчування</w>
       </w_>
       <g/>
@@ -7059,7 +7059,7 @@
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
       <g/>
-      <w_ id="38nb" n="2151">
+      <w_ id="38nb" dep="38mb-punct" n="2151">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="38nc"/>
@@ -7082,16 +7082,16 @@
         <w lemma="іслам" ana="noun:inanim:m:v_rod">ісламу</w>
       </w_>
       <g/>
-      <w_ id="38nj" n="2158">
+      <w_ id="38nj" dep="38nl-punct" n="2158">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38nk" n="2159">
+      <w_ id="38nk" dep="38nl-mark" n="2159">
         <w lemma="хоча" ana="conj:subord">хоча</w>
       </w_>
-      <w_ id="38nl" n="2160">
+      <w_ id="38nl" dep="38ne-advcl" n="2160">
         <w lemma="покликаний" ana="adj:f:v_naz:&amp;adjp:perf:pasv">покликана</w>
       </w_>
-      <w_ id="38nm" n="2161">
+      <w_ id="38nm" dep="38nl-xcomp" comment="~" n="2161">
         <w lemma="задовольняти" ana="verb:imperf:inf">задовольняти</w>
       </w_>
       <w_ id="38nn" dep="38nm-obj" n="2162">
@@ -7110,7 +7110,7 @@
         <w lemma="покоління" ana="noun:inanim:n:v_rod">покоління</w>
       </w_>
       <g/>
-      <w_ id="38ns" n="2167">
+      <w_ id="38ns" dep="38ne-punct" n="2167">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="38nt"/>

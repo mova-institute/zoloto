@@ -465,7 +465,7 @@
       <w_ id="35bw" dep="35bx-nsubj" n="144">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
       </w_>
-      <w_ id="35bx" n="145">
+      <w_ id="35bx" dep="35bs-advcl" comment="~" n="145">
         <w lemma="дістати" ana="verb:perf:futr:s:3">дістане</w>
       </w_>
       <w_ id="35by" dep="35bx-obl" n="146">
@@ -2377,11 +2377,11 @@
       <w_ id="35t8" dep="35t6-conj" n="722">
         <w lemma="розумовий" ana="adj:m:v_oru">розумовим</w>
       </w_>
-      <w_ id="35t9">
+      <w_ id="35t9" dep="35tc-advcl" comment="~ disconnect">
         <w lemma="нуль" ana="noun:inanim:m:v_oru">нулем</w>
       </w_>
       <g/>
-      <w_ id="35ta" n="725">
+      <w_ id="35ta" dep="35t9-punct" n="725">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="35tb" dep="35tc-nsubj" n="726">
@@ -2406,7 +2406,7 @@
         <w lemma="шлях" ana="noun:inanim:m:v_oru">шляхом</w>
       </w_>
       <g/>
-      <w_ id="35ti" n="733">
+      <w_ id="35ti" dep="35tc-punct" n="733">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="35tj"/>
@@ -3339,29 +3339,29 @@
         <w lemma="донцовщина" ana="noun:inanim:f:v_rod">донцовщини</w>
       </w_>
       <g/>
-      <w_ id="3623" n="1016">
+      <w_ id="3623" dep="3627-punct" n="1016">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3624" n="1017">
+      <w_ id="3624" dep="3627-mark" comment="~" n="1017">
         <w lemma="чи" ana="conj:coord">чи</w>
       </w_>
-      <w_ id="3625" n="1018">
+      <w_ id="3625" dep="3624-fixed" n="1018">
         <w lemma="то" ana="part">то</w>
       </w_>
-      <w_ id="3626" n="1019">
+      <w_ id="3626" dep="3624-fixed" n="1019">
         <w lemma="пак" ana="part">пак</w>
       </w_>
       <w_ id="3627" dep="3622-appos" n="1020">
         <w lemma="вісниківство" ana="noun:inanim:n:v_rod">вісниківства</w>
       </w_>
       <g/>
-      <w_ id="3628" n="1021">
+      <w_ id="3628" dep="3627-punct" n="1021">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="3629" dep="362a-case" n="1022">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="362a" n="1023">
+      <w_ id="362a" dep="3622-nmod" n="1023">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
       <w_ id="362b" dep="362c-det" n="1024">
@@ -3377,13 +3377,13 @@
         <w lemma="розквіт" ana="noun:inanim:m:v_rod">розквіту</w>
       </w_>
       <g/>
-      <w_ id="362f" n="1028">
+      <w_ id="362f" dep="362h-punct" n="1028">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="362g" dep="362h-mark" n="1029">
         <w lemma="щоб" ana="conj:subord">щоб</w>
       </w_>
-      <w_ id="362h" n="1030">
+      <w_ id="362h" dep="361q-advcl" comment="~ чи з _висвітлити_?" n="1030">
         <w lemma="оцінити" ana="verb:perf:inf">оцінити</w>
       </w_>
       <w_ id="362i" dep="362j-det" n="1031">
@@ -3392,7 +3392,7 @@
       <w_ id="362j" dep="362h-obj" n="1032">
         <w lemma="роля" ana="noun:inanim:f:v_zna:alt">ролю</w>
       </w_>
-      <w_ id="362k" n="1033">
+      <w_ id="362k" dep="362j-advmod:a" n="1033">
         <w lemma="тепер" ana="adv:&amp;pron:dem">тепер</w>
       </w_>
       <g/>
@@ -4285,11 +4285,11 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36an"/>
-      <w_ id="36ao" n="1308">
+      <w_ id="36ao" comment="parataxis:discource?" n="1308">
         <w lemma="повторювати" ana="verb:imperf:pres:s:1">Повторюю</w>
       </w_>
       <g/>
-      <w_ id="36ap" n="1309">
+      <w_ id="36ap" dep="36bk-punct" n="1309">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="36aq" dep="36bk-nsubj" n="1310">
@@ -4387,7 +4387,7 @@
       <w_ id="36bj" dep="36at-punct" n="1339">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="36bk" n="1340">
+      <w_ id="36bk" dep="36ao-ccomp" n="1340">
         <w lemma="залишатися" ana="verb:rev:imperf:pres:s:3">залишається</w>
       </w_>
       <w_ id="36bl" dep="36bk-xcomp:2" n="1341">
@@ -4416,7 +4416,7 @@
         <w lemma="універсальність" ana="noun:inanim:f:v_zna">універсальність</w>
       </w_>
       <g/>
-      <w_ id="36bt" n="1349">
+      <w_ id="36bt" dep="36ao-punct" n="1349">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36bu"/>
@@ -5888,7 +5888,7 @@
       <w_ id="36pd" dep="36pe-advmod" n="1799">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="36pe" n="1800">
+      <w_ id="36pe" dep="36oz-advcl" comment="~" n="1800">
         <w lemma="знати" ana="verb:imperf:past:p">знали</w>
       </w_>
       <g/>
@@ -6061,13 +6061,13 @@
       <w_ id="36qw" dep="36qv-obj" n="1851">
         <w lemma="висота" ana="noun:inanim:f:v_zna">висоту</w>
       </w_>
-      <w_ id="36qx" n="1852">
+      <w_ id="36qx" dep="36qy-nummod" n="1852">
         <w lemma="22" ana="numr:f:v_naz:nv">22</w>
       </w_>
-      <w_ id="36qy" n="1853">
+      <w_ id="36qy" dep="36qw-flat:title" n="1853">
         <w lemma="тисяча" ana="noun:inanim:p:f:v_naz:&amp;_numr">тисячі</w>
       </w_>
-      <w_ id="36qz" n="1854">
+      <w_ id="36qz" dep="36qy-nmod" n="1854">
         <w lemma="метр" ana="noun:inanim:p:m:v_rod">метрів</w>
       </w_>
       <g/>
