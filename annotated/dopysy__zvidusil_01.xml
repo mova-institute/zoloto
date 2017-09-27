@@ -953,7 +953,7 @@
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:int">що</w>
       </w_>
       <w_ id="30yf" n="287">
-        <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
+        <w lemma="бути" ana="verb:imperf:past:n">було</w>
       </w_>
       <w_ id="30yg" dep="30yf-aux" n="288">
         <w lemma="би" ana="part">би</w>
@@ -985,7 +985,7 @@
         <w lemma="галактика" ana="noun:inanim:p:f:v_rod">галактик</w>
       </w_>
       <g/>
-      <w_ id="30yp" dep="30yf-acl" n="297">
+      <w_ id="30yp" dep="30yf-punct" n="297">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="30yq"/>
@@ -1048,8 +1048,8 @@
       <w_ id="30z8" dep="30zb-punct" n="315">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="30z9" dep="30zb-mark" comment="#&gt;conj:subord" n="316">
-        <w lemma="чи" ana="part">чи</w>
+      <w_ id="30z9" dep="30zb-mark" n="316">
+        <w lemma="чи" ana="conj:subord">чи</w>
       </w_>
       <w_ id="30za" dep="30zb-nsubj" n="317">
         <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">ти</w>
@@ -1154,7 +1154,7 @@
       <w_ id="3107" dep="3109-punct" n="347">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3108" dep="3109-nsubj" n="348">
+      <w_ id="3108" dep="3109-advmod" n="348">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="3109" dep="3101-conj" n="349">
@@ -3599,7 +3599,7 @@
         <w lemma="день" ana="noun:inanim:m:v_naz">день</w>
       </w_>
       <w_ id="31n3" dep="31mw-parataxis" n="1080">
-        <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
+        <w lemma="бути" ana="verb:imperf:past:m">був</w>
       </w_>
       <g/>
       <w_ id="31n4" dep="31n3-punct" n="1081">
