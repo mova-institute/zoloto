@@ -631,7 +631,7 @@
       <w_ id="1ctf" dep="1cth-nsubj" tags="promoted">
         <w lemma="немилий" ana="adj:p:v_naz">немилі</w>
       </w_>
-      <w_ id="1ctg" dep="1cth-amod">
+      <w_ id="1ctg" dep="1cth-advmod">
         <w lemma="радше" ana="adv">радше</w>
       </w_>
       <w_ id="1cth" dep="1cta-conj:parataxis">
@@ -1822,7 +1822,7 @@
       <w_ id="1d3g" dep="1d3i-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1d3h">
+      <w_ id="1d3h" dep="1d3i-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="1d3i" dep="1d3f-acl">
@@ -6155,7 +6155,7 @@
       <w_ id="1e3r" dep="1e3s-case">
         <w lemma="замість" ana="prep:rv_rod">замість</w>
       </w_>
-      <w_ id="1e3s" dep="1e3q-obl" comment="~">
+      <w_ id="1e3s" dep="1e3q-obl" comment="~ #inf_prep">
         <w lemma="збуджувати" ana="verb:imperf:inf">збуджувати</w>
       </w_>
       <g/>
@@ -7555,10 +7555,10 @@
       <w_ id="1efl" dep="1efo-advmod">
         <w lemma="тоді" ana="adv:&amp;pron:dem">тоді</w>
       </w_>
-      <w_ id="1efm" dep="1efo-nsubj">
+      <w_ id="1efm" dep="1efo-obl" comment="~">
         <w lemma="один" ana="adj:n:v_naz:&amp;pron:ind">одне</w>
       </w_>
-      <w_ id="1efn" dep="1efo-obj">
+      <w_ id="1efn" dep="1efm-nmod">
         <w lemma="один" ana="adj:n:v_rod:&amp;pron:ind">одного</w>
       </w_>
       <w_ id="1efo" dep="1ef4-advcl">
@@ -7990,7 +7990,7 @@
       <w_ id="1ej9" dep="1ej8-csubj">
         <w lemma="забувати" ana="verb:imperf:inf">забувати</w>
       </w_>
-      <w_ id="1eja" dep="1ejb-cc">
+      <w_ id="1eja" dep="1ejb-conj" comment="#&gt;conj:coord">
         <w lemma="і" ana="part">і</w>
       </w_>
       <w_ id="1ejb" dep="1ej9-conj">
@@ -9185,7 +9185,7 @@
       <w_ id="1etd" dep="1etf-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1ete" dep="1etf-det">
+      <w_ id="1ete" dep="1etf-nsubj">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="1etf" dep="1eta-acl">

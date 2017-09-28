@@ -14522,7 +14522,7 @@
   <w_ id="0uhm" dep="0uht-punct">
     <w lemma="," ana="punct">,</w>
   </w_>
-  <w_ id="0uhn" dep="0uht-obj">
+  <w_ id="0uhn" dep="0uht-nsubj">
     <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
   </w_>
   <w_ id="0uho" dep="0uhq-case">
@@ -15098,7 +15098,7 @@
   <w_ id="0umz" dep="0un0-amod">
     <w lemma="сільський" ana="adj:n:v_mis">сільському</w>
   </w_>
-  <w_ id="0un0">
+  <w_ id="0un0" dep="0ums-advcl">
     <w lemma="весілля" ana="noun:inanim:n:v_mis">весіллі</w>
   </w_>
   <g/>
@@ -22394,7 +22394,7 @@
   <w_ id="0wik" dep="0wij-cop">
     <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
   </w_>
-  <w_ id="0wil" dep="0wim-advcl:2" mark="resolved" comment="~">
+  <w_ id="0wil" dep="0wim-iobj" mark="resolved">
     <w lemma="сам" ana="adj:m:v_dav:&amp;pron:refl:&amp;noun:anim" lemma2="сам">самому</w>
   </w_>
   <w_ id="0wim" dep="0wij-csubj">
@@ -25463,10 +25463,10 @@
   <w_ id="0xar" dep="0xaq-flat:name">
     <w lemma="Куц" ana="noun:anim:m:v_naz:prop:lname">Куц</w>
   </w_>
-  <w_ id="0xas" dep="0xat-advmod">
+  <w_ id="0xas" dep="0xav-cc">
     <w lemma="не" ana="part:neg">не</w>
   </w_>
-  <w_ id="0xat" dep="0xav-advmod">
+  <w_ id="0xat" dep="0xas-fixed">
     <w lemma="тільки" ana="part">тільки</w>
   </w_>
   <w_ id="0xau" dep="0xav-case" mark="reviewed">
@@ -25482,7 +25482,7 @@
   <w_ id="0xax" dep="0xb0-cc">
     <w lemma="але" ana="conj:coord">але</w>
   </w_>
-  <w_ id="0xay" dep="0xb0-discourse" mark="reviewed">
+  <w_ id="0xay" dep="0xax-fixed" mark="reviewed">
     <w lemma="й" ana="part">й</w>
   </w_>
   <w_ id="0xaz" dep="0xb0-case">
@@ -25587,7 +25587,7 @@
   <w_ id="0xbw" dep="0xby-cc">
     <w lemma="але" ana="conj:coord">Але</w>
   </w_>
-  <w_ id="0xbx" dep="0xby-advmod">
+  <w_ id="0xbx" dep="0xby-discourse">
     <w lemma="тільки" ana="part">тільки</w>
   </w_>
   <w_ id="0xby">
@@ -26775,7 +26775,7 @@
     <w lemma="вухо" ana="noun:inanim:n:v_zna">вухо</w>
   </w_>
   <g/>
-  <w_ id="0xn0">
+  <w_ id="0xn0" dep="0xn1-punct">
     <w lemma="," ana="punct">,</w>
   </w_>
   <w_ id="0xn1" dep="0xmi-conj">
@@ -26791,7 +26791,7 @@
     <w lemma="ґудз" ana="noun:inanim:m:v_zna:odd">ґудз</w>
   </w_>
   <g/>
-  <w_ id="0xn5">
+  <w_ id="0xn5" dep="0xn8-punct">
     <w lemma="," ana="punct">,</w>
   </w_>
   <w_ id="0xn6" dep="0xn7-det:numgov">
@@ -27606,7 +27606,7 @@
   <w_ id="0xul" dep="0xun-advmod">
     <w lemma="вночі" ana="adv:v-u">вночі</w>
   </w_>
-  <w_ id="0xum" dep="0xun-advcl:2" comment="~ iobj?">
+  <w_ id="0xum" dep="0xun-iobj">
     <w lemma="сам" ana="adj:m:v_dav:&amp;pron:refl">самому</w>
   </w_>
   <w_ id="0xun" dep="0xue-advcl">
@@ -28564,7 +28564,7 @@
   <w_ id="0y3d" dep="0y3c-xcomp">
     <w lemma="вживати" ana="verb:imperf:inf:v-u">вживати</w>
   </w_>
-  <w_ id="0y3e" dep="0y3f-advmod:amtgov">
+  <w_ id="0y3e" dep="0y3f-advmod:amtgov" comment="#&gt;adv:compb">
     <w lemma="багато" ana="numr:v_zna:&amp;pron:ind">багато</w>
   </w_>
   <w_ id="0y3f" dep="0y3d-obj">
@@ -28593,7 +28593,7 @@
   <w_ id="0y3n" dep="0y3o-advmod">
     <w lemma="дуже" ana="adv:compb">дуже</w>
   </w_>
-  <w_ id="0y3o" dep="0y3p-advmod:amtgov" mark="reviewed">
+  <w_ id="0y3o" dep="0y3p-advmod:amtgov" mark="reviewed" comment="#&gt;adv:compb">
     <w lemma="багато" ana="numr:v_zna:&amp;pron:ind">багато</w>
   </w_>
   <w_ id="0y3p" dep="0y3m-obj">
@@ -29684,7 +29684,7 @@
   <w_ id="0yds">
     <w lemma="йти" ana="verb:imperf:past:p">йшли</w>
   </w_>
-  <w_ id="0ydt" dep="0yds-advcl:2">
+  <w_ id="0ydt" dep="0yds-advcl:svc">
     <w lemma="купатися" ana="verb:rev:imperf:inf">купатися</w>
   </w_>
   <g/>
@@ -38673,7 +38673,7 @@
     <w lemma="картопля" ana="noun:inanim:f:v_rod">картоплі</w>
   </w_>
   <g/>
-  <w_ id="10om" dep="10on-punct">
+  <w_ id="10om" dep="10oo-punct">
     <w lemma="," ana="punct">,</w>
   </w_>
   <w_ id="10on" dep="10oo-amod" mark="reviewed">
@@ -43767,7 +43767,7 @@
   <w_ id="11zr" dep="11zt-obl">
     <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
   </w_>
-  <w_ id="11zs" dep="11zk-advcl">
+  <w_ id="11zs" dep="11zl-advcl" comment="~">
     <w lemma="перестати" ana="verb:perf:past:p">перестали</w>
   </w_>
   <w_ id="11zt" dep="11zs-xcomp">
@@ -43830,7 +43830,7 @@
   <w_ id="120b" dep="120c-advmod">
     <w lemma="часто" ana="adv:compb">часто</w>
   </w_>
-  <w_ id="120c" dep="11zz-conj:parataxis">
+  <w_ id="120c" dep="11zz-advcl">
     <w lemma="помилятися" ana="verb:rev:imperf:past:m">помилявся</w>
   </w_>
   <w_ id="120d" dep="120f-cc">
@@ -44670,10 +44670,10 @@
     <w lemma="чекати" ana="verb:imperf:pres:p:3">чекають</w>
   </w_>
   <g/>
-  <w_ id="1282" dep="1281-punct">
+  <w_ id="1282" dep="1284-punct">
     <w lemma="," ana="punct">,</w>
   </w_>
-  <w_ id="1283" dep="1284-advmod">
+  <w_ id="1283" dep="1284-advmod" comment="~">
     <w lemma="далі" ana="adv">далі</w>
   </w_>
   <w_ id="1284" dep="127x-conj" tags="promoted">

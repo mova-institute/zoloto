@@ -2371,7 +2371,7 @@
     <w_ id="00l5" dep="00l4-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="00l6" dep="00l8-cc">
+    <w_ id="00l6" dep="00l8-mark" comment="#&gt;noun:inanim:n:v_oru:&amp;amp;pron:rel@що ~">
       <w lemma="чим" ana="conj:coord">чим</w>
     </w_>
     <w_ id="00l7" dep="00l8-advmod">
@@ -2384,7 +2384,7 @@
     <w_ id="00l9" dep="00lc-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="00la" dep="00lc-cc">
+    <w_ id="00la" dep="00lc-obl" comment="~ #&gt;noun:inanim:n:v_oru:&amp;amp;pron:dem@те">
       <w lemma="тим" ana="conj:coord">тим</w>
     </w_>
     <w_ id="00lb" dep="00lc-advmod">
@@ -4333,10 +4333,10 @@
     <w_ id="012i" dep="012o-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="012j" dep="012o-cc">
+    <w_ id="012j" dep="012o-mark">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="012k" dep="012o-discourse">
+    <w_ id="012k" dep="012j-fixed">
       <w lemma="то" ana="part">то</w>
     </w_>
     <w_ id="012l" dep="012o-advmod">
@@ -4348,7 +4348,7 @@
     <w_ id="012n" dep="012o-advmod">
       <w lemma="найбільше" ana="adv:super">найбільше</w>
     </w_>
-    <w_ id="012o" dep="011q-parataxis">
+    <w_ id="012o" dep="011q-advcl" comment="~ parataxis?">
       <w lemma="надіятися" ana="verb:rev:imperf:pres:p:3">надіються</w>
     </w_>
     <w_ id="012p" dep="012q-case">
@@ -8167,7 +8167,7 @@
       <w lemma="(" ana="punct:open">(</w>
     </w_>
     <g/>
-    <w_ id="020g" dep="020i-advmod">
+    <w_ id="020g">
       <w lemma="a" ana="x:foreign">a</w>
     </w_>
     <w_ id="020h" dep="020g-flat:foreign">
