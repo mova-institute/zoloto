@@ -5124,11 +5124,11 @@
         <w lemma="думати" ana="verb:imperf:pres:s:1">Думаю</w>
       </w_>
       <g/>
-      <w_ id="3219" n="1545">
+      <w_ id="3219" dep="321d-punct" n="1545">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="321a" dep="321d-obj" n="1546">
-        <w lemma="дитина" ana="noun:anim:p:f:v_rod">дітей</w>
+        <w lemma="дитина" ana="noun:anim:p:f:v_zna">дітей</w>
       </w_>
       <w_ id="321b" n="1547">
         <w lemma="потрібно" ana="adv:compb">потрібно</w>
@@ -5136,36 +5136,36 @@
       <w_ id="321c" dep="321d-advmod" n="1548">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
-      <w_ id="321d" dep="321b-csubj" n="1549">
+      <w_ id="321d" dep="321b-csubj|3218-ccomp" n="1549">
         <w lemma="виховувати" ana="verb:imperf:inf">виховувати</w>
       </w_>
       <g/>
-      <w_ id="321e" n="1550">
+      <w_ id="321e" dep="321g-punct" n="1550">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="321f" n="1551">
+      <w_ id="321f" dep="321g-mark" n="1551">
         <w lemma="щоб" ana="conj:subord">щоб</w>
       </w_>
       <w_ id="321g" n="1552">
         <w lemma="давати" ana="verb:imperf:inf">давати</w>
       </w_>
-      <w_ id="321h" n="1553">
+      <w_ id="321h" dep="321g-iobj" n="1553">
         <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">їм</w>
       </w_>
-      <w_ id="321i" n="1554">
+      <w_ id="321i" dep="321g-obj" n="1554">
         <w lemma="розуміння" ana="noun:inanim:n:v_zna">розуміння</w>
       </w_>
       <g/>
-      <w_ id="321j" n="1555">
+      <w_ id="321j" dep="321l-punct" n="1555">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="321k" n="1556">
+      <w_ id="321k" dep="321l-cc" n="1556">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="321l" n="1557">
+      <w_ id="321l" dep="321i-conj" n="1557">
         <w lemma="усвідомлення" ana="noun:inanim:n:v_zna">усвідомлення</w>
       </w_>
-      <w_ id="321m" n="1558">
+      <w_ id="321m" dep="321l-nmod" n="1558">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
       <g/>
@@ -5195,41 +5195,41 @@
         <w lemma="хороше" ana="adj:n:v_naz:compb:&amp;noun:inanim" lemma2="хороший">хороше</w>
       </w_>
       <g/>
-      <w_ id="321v" n="1567">
+      <w_ id="321v" dep="3225-punct" n="1567">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="321w" n="1568">
+      <w_ id="321w" dep="3225-mark" n="1568">
         <w lemma="бо" ana="conj:subord">бо</w>
       </w_>
-      <w_ id="321x" n="1569">
+      <w_ id="321x" dep="321z-case" n="1569">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="321y" n="1570">
+      <w_ id="321y" dep="321z-amod" n="1570">
         <w lemma="великий" ana="adj:m:v_zna:rinanim:compb">великий</w>
       </w_>
-      <w_ id="321z" n="1571">
+      <w_ id="321z" dep="3226-obl" n="1571">
         <w lemma="відсоток" ana="noun:inanim:m:v_zna">відсоток</w>
       </w_>
-      <w_ id="3220" n="1572">
+      <w_ id="3220" dep="321z-nmod" n="1572">
         <w lemma="самовиховання" ana="noun:inanim:n:v_rod">самовиховання</w>
       </w_>
       <g/>
-      <w_ id="3221" n="1573">
+      <w_ id="3221" dep="3222-punct" n="1573">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3222" n="1574">
+      <w_ id="3222" dep="3220-conj" n="1574">
         <w lemma="саморозвиток" ana="noun:inanim:m:v_rod">саморозвитку</w>
       </w_>
-      <w_ id="3223" n="1575">
+      <w_ id="3223" dep="3225-advmod" n="1575">
         <w lemma="теж" ana="adv">теж</w>
       </w_>
-      <w_ id="3224" n="1576">
+      <w_ id="3224" dep="3225-advmod" n="1576">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="3225" n="1577">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="3226" n="1578">
+      <w_ id="3226" dep="3225-csubj" n="1578">
         <w lemma="забувати" ana="verb:imperf:inf">забувати</w>
       </w_>
       <g/>
@@ -7167,7 +7167,7 @@
       </w_>
       <g/>
       <w_ id="32k7" dep="32kb-nsubj" n="2152">
-        <w lemma="це" ana="part">це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="32k8" dep="32kb-advmod" comment="~" n="2153">
         <w lemma="вже" ana="adv:v-u">вже</w>
