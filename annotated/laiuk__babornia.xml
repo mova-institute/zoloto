@@ -1216,16 +1216,16 @@
       <w_ id="0a0c" dep="0a0d-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="0a0d" dep="0a0g-obl" mark="resolved">
+      <w_ id="0a0d" mark="resolved" comment="~">
         <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
       </w_>
-      <w_ id="0a0e" dep="0a0d-discourse">
+      <w_ id="0a0e" dep="0a0g-mark" comment="#&gt;conj:subord">
         <w lemma="що" ana="part">що</w>
       </w_>
       <w_ id="0a0f" dep="0a0g-aux">
         <w lemma="би" ana="part">би</w>
       </w_>
-      <w_ id="0a0g">
+      <w_ id="0a0g" dep="0a0d-acl">
         <w lemma="хотіти" ana="verb:imperf:past:f">хотіла</w>
       </w_>
       <w_ id="0a0h" dep="0a0g-xcomp">
@@ -1274,7 +1274,7 @@
       <w_ id="0a0v" dep="0a0u-flat:name">
         <w lemma="Василівна" ana="noun:anim:f:v_rod:prop:patr">Василівни</w>
       </w_>
-      <w_ id="0a0w" dep="0a0h-parataxis">
+      <w_ id="0a0w" dep="0a0d-parataxis">
         <w lemma="мати" ana="verb:imperf:past:p">мали</w>
       </w_>
       <w_ id="0a0x" dep="0a0y-advmod">
@@ -1287,7 +1287,7 @@
         <w lemma="характер" ana="noun:inanim:m:v_zna">характер</w>
       </w_>
       <g/>
-      <w_ id="0a10" dep="0a0g-punct">
+      <w_ id="0a10" dep="0a0d-punct">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="0a11"/>
