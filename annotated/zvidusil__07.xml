@@ -1799,10 +1799,10 @@
       <w_ id="1smx" dep="1smo-conj">
         <w lemma="потиснути" ana="verb:perf:past:p">потисли</w>
       </w_>
-      <w_ id="1smy" dep="1smx-nsubj">
+      <w_ id="1smy" dep="1smx-obl">
         <w lemma="один" ana="adj:n:v_naz:&amp;pron:ind">одне</w>
       </w_>
-      <w_ id="1smz" dep="1smx-iobj">
+      <w_ id="1smz" dep="1smy-nmod">
         <w lemma="один" ana="adj:n:v_dav:&amp;pron:ind">одному</w>
       </w_>
       <w_ id="1sn0" dep="1smx-obj">
@@ -7971,7 +7971,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1u7s"/>
-      <w_ id="1u7t" dep="1u83-nsubj">
+      <w_ id="1u7t" dep="1u83-nsubj" comment="~">
         <w lemma="той" ana="adj:m:p:v_naz:&amp;pron:dem:&amp;noun:inanim" lemma2="той">Ті</w>
       </w_>
       <g/>
