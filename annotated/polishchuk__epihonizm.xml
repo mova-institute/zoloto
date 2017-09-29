@@ -737,7 +737,7 @@
     <w_ id="0q65" dep="0q66-amod">
       <w lemma="французький" ana="adj:f:v_naz">Французька</w>
     </w_>
-    <w_ id="0q66" dep="0q6e-nsubj">
+    <w_ id="0q66">
       <w lemma="неокласика" ana="noun:inanim:f:v_naz">неокласика</w>
     </w_>
     <g/>
@@ -763,7 +763,7 @@
     <w_ id="0q6d" dep="0q6c-flat:name">
       <w lemma="Вассон" ana="noun:anim:m:v_naz:prop:lname">Вассон</w>
     </w_>
-    <w_ id="0q6e" tags="promoted" comment="еліпс за acl">
+    <w_ id="0q6e" dep="0q66-csubj" tags="promoted" comment="еліпс за acl">
       <w lemma="виписувати" ana="verb:imperf:pres:s:3">виписує</w>
     </w_>
     <w_ id="0q6f" dep="0q6e-obj">
@@ -833,7 +833,7 @@
       <w lemma="кадриль" ana="noun:inanim:m:v_zna">кадриль</w>
     </w_>
     <g/>
-    <w_ id="0q70" dep="0q6e-punct">
+    <w_ id="0q70" dep="0q66-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0q71"/>

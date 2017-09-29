@@ -816,7 +816,7 @@
   <w_ id="0qyt" dep="0qyu-cc">
     <w lemma="або" ana="conj:coord">або</w>
   </w_>
-  <w_ id="0qyu" dep="0qyh-conj:parataxis">
+  <w_ id="0qyu" dep="0qyh-conj:parataxis" comment="#multi_cc">
     <w lemma="жарт" ana="noun:inanim:p:m:v_oru">жартами</w>
   </w_>
   <w_ id="0qyv" dep="0qyw-cc">
@@ -5346,7 +5346,7 @@
     <w lemma="." ana="punct">.</w>
   </w_>
   <sb id="0s4o"/>
-  <w_ id="0s4p" dep="0s4q-cop">
+  <w_ id="0s4p" dep="0s4q-cop" comment="~">
     <w lemma="бути" ana="verb:aux:imperf:past:m">Був</w>
   </w_>
   <w_ id="0s4q">
@@ -5375,7 +5375,7 @@
     <w lemma="УРСР" ana="noun:inanim:f:v_rod:nv:np:prop:abbr">УРСР</w>
   </w_>
   <g/>
-  <w_ id="0s4y" dep="0s4q-punct">
+  <w_ id="0s4y">
     <w lemma="." ana="punct">.</w>
   </w_>
   <sb id="0s4z"/>
@@ -28402,7 +28402,7 @@
     <w lemma="." ana="punct">.</w>
   </w_>
   <sb id="0y1v"/>
-  <w_ id="0y1w" dep="0y23-obj">
+  <w_ id="0y1w" dep="0y25-nmod">
     <w lemma="той" ana="adj:p:v_rod:&amp;pron:dem">Тих</w>
   </w_>
   <g/>
@@ -28431,7 +28431,7 @@
   <w_ id="0y24" dep="0y25-det:numgov">
     <w lemma="кілька" ana="numr:v_zna:&amp;pron:ind">кілька</w>
   </w_>
-  <w_ id="0y25" dep="0y23-obj" tags="promoted" mark="resolved">
+  <w_ id="0y25" dep="0y23-nsubj" mark="resolved">
     <w lemma="тисяча" ana="noun:inanim:p:f:v_rod:&amp;_numr">тисяч</w>
   </w_>
   <g/>
