@@ -1497,10 +1497,10 @@
         <w lemma="лікарня" ana="noun:inanim:f:v_zna">лікарню</w>
       </w_>
       <w_ id="29pl" dep="29pk-flat:title" comment="ім’я?">
-        <w lemma="шахід" ana="noun:anim:m:v_naz">Шахід</w>
+        <w lemma="шахід" ana="noun:anim:m:v_naz:prop:fname">Шахід</w>
       </w_>
       <w_ id="29pm" dep="29pl-flat:name">
-        <w lemma="Аббас" ana="noun:anim:m:v_mis:prop:fname">Аббасі</w>
+        <w lemma="Аббас" ana="noun:anim:m:v_naz:prop:lname:nv">Аббасі</w>
       </w_>
       <g/>
       <w_ id="29pn" dep="29pp-punct">
@@ -1562,10 +1562,10 @@
       </w_>
       <sb id="29q5"/>
       <w_ id="29q6" dep="29q7-amod">
-        <w lemma="численний" ana="adj:p:v_naz:compb">Численні</w>
+        <w lemma="численний" ana="adj:p:v_zna:compb">Численні</w>
       </w_>
       <w_ id="29q7" dep="29q8-obj">
-        <w lemma="труп" ana="noun:inanim:p:m:v_naz">трупи</w>
+        <w lemma="труп" ana="noun:inanim:p:m:v_zna">трупи</w>
       </w_>
       <w_ id="29q8">
         <w lemma="знаходити" ana="verb:imperf:pres:p:3">знаходять</w>
@@ -2028,10 +2028,10 @@
         <w lemma="представити" ana="verb:perf:impers">представлено</w>
       </w_>
       <w_ id="29u6" dep="29u7-amod">
-        <w lemma="професійний" ana="adj:n:v_naz:compb">професійне</w>
+        <w lemma="професійний" ana="adj:n:v_zna:compb">професійне</w>
       </w_>
       <w_ id="29u7" dep="29u5-obj">
-        <w lemma="малярство" ana="noun:inanim:n:v_naz">малярство</w>
+        <w lemma="малярство" ana="noun:inanim:n:v_zna">малярство</w>
       </w_>
       <g/>
       <w_ id="29u8" dep="29u5-punct">
@@ -2501,7 +2501,7 @@
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <w_ id="29yk" dep="29yl-nummod:gov">
-        <w lemma="14" ana="numr:v_naz:nv">14</w>
+        <w lemma="14" ana="numr:v_zna:nv">14</w>
       </w_>
       <w_ id="29yl" dep="29yi-obj">
         <w lemma="мільйон" ana="noun:inanim:p:m:v_rod:&amp;_numr">мільйонів</w>
@@ -3391,7 +3391,7 @@
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
       <w_ id="2a6h" dep="2a6k-nummod:gov">
-        <w lemma="6" ana="numr:v_naz:nv">6</w>
+        <w lemma="6" ana="numr:v_zna:nv">6</w>
       </w_>
       <g/>
       <w_ id="2a6i" dep="2a6j-punct">
@@ -3399,7 +3399,7 @@
       </w_>
       <g/>
       <w_ id="2a6j" dep="2a6h-conj">
-        <w lemma="7" ana="numr:v_naz:nv">7</w>
+        <w lemma="7" ana="numr:v_zna:nv">7</w>
       </w_>
       <w_ id="2a6k" dep="2a6d-obl">
         <w lemma="день" ana="noun:inanim:p:m:v_rod">днів</w>
@@ -3492,7 +3492,7 @@
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
       <w_ id="2a7d" dep="2a7g-nummod:gov">
-        <w lemma="7" ana="numr:v_naz:nv">7</w>
+        <w lemma="7" ana="numr:v_zna:nv">7</w>
       </w_>
       <g/>
       <w_ id="2a7e" dep="2a7f-punct">
@@ -3500,7 +3500,7 @@
       </w_>
       <g/>
       <w_ id="2a7f" dep="2a7d-conj">
-        <w lemma="11" ana="numr:v_naz:nv">11</w>
+        <w lemma="11" ana="numr:v_zna:nv">11</w>
       </w_>
       <w_ id="2a7g" dep="2a7i-obl">
         <w lemma="день" ana="noun:inanim:p:m:v_rod">днів</w>
@@ -3667,7 +3667,7 @@
         <w lemma="жити" ana="verb:imperf:past:m">жив</w>
       </w_>
       <w_ id="2a8z" dep="2a92-nummod:gov">
-        <w lemma="10" ana="numr:v_naz:nv">10</w>
+        <w lemma="10" ana="numr:v_zna:nv">10</w>
       </w_>
       <g/>
       <w_ id="2a90" dep="2a91-punct">
@@ -3675,7 +3675,7 @@
       </w_>
       <g/>
       <w_ id="2a91" dep="2a8z-conj">
-        <w lemma="20" ana="numr:v_naz:nv">20</w>
+        <w lemma="20" ana="numr:v_zna:nv">20</w>
       </w_>
       <w_ id="2a92" dep="2a94-obl">
         <w lemma="мільйон" ana="noun:inanim:p:m:v_rod:&amp;_numr">мільйонів</w>
@@ -4642,7 +4642,7 @@
         <w lemma="потрібно" ana="adv:compb">потрібно</w>
       </w_>
       <w_ id="2aht" dep="2ahv-nummod:gov">
-        <w lemma="70" ana="numr:v_naz:nv">70</w>
+        <w lemma="70" ana="numr:v_zna:nv">70</w>
       </w_>
       <w_ id="2ahu" dep="2ahv-det">
         <w lemma="такий" ana="adj:p:v_rod:&amp;pron:dem">таких</w>
