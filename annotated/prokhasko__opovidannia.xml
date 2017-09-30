@@ -27171,16 +27171,16 @@
   <w_ id="0xql">
     <w lemma="робити" ana="verb:imperf:pres:s:3">робить</w>
   </w_>
-  <w_ id="0xqm">
+  <w_ id="0xqm" dep="0xqo-nummod:gov">
     <w lemma="дев’яносто" ana="numr:v_naz">дев’яносто</w>
   </w_>
-  <w_ id="0xqn">
+  <w_ id="0xqn" dep="0xqm-flat">
     <w lemma="шість" ana="numr:v_naz">шість</w>
   </w_>
   <w_ id="0xqo">
     <w lemma="відсоток" ana="noun:inanim:p:m:v_rod">відсотків</w>
   </w_>
-  <w_ id="0xqp">
+  <w_ id="0xqp" dep="0xqo-nmod">
     <w lemma="мозок" ana="noun:inanim:m:v_rod">мозку</w>
   </w_>
   <g/>
@@ -35000,10 +35000,10 @@
   <w_ id="0zqx" dep="0zqo-conj">
     <w lemma="дати" ana="verb:perf:past:m">дав</w>
   </w_>
-  <w_ id="0zqy" dep="0zqx-obj" tags="promoted">
+  <w_ id="0zqy" dep="0zqz-nummod:gov">
     <w lemma="п’ятдесят" ana="numr:v_zna">п’ятдесят</w>
   </w_>
-  <w_ id="0zqz" dep="0zqy-flat" mark="resolved">
+  <w_ id="0zqz" dep="0zqx-obj" mark="resolved">
     <w lemma="тисяча" ana="noun:inanim:p:f:v_rod:&amp;_numr">тисяч</w>
   </w_>
   <w_ id="0zr0" dep="0zr1-case">
@@ -35826,13 +35826,13 @@
   <w_ id="0zyi">
     <w lemma="бути" ana="verb:imperf:past:n">було</w>
   </w_>
-  <w_ id="0zyj" dep="0zyl-nummod:gov">
+  <w_ id="0zyj" dep="0zyk-nummod">
     <w lemma="два" ana="numr:f:v_naz">дві</w>
   </w_>
-  <w_ id="0zyk" dep="0zyj-flat" mark="resolved">
+  <w_ id="0zyk" dep="0zyi-nsubj" mark="resolved">
     <w lemma="тисяча" ana="noun:inanim:p:f:v_naz:&amp;_numr">тисячі</w>
   </w_>
-  <w_ id="0zyl" dep="0zyi-nsubj">
+  <w_ id="0zyl" dep="0zyk-nmod">
     <w lemma="автор" ana="noun:anim:p:m:v_rod">авторів</w>
   </w_>
   <g/>

@@ -1761,14 +1761,14 @@
       <w_ id="27d1">
         <w lemma="стартувати" ana="verb:perf:past:p">стартували</w>
       </w_>
-      <w_ id="27d2" dep="27d3-case">
+      <w_ id="27d2" dep="27d7-case">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="27d3" dep="27d1-obl">
+      <w_ id="27d3" dep="27d7-nmod">
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <g/>
-      <w_ id="27d4" dep="27d3-nummod">
+      <w_ id="27d4" dep="27d7-nummod">
         <w lemma="11" ana="numr:v_rod:nv">11</w>
       </w_>
       <g/>
@@ -1779,7 +1779,7 @@
       <w_ id="27d6" dep="27d4-compound">
         <w lemma="8" ana="numr:v_rod:nv">8</w>
       </w_>
-      <w_ id="27d7" dep="27d4-flat">
+      <w_ id="27d7" dep="27d1-obl">
         <w lemma="тис." ana="noun:inanim:f:v_rod:nv:abbr:&amp;_numr">тис</w>
       </w_>
       <g/>
@@ -1787,17 +1787,17 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <g/>
-      <w_ id="27d9">
+      <w_ id="27d9" dep="27da-punct">
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
-      <w_ id="27da" dep="27d3-nmod">
+      <w_ id="27da">
         <w lemma="рік" ana="noun:inanim:m:v_zna">рік</w>
       </w_>
       <w_ id="27db" dep="27dc-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="27dc" dep="27d3-nmod">
+      <w_ id="27dc">
         <w lemma="член" ana="noun:anim:m:v_zna">члена</w>
       </w_>
       <w_ id="27dd" dep="27dc-nmod">
@@ -1832,7 +1832,7 @@
       <w_ id="27dm" dep="27dk-obl">
         <w lemma="коефіцієнт" ana="noun:inanim:m:v_oru">коефіцієнтом</w>
       </w_>
-      <w_ id="27dn">
+      <w_ id="27dn" dep="27dm-flat:title">
         <w lemma="3" ana="numr:v_naz:nv">3</w>
       </w_>
       <g/>
@@ -1880,11 +1880,11 @@
       <w_ id="27e0">
         <w lemma="мати" ana="verb:imperf:past:p">мали</w>
       </w_>
-      <w_ id="27e1" dep="27e0-obj">
+      <w_ id="27e1" dep="27e5-nmod">
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <g/>
-      <w_ id="27e2" dep="27e1-nummod">
+      <w_ id="27e2" dep="27e5-nummod">
         <w lemma="5" ana="numr:v_zna:nv">5</w>
       </w_>
       <g/>
@@ -1895,7 +1895,7 @@
       <w_ id="27e4" dep="27e2-compound">
         <w lemma="8" ana="numr:v_zna:nv">8</w>
       </w_>
-      <w_ id="27e5" dep="27e2-fixed">
+      <w_ id="27e5" dep="27e0-obj">
         <w lemma="тис." ana="noun:inanim:f:v_rod:nv:abbr:&amp;_numr">тис</w>
       </w_>
       <g/>
@@ -2171,14 +2171,14 @@
       <w_ id="27go" dep="27gn-nmod">
         <w lemma="сім’я" ana="noun:inanim:f:v_rod">сім’ї</w>
       </w_>
-      <w_ id="27gp" dep="27gq-case">
+      <w_ id="27gp" dep="27gu-case">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="27gq" dep="27gl-obl">
+      <w_ id="27gq" dep="27gu-nmod">
         <w lemma="€" ana="noun:inanim:p:n:v_rod:nv:symbol">€</w>
       </w_>
       <g/>
-      <w_ id="27gr" dep="27gq-nummod">
+      <w_ id="27gr" dep="27gu-nummod">
         <w lemma="7" ana="numr:v_rod:nv">7</w>
       </w_>
       <g/>
@@ -2186,24 +2186,24 @@
         <w lemma="," ana="punct">,</w>
       </w_>
       <g/>
-      <w_ id="27gt" dep="27gr-flat">
+      <w_ id="27gt" dep="27gr-compound">
         <w lemma="2" ana="numr:f:v_rod:nv">2</w>
       </w_>
-      <w_ id="27gu" dep="27gt-flat">
+      <w_ id="27gu">
         <w lemma="тис." ana="noun:inanim:p:f:v_rod:nv:abbr:&amp;_numr">тис</w>
       </w_>
       <g/>
       <w_ id="27gv" dep="27gu-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="27gw" dep="27gx-case">
+      <w_ id="27gw" dep="27h1-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="27gx" dep="27gq-conj">
+      <w_ id="27gx" dep="27h1-nmod">
         <w lemma="€" ana="noun:inanim:p:n:v_rod:nv:symbol">€</w>
       </w_>
       <g/>
-      <w_ id="27gy" dep="27gx-nummod">
+      <w_ id="27gy" dep="27h1-nummod:gov">
         <w lemma="15" ana="numr:v_rod:nv">15</w>
       </w_>
       <g/>
@@ -2211,10 +2211,10 @@
         <w lemma="," ana="punct">,</w>
       </w_>
       <g/>
-      <w_ id="27h0" dep="27gy-flat">
+      <w_ id="27h0" dep="27gy-compound">
         <w lemma="3" ana="adj:f:v_rod:nv:&amp;numr">3</w>
       </w_>
-      <w_ id="27h1" dep="27h0-flat">
+      <w_ id="27h1">
         <w lemma="тис." ana="noun:inanim:p:f:v_rod:nv:abbr:&amp;_numr">тис</w>
       </w_>
       <g/>
@@ -2290,7 +2290,7 @@
       <w_ id="27hp" dep="27ho-obj">
         <w lemma="коефіцієнт" ana="noun:inanim:m:v_zna">коефіцієнт</w>
       </w_>
-      <w_ id="27hq">
+      <w_ id="27hq" dep="27hp-flat:title">
         <w lemma="4" ana="numr:v_naz:nv">4</w>
       </w_>
       <g/>
@@ -2350,14 +2350,14 @@
       <w_ id="27i7" dep="27i4-obj">
         <w lemma="дохід" ana="noun:inanim:m:v_zna">дохід</w>
       </w_>
-      <w_ id="27i8" dep="27i9-case">
+      <w_ id="27i8" dep="27id-case">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="27i9">
+      <w_ id="27i9" dep="27id-nmod">
         <w lemma="€" ana="noun:inanim:p:n:v_rod:nv:symbol">€</w>
       </w_>
       <g/>
-      <w_ id="27ia">
+      <w_ id="27ia" dep="27id-nummod">
         <w lemma="5" ana="numr:v_rod:nv">5</w>
       </w_>
       <g/>
@@ -2372,7 +2372,7 @@
         <w lemma="тис." ana="noun:inanim:p:f:v_rod:nv:abbr:&amp;_numr">тис</w>
       </w_>
       <g/>
-      <w_ id="27ie">
+      <w_ id="27ie" dep="27id-acl">
         <w lemma="." ana="punct">.</w>
       </w_>
       <g/>
@@ -2480,7 +2480,7 @@
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="27je">
+      <w_ id="27je" dep="27jf-nummod:gov">
         <w lemma="180" ana="numr:v_naz:nv">180</w>
       </w_>
       <w_ id="27jf">
@@ -2500,7 +2500,7 @@
       <w_ id="27jj">
         <w lemma="із" ana="prep:rv_rod">із</w>
       </w_>
-      <w_ id="27jk">
+      <w_ id="27jk" dep="27jl-nummod">
         <w lemma="2" ana="numr:p:v_rod:nv">2</w>
       </w_>
       <w_ id="2eqk" dep="2eql-punct">
@@ -2792,7 +2792,7 @@
       <w_ id="27m3">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="27m4">
+      <w_ id="27m4" dep="27m5-nummod">
         <w lemma="583" ana="numr:v_rod:nv">583</w>
       </w_>
       <w_ id="27m5">
@@ -2838,7 +2838,7 @@
       <w_ id="27mh">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="27mi">
+      <w_ id="27mi" dep="27mj-nummod">
         <w lemma="272" ana="numr:p:v_rod:nv">272</w>
       </w_>
       <w_ id="27mj">
@@ -5560,10 +5560,10 @@
       <w_ id="28b4">
         <w lemma="казати" ana="verb:imperf:past:p">казали</w>
       </w_>
-      <w_ id="28b5" dep="28bb-case">
+      <w_ id="28b5" dep="28b7-case">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="28b6" dep="28bb-nummod">
+      <w_ id="28b6" dep="28b7-nummod">
         <w lemma="1" ana="numr:p:v_zna:nv">1</w>
       </w_>
       <w_ id="2eqm" dep="2eqn-punct">
@@ -5572,7 +5572,7 @@
       <w_ id="2eqn" dep="28b6-compound">
         <w lemma="2" ana="numr:p:v_zna:nv">2</w>
       </w_>
-      <w_ id="28b7" dep="28b6-flat">
+      <w_ id="28b7" dep="28b4-obl">
         <w lemma="тис." ana="noun:inanim:f:v_rod:nv:abbr:&amp;_numr">тис</w>
       </w_>
       <g/>
@@ -5585,7 +5585,7 @@
       <w_ id="28ba" dep="28bb-amod">
         <w lemma="електричний" ana="adj:p:v_rod">електричних</w>
       </w_>
-      <w_ id="28bb" dep="28b4-obl">
+      <w_ id="28bb" dep="28b7-nmod">
         <w lemma="авто" ana="noun:inanim:p:n:v_rod:nv">авто</w>
       </w_>
       <g/>
@@ -5739,10 +5739,10 @@
       <w_ id="28cn" dep="28c1-conj:parataxis">
         <w lemma="становити" ana="verb:imperf:futr:s:3">становитиме</w>
       </w_>
-      <w_ id="28co" dep="28cn-obj" tags="promoted">
+      <w_ id="28co" dep="28cp-nummod">
         <w lemma="63" ana="numr:v_zna:nv">63</w>
       </w_>
-      <w_ id="28cp" dep="28co-flat">
+      <w_ id="28cp" dep="28cn-obj">
         <w lemma="тис." ana="noun:inanim:p:f:v_zna:nv:abbr:&amp;_numr">тис</w>
       </w_>
       <g/>

@@ -1855,14 +1855,14 @@
       <w_ id="1utv" dep="1uti-acl">
         <w lemma="виділятися" ana="verb:rev:imperf:past:n">виділялося</w>
       </w_>
-      <w_ id="1utw" dep="1utv-obj">
+      <w_ id="1utw" dep="1uty-nmod">
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <g/>
-      <w_ id="1utx" dep="1uty-compound">
+      <w_ id="1utx" dep="1uty-nummod:gov">
         <w lemma="350" ana="numr:v_naz:nv">350</w>
       </w_>
-      <w_ id="1uty" dep="1utw-nummod:gov">
+      <w_ id="1uty" dep="1utv-obj">
         <w lemma="млн" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
       <g/>
@@ -2117,7 +2117,7 @@
       <w_ id="1uwb">
         <w lemma="віддати" ana="verb:perf:past:f">віддала</w>
       </w_>
-      <w_ id="1uwc" dep="1uwd-compound">
+      <w_ id="1uwc" dep="1uwd-nummod">
         <w lemma="3" ana="numr:v_zna:nv">3</w>
       </w_>
       <w_ id="2eo4" dep="2eo5-punct">
@@ -2126,10 +2126,10 @@
       <w_ id="2eo5" dep="1uwc-compound">
         <w lemma="5" ana="numr:v_zna:nv">5</w>
       </w_>
-      <w_ id="1uwd" dep="1uwe-nummod:gov">
+      <w_ id="1uwd" dep="1uwb-obj">
         <w lemma="мільйон" ana="noun:inanim:m:v_rod:&amp;_numr">мільйона</w>
       </w_>
-      <w_ id="1uwe" dep="1uwb-obj">
+      <w_ id="1uwe" dep="1uwd-nmod">
         <w lemma="гривня" ana="noun:inanim:p:f:v_rod">гривень</w>
       </w_>
       <g/>
@@ -3079,13 +3079,13 @@
       <w_ id="1v51">
         <w lemma="позичити" ana="verb:perf:past:m">позичив</w>
       </w_>
-      <w_ id="1v52">
+      <w_ id="1v52" dep="1v53-nummod:gov">
         <w lemma="308" ana="numr:v_zna:nv">308</w>
       </w_>
-      <w_ id="1v53">
+      <w_ id="1v53" dep="1v51-obj">
         <w lemma="мільярд" ana="noun:inanim:p:m:v_rod:&amp;_numr">мільярдів</w>
       </w_>
-      <w_ id="1v54" dep="1v51-obj">
+      <w_ id="1v54" dep="1v53-nmod">
         <w lemma="гривня" ana="noun:inanim:p:f:v_rod">гривень</w>
       </w_>
       <sb id="1v55"/>
@@ -3134,10 +3134,10 @@
       <w_ id="1v5l" dep="1v5i-nmod">
         <w lemma="позика" ana="noun:inanim:f:v_rod">позики</w>
       </w_>
-      <w_ id="1v5m" dep="1v5p-case">
+      <w_ id="1v5m" dep="1v5o-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1v5n" dep="1v5o-compound">
+      <w_ id="1v5n" dep="1v5o-nummod">
         <w lemma="129" ana="numr:v_zna:nv">129</w>
       </w_>
       <w_ id="2eo6" dep="2eo7-punct">
@@ -3146,10 +3146,10 @@
       <w_ id="2eo7" dep="1v5n-compound">
         <w lemma="2" ana="numr:p:v_zna:nv">2</w>
       </w_>
-      <w_ id="1v5o" dep="1v5p-nummod:gov">
+      <w_ id="1v5o" dep="1v5i-nmod" comment="чи з _випустив_?">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
-      <w_ id="1v5p" dep="1v5i-nmod">
+      <w_ id="1v5p" dep="1v5o-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
@@ -3238,16 +3238,16 @@
       <w_ id="1v6j" dep="1v6p-nsubj">
         <w lemma="облігація" ana="noun:inanim:p:f:v_naz">облігації</w>
       </w_>
-      <w_ id="1v6k" dep="1v6n-case">
+      <w_ id="1v6k" dep="1v6m-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1v6l">
+      <w_ id="1v6l" dep="1v6m-nummod:gov">
         <w lemma="107" ana="numr:v_zna:nv">107</w>
       </w_>
-      <w_ id="1v6m">
+      <w_ id="1v6m" dep="1v6j-nmod">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
-      <w_ id="1v6n" dep="1v6j-nmod">
+      <w_ id="1v6n" dep="1v6m-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <w_ id="1v6o" dep="1v6p-cop">
@@ -3280,10 +3280,10 @@
       <w_ id="1v6w">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1v6x" dep="1v70-case">
+      <w_ id="1v6x" dep="1v6z-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1v6y">
+      <w_ id="1v6y" dep="1v6z-nummod">
         <w lemma="9" ana="numr:v_zna:nv">9</w>
       </w_>
       <w_ id="2eo8" dep="2eo9-punct">
@@ -3295,7 +3295,7 @@
       <w_ id="1v6z">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
-      <w_ id="1v70">
+      <w_ id="1v70" dep="1v6z-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <w_ id="1v71">
@@ -3319,16 +3319,16 @@
       <w_ id="1v76">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1v77" dep="1v7a-case">
+      <w_ id="1v77" dep="1v79-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1v78">
+      <w_ id="1v78" dep="1v79-nummod:gov">
         <w lemma="5" ana="numr:v_zna:nv">5</w>
       </w_>
       <w_ id="1v79">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
-      <w_ id="1v7a">
+      <w_ id="1v7a" dep="1v79-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <w_ id="1v7b">
@@ -3352,10 +3352,10 @@
       <w_ id="1v7g">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1v7h">
+      <w_ id="1v7h" dep="1v7j-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1v7i">
+      <w_ id="1v7i" dep="1v7j-nummod">
         <w lemma="7" ana="numr:v_zna:nv">7</w>
       </w_>
       <w_ id="2eoa" dep="2eob-punct">
@@ -3367,7 +3367,7 @@
       <w_ id="1v7j">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
-      <w_ id="1v7k">
+      <w_ id="1v7k" dep="1v7j-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <w_ id="1v7l">
@@ -3438,7 +3438,7 @@
       <w_ id="1v88">
         <w lemma="становити" ana="verb:imperf:past:f">становила</w>
       </w_>
-      <w_ id="1v89" dep="1v8a-compound">
+      <w_ id="1v89" dep="1v8a-nummod">
         <w lemma="117" ana="numr:v_zna:nv">117</w>
       </w_>
       <w_ id="2eoc" dep="2eod-punct">
@@ -3447,10 +3447,10 @@
       <w_ id="2eod" dep="1v89-compound">
         <w lemma="2" ana="numr:p:v_zna:nv">2</w>
       </w_>
-      <w_ id="1v8a" dep="1v8b-nummod:gov">
+      <w_ id="1v8a" dep="1v88-obj">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
-      <w_ id="1v8b" dep="1v88-obj">
+      <w_ id="1v8b" dep="1v8a-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
@@ -3525,7 +3525,7 @@
       <w_ id="1v8y" dep="1v8l-parataxis">
         <w lemma="становити" ana="verb:imperf:past:p">становили</w>
       </w_>
-      <w_ id="1v8z" dep="1v90-compound">
+      <w_ id="1v8z" dep="1v90-nummod">
         <w lemma="61" ana="numr:p:v_zna:nv">61</w>
       </w_>
       <w_ id="2eog" dep="2eoh-punct">
@@ -3534,10 +3534,10 @@
       <w_ id="2eoh" dep="1v8z-compound">
         <w lemma="3" ana="numr:v_zna:nv">3</w>
       </w_>
-      <w_ id="1v90" dep="1v91-nummod:gov">
+      <w_ id="1v90" dep="1v8y-obj">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
-      <w_ id="1v91" dep="1v8y-obj">
+      <w_ id="1v91" dep="1v90-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>

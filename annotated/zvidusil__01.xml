@@ -4041,7 +4041,7 @@
       <w_ id="1m46" dep="1m45-nmod">
         <w lemma="Полтава" ana="noun:inanim:f:v_rod:prop">Полтави</w>
       </w_>
-      <w_ id="1m47" dep="1m4a-case">
+      <w_ id="1m47" dep="1m49-case">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
       <w_ id="1m48" dep="1m49-nummod">
@@ -4053,10 +4053,10 @@
       <w_ id="2ent" dep="1m48-compound">
         <w lemma="5" ana="numr:v_naz:nv">5</w>
       </w_>
-      <w_ id="1m49" dep="1m4a-nummod:gov">
+      <w_ id="1m49" dep="1m44-obl">
         <w lemma="млн" ana="noun:inanim:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
-      <w_ id="1m4a" dep="1m44-obl">
+      <w_ id="1m4a" dep="1m49-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
@@ -4066,11 +4066,11 @@
       <w_ id="1m4c" dep="1m4i-mark">
         <w lemma="тобто" ana="conj:subord">тобто</w>
       </w_>
-      <w_ id="1m4d" dep="1m4h-case">
+      <w_ id="1m4d" dep="1m4g-case">
         <w lemma="по" ana="prep:rv_zna">по</w>
       </w_>
       <!-- <w_ id="1m4e" dep="1m4h-case" comment="задвоїло по"><w lemma="по" ana="prep:rv_zna">по</w></w_> -->
-      <w_ id="1m4f" dep="1m4g-compound">
+      <w_ id="1m4f" dep="1m4g-compound|1m4g-nummod">
         <w lemma="4" ana="numr:v_zna:nv">4</w>
       </w_>
       <w_ id="2enu" dep="2env-punct">
@@ -4079,10 +4079,10 @@
       <w_ id="2env" dep="1m4f-compound">
         <w lemma="9" ana="numr:v_zna:nv">9</w>
       </w_>
-      <w_ id="1m4g" dep="1m4h-nummod:gov">
+      <w_ id="1m4g" dep="1m4i-obl">
         <w lemma="млн" ana="noun:inanim:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
-      <w_ id="1m4h" dep="1m4i-obl">
+      <w_ id="1m4h" dep="1m4g-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <w_ id="1m4i" dep="1m44-parataxis:thatis" tags="promoted" comment="~">
@@ -4152,13 +4152,13 @@
       <w_ id="1m52" dep="1m4y-obj">
         <w lemma="сума" ana="noun:inanim:f:v_zna">суму</w>
       </w_>
-      <w_ id="1m53" dep="1m57-punct">
+      <w_ id="1m53" dep="1m56-acl">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="1m54" dep="1m57-discourse">
+      <w_ id="1m54" dep="1m56-discourse">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
-      <w_ id="1m55" dep="1m56-compound">
+      <w_ id="1m55" dep="1m56-nummod">
         <w lemma="9" ana="numr:v_zna:nv">9</w>
       </w_>
       <w_ id="2enw" dep="2enx-punct">
@@ -4167,10 +4167,10 @@
       <w_ id="2enx" dep="1m55-compound">
         <w lemma="8" ana="numr:v_zna:nv">8</w>
       </w_>
-      <w_ id="1m56" dep="1m57-nummod:gov">
+      <w_ id="1m56" dep="1m52-appos">
         <w lemma="млн" ana="noun:inanim:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
-      <w_ id="1m57" dep="1m52-appos">
+      <w_ id="1m57" dep="1m56-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
