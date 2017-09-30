@@ -2183,7 +2183,7 @@
       <w_ id="33fa" dep="33fg-cc" n="651">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="33fb" n="652">
+      <w_ id="33fb" dep="33fg-nsubj" n="652">
         <w lemma="мр." ana="noun:anim:m:v_naz:nv:abbr">мр</w>
       </w_>
       <g/>
@@ -2193,7 +2193,7 @@
       <w_ id="33fd" dep="33fb-flat:title" n="654">
         <w lemma="Фред" ana="noun:anim:m:v_naz:prop:fname">Фред</w>
       </w_>
-      <w_ id="33fe" dep="33fd-flat:name|33fg-nsubj" n="655">
+      <w_ id="33fe" dep="33fd-flat:name" n="655">
         <w lemma="Кетлінг" ana="noun:anim:m:v_naz:prop:lname">Кетлінг</w>
       </w_>
       <w_ id="33ff" dep="33fg-cop" n="656">
@@ -4797,10 +4797,10 @@
       <w_ id="343f" dep="343e-punct" n="1442">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="343g" comment="adj:n:v_naz:compb:&amp;amp;numr" n="1443">
+      <w_ id="343g" dep="343j-nsubj" comment="#&gt;adj:n:v_naz:compb:&amp;amp;numr" n="1443">
         <w lemma="1" ana="numr:n:v_naz:nv">1</w>
       </w_>
-      <w_ id="343h" dep="343g-nmod|343j-nsubj" n="1444">
+      <w_ id="343h" dep="343g-nmod" n="1444">
         <w lemma="вересень" ana="noun:inanim:m:v_rod">вересня</w>
       </w_>
       <w_ id="343i" dep="343j-punct" n="1445">
