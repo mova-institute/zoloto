@@ -531,7 +531,7 @@
       <w_ id="233v" dep="233y-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="233w" dep="233y-det">
+      <w_ id="233w" comment="#такі">
         <w lemma="такий" ana="adj:f:v_zna:&amp;pron:dem">таку</w>
       </w_>
       <w_ id="233x" dep="233y-obj">
@@ -1307,7 +1307,7 @@
       <w_ id="23b8" dep="23ba-nsubj">
         <w lemma="тушка" ana="noun:inanim:f:v_naz">тушка</w>
       </w_>
-      <w_ id="23b9" dep="23ba-det">
+      <w_ id="23b9" dep="23ba-det" comment="#такі">
         <w lemma="якийсь" ana="adj:f:v_naz:&amp;pron:ind">якась</w>
       </w_>
       <w_ id="23ba" dep="23b4-conj:parataxis">
@@ -4749,11 +4749,11 @@
       <w_ id="246f" dep="246g-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="246g" dep="246j-discourse">
+      <w_ id="246g" dep="246j-parataxis:discourse">
         <w lemma="пам’ятати" ana="verb:imperf:pres:s:1">пам’ятаю</w>
       </w_>
       <g/>
-      <w_ id="246h" dep="246g-punct" comment="чия кома?">
+      <w_ id="246h" dep="246g-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="246i" dep="246j-nsubj">
