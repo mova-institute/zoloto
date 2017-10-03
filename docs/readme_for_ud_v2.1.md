@@ -1,3 +1,9 @@
+<!--
+
+citing
+known issues
+
+ -->
 ## Universal Dependencies for Ukrainian
 This treebank is developed by Institute for Ukrainian, NGO.
 
@@ -12,7 +18,8 @@ The annotation is fully manual, done for UD v2 initially (no conversions).
 | TOTAL |    5853   |  100K  |
 
 ### Annotation procedure
-Morphology is annotated using 2+1 schema. Syntax is single-pass plus supervisor’s check. Consistency is then enforced by ~200 validation and autofix rules.
+Morphology is annotated using 2+1 schema. Syntax is single-pass plus supervisor’s check.
+Consistency is enforced by ~200 validation/autofix rules.
 
 
 ### Contribution/Development
@@ -23,7 +30,7 @@ The original development happens at [mova-institute/corpus](https://github.com/m
 + Arabic and Roman numerals have full morphological info.
 
 ### Data split
-Data is split linearly by hand to balance train/dev/test in genre & complexity.
+Data is split to train/dev/test linearly by hand at 70%/15%/15% to balance in genre & complexity.
 
 ### Format
 UD Ukrainian data conforms to [CoNLL-U](http://universaldependencies.org/format.html) format with the following specific features:
@@ -49,6 +56,7 @@ UD Ukrainian data conforms to [CoNLL-U](http://universaldependencies.org/format.
 
 ### Contacts
 Natalia Kotsyba: [gnatko@gmail.com](mailto:gnatko@gmail.com)
+
 Bohdan Moskalevskyi: [msklvsk@icloud.com](mailto:msklvsk@icloud.com)
 
 <!--
