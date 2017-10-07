@@ -68,6 +68,8 @@
       <w_ id="2eug" dep="2euh-punct" n="18">
         <w lemma="-" ana="punct">-</w>
       </w_>
+      <g/>
+      <!-- тут насправді перенос, як позначимо? -->
       <w_ id="2euh" dep="2euf-appos" n="19">
         <w lemma="підприємець" ana="noun:anim:p:m:v_naz">підприємці</w>
       </w_>
@@ -3787,16 +3789,12 @@
       <w_ id="2fpe" dep="2fpi-amod" n="1132">
         <w lemma="регіональний" ana="adj:p:v_oru">регіональними</w>
       </w_>
-      <w_ id="2fpf" dep="2fph-compound" n="1133">
-        <w lemma="торговий" ana="adj:beforeadj">торгово</w>
-      </w_>
-      <g/>
-      <w_ id="2fpg" dep="2fpf-punct" n="1134">
-        <w lemma="-" ana="punct">-</w>
-      </w_>
+      <!-- <w_ id="2fpf" dep="2fph-compound" n="1133"><w lemma="торговий" ana="adj:beforeadj">торгово</w></w_> -->
+      <!-- <g/><w_ id="2fpg" dep="2fpf-punct" n="1134"><w lemma="-" ana="punct">-</w></w_> -->
       <w_ id="2fph" dep="2fpi-amod" n="1135">
-        <w lemma="промисловий" ana="adj:p:v_oru">промисловими</w>
+        <w lemma="торговопромисловий" ana="adj:p:v_oru">торговопромисловими</w>
       </w_>
+      <!-- в оригіналі разом -->
       <w_ id="2fpi" dep="2fpb-conj" n="1136">
         <w lemma="палата" ana="noun:inanim:p:f:v_oru">палатами</w>
       </w_>
