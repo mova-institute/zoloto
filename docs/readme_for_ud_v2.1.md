@@ -2,6 +2,10 @@
 
 citing
 known issues
+spacing errors preserved, even OCR
+holes
+
+
 
  -->
 ## Universal Dependencies for Ukrainian
