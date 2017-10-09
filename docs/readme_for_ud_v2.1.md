@@ -10,11 +10,32 @@ browse brat
 play with parser
 accuracy stats
 
+translations, time, genre, domain
+
+document count
+
+Belles-lettres Opinion journalism
+essay?
+fiction
+comments / social chat / forum
+scientifical article
+historical article
+folk fairytale
+legal (law, contract)
+school textbook on science
+letters of classics'
+info article
+upa
+yu
+news
+
+
  -->
 ## Universal Dependencies for Ukrainian
 This treebank is developed by Institute for Ukrainian, NGO.
 
-The annotation is fully manual, done for UD v2 initially (no conversions).
+The annotation is fully manual, done for UD v2 initially.
+It’s licenced under the Creative Commons [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and is free for non-commercial use. Commercial licensing is also available; please contact us if you are interested.
 
 ### Basic stats
 | set   | sentences | ~tokens |
@@ -37,14 +58,14 @@ Data is split to train/dev/test linearly by hand at 70%/15%/15% to balance in ge
 ### Format
 UD Ukrainian data conforms to [CoNLL-U](http://universaldependencies.org/format.html) format with the following specifics:
 * Sentence-level comments:
-  * Document boundaries are present via `# newdoc id = xxxx`.
-  * Sentence-level paragraph boundaries are present via `# newpar id = xxxx`.
-  * Document titles are present via `# doc_title = Назва`.
+  * Document boundaries are present as `# newdoc id = xxxx`.
+  * Sentence-level paragraph boundaries are present as `# newpar id = xxxx`.
+  * Document titles are present as `# doc_title = Назва`.
 * XPOSTAG column contains [MTE](http://nl.ijs.si/ME/V4/msd/html/msd-uk.html) tag with `U` for punctuation.
 * No enhanced dependencies or empty nodes present in DEPS column.
 * MISC column:
-  * Token-level paragraph boundaries are present via `NewPar=Yes`.
-  * Token ids are present via `Id=xxxx`.
+  * Token-level paragraph boundaries are present as `NewPar=Yes`.
+  * Token ids are present as `Id=xxxx`.
   * `SpaceAfter=No` markers are present.
 * Document, paragraph, sentence, and token ids are 4-character base-32 numbers. They survive treebank updates.
 
