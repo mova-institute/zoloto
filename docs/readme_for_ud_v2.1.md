@@ -29,28 +29,28 @@ upa
 yu
 news
 
+### Notable facts
++ Arabic and Roman numerals have full morphological info.
+
 
  -->
 ## Universal Dependencies for Ukrainian
-This treebank is developed by Institute for Ukrainian, NGO.
+The Ukrainian UD treebank is developed by Institute for Ukrainian, NGO.
 
 The annotation is fully manual, done for UD v2 initially.
 It’s licenced under the Creative Commons [BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) and is free for non-commercial use. Commercial licensing is also available; please contact us if you are interested.
 
 ### Basic stats
-| set   | sentences | ~tokens |
-| ----- |----------:| -------:|
-| train |    4080   |    80K  |
-| dev   |     826   |    15K  |
-| test  |     850   |    15K  |
-| TOTAL |    5853   |   100K  |
+| set   | sentences | ~tokens | %tokens |
+| ----- |----------:| -------:| -------:|
+| train |    4080   |    70K  |    70%  |
+| dev   |     826   |    15K  |    15%  |
+| test  |     850   |    15K  |    15%  |
+| TOTAL |    5853   |   100K  |   100%  |
 
 ### Annotation procedure
 Morphology is annotated using 2+1 schema. Syntax is a single-pass plus supervisor’s check.
 Consistency is further enforced by ~200 validation and autofix rules.
-
-### Notable facts
-+ Arabic and Roman numerals have full morphological info.
 
 ### Data split
 Data is split to train/dev/test linearly by hand at 70%/15%/15% to balance in genre & complexity. Some large documents are divided across datasets.
@@ -61,7 +61,13 @@ UD Ukrainian data conforms to [CoNLL-U](http://universaldependencies.org/format.
   * Document boundaries are present as `# newdoc id = xxxx`.
   * Sentence-level paragraph boundaries are present as `# newpar id = xxxx`.
   * Document titles are present as `# doc_title = Назва`.
-* XPOSTAG column contains [MTE](http://nl.ijs.si/ME/V4/msd/html/msd-uk.html) tag with `U` for punctuation.
+  <!-- * If a sentence follows
+  * `# annotation_gap` marks sentences following anntotational gap, that is, when
+  * `# gap` marks sentences following document gap -->
+  * Gaps in in the text are marked on the sentences following the gap as
+    * `# annotation_gap` for sentences not exported to CoNLL-U because annotator was unable to parse it with confidence (new guilines need to be created etc.)
+    * `# annotation_gap` for intentional gaps in texts
+* XPOSTAG column contains [MTE](http://nl.ijs.si/ME/V4/msd/html/msd-uk.html) tag with `U` for punctuation. UPOS+FEATS contain all the information in XPOSTAG and more. XPOSTAG is intended for legacy applications.
 * No enhanced dependencies or empty nodes present in DEPS column.
 * MISC column:
   * Token-level paragraph boundaries are present as `NewPar=Yes`.
@@ -115,9 +121,10 @@ Natalia Kotsyba: [gnatko@gmail.com](mailto:gnatko@gmail.com)
 
 Bohdan Moskalevskyi: [msklvsk@icloud.com](mailto:msklvsk@icloud.com)
 
-<!--
---- Machine readable metadata ---
-#Do not remove
+-----------
+
+```
+=== Machine-readable metadata =================================================
 Documentation status: partial
 Data source: manual
 Data available since: UD v1.4
@@ -125,4 +132,5 @@ License: CC BY-NC-SA 4.0
 Genre: news fiction nonfiction legal social wiki web
 Contributors: Kotsyba, Natalia; Moskalevskyi, Bohdan
 Contact: org@mova.institute
--->
+===============================================================================
+```
