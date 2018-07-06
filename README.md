@@ -31,6 +31,7 @@
     1. [протокол морфологічного розмічування](https://docs.google.com/document/d/1giVJdDax4v_YLlv0OaZaVvf23Lwul8BiPlT8MBvZBek/edit)
     1. [підручник зі синтакс розмічування](https://docs.google.com/document/d/1ZfdtfWlNM6Ca-Ps50TVE-g416wpjXxr5Uxmex8oKzng)
     1. [роботи над помилками / старі „як це позначати“](https://drive.google.com/drive/u/0/folders/0B-eNN4I2IodObXFldURJV1VGdnM)
+    1. [інструкція з кореференції](https://docs.google.com/document/d/1wsMC70jdxZfGvV2jIkfrMTa1D0lToglPjx2mzV9_dd4) 
 1. [mova.institute](https://mova.institute) (титульний сайт)
     1. [сторінка про цей корпус](https://mova.institute/золотий_стандарт)
     1. [демо аналізатора](https://mova.institute/аналізатор)
