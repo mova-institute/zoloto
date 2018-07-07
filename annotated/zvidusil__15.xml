@@ -27,7 +27,7 @@
       <w_ id="25rc" dep="25re-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25rd" dep="25re-nsubj">
+      <w_ id="25rd" dep="25re-nsubj" coref="25r8-corefora:cl">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="25re" dep="25r8-parataxis">
@@ -78,7 +78,7 @@
       <w_ id="25rt" dep="25s3-obl">
         <w lemma="кінець" ana="noun:inanim:m:v_mis">кінці</w>
       </w_>
-      <w_ id="25ru" dep="25rt-nmod">
+      <w_ id="25ru" dep="25rt-nmod" coref="25ri-bridge">
         <w lemma="серія" ana="noun:inanim:f:v_rod">серії</w>
       </w_>
       <w_ id="25rv" dep="25rw-punct">
@@ -123,7 +123,7 @@
       <w_ id="25s7" dep="25s5-nmod">
         <w lemma="збірка" ana="noun:inanim:f:v_rod">збірки</w>
       </w_>
-      <w_ id="25s8" dep="25s7-nmod">
+      <w_ id="25s8" dep="25s7-nmod" coref="25ra-corefora">
         <w lemma="Вітмен" ana="noun:anim:m:v_rod:prop:lname">Вітмена</w>
       </w_>
       <w_ id="25s9" dep="25sa-punct">
@@ -151,7 +151,7 @@
       <w_ id="25sf" dep="25sh-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25sg" dep="25sh-nsubj">
+      <w_ id="25sg" dep="25sh-nsubj" coref="25se-corefora">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="25sh" dep="25se-acl">
@@ -166,7 +166,7 @@
       <w_ id="25sk" dep="25sl-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="25sl" dep="25sh-obl">
+      <w_ id="25sl" dep="25sh-obl" coref="25ri-bridge">
         <w lemma="серіал" ana="noun:inanim:m:v_mis">серіалі</w>
       </w_>
       <g/>
@@ -180,7 +180,7 @@
       <w_ id="25sp" dep="25sq-amod">
         <w lemma="попередній" ana="adj:p:v_mis">попередніх</w>
       </w_>
-      <w_ id="25sq" dep="25st-obl">
+      <w_ id="25sq" dep="25st-obl" coref="25ri-bridge">
         <w lemma="сезон" ana="noun:inanim:p:m:v_mis">сезонах</w>
       </w_>
       <w_ id="25sr" dep="25st-nsubj">
@@ -192,20 +192,20 @@
       <w_ id="25st">
         <w lemma="дати" ana="verb:perf:past:m">дав</w>
       </w_>
-      <w_ id="25su" dep="25st-iobj">
+      <w_ id="25su" dep="25st-iobj" comment-coref="цікаво" coref="25r6-corefora">
         <w lemma="Волт" ana="noun:anim:m:v_dav:prop:fname">Волту</w>
       </w_>
       <w_ id="25sv" dep="25st-obj">
         <w lemma="копія" ana="noun:inanim:f:v_zna">копію</w>
       </w_>
-      <w_ id="25sw" dep="25sv-nmod">
+      <w_ id="25sw" dep="25sv-nmod" coref="25s7-corefora">
         <w lemma="книга" ana="noun:inanim:f:v_rod">книги</w>
       </w_>
       <g/>
       <w_ id="25sx" dep="25t1-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25sy" dep="25t1-nsubj">
+      <w_ id="25sy" dep="25t1-nsubj" coref="25sv-corefora">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="25sz" dep="25t1-advmod">
@@ -223,7 +223,7 @@
       <w_ id="25t3" dep="25t4-det">
         <w lemma="той" ana="adj:m:v_rod:&amp;pron:dem">того</w>
       </w_>
-      <w_ id="25t4" dep="25t1-obl">
+      <w_ id="25t4" dep="25t1-obl" comment-coref="~" coref="25st-corefora:cl">
         <w lemma="час" ana="noun:inanim:m:v_rod">часу</w>
       </w_>
       <g/>
@@ -234,23 +234,23 @@
       <w_ id="25t7" dep="25t8-case">
         <w lemma="до" ana="prep:rv_rod">До</w>
       </w_>
-      <w_ id="25t8">
+      <w_ id="25t8" comment-coref="!" coref="25ta-corefora:cl">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
       <w_ id="25t9">
         <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
-      <w_ id="25ta">
+      <w_ id="25ta" dep="25t8-acl">
         <w lemma="подарувати" ana="verb:perf:inf">подарувати</w>
       </w_>
-      <w_ id="25tb" dep="25ta-obj">
+      <w_ id="25tb" dep="25ta-obj" coref="25sv-corefora">
         <w lemma="книга" ana="noun:inanim:f:v_zna">книгу</w>
       </w_>
       <g/>
-      <w_ id="25tc">
+      <w_ id="25tc" dep="25ta-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25td" dep="25tl-nsubj">
+      <w_ id="25td" dep="25tl-nsubj" coref="25sr-corefora">
         <w lemma="Ботікер" ana="noun:anim:m:v_naz:prop:lname">Ботікер</w>
       </w_>
       <g/>
@@ -269,7 +269,7 @@
       <w_ id="25ti" dep="25th-nmod">
         <w lemma="творчість" ana="noun:inanim:f:v_rod">творчості</w>
       </w_>
-      <w_ id="25tj" dep="25ti-nmod">
+      <w_ id="25tj" dep="25ti-nmod" coref="25ra-corefora">
         <w lemma="поет" ana="noun:anim:m:v_rod">поета</w>
       </w_>
       <g/>
@@ -323,7 +323,7 @@
       <w_ id="25tz" dep="25u0-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="25u0" dep="25ty-obl">
+      <w_ id="25u0" dep="25ty-obl" coref="25s7-corefora">
         <w lemma="збірка" ana="noun:inanim:f:v_mis">збірці</w>
       </w_>
       <g/>
@@ -334,7 +334,7 @@
       <w_ id="25u3" dep="25u4-case">
         <w lemma="в" ana="prep:rv_mis:v-u">В</w>
       </w_>
-      <w_ id="25u4" dep="25ub-obl">
+      <w_ id="25u4" dep="25ub-obl" coref="25ri-bridge">
         <w lemma="епізод" ana="noun:inanim:m:v_mis">епізоді</w>
       </w_>
       <w_ id="25u5" dep="25u6-punct">
@@ -420,7 +420,7 @@
       <w_ id="25us" dep="25uq-obl">
         <w lemma="нотатка" ana="noun:inanim:p:f:v_mis">нотатках</w>
       </w_>
-      <w_ id="25ut" dep="25us-nmod">
+      <w_ id="25ut" dep="25us-nmod" coref="25sr-corefora">
         <w lemma="Ботікер" ana="noun:anim:m:v_rod:prop:lname">Ботікера</w>
       </w_>
       <g/>
@@ -436,7 +436,7 @@
       <w_ id="25ux" dep="25uy-case">
         <w lemma="над" ana="prep:rv_oru">над</w>
       </w_>
-      <w_ id="25uy" dep="25uw-obl">
+      <w_ id="25uy" dep="25uw-obl" coref="25r6-corefora">
         <w lemma="Волт" ana="noun:anim:m:v_oru:prop:fname">Волтом</w>
       </w_>
       <g/>
@@ -446,10 +446,10 @@
       <w_ id="25v0" dep="25v3-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="25v1" dep="25v3-nsubj">
+      <w_ id="25v1" dep="25v3-nsubj" coref="25ud-corefora">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="25v2" dep="25v3-det">
+      <w_ id="25v2" dep="25v3-det" coref="25uy-corefora">
         <w lemma="його" ana="adj:p:v_naz:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="25v3">
@@ -462,7 +462,7 @@
       <w_ id="25v5" dep="25v8-mark">
         <w lemma="хоча" ana="conj:subord">хоча</w>
       </w_>
-      <w_ id="25v6" dep="25v8-nsubj">
+      <w_ id="25v6" dep="25v8-nsubj" coref="25r6-corefora">
         <w lemma="Волт" ana="noun:anim:m:v_naz:prop:fname">Волт</w>
       </w_>
       <w_ id="25v7" dep="25v8-advmod">
@@ -471,13 +471,13 @@
       <w_ id="25v8">
         <w lemma="приписувати" ana="verb:imperf:pres:s:3">приписує</w>
       </w_>
-      <w_ id="25v9" dep="25v8-obj">
+      <w_ id="25v9" dep="25v8-obj" coref="25v3-corefora">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
       <w_ id="25va" dep="25vb-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="25vb" dep="25v8-obl">
+      <w_ id="25vb" dep="25v8-obl" coref="25ra-corefora">
         <w lemma="Вітмен" ana="noun:anim:m:v_rod:prop:lname">Вітмена</w>
       </w_>
       <g/>
@@ -523,7 +523,7 @@
       <w_ id="25vq" dep="25vr-case">
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
-      <w_ id="25vr" dep="25vn-obl">
+      <w_ id="25vr" dep="25vn-obl" coref="25vv-corefora:cl">
         <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
       </w_>
       <g/>
@@ -533,10 +533,10 @@
       <w_ id="25vt" dep="25vv-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="25vu" dep="25vv-nsubj">
+      <w_ id="25vu" dep="25vv-nsubj" coref="25vo-corefora">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="25vv" dep="25vr-acl">
+      <w_ id="25vv" dep="25vr-acl" comment-coref="? чи вважати до піддерева?">
         <w lemma="палити" ana="verb:imperf:past:m">палив</w>
       </w_>
       <w_ id="25vw" dep="25vy-case">
@@ -574,7 +574,7 @@
       <w_ id="25w7" dep="25w8-case">
         <w lemma="між" ana="prep:rv_oru">між</w>
       </w_>
-      <w_ id="25w8" dep="25w9-obl">
+      <w_ id="25w8" dep="25w9-obl" coref="25vm-corefora|25vo-corefora">
         <w lemma="незнайомець" ana="noun:anim:p:m:v_oru">незнайомцями</w>
       </w_>
       <w_ id="25w9">
@@ -596,16 +596,16 @@
       <w_ id="25we" dep="25wh-obl">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
-      <w_ id="25wf" dep="25we-nmod">
+      <w_ id="25wf" dep="25we-nmod" coref="25wb-corefora">
         <w lemma="який" ana="adj:m:v_rod:&amp;pron:rel">якого</w>
       </w_>
-      <w_ id="25wg" dep="25wh-nsubj">
+      <w_ id="25wg" dep="25wh-nsubj" coref="25vm-corefora">
         <w lemma="підозрюваний" ana="adj:m:v_naz:&amp;adjp:imperf:pasv:&amp;noun:anim" lemma2="підозрюваний">підозрюваний</w>
       </w_>
       <w_ id="25wh" dep="25wb-acl">
         <w lemma="вдарити" ana="verb:perf:past:m:v-u">вдарив</w>
       </w_>
-      <w_ id="25wi" dep="25wh-obj">
+      <w_ id="25wi" dep="25wh-obj" coref="25vo-corefora">
         <w lemma="загиблий" ana="adj:m:v_zna:ranim:&amp;adjp:perf:actv:&amp;noun:anim" lemma2="загиблий">загиблого</w>
       </w_>
       <w_ id="25wj" dep="25wk-case">
@@ -620,7 +620,7 @@
       <w_ id="25wm" dep="25wo-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="25wn" dep="25wo-nsubj">
+      <w_ id="25wn" dep="25wo-nsubj" coref="25wi-corefora">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="25wo" dep="25wh-conj:parataxis">
@@ -665,7 +665,7 @@
       <w_ id="25x2" dep="25xc-parataxis">
         <w lemma="дані" ana="adj:p:v_oru:ns:&amp;adjp:perf:pasv:&amp;noun:inanim" lemma2="даний">даними</w>
       </w_>
-      <w_ id="25x3" dep="25x2-nmod">
+      <w_ id="25x3" dep="25x2-nmod" comment-coref="~" coref="25vi-corefora">
         <w lemma="поліція" ana="noun:inanim:f:v_rod">поліції</w>
       </w_>
       <g/>
@@ -690,7 +690,7 @@
       <w_ id="25xa" dep="25xc-obj">
         <w lemma="тіло" ana="noun:inanim:n:v_zna">тіло</w>
       </w_>
-      <w_ id="25xb" dep="25xa-nmod">
+      <w_ id="25xb" dep="25xa-nmod" coref="25vo-corefora">
         <w lemma="загиблий" ana="adj:m:v_rod:&amp;adjp:perf:actv:&amp;noun:anim" lemma2="загиблий">загиблого</w>
       </w_>
       <w_ id="25xc">
@@ -727,7 +727,7 @@
       <w_ id="25xm">
         <w lemma="висновок" ana="noun:inanim:m:v_oru">висновком</w>
       </w_>
-      <w_ id="25xn" dep="25xm-nmod">
+      <w_ id="25xn" dep="25xm-nmod" coref="25xh-bridge">
         <w lemma="медик" ana="noun:anim:p:m:v_rod">медиків</w>
       </w_>
       <g/>
@@ -737,10 +737,10 @@
       <w_ id="25xr" dep="25xs-amod">
         <w lemma="34-річний" ana="adj:m:v_naz">34-річний</w>
       </w_>
-      <w_ id="25xs" dep="25xt-nsubj">
+      <w_ id="25xs" dep="25xt-nsubj" coref="25vo-corefora">
         <w lemma="киянин" ana="noun:anim:m:v_naz">киянин</w>
       </w_>
-      <w_ id="25xt" dep="25xm-parataxis">
+      <w_ id="25xt" dep="25xm-parataxis" comment-coref="чи в’язати зі смерть?">
         <w lemma="померти" ana="verb:perf:past:m">помер</w>
       </w_>
       <w_ id="25xu" dep="25xy-case">
@@ -783,7 +783,7 @@
       <w_ id="25y7" dep="25y8-amod">
         <w lemma="даний" ana="adj:m:v_oru:&amp;adjp:perf:pasv">даним</w>
       </w_>
-      <w_ id="25y8" dep="25ye-obl">
+      <w_ id="25y8" dep="25ye-obl" coref="25xt-corefora:cl">
         <w lemma="факт" ana="noun:inanim:m:v_oru">фактом</w>
       </w_>
       <w_ id="25y9" dep="25ya-amod">
@@ -867,7 +867,7 @@
       <w_ id="25yy" dep="25z0-nsubj">
         <w lemma="санкція" ana="noun:inanim:f:v_naz">Санкція</w>
       </w_>
-      <w_ id="25yz" dep="25yy-nmod">
+      <w_ id="25yz" dep="25yy-nmod" coref="25yl-corefora">
         <w lemma="стаття" ana="noun:inanim:f:v_rod">статті</w>
       </w_>
       <w_ id="25z0">
@@ -885,7 +885,7 @@
       <w_ id="25z4">
         <w lemma="п’ять" ana="numr:v_rod">п’яти</w>
       </w_>
-      <w_ id="25z5">
+      <w_ id="25z5" comment-coref="! див. синт">
         <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
       </w_>
       <w_ id="25z6" dep="25z5-nmod" correct="обмеження">
@@ -912,7 +912,7 @@
       <w_ id="25zd">
         <w lemma="самий" ana="adj:m:v_zna:rinanim:&amp;pron:refl">самий</w>
       </w_>
-      <w_ id="25ze" dep="25z9-nmod">
+      <w_ id="25ze" dep="25z9-nmod" coref="25z5-corefora">
         <w lemma="строк" ana="noun:inanim:m:v_zna">строк</w>
       </w_>
       <g/>
@@ -1862,7 +1862,7 @@
       <w_ id="267x" dep="267t-conj">
         <w lemma="намагатися" ana="verb:rev:imperf:past:m">намагався</w>
       </w_>
-      <w_ id="267y" dep="2680-iobj">
+      <w_ id="267y" dep="2680-iobj" coref="267p-corefora">
         <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">їй</w>
       </w_>
       <w_ id="267z" dep="2680-advmod">
@@ -1877,7 +1877,7 @@
       <w_ id="2682" dep="2680-obl">
         <w lemma="жертва" ana="noun:inanim:f:v_zna">жертву</w>
       </w_>
-      <w_ id="2683" dep="2684-det">
+      <w_ id="2683" dep="2684-det" coref="267u-corefora">
         <w lemma="свій" ana="adj:m:v_zna:rinanim:poss:&amp;pron:refl">свій</w>
       </w_>
       <w_ id="2684" dep="2680-obj">
@@ -1907,7 +1907,7 @@
       <w_ id="268c" dep="268f-cc">
         <w lemma="а" ana="conj:coord">А</w>
       </w_>
-      <w_ id="268d" dep="268f-nsubj">
+      <w_ id="268d" dep="268f-nsubj" comment-coref=" що робимо з абстрактними?">
         <w lemma="творчість" ana="noun:inanim:f:v_naz">творчість</w>
       </w_>
       <w_ id="268e" dep="268f-advmod">
@@ -1927,10 +1927,10 @@
       <w_ id="268j" dep="268m-cc">
         <w lemma="або" ana="conj:coord">Або</w>
       </w_>
-      <w_ id="268k" dep="268m-nsubj">
+      <w_ id="268k" dep="268m-nsubj" comment-coref="абстрактне Ти">
         <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">ти</w>
       </w_>
-      <w_ id="268l" dep="268m-iobj">
+      <w_ id="268l" dep="268m-iobj" coref="268d-corefora">
         <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">їй</w>
       </w_>
       <w_ id="268m">
@@ -1949,7 +1949,7 @@
       <w_ id="268q" dep="268r-case">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
-      <w_ id="268r" dep="268p-obl">
+      <w_ id="268r" dep="268p-obl" coref="268d-corefora">
         <w lemma="вона" ana="noun:f:v_zna:rprep:&amp;pron:pers:3">неї</w>
       </w_>
       <w_ id="268s" dep="268t-case">
@@ -1989,16 +1989,16 @@
       <w_ id="2692" dep="2697-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="2693">
+      <w_ id="2693" comment-coref="чи треба в Бавишся?">
         <w lemma="тоді" ana="adv:&amp;pron:dem">тоді</w>
       </w_>
-      <w_ id="2694" dep="2697-nsubj">
+      <w_ id="2694" dep="2697-nsubj" coref="268d-corefora">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="2695" dep="2696-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="2696" dep="2697-obl">
+      <w_ id="2696" dep="2697-obl" coref="268k-corefora">
         <w lemma="ти" ana="noun:anim:s:v_rod:&amp;pron:pers:2">тебе</w>
       </w_>
       <w_ id="2697">
@@ -2014,7 +2014,7 @@
       <w_ id="269a" dep="269e-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="269b" dep="269e-nsubj">
+      <w_ id="269b" dep="269e-nsubj" coref="268k-coref">
         <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">ти</w>
       </w_>
       <w_ id="269c">
@@ -2048,7 +2048,7 @@
       <w_ id="269n" dep="269q-nsubj">
         <w lemma="сенс" ana="noun:inanim:m:v_naz">сенс</w>
       </w_>
-      <w_ id="269o" dep="269p-det">
+      <w_ id="269o" dep="269p-det" comment-coref="~">
         <w lemma="мій" ana="adj:n:v_rod:poss:&amp;pron:pers:1">мого</w>
       </w_>
       <w_ id="269p" dep="269n-nmod">
@@ -2060,7 +2060,7 @@
       <w_ id="269r" dep="269s-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="269s" dep="269q-obl">
+      <w_ id="269s" dep="269q-obl" coref="269x-corefora:cl">
         <w lemma="те" ana="noun:inanim:n:v_mis:&amp;pron:dem">тому</w>
       </w_>
       <g/>
@@ -2235,7 +2235,7 @@
       <w_ id="26bb" dep="26ba-xcomp">
         <w lemma="писати" ana="verb:imperf:inf">писати</w>
       </w_>
-      <w_ id="26bc" dep="26bb-obj">
+      <w_ id="26bc" dep="26bb-obj" coref="26bi-corefora:cl">
         <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
       </w_>
       <g/>
@@ -2267,7 +2267,7 @@
       <w_ id="26bl" dep="26bm-advmod">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
-      <w_ id="26bm" dep="26bu-advcl">
+      <w_ id="26bm" dep="26bu-advcl" comment-coref="чи реферити на Я?">
         <w lemma="починати" ana="verb:imperf:past:m">починав</w>
       </w_>
       <w_ id="26bn" dep="26bm-xcomp">

@@ -190,7 +190,7 @@
     <w_ id="0i9p" dep="0i9q-case">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ id="0i9q" dep="0i9o-obl">
+    <w_ id="0i9q" dep="0i9o-obl" coref="0i83-corefora">
       <w lemma="вона" ana="noun:f:v_zna:rprep:&amp;pron:pers:3">неї</w>
     </w_>
     <w_ id="0i9r" dep="0i9o-nsubj">
@@ -218,7 +218,7 @@
       <w lemma="?.." ana="punct">?..</w>
     </w_>
     <sb id="2erc"/>
-    <w_ id="0i9z" dep="0ia8-nsubj">
+    <w_ id="0i9z" dep="0ia8-nsubj" coref="0i9w-corefora">
       <w lemma="той" ana="adj:m:v_naz:&amp;pron:dem:&amp;noun:anim" lemma2="той">Той</w>
     </w_>
     <w_ id="0ia0" dep="0ia8-advmod">
@@ -266,7 +266,7 @@
     <w_ id="0iae" dep="0iaf-case">
       <w lemma="через" ana="prep:rv_zna">Через</w>
     </w_>
-    <w_ id="0iaf" dep="0iaj-obl">
+    <w_ id="0iaf" dep="0iaj-obl" coref="0i83-corefora|0i9w-corefora">
       <w lemma="ви" ana="noun:anim:p:v_zna:&amp;pron:pers:2">вас</w>
     </w_>
     <w_ id="0iag" dep="0iah-case">
@@ -339,7 +339,7 @@
     <w_ id="0ib4">
       <w lemma="в" ana="prep:rv_zna:v-u">в</w>
     </w_>
-    <w_ id="0ib5">
+    <w_ id="0ib5" coref="0iao-corefora">
       <w lemma="її" ana="adj:f:v_zna:poss:nv:&amp;pron:pers:3">її</w>
     </w_>
     <w_ id="0ib6">
@@ -355,7 +355,7 @@
     <w_ id="0ib9">
       <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:int">що</w>
     </w_>
-    <w_ id="0iba">
+    <w_ id="0iba" coref="0ib6-corefora">
       <w lemma="там" ana="adv:&amp;pron:dem">там</w>
     </w_>
     <w_ id="0ibb">
@@ -391,7 +391,7 @@
     <w_ id="0ibl">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="0ibm">
+    <w_ id="0ibm" coref="0ibh-corefora">
       <w lemma="воно" ana="noun:n:v_mis:rprep:&amp;pron:pers:3:rare">йому</w>
     </w_>
     <w_ id="0ibn">
@@ -423,7 +423,7 @@
     <w_ id="0iby" dep="0ibt-parataxis">
       <w lemma="гукнути" ana="verb:perf:past:m">гукнув</w>
     </w_>
-    <w_ id="0ibz" dep="0iby-nsubj">
+    <w_ id="0ibz" dep="0iby-nsubj" coref="0i9r-corefora">
       <w lemma="голова" ana="noun:anim:m:v_naz">голова</w>
     </w_>
     <g/>
@@ -443,7 +443,7 @@
     <w_ id="0ic4" dep="0ic5-case">
       <w lemma="в" ana="prep:rv_rod:v-u">в</w>
     </w_>
-    <w_ id="0ic5" dep="0ic8-obl">
+    <w_ id="0ic5" dep="0ic8-obl" coref="0iao-corefora">
       <w lemma="вона" ana="noun:f:v_rod:rprep:&amp;pron:pers:3">неї</w>
     </w_>
     <w_ id="0ic6" dep="0ic7-discourse">
@@ -577,7 +577,7 @@
     <w_ id="0ide">
       <w lemma="стріти" ana="verb:perf:past:f">стріла</w>
     </w_>
-    <w_ id="0idf">
+    <w_ id="0idf" coref="0icd-corefora">
       <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
     </w_>
     <w_ id="0idg">
@@ -656,7 +656,7 @@
     <w_ id="0ie6">
       <w lemma="пам’ятати" ana="verb:imperf:past:f">пам'ятала</w>
     </w_>
-    <w_ id="0ie7" dep="0ie6-nsubj">
+    <w_ id="0ie7" dep="0ie6-nsubj" coref="0idt-corefora">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
     <g/>
@@ -791,7 +791,7 @@
     <w_ id="0iff">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0ifg">
+    <w_ id="0ifg" coref="0idg-corefora">
       <w lemma="Оришка" ana="noun:anim:f:v_naz:prop:fname">Оришка</w>
     </w_>
     <w_ id="0ifh">
@@ -983,7 +983,7 @@
     <w_ id="0iha" dep="0ih2-parataxis">
       <w lemma="скрикнути" ana="verb:perf:past:f">скрикнула</w>
     </w_>
-    <w_ id="0ihb" dep="0iha-nsubj">
+    <w_ id="0ihb" dep="0iha-nsubj" coref="0igo-corefora">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
     <g/>
