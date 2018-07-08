@@ -942,7 +942,7 @@
       <w_ id="25zo" dep="25zq-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25zp" dep="25zq-det">
+      <w_ id="25zp" dep="25zq-det" coref="25zn-corefora">
         <w lemma="його" ana="adj:f:v_rod:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="25zq" dep="25zn-conj">
@@ -973,7 +973,7 @@
       <w_ id="25zy" dep="25zz-det">
         <w lemma="весь" ana="adj:n:v_naz:&amp;pron:gen">все</w>
       </w_>
-      <w_ id="25zz" dep="2600-nsubj">
+      <w_ id="25zz" dep="2600-nsubj" coref="25zn-corefora">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="2600" dep="25zv-acl">
@@ -1070,7 +1070,7 @@
       <w_ id="260u" dep="260w-mark">
         <w lemma="якщо" ana="conj:subord">Якщо</w>
       </w_>
-      <w_ id="260v" dep="260w-nsubj">
+      <w_ id="260v" dep="260w-nsubj" coref="260r-corefora">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="260w" dep="2614-advcl">
@@ -1184,7 +1184,7 @@
       <w_ id="261u" dep="261x-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="261v" dep="261x-nsubj">
+      <w_ id="261v" dep="261x-nsubj" coref="261d-corefora">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="261w" dep="261x-advmod">
@@ -1323,7 +1323,7 @@
       <w_ id="2632" dep="2633-discourse">
         <w lemma="тільки" ana="part">Тільки</w>
       </w_>
-      <w_ id="2633" dep="2634-advmod">
+      <w_ id="2633" dep="2634-advmod" coref="2628-corefora">
         <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
       </w_>
       <w_ id="2634">
@@ -1432,7 +1432,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="263z"/>
-      <w_ id="2640" dep="2641-nsubj">
+      <w_ id="2640" dep="2641-nsubj" coref="2628-corefora">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
       </w_>
       <w_ id="2641">
@@ -1468,7 +1468,7 @@
       <w_ id="264a" dep="264b-discourse">
         <w lemma="саме" ana="part">саме</w>
       </w_>
-      <w_ id="264b" dep="264c-advmod">
+      <w_ id="264b" dep="264c-advmod" coref="2628-corefora">
         <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
       </w_>
       <w_ id="264c" dep="2641-conj:parataxis">
@@ -1690,7 +1690,7 @@
       <w_ id="266b" dep="266d-advmod">
         <w lemma="також" ana="adv">Також</w>
       </w_>
-      <w_ id="266c" dep="266d-advmod">
+      <w_ id="266c" dep="266d-advmod" comment-coref="~" coref="265m-corefora">
         <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
       </w_>
       <w_ id="266d">
@@ -1739,7 +1739,7 @@
       <w_ id="266r" dep="266i-acl">
         <w lemma="копати" ana="verb:imperf:pres:s:3">копає</w>
       </w_>
-      <w_ id="266s" dep="266r-iobj">
+      <w_ id="266s" dep="266r-iobj" coref="266l-corefora">
         <w lemma="себе" ana="noun:v_dav:&amp;pron:refl">собі</w>
       </w_>
       <w_ id="266t" dep="266u-amod">
@@ -1756,7 +1756,7 @@
       <w_ id="266x" dep="266y-det">
         <w lemma="увесь" ana="adj:n:v_naz:&amp;pron:gen">Усе</w>
       </w_>
-      <w_ id="266y" dep="266z-nsubj">
+      <w_ id="266y" dep="266z-nsubj" comment-coref="~ #fuzzyref">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="266z">
@@ -2442,7 +2442,7 @@
       <w_ id="26da" dep="26db-det">
         <w lemma="такий" ana="adj:n:v_rod:&amp;pron:dem">Такого</w>
       </w_>
-      <w_ id="26db" dep="26de-obj">
+      <w_ id="26db" dep="26de-obj" coref="26d1-corefora:cl">
         <w lemma="приниження" ana="noun:inanim:n:v_rod">приниження</w>
       </w_>
       <w_ id="26dc" dep="26de-nsubj">
@@ -2484,7 +2484,7 @@
       <w_ id="26dq">
         <w lemma="визначати" ana="verb:imperf:pres:p:3">визначають</w>
       </w_>
-      <w_ id="26dr" dep="26du-det">
+      <w_ id="26dr" dep="26du-det" coref="26dn-corefora">
         <w lemma="свій" ana="adj:f:v_zna:poss:&amp;pron:refl">свою</w>
       </w_>
       <w_ id="26ds" dep="26du-amod">
@@ -2504,7 +2504,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="26dx"/>
-      <w_ id="26dy" dep="26dz-nsubj">
+      <w_ id="26dy" dep="26dz-nsubj" coref="26du-corefora">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
       </w_>
       <w_ id="26dz">
@@ -2526,13 +2526,13 @@
       <w_ id="26e4" dep="26e5-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="26e5" dep="26e6-obl">
+      <w_ id="26e5" dep="26e6-obl" coref="26e1-corefora">
         <w lemma="який" ana="adj:f:v_mis:&amp;pron:rel">якій</w>
       </w_>
       <w_ id="26e6" dep="26e2-acl">
         <w lemma="знаходитися" ana="verb:rev:imperf:pres:s:3">знаходиться</w>
       </w_>
-      <w_ id="26e7" dep="26e6-nsubj">
+      <w_ id="26e7" dep="26e6-nsubj" coref="26dp-corefora">
         <w lemma="блок" ana="noun:inanim:m:v_naz">блок</w>
       </w_>
       <w_ id="26e8" dep="26e9-cc">
@@ -2541,7 +2541,7 @@
       <w_ id="26e9" dep="26e7-conj">
         <w lemma="визначення" ana="noun:inanim:n:v_naz">визначення</w>
       </w_>
-      <w_ id="26ea" dep="26e9-nmod">
+      <w_ id="26ea" dep="26e9-nmod" coref="26dn-corefora">
         <w lemma="функція" ana="noun:inanim:f:v_rod">функції</w>
       </w_>
       <g/>
@@ -2551,7 +2551,7 @@
       <w_ id="26ec" dep="26ea-acl">
         <w lemma="доповнений" ana="adj:f:v_rod:&amp;adjp:perf:pasv">доповненої</w>
       </w_>
-      <w_ id="26ed" dep="26ee-amod">
+      <w_ id="26ed" dep="26ee-amod" comment-coref="?">
         <w lemma="власний" ana="adj:m:v_oru">власним</w>
       </w_>
       <w_ id="26ee" dep="26ec-obl:agent">
@@ -2655,7 +2655,7 @@
       <w_ id="26ff" dep="26fc-obl">
         <w lemma="функція" ana="noun:inanim:p:f:v_rod">функцій</w>
       </w_>
-      <w_ id="26fg" dep="26ff-nmod">
+      <w_ id="26fg" dep="26ff-nmod" coref="26f4-corefora">
         <w lemma="клас" ana="noun:inanim:m:v_rod">класу</w>
       </w_>
       <w_ id="26fh">
@@ -2768,7 +2768,7 @@
       <w_ id="26gi">
         <w lemma="мати" ana="verb:imperf:pres:s:3">має</w>
       </w_>
-      <w_ id="26gj" dep="26gi-nsubj">
+      <w_ id="26gj" dep="26gi-nsubj" coref="26g4-corefora">
         <w lemma="послідовність" ana="noun:inanim:f:v_naz">послідовність</w>
       </w_>
       <g/>
@@ -2813,7 +2813,7 @@
       <w_ id="26gx" dep="26gy-det">
         <w lemma="цей" ana="adj:f:v_zna:&amp;pron:dem">цю</w>
       </w_>
-      <w_ id="26gy" dep="26gw-obj">
+      <w_ id="26gy" dep="26gw-obj" coref="26g1-corefora">
         <w lemma="функція" ana="noun:inanim:f:v_zna">функцію</w>
       </w_>
       <w_ id="26gz" dep="26h0-det:numgov">
@@ -3178,7 +3178,7 @@
       <w_ id="26kc">
         <w lemma="захопити" ana="verb:perf:past:m">захопив</w>
       </w_>
-      <w_ id="26kd" dep="26kc-obj">
+      <w_ id="26kd" dep="26kc-obj" coref="26k5-coref">
         <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
       </w_>
       <g/>
@@ -3188,7 +3188,7 @@
       <w_ id="26kf" dep="26kl-advcl">
         <w lemma="перечитувати" ana="verb:imperf:pres:advp">перечитуючи</w>
       </w_>
-      <w_ id="26kg" dep="26kh-det">
+      <w_ id="26kg" dep="26kh-det" coref="26kj-corefora">
         <w lemma="свій" ana="adj:p:v_zna:rinanim:poss:&amp;pron:refl">свої</w>
       </w_>
       <w_ id="26kh" dep="26kf-obj">
@@ -3198,7 +3198,7 @@
       <w_ id="26ki" dep="26kf-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26kj" dep="26kl-nsubj">
+      <w_ id="26kj" dep="26kl-nsubj" coref="26k5-coref">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="26kk" dep="26kl-advmod">
@@ -3217,7 +3217,7 @@
       <w_ id="26ko" dep="26kl-ccomp">
         <w lemma="писати" ana="verb:imperf:pres:s:3">пише</w>
       </w_>
-      <w_ id="26kp" dep="26ko-obj">
+      <w_ id="26kp" dep="26ko-obj" coref="26kh-corefora">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
       <w_ id="26kq" dep="26kr-case">
@@ -3288,7 +3288,7 @@
       <w_ id="26la" dep="26l2-parataxis">
         <w lemma="кінчити" ana="verb:perf:past:m">кінчив</w>
       </w_>
-      <w_ id="26lb" dep="26la-nsubj">
+      <w_ id="26lb" dep="26la-nsubj" coref="26k5-coref">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="26lc" dep="26ld-cc">
@@ -3297,7 +3297,7 @@
       <w_ id="26ld" dep="26la-conj">
         <w lemma="здати" ana="verb:perf:past:m">здав</w>
       </w_>
-      <w_ id="26le" dep="26ld-obj">
+      <w_ id="26le" dep="26ld-obj" coref="26kr-corefora">
         <w lemma="праця" ana="noun:inanim:f:v_zna">працю</w>
       </w_>
       <w_ id="26lf" dep="26lg-case">
@@ -3328,7 +3328,7 @@
       <w_ id="26ln" dep="26lk-xcomp">
         <w lemma="зробити" ana="verb:perf:inf">зробити</w>
       </w_>
-      <w_ id="26lo" dep="26ln-obj">
+      <w_ id="26lo" dep="26ln-obj" coref="26ld-corefora:cl">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
       <w_ id="26lp" dep="26lq-case">
@@ -3355,7 +3355,7 @@
       <w_ id="26lw" dep="26m5-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="26lx" dep="26m5-nsubj">
+      <w_ id="26lx" dep="26m5-nsubj" coref="26k5-corefora">
         <w lemma="хлопець" ana="noun:anim:m:v_naz">хлопець</w>
       </w_>
       <g/>
@@ -3426,13 +3426,13 @@
     <gap/>
     <p id="26mj">
       <sb id="26mk"/>
-      <w_ id="26ml" dep="26mm-nsubj">
+      <w_ id="26ml" dep="26mm-nsubj" coref="26k5-coref">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
       <w_ id="26mm">
         <w lemma="оповити" ana="verb:perf:past:m">оповив</w>
       </w_>
-      <w_ id="26mn" dep="26mm-iobj">
+      <w_ id="26mn" dep="26mm-iobj" coref="26m8-corefora">
         <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">їй</w>
       </w_>
       <w_ id="26mo" dep="26mm-obl">
@@ -3448,7 +3448,7 @@
       <w_ id="26mr" dep="26mz-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="26ms" dep="26mz-nsubj">
+      <w_ id="26ms" dep="26mz-nsubj" coref="26m8-corefora">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <g/>
@@ -3458,13 +3458,13 @@
       <w_ id="26mu" dep="26mz-advcl">
         <w lemma="припасти" ana="verb:perf:past:advp">припавши</w>
       </w_>
-      <w_ id="26mv" dep="26mu-obl">
+      <w_ id="26mv" dep="26mu-obl" coref="26ms-bridge">
         <w lemma="голова" ana="noun:inanim:f:v_oru">головою</w>
       </w_>
       <w_ id="26mw" dep="26mx-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="26mx" dep="26mu-obl">
+      <w_ id="26mx" dep="26mu-obl" coref="26ml-bridge">
         <w lemma="плече" ana="noun:inanim:n:v_rod">плеча</w>
       </w_>
       <g/>
@@ -3503,7 +3503,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="26n9"/>
-      <w_ id="26na" dep="26nc-nsubj">
+      <w_ id="26na" dep="26nc-nsubj" coref="26k5-coref">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
       <w_ id="26nb" dep="26nc-advmod">
@@ -3512,7 +3512,7 @@
       <w_ id="26nc">
         <w lemma="гладити" ana="verb:imperf:past:m">гладив</w>
       </w_>
-      <w_ id="26nd" dep="26nc-iobj">
+      <w_ id="26nd" dep="26nc-iobj" coref="26m8-corefora">
         <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">їй</w>
       </w_>
       <w_ id="26ne" dep="26nc-obj">
@@ -3522,7 +3522,7 @@
       <w_ id="26nf" dep="26nh-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26ng">
+      <w_ id="26ng" coref="26na-corefora">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
       <w_ id="26nh" comment="!">
@@ -3544,7 +3544,7 @@
       <w_ id="26nm" dep="26nn-case">
         <w lemma="по" ana="prep:rv_mis">по</w>
       </w_>
-      <w_ id="26nn" dep="26nl-obl">
+      <w_ id="26nn" dep="26nl-obl" coref="26na-corefora">
         <w lemma="себе" ana="noun:v_mis:&amp;pron:refl">собі</w>
       </w_>
       <w_ id="26no" dep="26nl-obj">
@@ -3560,7 +3560,7 @@
       <w_ id="26nt" dep="26nv-advmod">
         <w lemma="вранці" ana="adv:v-u">Вранці</w>
       </w_>
-      <w_ id="26nu" dep="26nv-nsubj">
+      <w_ id="26nu" dep="26nv-nsubj" coref="26k5-corefora">
         <w lemma="Степан" ana="noun:anim:m:v_naz:prop:fname">Степан</w>
       </w_>
       <w_ id="26nv">
@@ -3569,7 +3569,7 @@
       <w_ id="26nw" dep="26nx-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="26nx" dep="26nv-obl">
+      <w_ id="26nx" dep="26nv-obl" coref="26m8-corefora">
         <w lemma="вона" ana="noun:f:v_rod:rprep:&amp;pron:pers:3">неї</w>
       </w_>
       <w_ id="26ny" dep="26nz-case">
@@ -3590,7 +3590,7 @@
       <w_ id="26o3" dep="26o2-obl">
         <w lemma="кашкет" ana="noun:inanim:m:v_oru">кашкетом</w>
       </w_>
-      <w_ id="26o4" dep="26o5-det">
+      <w_ id="26o4" dep="26o5-det" coref="26m8-corefora">
         <w lemma="її" ana="adj:f:v_dav:poss:nv:&amp;pron:pers:3">її</w>
       </w_>
       <w_ id="26o5" dep="26o2-iobj">
@@ -3601,7 +3601,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="26o7"/>
-      <w_ id="26o8" dep="26o9-nsubj">
+      <w_ id="26o8" dep="26o9-nsubj" coref="26m8-corefora">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
       </w_>
       <w_ id="26o9">
@@ -3610,10 +3610,10 @@
       <w_ id="26oa" dep="26ob-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="26ob" dep="26o9-obl">
+      <w_ id="26ob" dep="26o9-obl" coref="26o8-corefora">
         <w lemma="себе" ana="noun:v_oru:&amp;pron:refl">собою</w>
       </w_>
-      <w_ id="26oc" dep="26od-det">
+      <w_ id="26oc" dep="26od-det" coref="26nu-corefora">
         <w lemma="його" ana="adj:n:v_zna:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="26od" dep="26o9-obj">
@@ -3661,7 +3661,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="26or"/>
-      <w_ id="26os" dep="26ov-nsubj">
+      <w_ id="26os" dep="26ov-nsubj" coref="26oj-corefora">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
       </w_>
       <w_ id="26ot" dep="26ov-cop">
@@ -3680,7 +3680,7 @@
       <w_ id="26ox" dep="26p0-advmod">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
-      <w_ id="26oy" dep="26p0-nsubj">
+      <w_ id="26oy" dep="26p0-nsubj" coref="26nu-corefora">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="26oz" dep="26p0-advmod">
@@ -3707,7 +3707,7 @@
       <w_ id="26p6" dep="26p7-case">
         <w lemma="про" ana="prep:rv_zna">Про</w>
       </w_>
-      <w_ id="26p7" dep="26p8-obl">
+      <w_ id="26p7" dep="26p8-obl" coref="26nu-corefora">
         <w lemma="себе" ana="noun:v_zna:&amp;pron:refl">себе</w>
       </w_>
       <w_ id="26p8">
@@ -3787,14 +3787,14 @@
       <w_ id="26pw" dep="26pt-acl">
         <w lemma="охопити" ana="verb:perf:past:p">охопили</w>
       </w_>
-      <w_ id="26px" dep="26pw-obj">
+      <w_ id="26px" dep="26pw-obj" coref="26nu-corefora">
         <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
       </w_>
       <g/>
       <w_ id="26py" dep="26pw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26pz" dep="26q1-nsubj">
+      <w_ id="26pz" dep="26q1-nsubj" coref="26nu-corefora">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="26q0" dep="26q1-advmod">
@@ -3829,13 +3829,13 @@
       <w_ id="26q9" dep="26qd-obj">
         <w lemma="програма" ana="noun:inanim:f:v_zna">програму</w>
       </w_>
-      <w_ id="26qa" dep="26q9-nmod">
+      <w_ id="26qa" dep="26q9-nmod" coref="26q6-corefora">
         <w lemma="вони" ana="noun:p:v_rod:&amp;pron:pers:3">їх</w>
       </w_>
       <w_ id="26qb" dep="26qd-advmod">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="26qc" dep="26qd-advcl:sp" comment="сам = самостійно?">
+      <w_ id="26qc" dep="26qd-advcl:sp" comment="сам = самостійно?" coref="26pz-corefora">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
       <w_ id="26qd" dep="26q6-acl">
@@ -3866,7 +3866,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="26ql"/>
-      <w_ id="26qm" dep="26qo-nsubj">
+      <w_ id="26qm" dep="26qo-nsubj" coref="26nu-corefora">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
       <w_ id="26qn" dep="26qo-advmod">
@@ -3912,7 +3912,7 @@
       <w_ id="26r0" dep="26r2-advmod">
         <w lemma="зокрема" ana="adv">Зокрема</w>
       </w_>
-      <w_ id="26r1" dep="26r2-nsubj">
+      <w_ id="26r1" dep="26r2-nsubj" coref="26nu-coref">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="26r2">
@@ -3924,7 +3924,7 @@
       <w_ id="26r4" dep="26r2-obl">
         <w lemma="праця" ana="noun:inanim:f:v_zna">працю</w>
       </w_>
-      <w_ id="26r5" dep="26r6-det">
+      <w_ id="26r5" dep="26r6-det" coref="26r1-corefora">
         <w lemma="свій" ana="adj:m:v_rod:poss:&amp;pron:refl">свого</w>
       </w_>
       <w_ id="26r6" dep="26r4-nmod">
@@ -3942,7 +3942,7 @@
       <w_ id="26ra" dep="26rd-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26rb" dep="26rd-det">
+      <w_ id="26rb" dep="26rd-det" coref="26nu-corefora">
         <w lemma="його" ana="adj:f:v_naz:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="26rc" dep="26rd-amod">
@@ -4021,10 +4021,10 @@
       <w_ id="26rz" dep="26s2-nsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="26s0" dep="26s2-obj">
+      <w_ id="26s0" dep="26s2-obj" coref="26rw-corefora">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
-      <w_ id="26s1" dep="26s2-advcl:sp">
+      <w_ id="26s1" dep="26s2-advcl:sp" coref="26rz-corefora">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
       <w_ id="26s2" dep="26rw-acl">
@@ -4061,7 +4061,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="26sc"/>
-      <w_ id="26sd" dep="26sh-nsubj">
+      <w_ id="26sd" dep="26sh-nsubj" coref="26r9-corefora">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
       </w_>
       <w_ id="26se" dep="26sh-cop">
@@ -4095,7 +4095,7 @@
       <w_ id="26sn" dep="26sp-nsubj">
         <w lemma="том" ana="noun:inanim:m:v_naz">том</w>
       </w_>
-      <w_ id="26so" dep="26sn-nmod">
+      <w_ id="26so" dep="26sn-nmod" comment-coref="?" coref="26r9-corefora">
         <w lemma="вона" ana="noun:f:v_rod:&amp;pron:pers:3">її</w>
       </w_>
       <w_ id="26sp" dep="26sh-conj:parataxis">
@@ -4104,13 +4104,13 @@
       <w_ id="26sq" dep="26sr-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="26sr" dep="26sp-obl">
+      <w_ id="26sr" dep="26sp-obl" coref="26sn-corefora">
         <w lemma="себе" ana="noun:v_mis:&amp;pron:refl">собі</w>
       </w_>
       <w_ id="26ss" dep="26sp-obj">
         <w lemma="печатка" ana="noun:inanim:f:v_zna">печатку</w>
       </w_>
-      <w_ id="26st" dep="26su-det">
+      <w_ id="26st" dep="26su-det" coref="26nu-corefora">
         <w lemma="його" ana="adj:n:v_rod:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="26su" dep="26ss-nmod">
@@ -4163,7 +4163,7 @@
       <w_ id="26ta" dep="26t0-parataxis">
         <w lemma="писати" ana="verb:imperf:past:m">писав</w>
       </w_>
-      <w_ id="26tb" dep="26ta-nsubj">
+      <w_ id="26tb" dep="26ta-nsubj" coref="26nu-corefora">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <g/>
@@ -4180,7 +4180,7 @@
       <w_ id="26tf" dep="26th-obj">
         <w lemma="карбованець" ana="noun:inanim:p:m:v_rod">карбованців</w>
       </w_>
-      <w_ id="26tg" dep="26th-nsubj">
+      <w_ id="26tg" dep="26th-nsubj" coref="26tb-corefora">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="26th" dep="26t0-parataxis">
@@ -4249,10 +4249,10 @@
       <w_ id="26u1" dep="26u4-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26u2" dep="26u4-obj">
+      <w_ id="26u2" dep="26u4-obj" coref="26u0-bridge">
         <w lemma="ключ" ana="noun:inanim:p:m:v_zna">ключі</w>
       </w_>
-      <w_ id="26u3" dep="26u4-nsubj">
+      <w_ id="26u3" dep="26u4-nsubj" coref="26tg-coref">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="26u4" dep="26tx-parataxis">
@@ -4344,7 +4344,7 @@
       <w_ id="26uw" dep="26v1-obj">
         <w lemma="ніхто" ana="noun:anim:v_zna:&amp;pron:neg">Нікого</w>
       </w_>
-      <w_ id="26ux" dep="26v1-nsubj">
+      <w_ id="26ux" dep="26v1-nsubj" coref="26tg-coref">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="26uy" dep="26v1-advmod">
@@ -4401,7 +4401,7 @@
       <w_ id="26vf" dep="26vh-nsubj">
         <w lemma="сум" ana="noun:inanim:m:v_naz">сум</w>
       </w_>
-      <w_ id="26vg" dep="26vh-obj">
+      <w_ id="26vg" dep="26vh-obj" coref="26tg-coref">
         <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
       </w_>
       <w_ id="26vh">
@@ -4415,7 +4415,7 @@
       <w_ id="26vk">
         <w lemma="важко" ana="adv:compb">Важко</w>
       </w_>
-      <w_ id="26vl" dep="26vk-iobj">
+      <w_ id="26vl" dep="26vk-iobj" coref="26tg-coref">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <w_ id="26vm" dep="26vk-cop">
@@ -4448,7 +4448,7 @@
       <w_ id="26vv">
         <w lemma="писати" ana="verb:imperf:impr:s:2">Пиши</w>
       </w_>
-      <w_ id="26vw" dep="26vv-iobj">
+      <w_ id="26vw" dep="26vv-iobj" coref="26tg-coref">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <w_ id="26vx" dep="26vy-case">
@@ -4482,7 +4482,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="26w6"/>
-      <w_ id="26w7">
+      <w_ id="26w7" coref="26tg-corefora">
         <w lemma="Степан" ana="noun:anim:m:v_naz:prop:fname">Степан</w>
       </w_>
       <g/>
