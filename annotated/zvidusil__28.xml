@@ -4705,7 +4705,7 @@
       <w_ id="36eh" dep="36ej-cc" n="1438">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="36ei" dep="36ej-iobj" n="1439">
+      <w_ id="36ei" dep="36ej-iobj" coref="36dk-coref" n="1439">
         <w lemma="кремль" ana="noun:inanim:m:v_dav">Кремлю</w>
       </w_>
       <w_ id="36ej" dep="36ed-conj:parataxis" n="1440">
@@ -4751,7 +4751,7 @@
       <w_ id="36ex" dep="36ey-amod" n="1452">
         <w lemma="російський" ana="adj:f:v_naz">Російська</w>
       </w_>
-      <w_ id="36ey" dep="36f5-nsubj" n="1453">
+      <w_ id="36ey" dep="36f5-nsubj" coref="36dk-coref" n="1453">
         <w lemma="сторона" ana="noun:inanim:f:v_naz">сторона</w>
       </w_>
       <g/>
@@ -4764,7 +4764,7 @@
       <w_ id="36f1" dep="36f5-obl" n="1456">
         <w lemma="згода" ana="noun:inanim:f:v_oru">згодою</w>
       </w_>
-      <w_ id="36f2" dep="36f1-nmod" n="1457">
+      <w_ id="36f2" dep="36f1-nmod" coref="36ey-bridge" n="1457">
         <w lemma="президент" ana="noun:anim:m:v_rod">президента</w>
       </w_>
       <g/>
@@ -4805,7 +4805,7 @@
       <w_ id="36fe" dep="36fj-punct" n="1469">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="36ff" dep="36fj-nsubj" n="1470">
+      <w_ id="36ff" dep="36fj-nsubj" coref="36f5-coref:cl" n="1470">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="36fg" dep="36fi-case" n="1471">
@@ -5159,7 +5159,7 @@
       <w_ id="36io" dep="36ip-nummod:gov" n="1577">
         <w lemma="двоє" ana="numr:v_naz">Двоє</w>
       </w_>
-      <w_ id="36ip" dep="36ir-nsubj" n="1578">
+      <w_ id="36ip" dep="36ir-nsubj" coref="36ht-bridge" n="1578">
         <w lemma="агент" ana="noun:anim:p:m:v_rod">агентів</w>
       </w_>
       <w_ id="36iq" dep="36ir-cop" n="1579">
@@ -5593,7 +5593,7 @@
       <w_ id="36mo" dep="36mm-obj" n="1711">
         <w lemma="координата" ana="noun:inanim:p:f:v_zna">координати</w>
       </w_>
-      <w_ id="36mp" dep="36mo-nmod" n="1712">
+      <w_ id="36mp" dep="36mo-nmod" coref="36mi-bridge" n="1712">
         <w lemma="абонент" ana="noun:anim:m:v_rod">абонента</w>
       </w_>
       <w_ id="36mq" dep="36mr-cc" n="1713">
@@ -5634,14 +5634,14 @@
       <w_ id="36n2" dep="36n3-amod" n="1724">
         <w lemma="супутниковий" ana="adj:m:v_oru">супутниковим</w>
       </w_>
-      <w_ id="36n3" dep="36n1-obl" n="1725">
+      <w_ id="36n3" dep="36n1-obl" coref="36mi-coref" n="1725">
         <w lemma="телефон" ana="noun:inanim:m:v_oru">телефоном</w>
       </w_>
       <w_ id="36n4" dep="36n5-punct" n="1726">
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="36n5" dep="36n3-flat:title" n="1727">
+      <w_ id="36n5" dep="36n3-flat:title" coref="36n3-bridge" n="1727">
         <w lemma="Інмарсат" ana="noun:inanim:m:v_naz:prop">Інмарсат</w>
       </w_>
       <g/>
@@ -5674,7 +5674,7 @@
       <w_ id="36nf" dep="36ng-det" n="1735">
         <w lemma="цей" ana="adj:f:v_rod:&amp;pron:dem">цієї</w>
       </w_>
-      <w_ id="36ng" dep="36ne-nmod" coref="36m8-coref" n="1736">
+      <w_ id="36ng" dep="36ne-nmod" coref="36m7-bridge" n="1736">
         <w lemma="розробка" ana="noun:inanim:f:v_rod">розробки</w>
       </w_>
       <w_ id="36nh" dep="36ni-advmod" n="1737">
@@ -5826,7 +5826,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36ov"/>
-      <w_ id="36ow" dep="36oz-nsubj" n="1782">
+      <w_ id="36ow" dep="36oz-nsubj" coref="36l9-bridge" n="1782">
         <w lemma="операція" ana="noun:inanim:f:v_naz">Операція</w>
       </w_>
       <w_ id="36ox" dep="36oz-cop" n="1783">
@@ -5964,7 +5964,7 @@
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="36q4" dep="36pu-appos" n="1824">
+      <w_ id="36q4" dep="36pu-appos" coref="36pu-bridge" n="1824">
         <w lemma="аналог" ana="noun:inanim:m:v_naz">аналог</w>
       </w_>
       <w_ id="36q5" dep="36q7-amod" n="1825">
@@ -6041,7 +6041,7 @@
       <w_ id="36qr" dep="36qs-case" n="1847">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="36qs" dep="36qq-nmod" n="1848">
+      <w_ id="36qs" dep="36qq-nmod" coref="36pc-bridge" n="1848">
         <w lemma="зліт" ana="noun:inanim:m:v_zna">зліт</w>
       </w_>
       <g/>
@@ -6526,7 +6526,7 @@
       <w_ id="36v4" dep="36v5-nummod" n="1995">
         <w lemma="два" ana="numr:f:v_naz">дві</w>
       </w_>
-      <w_ id="36v5" dep="36v6-nsubj" n="1996">
+      <w_ id="36v5" dep="36v6-nsubj" coref="36uv-bridge" n="1996">
         <w lemma="ракета" ana="noun:inanim:p:f:v_naz">ракети</w>
       </w_>
       <w_ id="36v6" n="1997">

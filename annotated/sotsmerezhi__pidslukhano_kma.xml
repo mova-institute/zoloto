@@ -30,7 +30,7 @@
       <w_ id="1300" dep="1303-advmod">
         <w lemma="марно" ana="adv">марно</w>
       </w_>
-      <w_ id="1301" dep="1303-obj">
+      <w_ id="1301" dep="1303-obj" coref="1306-coref:cl">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
       <w_ id="1302" dep="1303-advmod">
@@ -93,7 +93,7 @@
       <w_ id="130m" dep="130n-case">
         <w lemma="у" ana="prep:rv_rod:v-u">у</w>
       </w_>
-      <w_ id="130n" dep="130o-obl">
+      <w_ id="130n" dep="130o-obl" coref="130g-coref">
         <w lemma="ви" ana="noun:anim:p:v_rod:&amp;pron:pers:2">вас</w>
       </w_>
       <w_ id="130o" dep="130x-advcl">
@@ -115,7 +115,7 @@
       <w_ id="130t" dep="130p-acl">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="130u" dep="130v-advmod">
+      <w_ id="130u" dep="130v-advmod" coref="1307-coref|130c-coref">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <w_ id="130v" dep="130t-csubj">
@@ -124,10 +124,10 @@
       <w_ id="130w" dep="130x-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="130x" dep="130g-conj:parataxis">
+      <w_ id="130x" dep="130g-conj:parataxis" coref="130g-coref">
         <w lemma="написати" ana="verb:perf:impr:p:2">напишіть</w>
       </w_>
-      <w_ id="130y" dep="130x-iobj">
+      <w_ id="130y" dep="130x-iobj" coref="12zy-coref">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <g/>
@@ -154,7 +154,7 @@
       <w_ id="1316" dep="1318-cop">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
-      <w_ id="1317" dep="1318-iobj">
+      <w_ id="1317" dep="1318-iobj" coref="130g-coref">
         <w lemma="ви" ana="noun:anim:p:v_dav:&amp;pron:pers:2">вам</w>
       </w_>
       <w_ id="1318">
@@ -203,7 +203,7 @@
       <w_ id="131n" dep="131p-cc">
         <w lemma="чи" ana="conj:coord">чи</w>
       </w_>
-      <w_ id="131o" dep="131p-obj">
+      <w_ id="131o" dep="131p-obj" coref="131e-coref">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
       <w_ id="131p" dep="131e-conj:parataxis">
@@ -275,7 +275,7 @@
       <w_ id="132a" dep="1326-ccomp">
         <w lemma="бігати" ana="verb:imperf:inf">бігати</w>
       </w_>
-      <w_ id="132b" dep="132a-nsubj">
+      <w_ id="132b" dep="132a-nsubj" coref="131z-coref">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="132c" dep="132a-aux">
@@ -418,7 +418,7 @@
       <w_ id="133l" dep="133k-nmod">
         <w lemma="підвіс" ana="noun:inanim:m:v_rod">підвісу</w>
       </w_>
-      <w_ id="133m" dep="133l-nmod">
+      <w_ id="133m" dep="133l-nmod" coref="133b-coref|133d-coref">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ id="133n" dep="133i-acl">
@@ -938,7 +938,7 @@
       <w_ id="1387" dep="1388-amod">
         <w lemma="фарбований" ana="adj:n:v_oru:&amp;adjp:imperf:pasv">фарбованим</w>
       </w_>
-      <w_ id="1388" dep="1383-nmod">
+      <w_ id="1388" dep="1383-nmod" coref="1383-bridge">
         <w lemma="волосся" ana="noun:inanim:n:v_oru">волоссям</w>
       </w_>
       <g/>
@@ -970,7 +970,7 @@
       <w_ id="138h" dep="1382-parataxis">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:int">хто</w>
       </w_>
-      <w_ id="138i" dep="138h-nsubj">
+      <w_ id="138i" dep="138h-nsubj" coref="1383-coref">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="138j" dep="138k-cc">
@@ -1136,7 +1136,7 @@
       <w_ id="13a2" dep="13a3-mark">
         <w lemma="якщо" ana="conj:subord">якщо</w>
       </w_>
-      <w_ id="13a3" dep="139w-advcl">
+      <w_ id="13a3" dep="139w-advcl" coref="139v-coref">
         <w lemma="мати" ana="verb:imperf:pres:s:3">має</w>
       </w_>
       <w_ id="13a4" dep="13a3-obj" tags="promoted">
