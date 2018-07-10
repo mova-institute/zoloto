@@ -901,25 +901,30 @@
         <w lemma="лист" ana="noun:inanim:m:v_zna:xp1">лист</w>
       </w_>
       <g/>
-      <w_ id="14nw" dep="14o1-punct">
+      <w_ id="14nw" dep="38wm-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14nx" dep="14o1-discourse">
+      <w_ id="14nx" dep="38wm-discourse">
         <w lemma="мабуть" ana="adv">мабуть</w>
       </w_>
       <g/>
       <w_ id="14ny" dep="14nx-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14nz" dep="14o1-discourse">
+      <w_ id="14nz" dep="38wm-discourse">
         <w lemma="ще" ana="part">ще</w>
       </w_>
-      <w_ id="14o0" dep="14o1-case">
+      <w_ id="14o0" dep="38wm-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="14o1" dep="14ns-conj" mark="reviewed">
-        <w lemma="півдороги" ana="noun:inanim:f:v_rod:nv:np">півдороги</w>
-      </w_>
+      <multitoken form="півдороги">
+        <w_ id="38wl" dep="38wm-nummod">
+          <w lemma="пів" ana="numr:v_rod:nv:alt">пів</w>
+        </w_>
+        <w_ id="38wm" dep="14ns-conj">
+          <w lemma="дорога" ana="noun:inanim:f:v_rod">дороги</w>
+        </w_>
+      </multitoken>
       <g/>
       <w_ id="14o2" dep="14nm-punct">
         <w lemma="." ana="punct">.</w>

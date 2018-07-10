@@ -3318,12 +3318,17 @@
       <w_ id="37pz" dep="37py-punct" n="1018">
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
-      <w_ id="37q0" dep="37q1-case" n="1019">
+      <w_ id="37q0" dep="38ww-case" n="1019">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="37q1" dep="37pt-obl" n="1020">
-        <w lemma="півроку" ana="noun:inanim:m:v_zna:nv:np">півроку</w>
-      </w_>
+      <multitoken form="півроку">
+        <w_ id="38wv" dep="38ww-nummod">
+          <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+        </w_>
+        <w_ id="38ww" dep="37pt-obl">
+          <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
+        </w_>
+      </multitoken>
       <g/>
       <w_ id="37q2" dep="37q7-punct" n="1021">
         <w lemma="," ana="punct">,</w>

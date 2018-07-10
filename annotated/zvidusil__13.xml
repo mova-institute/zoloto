@@ -1187,15 +1187,20 @@
       <w_ id="23a4" dep="23a2-nsubj">
         <w lemma="птах" ana="noun:anim:m:v_naz">птах</w>
       </w_>
-      <w_ id="23a5">
+      <w_ id="23a5" dep="38wu-advmod">
         <w lemma="десь" ana="adv:&amp;pron:ind">десь</w>
       </w_>
-      <w_ id="23a6">
+      <w_ id="23a6" dep="38wu-case">
         <w lemma="з" ana="prep:rv_zna">з</w>
       </w_>
-      <w_ id="23a7">
-        <w lemma="півхвилини" ana="noun:inanim:f:v_zna:nv:np">півхвилини</w>
-      </w_>
+      <multitoken form="півхвилини">
+        <w_ id="38wt" dep="38wu-nummod:gov">
+          <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+        </w_>
+        <w_ id="38wu" dep="23a2-obl">
+          <w lemma="хвилина" ana="noun:inanim:f:v_rod">хвилини</w>
+        </w_>
+      </multitoken>
       <g/>
       <w_ id="23a8" dep="23a2-punct">
         <w lemma="..." ana="punct:ellipsis">...</w>

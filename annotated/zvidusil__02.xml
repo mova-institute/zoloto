@@ -468,15 +468,20 @@
       <w_ id="1m9v" dep="1m9z-advmod">
         <w lemma="вперше" ana="adv:v-u">Вперше</w>
       </w_>
-      <w_ id="1m9w" dep="1m9y-case">
+      <w_ id="1m9w" dep="38wq-case">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="1m9x" dep="1m9y-amod">
+      <w_ id="1m9x" dep="38wq-amod">
         <w lemma="останній" ana="adj:p:v_zna:rinanim:compb">останні</w>
       </w_>
-      <w_ id="1m9y" dep="1m9v-obl">
-        <w lemma="півроку" ana="noun:inanim:m:v_zna:nv:np">півроку</w>
-      </w_>
+      <multitoken form="півроку">
+        <w_ id="38wp" dep="38wq-nummod:gov">
+          <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+        </w_>
+        <w_ id="38wq" dep="1m9z-obl" comment="~ зі _вперше_?">
+          <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
+        </w_>
+      </multitoken>
       <w_ id="1m9z">
         <w lemma="працювати" ana="verb:imperf:pres:s:1">працюю</w>
       </w_>

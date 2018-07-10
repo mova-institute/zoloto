@@ -2031,12 +2031,17 @@
       <w_ id="15v5" dep="15v4-ccomp">
         <w lemma="вертатися" ana="verb:rev:imperf:inf">вертатись</w>
       </w_>
-      <w_ id="15v6" dep="15v7-case">
+      <w_ id="15v6" dep="38wy-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="15v7" dep="15v5-obl" mark="resolved">
-        <w lemma="півдорога" ana="noun:inanim:f:v_rod">півдороги</w>
-      </w_>
+      <multitoken form="півдороги">
+        <w_ id="38wx" dep="38wy-nummod">
+          <w lemma="пів" ana="numr:v_rod:nv:alt">пів</w>
+        </w_>
+        <w_ id="38wy" dep="15v5-obl">
+          <w lemma="дорога" ana="noun:inanim:f:v_rod">дороги</w>
+        </w_>
+      </multitoken>
       <g/>
       <w_ id="15v8" dep="15vf-punct">
         <w lemma="," ana="punct">,</w>
@@ -3762,9 +3767,14 @@
       <w_ id="16ae" dep="16a9-advmod">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="16af" dep="16a9-obl">
-        <w lemma="півгодинки" ana="noun:inanim:f:v_zna:nv:np">півгодинки</w>
-      </w_>
+      <multitoken form="півгодинки">
+        <w_ id="38wn" dep="38wo-nummod:gov">
+          <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+        </w_>
+        <w_ id="38wo" dep="16a9-obl">
+          <w lemma="годинка" ana="noun:inanim:f:v_rod">годинки</w>
+        </w_>
+      </multitoken>
       <w_ id="16ag" dep="16a9-advmod">
         <w lemma="тихо" ana="adv:compb">тихо</w>
       </w_>

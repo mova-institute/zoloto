@@ -2211,9 +2211,14 @@
     <w_ id="1hol" dep="1hoc-conj">
       <w lemma="положити" ana="verb:perf:past:p">положили</w>
     </w_>
-    <w_ id="1hom" dep="1hol-obj">
-      <w lemma="півгарнізон" ana="noun:inanim:m:v_rod:odd:auto">півгарнізона</w>
-    </w_>
+    <multitoken form="півгарнізона">
+      <w_ id="38wz" dep="38x0-nummod:gov">
+        <w lemma="пів" ana="numr:v_rod:nv:alt">пів</w>
+      </w_>
+      <w_ id="38x0" dep="1hol-obj">
+        <w lemma="гарнізон" ana="noun:inanim:m:v_rod:odd">гарнізона</w>
+      </w_>
+    </multitoken>
     <g/>
     <w_ id="1hon" dep="1ho0-punct">
       <w lemma="?" ana="punct">?</w>

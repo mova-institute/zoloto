@@ -3770,9 +3770,14 @@
           <w_ id="04cj">
             <w lemma="за" ana="prep:rv_zna">за</w>
           </w_>
-          <w_ id="04ck">
-            <w lemma="півкілометра" ana="noun:inanim:m:v_zna:nv:np">півкілометра</w>
-          </w_>
+          <multitoken form="півкілометра">
+            <w_ id="38wb">
+              <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+            </w_>
+            <w_ id="38wc">
+              <w lemma="кілометр" ana="noun:inanim:m:v_rod">кілометра</w>
+            </w_>
+          </multitoken>
           <w_ id="04cl">
             <w lemma="не" ana="part:neg">не</w>
           </w_>

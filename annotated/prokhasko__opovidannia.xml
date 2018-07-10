@@ -11954,15 +11954,20 @@
     <w_ id="0tts">
       <w lemma="вистачати" ana="verb:imperf:past:n">вистачало</w>
     </w_>
-    <w_ id="0ttt" dep="0ttv-case">
+    <w_ id="0ttt" dep="38wg-case">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ id="0ttu" dep="0ttv-amod">
+    <w_ id="0ttu" dep="38wg-amod" comment="~">
       <w lemma="перший" ana="adj:p:v_zna:ranim:compb:&amp;numr">перших</w>
     </w_>
-    <w_ id="0ttv" dep="0tts-obl">
-      <w lemma="півгодини" ana="noun:inanim:f:v_zna:nv:np">півгодини</w>
-    </w_>
+    <multitoken form="півгодини">
+      <w_ id="38wf" dep="38wg-nummod">
+        <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+      </w_>
+      <w_ id="38wg" dep="0tts-obl">
+        <w lemma="година" ana="noun:inanim:f:v_rod">години</w>
+      </w_>
+    </multitoken>
     <g/>
     <w_ id="0ttw" dep="0tts-punct">
       <w lemma="." ana="punct">.</w>
@@ -20272,12 +20277,17 @@
     <w_ id="0vyp" dep="0vyj-ccomp">
       <w lemma="слід" ana="adv">слід</w>
     </w_>
-    <w_ id="0vyq" dep="0vyr-det" mark="resolved">
+    <w_ id="0vyq" dep="38wi-det" mark="resolved">
       <w lemma="кожний" ana="adj:p:v_zna:ranim:&amp;pron:gen">кожних</w>
     </w_>
-    <w_ id="0vyr" dep="0vys-obl" mark="resolved">
-      <w lemma="півгодини" ana="noun:inanim:f:v_zna:nv:np">півгодини</w>
-    </w_>
+    <multitoken form="півгодини">
+      <w_ id="38wh" dep="38wi-nummod">
+        <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+      </w_>
+      <w_ id="38wi" dep="0vys-obl">
+        <w lemma="година" ana="noun:inanim:f:v_rod">години</w>
+      </w_>
+    </multitoken>
     <w_ id="0vys" dep="0vyp-csubj">
       <w lemma="змочувати" ana="verb:imperf:inf">змочувати</w>
     </w_>
@@ -22118,15 +22128,20 @@
     <w_ id="0wfs" dep="0wfy-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="0wft" dep="0wfy-advmod">
+    <w_ id="0wft" dep="0wfy-advmod" comment="до години?">
       <w lemma="вже" ana="adv:v-u">вже</w>
     </w_>
-    <w_ id="0wfu" dep="0wfv-case">
+    <w_ id="0wfu" dep="38wk-case">
       <w lemma="через" ana="prep:rv_zna">через</w>
     </w_>
-    <w_ id="0wfv" dep="0wfy-obl">
-      <w lemma="півгодини" ana="noun:inanim:f:v_zna:nv:np">півгодини</w>
-    </w_>
+    <multitoken form="півгодини">
+      <w_ id="38wj" dep="38wk-nummod">
+        <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+      </w_>
+      <w_ id="38wk" dep="0wfy-obl">
+        <w lemma="година" ana="noun:inanim:f:v_rod">години</w>
+      </w_>
+    </multitoken>
     <w_ id="0wfw" dep="0wfx-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>

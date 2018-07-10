@@ -4962,12 +4962,17 @@
       <w_ id="21ey" dep="21eu-acl">
         <w lemma="випадати" ana="verb:imperf:past:n">випадало</w>
       </w_>
-      <w_ id="21ez" dep="21f0-case">
+      <w_ id="21ez" dep="38ws-case">
         <w lemma="по" ana="prep:rv_zna">по</w>
       </w_>
-      <w_ id="21f0" dep="21ey-obl">
-        <w lemma="півметра" ana="noun:inanim:m:v_zna:nv:np">півметра</w>
-      </w_>
+      <multitoken form="півметра">
+        <w_ id="38wr" dep="38ws-nummod:gov">
+          <w lemma="пів" ana="numr:v_zna:nv:alt">пів</w>
+        </w_>
+        <w_ id="38ws" dep="21ey-obl">
+          <w lemma="метр" ana="noun:anim:m:v_rod">метра</w>
+        </w_>
+      </multitoken>
       <g/>
       <w_ id="21f1" dep="21f5-punct">
         <w lemma="," ana="punct">,</w>
@@ -4981,7 +4986,7 @@
       <w_ id="21f4" dep="21f5-discourse">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="21f5" dep="21f0-conj">
+      <w_ id="21f5" dep="38ws-conj">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
       <g/>
