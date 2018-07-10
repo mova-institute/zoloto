@@ -849,12 +849,17 @@
       <w_ id="2isf" dep="2isi-obl" n="252">
         <w lemma="стіл" ana="noun:inanim:m:v_rod">столу</w>
       </w_>
-      <w_ id="2isg" dep="2ish-advmod" n="253">
+      <w_ id="2isg" n="253">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
-      <w_ id="2ish" dep="2isi-advmod" comment="~" n="254">
-        <w lemma="ніде" ana="adv:&amp;pron:emph">ніде</w>
-      </w_>
+      <multitoken form="ніде">
+        <w_ id="38w7">
+          <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
+        </w_>
+        <w_ id="38w8">
+          <w lemma="де" ana="adv:&amp;pron:rel">де</w>
+        </w_>
+      </multitoken>
       <w_ id="2isi" dep="2is6-advcl" n="255">
         <w lemma="приткнути" ana="verb:perf:inf">приткнути</w>
       </w_>

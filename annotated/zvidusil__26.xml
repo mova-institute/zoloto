@@ -10295,9 +10295,14 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2x8s"/>
-      <w_ id="2x8t" dep="2x8v-advmod" n="3125">
-        <w lemma="ніде" ana="adv:&amp;pron:emph">Ніде</w>
-      </w_>
+      <multitoken form="Ніде">
+        <w_ id="38w9">
+          <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
+        </w_>
+        <w_ id="38wa">
+          <w lemma="де" ana="adv:&amp;pron:rel">де</w>
+        </w_>
+      </multitoken>
       <w_ id="2x8u" dep="2x8v-obj" n="3126">
         <w lemma="правда" ana="noun:inanim:f:v_rod">правди</w>
       </w_>

@@ -3093,12 +3093,17 @@
     <w_ id="00rd" dep="00re-advmod">
       <w lemma="вже" ana="adv:v-u">вже</w>
     </w_>
-    <w_ id="00re" dep="00rf-advmod">
+    <w_ id="00re">
       <w lemma="зовсім" ana="adv">зовсім</w>
     </w_>
-    <w_ id="00rf" dep="00rh-advmod">
-      <w lemma="ніяк" ana="adv:&amp;pron:emph:xp2">ніяк</w>
-    </w_>
+    <multitoken form="ніяк">
+      <w_ id="38w3">
+        <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
+      </w_>
+      <w_ id="38w4">
+        <w lemma="як" ana="adv:&amp;pron:rel">як</w>
+      </w_>
+    </multitoken>
     <w_ id="00rg" dep="00rh-aux">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
