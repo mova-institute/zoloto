@@ -45,7 +45,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36vm"/>
-      <w_ id="204s" dep="204t-nsubj">
+      <w_ id="204s" dep="204t-nsubj" coref="204i-bridge">
         <w lemma="стебло" ana="noun:inanim:n:v_naz">Стебло</w>
       </w_>
       <w_ id="204t">
@@ -84,7 +84,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36vn"/>
-      <w_ id="2053" dep="2054-nsubj">
+      <w_ id="2053" dep="2054-nsubj" coref="204i-bridge">
         <w lemma="листок" ana="noun:inanim:p:m:v_naz">Листки</w>
       </w_>
       <w_ id="2054">
@@ -107,7 +107,7 @@
       <w_ id="205a" dep="205b-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="205b" dep="2059-nmod">
+      <w_ id="205b" dep="2059-nmod" coref="204i-bridge">
         <w lemma="кошик" ana="noun:inanim:m:v_mis">кошику</w>
       </w_>
       <w_ id="205c" correct="лійковидні">
@@ -121,13 +121,13 @@
       <w_ id="205f" dep="205j-nsubj">
         <w lemma="листочок" ana="noun:inanim:p:m:v_naz">Листочки</w>
       </w_>
-      <w_ id="205g" dep="205f-nmod">
+      <w_ id="205g" dep="205f-nmod" coref="204i-bridge">
         <w lemma="обгортка" ana="noun:inanim:p:f:v_rod">обгорток</w>
       </w_>
       <w_ id="205h" dep="205i-case">
         <w lemma="по" ana="prep:rv_mis">по</w>
       </w_>
-      <w_ id="205i" dep="205j-obl" comment="чи з _обгорток_?">
+      <w_ id="205i" dep="205j-obl" comment="чи з _обгорток_?" coref="205g-bridge">
         <w lemma="край" ana="noun:inanim:m:v_mis">краю</w>
       </w_>
       <w_ id="205j">
@@ -138,7 +138,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="205l"/>
-      <w_ id="205m">
+      <w_ id="205m" coref="204i-coref">
         <w lemma="цвісти" ana="verb:imperf:pres:s:3">Цвіте</w>
       </w_>
       <w_ id="205n" dep="205o-case">
@@ -166,7 +166,7 @@
       <w_ id="205w" dep="205x-amod">
         <w lemma="лійковидний" ana="adj:p:v_naz">лійковидні</w>
       </w_>
-      <w_ id="205x" dep="205y-nsubj">
+      <w_ id="205x" dep="205y-nsubj" coref="204i-bridge">
         <w lemma="квітка" ana="noun:inanim:p:f:v_naz">квітки</w>
       </w_>
       <w_ id="205y">
@@ -176,7 +176,7 @@
       <w_ id="205z" dep="2061-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2060" dep="2061-nsubj">
+      <w_ id="2060" dep="2061-nsubj" coref="205x-coref">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="2061" dep="205y-parataxis">
@@ -189,7 +189,7 @@
       <w_ id="2063" dep="2065-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2064" dep="2065-nsubj">
+      <w_ id="2064" dep="2065-nsubj" coref="2062-coref">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="2065" dep="2062-acl">
@@ -201,7 +201,7 @@
       <w_ id="2067" dep="2068-amod">
         <w lemma="трубчастий" ana="adj:p:v_zna:rinanim">трубчасті</w>
       </w_>
-      <w_ id="2068" dep="2065-obj">
+      <w_ id="2068" dep="2065-obj" coref="204i-bridge">
         <w lemma="квітка" ana="noun:inanim:p:f:v_zna">квітки</w>
       </w_>
       <g/>
@@ -212,7 +212,7 @@
       <w_ id="206b" dep="206d-nsubj">
         <w lemma="стовпчик" ana="noun:inanim:m:v_naz">Стовпчик</w>
       </w_>
-      <w_ id="206c" dep="206b-nmod">
+      <w_ id="206c" dep="206b-nmod" coref="204i-bridge">
         <w lemma="маточка" ana="noun:inanim:f:v_rod">маточки</w>
       </w_>
       <w_ id="206d">
@@ -254,7 +254,7 @@
       <w_ id="206q" dep="206u-obl">
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
-      <w_ id="206r" dep="206u-nsubj:pass">
+      <w_ id="206r" dep="206u-nsubj:pass" coref="204i-coref">
         <w lemma="волошка" ana="noun:inanim:f:v_naz">волошка</w>
       </w_>
       <w_ id="206s" dep="206r-amod">
@@ -319,7 +319,7 @@
       <w_ id="207c" dep="207d-det">
         <w lemma="цей" ana="adj:f:v_zna:&amp;pron:dem">цю</w>
       </w_>
-      <w_ id="207d" dep="207b-obj">
+      <w_ id="207d" dep="207b-obj" coref="206r-coref">
         <w lemma="рослина" ana="noun:inanim:f:v_zna">рослину</w>
       </w_>
       <w_ id="207e" dep="207f-case">
@@ -335,7 +335,7 @@
       <w_ id="207h" dep="207l-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="207i" dep="207l-nsubj">
+      <w_ id="207i" dep="207l-nsubj" coref="207f-coref">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="207j" dep="207l-obl">
@@ -356,7 +356,7 @@
       <w_ id="207o" dep="207p-case">
         <w lemma="із" ana="prep:rv_rod">із</w>
       </w_>
-      <w_ id="207p" dep="207l-obl">
+      <w_ id="207p" dep="207l-obl" coref="2070-coref">
         <w lemma="рід" ana="noun:inanim:m:v_rod">роду</w>
       </w_>
       <w_ id="207q" dep="207p-flat:title">
@@ -391,7 +391,7 @@
       <w_ id="2080" dep="2081-det">
         <w lemma="цей" ana="adj:m:v_rod:&amp;pron:dem">цього</w>
       </w_>
-      <w_ id="2081" dep="207z-nmod">
+      <w_ id="2081" dep="207z-nmod" coref="207d-coref">
         <w lemma="вид" ana="noun:inanim:m:v_rod">виду</w>
       </w_>
       <w_ id="2082" dep="207x-obj">
@@ -448,7 +448,7 @@
       <w_ id="208i" dep="208g-xcomp:sp">
         <w lemma="назва" ana="noun:inanim:f:v_oru">назвою</w>
       </w_>
-      <w_ id="208j" dep="208g-obj">
+      <w_ id="208j" dep="208g-obj" coref="2087-coref">
         <w lemma="Centaurea" ana="x:foreign">Centaurea</w>
       </w_>
       <w_ id="208k" dep="208j-flat:foreign">
@@ -461,7 +461,7 @@
       <w_ id="208m" dep="208n-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="208n" dep="208g-conj:parataxis" tags="promoted">
+      <w_ id="208n" dep="208g-conj:parataxis" tags="promoted" coref="2082-coref">
         <w lemma="Cyanus" ana="x:foreign">Cyanus</w>
       </w_>
       <w_ id="208o" dep="208n-flat:foreign">
