@@ -1379,9 +1379,14 @@
       <w_ id="399n" n="415">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
-      <w_ id="399o" as="пів-Україна/півкиці" n="416">
-        <w lemma="півукраїни" ana="error">півукраїни</w>
-      </w_>
+      <multitoken form="півукраїни">
+        <w_ id="39tq">
+          <w lemma="пів" ana="numr:v_naz:nv:alt">пів</w>
+        </w_>
+        <w_ id="39tr">
+          <w lemma="Україна" ana="noun:inanim:f:v_rod:prop:auto">україни</w>
+        </w_>
+      </multitoken>
       <w_ id="399p" n="417">
         <w lemma="терпіти" ana="verb:imperf:pres:s:3">терпить</w>
       </w_>
