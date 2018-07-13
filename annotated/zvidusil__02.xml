@@ -333,7 +333,7 @@
       <w_ id="1m8j">
         <w lemma="підтримувати" ana="verb:imperf:pres:s:1">Підтримую</w>
       </w_>
-      <w_ id="1m8k" dep="1m8j-obj">
+      <w_ id="1m8k" dep="1m8j-obj|1m8j-private">
         <w lemma="військовий" ana="adj:m:p:v_zna:ranim:&amp;noun:anim" lemma2="військовий">військових</w>
       </w_>
       <w_ id="1m8l" dep="1m8m-cc">
@@ -354,7 +354,7 @@
       <w_ id="1m8q" dep="1m8m-obl">
         <w lemma="захист" ana="noun:inanim:m:v_zna">захист</w>
       </w_>
-      <w_ id="1m8r" dep="1m8s-det">
+      <w_ id="1m8r" dep="1m8s-det|1m8s-shared">
         <w lemma="наш" ana="adj:f:v_rod:poss:&amp;pron:pers:1">нашої</w>
       </w_>
       <w_ id="1m8s" dep="1m8q-nmod">
@@ -488,7 +488,7 @@
       <w_ id="1ma0" dep="1ma1-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="1ma1" dep="1m9z-obl" tags="promoted">
+      <w_ id="1ma1" dep="1m9z-obl|1m9z-private" tags="promoted">
         <w lemma="11-й" ana="adj:f:v_rod:&amp;numr">11-ї</w>
       </w_>
       <w_ id="1ma2" dep="1ma3-cc">
@@ -629,16 +629,16 @@
       <w_ id="1mbb" dep="1mb8-nmod">
         <w lemma="посвята" ana="noun:inanim:f:v_oru">посвятою</w>
       </w_>
-      <w_ id="1mbc" dep="1mbe-det">
+      <w_ id="1mbc" dep="1mbe-det|1mbe-private">
         <w lemma="мій" ana="adj:f:v_dav:poss:&amp;pron:pers:1">моїй</w>
       </w_>
-      <w_ id="1mbd" dep="1mbe-amod">
+      <w_ id="1mbd" dep="1mbe-amod|1mbe-private">
         <w lemma="перший" ana="adj:f:v_dav:compb:&amp;numr">першій</w>
       </w_>
       <w_ id="1mbe" dep="1mbb-nmod">
         <w lemma="викладачка" ana="noun:anim:f:v_dav">викладачці</w>
       </w_>
-      <w_ id="1mbf" dep="1mbe-nmod">
+      <w_ id="1mbf" dep="1mbe-nmod|1mbe-private">
         <w lemma="англійська" ana="adj:f:v_rod:&amp;noun:inanim" lemma2="англійський">англійської</w>
       </w_>
       <w_ id="1mbg" dep="1mbi-cc">
@@ -1550,7 +1550,7 @@
       <w_ id="1mjw" dep="1mjv-obj">
         <w lemma="тендер" ana="noun:inanim:m:v_zna">тендер</w>
       </w_>
-      <w_ id="1mjx" dep="1mjy-case">
+      <w_ id="1mjx" dep="1mjy-case|1mjy-shared">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
       <w_ id="1mjy" dep="1mjw-nmod">
@@ -1562,7 +1562,7 @@
       <w_ id="1mk0" dep="1mjy-conj">
         <w lemma="лізинг" ana="noun:inanim:m:v_zna">лізинг</w>
       </w_>
-      <w_ id="1mk1" dep="1mjy-nmod">
+      <w_ id="1mk1" dep="1mjy-nmod|1mjy-shared">
         <w lemma="електромобіль" ana="noun:inanim:p:m:v_rod">електромобілів</w>
       </w_>
       <w_ id="1mk2" dep="1mk1-flat:title">
@@ -2270,7 +2270,7 @@
       <w_ id="1mqy" dep="1mqz-amod">
         <w lemma="скляний" ana="adj:f:v_rod">скляної</w>
       </w_>
-      <w_ id="1mqz" dep="1mqw-obl">
+      <w_ id="1mqz" dep="1mqw-obl|1mqw-private">
         <w lemma="клітка" ana="noun:inanim:f:v_rod">клітки</w>
       </w_>
       <g/>
@@ -2703,10 +2703,10 @@
       <w_ id="1mv5" dep="1mv6-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="1mv6" dep="1mv8-obl">
+      <w_ id="1mv6" dep="1mv7-nmod">
         <w lemma="діалог" ana="noun:inanim:m:v_mis">діалозі</w>
       </w_>
-      <w_ id="1mv7" dep="1mv8-nsubj">
+      <w_ id="1mv7" dep="1mv8-nsubj|1mv8-shared">
         <w lemma="слово" ana="noun:inanim:p:n:v_naz">слова</w>
       </w_>
       <w_ id="1mv8">
@@ -2740,7 +2740,7 @@
       <w_ id="1mvh" dep="1mv8-advcl" comment="#inf_prep">
         <w lemma="йти" ana="verb:imperf:inf">йти</w>
       </w_>
-      <w_ id="1mvi" dep="1mvj-case">
+      <w_ id="1mvi" dep="1mvj-case|1mvj-private">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ id="1mvj" dep="1mvh-obl">
@@ -3174,13 +3174,13 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1mzm"/>
-      <w_ id="1mzn" dep="1mzo-nsubj">
+      <w_ id="1mzn" dep="1mzo-nsubj|1mzo-shared">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
       </w_>
       <w_ id="1mzo">
         <w lemma="дозволити" ana="verb:perf:futr:s:3">дозволить</w>
       </w_>
-      <w_ id="1mzp" dep="1mzo-ccomp">
+      <w_ id="1mzp" dep="1mzo-ccomp|1mzo-private">
         <w lemma="модернізувати" ana="verb:perf:inf">модернізувати</w>
       </w_>
       <w_ id="1mzq" dep="1mzr-amod">
@@ -3297,7 +3297,7 @@
       <w_ id="1n0q" dep="1n0p-fixed">
         <w lemma="саме" ana="part">саме</w>
       </w_>
-      <w_ id="1n0r" dep="1n0s-case">
+      <w_ id="1n0r" dep="1n0s-case|1n0s-shared">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
       <w_ id="1n0s" dep="1n0l-appos">
@@ -3306,7 +3306,7 @@
       <w_ id="1n0t" dep="1n0u-nummod:gov">
         <w lemma="330" ana="numr:v_naz:nv">330</w>
       </w_>
-      <w_ id="1n0u" dep="1n0s-nmod">
+      <w_ id="1n0u" dep="1n0s-nmod|1n0s-private">
         <w lemma="кВ" ana="noun:inanim:p:m:v_rod:nv:abbr">кВ</w>
       </w_>
       <w_ id="1n0v" dep="1n0w-punct">
@@ -3865,13 +3865,13 @@
       <w_ id="1n5w" dep="1n5y-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1n5x" dep="1n5y-nsubj">
+      <w_ id="1n5x" dep="1n5y-nsubj|1n5y-shared">
         <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">ви</w>
       </w_>
       <w_ id="1n5y" dep="1n5u-ccomp">
         <w lemma="розуміти" ana="verb:imperf:pres:p:2">розумієте</w>
       </w_>
-      <w_ id="1n5z" dep="1n5y-obj">
+      <w_ id="1n5z" dep="1n5y-obj|1n5y-private">
         <w lemma="умова" ana="noun:inanim:p:f:v_zna">умови</w>
       </w_>
       <w_ id="1n60" dep="1n5z-nmod">
@@ -4291,7 +4291,7 @@
   <doc id="1n9y" author="" date="2017-01-19 10:15" genre="репортаж" src="http://vch-uman.in.ua/material.php?id=2790" title="Він брав автомобіль, щоб поремонтувати і більш його не повертав. На Уманшині спіймали серійного шахрая">
     <p id="1n9z">
       <sb id="1na0"/>
-      <w_ id="1na1" dep="1na2-nsubj" coref="1nar-coref">
+      <w_ id="1na1" dep="1na2-nsubj|1na2-shared" coref="1nar-coref">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
       <w_ id="1na2">
