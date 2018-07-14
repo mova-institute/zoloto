@@ -443,13 +443,13 @@
       <w_ id="35bp" n="137">
         <w lemma="маленький" ana="adj:p:v_naz">маленькі</w>
       </w_>
-      <w_ id="35bq" dep="35bs-cc" n="138">
+      <w_ id="35bq" dep="35br-cc" n="138">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="35br" dep="35bs-dep" comment="#такі" n="139">
+      <w_ id="35br" dep="35bp-conj" n="139">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
-      <w_ id="35bs" dep="35bp-conj" n="140">
+      <w_ id="35bs" dep="35br-flat:pack" n="140">
         <w lemma="низенький" ana="adj:p:v_naz">низенькі</w>
       </w_>
       <g/>
@@ -465,7 +465,7 @@
       <w_ id="35bw" dep="35bx-nsubj" n="144">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
       </w_>
-      <w_ id="35bx" dep="35bs-advcl" comment="~" n="145">
+      <w_ id="35bx" dep="35br-advcl" comment="~" n="145">
         <w lemma="дістати" ana="verb:perf:futr:s:3">дістане</w>
       </w_>
       <w_ id="35by" dep="35bx-obl" n="146">
@@ -1483,7 +1483,7 @@
       <w_ id="35l4" dep="35l6-obj|35l6-shared" n="450">
         <w lemma="ніщо" ana="noun:inanim:v_zna:&amp;pron:neg">нічого</w>
       </w_>
-      <w_ id="35l5" dep="35l6-advmod" n="451">
+      <w_ id="35l5" dep="35l6-advmod|35l6-private" n="451">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="35l6" dep="35l1-acl" n="452">
