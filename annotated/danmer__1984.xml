@@ -153,7 +153,7 @@
           <w_ id="03f2" dep="03f1-iobj">
             <w lemma="вихор" ana="noun:inanim:m:v_dav:xp1">вихру</w>
           </w_>
-          <w_ id="03f3" dep="03f4-case">
+          <w_ id="03f3" dep="03f4-case|03f4-shared">
             <w lemma="з" ana="prep:rv_rod">з</w>
           </w_>
           <w_ id="03f4" dep="03f2-nmod">
@@ -193,7 +193,7 @@
           <w_ id="03fh">
             <w lemma="тхнути" ana="verb:imperf:past:n">тхнуло</w>
           </w_>
-          <w_ id="03fi" dep="03fj-amod">
+          <w_ id="03fi" dep="03fj-amod|03fj-private">
             <w lemma="варений" ana="adj:f:v_oru:&amp;adjp:imperf:pasv">вареною</w>
           </w_>
           <w_ id="03fj" dep="03fh-obl">
@@ -250,7 +250,7 @@
           <w_ id="03g0" dep="03g1-mark">
             <w lemma="щоб" ana="conj:subord">щоб</w>
           </w_>
-          <w_ id="03g1" dep="03fz-advcl">
+          <w_ id="03g1" dep="03fz-advcl|03fz-private">
             <w lemma="розташувати" ana="verb:perf:inf">розташувати</w>
           </w_>
           <w_ id="03g2" dep="03g1-obj">
@@ -346,13 +346,13 @@
           <w_ id="03gv">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="03gw" dep="03gz-case">
+          <w_ id="03gw" dep="03gz-case|03gz-shared">
             <w lemma="з" ana="prep:rv_oru">з</w>
           </w_>
-          <w_ id="03gx" dep="03gz-amod">
+          <w_ id="03gx" dep="03gz-amod|03gz-private">
             <w lemma="масивний" ana="adj:p:v_oru:compb">масивними</w>
           </w_>
-          <w_ id="03gy" dep="03gz-amod">
+          <w_ id="03gy" dep="03gz-amod|03gz-private">
             <w lemma="чорний" ana="adj:p:v_oru:compb">чорними</w>
           </w_>
           <w_ id="03gz" dep="03gp-nmod">
@@ -566,7 +566,7 @@
           <w_ id="03ix" dep="03iy-compound">
             <w lemma="тридцять" ana="numr:v_zna">тридцять</w>
           </w_>
-          <w_ id="03iy" dep="03iz-nummod:gov">
+          <w_ id="03iy" dep="03iz-nummod:gov|03iz-private">
             <w lemma="дев’ять" ana="numr:v_zna">дев’ять</w>
           </w_>
           <w_ id="03iz" dep="03iw-obj">
@@ -884,7 +884,7 @@
           <w_ id="03lv" dep="03lw-amod">
             <w lemma="побляклий" ana="adj:n:v_zna:&amp;adjp:perf:actv">поблякле</w>
           </w_>
-          <w_ id="03lw" dep="03lu-obj">
+          <w_ id="03lw" dep="03lu-obj|03lu-private">
             <w lemma="дзеркало" ana="noun:inanim:n:v_zna">дзеркало</w>
           </w_>
           <g/>
