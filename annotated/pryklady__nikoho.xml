@@ -59,7 +59,7 @@
       <w_ id="39uc" dep="39ug-punct" n="15">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39ud" n="16">
+      <w_ id="39ud" dep="39ug-mark" comment="#&gt;conj:subord" n="16">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="39ue" dep="39ug-iobj" n="17">
@@ -78,7 +78,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="39uj" dep="39ul-nsubj" n="22">
+      <w_ id="39uj" dep="39ul-nsubj|39ul-shared" n="22">
         <w lemma="ЛНРівець" ana="noun:anim:p:m:v_naz">ЛНРівці</w>
       </w_>
       <g/>
@@ -91,7 +91,7 @@
       <w_ id="39um" dep="39un-case" n="25">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="39un" dep="39ul-obl" n="26">
+      <w_ id="39un" dep="39ul-obl|39ul-private" n="26">
         <w lemma="машина" ana="noun:inanim:f:v_rod">машини</w>
       </w_>
       <g/>
@@ -114,7 +114,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="39uu" n="33">
+      <w_ id="39uu" dep="39ul-parataxis" n="33">
         <w lemma="провчити" ana="verb:perf:past:p">провчили</w>
       </w_>
       <g/>
@@ -122,7 +122,7 @@
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
       <g/>
-      <w_ id="39uw" n="35">
+      <w_ id="39uw" dep="39uu-punct" n="35">
         <w lemma="..." ana="punct:ellipsis">...</w>
       </w_>
       <sb id="39ux"/>
@@ -1299,7 +1299,7 @@
         <w_ id="3a5n">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
-        <w_ id="3a5o">
+        <w_ id="3a5o" dep="3a5p-advmod">
           <w lemma="звідки" ana="adv:&amp;pron:rel">звідки</w>
         </w_>
       </multitoken>
