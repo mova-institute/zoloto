@@ -113,7 +113,7 @@
         <w_ id="3b9x" n="31">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3b9y" n="32" correct="організованих">
+        <w_ id="3b9y" correct="організованих" n="32">
           <w lemma="організований" ana="adj:p:v_rod:compb:&amp;adjp:perf:pasv">організовані</w>
         </w_>
         <w_ id="3b9z" n="33">
@@ -749,7 +749,7 @@
         <w_ id="3bfo" n="210">
           <w lemma="850" ana="numr:v_zna:nv">850</w>
         </w_>
-        <w_ id="" n="210">
+        <w_ id="3c96" n="210">
           <w lemma="тис." ana="noun:inanim:p:f:v_rod:nv:abbr:auto:&amp;_numr">тис</w>
         </w_>
         <g/>
@@ -1269,7 +1269,7 @@
         <w_ id="3bke" n="366">
           <w lemma="в" ana="prep:rv_mis:v-u">в</w>
         </w_>
-        <w_ id="3bkf" n="367" correct="Тибеті">
+        <w_ id="3bkf" correct="Тибеті" n="367">
           <w lemma="Тибет" ana="noun:inanim:m:v_mis:prop">Тібеті</w>
         </w_>
         <w_ id="3bkg" n="368">
@@ -2421,7 +2421,13 @@
           <w lemma="—" ana="punct:dash">—</w>
         </w_>
         <w_ id="3buv" n="704">
-          <w lemma="9,99" ana="error">9,99</w>
+          <w lemma="9" ana="numr:v_naz:nv">9</w>
+        </w_>
+        <w_ id="3c8u" dep="3c8v-punct">
+          <w lemma="," ana="punct">,</w>
+        </w_>
+        <w_ id="3c8v" dep="3buv-compound">
+          <w lemma="99" ana="numr:v_naz:nv">99</w>
         </w_>
         <w_ id="3buw" n="705">
           <w lemma="у" ana="prep:rv_mis:v-u">у</w>
@@ -2818,7 +2824,13 @@
           <w lemma="в’язка" ana="noun:inanim:f:v_naz">в’язка</w>
         </w_>
         <w_ id="3byg" n="816">
-          <w lemma="1,5" ana="numr:v_naz:nv">1,5</w>
+          <w lemma="1" ana="numr:v_naz:nv">1</w>
+        </w_>
+        <w_ id="3c8w" dep="3c8x-punct">
+          <w lemma="," ana="punct">,</w>
+        </w_>
+        <w_ id="3c8x" dep="3byg-compound">
+          <w lemma="5" ana="numr:v_naz:nv">5</w>
         </w_>
         <w_ id="3byh" n="817">
           <w lemma="€" ana="noun:inanim:n:v_rod:nv:symbol">€</w>
