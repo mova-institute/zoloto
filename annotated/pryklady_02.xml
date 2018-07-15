@@ -113,7 +113,7 @@
         <w_ id="3b9x" dep="3b9y-punct" n="31">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3b9y" dep="3b9w-punct" correct="організованих" n="32">
+        <w_ id="3b9y" dep="3b9w-amod" correct="організованих" n="32">
           <w lemma="організований" ana="adj:p:v_rod:compb:&amp;adjp:perf:pasv">організовані</w>
         </w_>
         <w_ id="3b9z" dep="3ba0-amod" n="33">
@@ -424,7 +424,7 @@
         <w_ id="3bco" n="122">
           <w lemma="з’явитися" ana="verb:rev:perf:past:m">з’явився</w>
         </w_>
-        <w_ id="3bcp" dep="3bcq-punct" n="123">
+        <w_ id="3bcp" dep="3bcq-case" n="123">
           <w lemma="для" ana="prep:rv_rod">для</w>
         </w_>
         <w_ id="3bcq" dep="3bco-obl" n="124">
@@ -1859,7 +1859,7 @@
           <w lemma="у" ana="prep:rv_rod:v-u">у</w>
         </w_>
         <multitoken form="півсела">
-          <w_ id="3bps" dep="3bpt-nummod:gov">
+          <w_ id="3bps" dep="3bpt-nummod">
             <w lemma="пів" ana="numr:v_rod:nv:alt">пів</w>
           </w_>
           <w_ id="3bpt">
@@ -2595,7 +2595,7 @@
         <w_ id="3bwe" dep="3bwg-case" n="747">
           <w lemma="до" ana="prep:rv_rod">до</w>
         </w_>
-        <w_ id="3bwf" dep="3bwg-nummod:gov" n="748">
+        <w_ id="3bwf" dep="3bwg-nummod" n="748">
           <w lemma="10" ana="numr:v_rod:nv">10</w>
         </w_>
         <w_ id="3bwg" dep="3bwb-obj" n="749">
@@ -2618,7 +2618,7 @@
         <w_ id="3bwm" n="754">
           <w lemma="обходитися" ana="verb:rev:imperf:pres:s:3">обходиться</w>
         </w_>
-        <w_ id="3bwn" dep="3bwr-advcl" n="755">
+        <w_ id="3bwn" dep="3bwr-case" n="755">
           <w lemma="в" ana="prep:rv_zna:v-u">в</w>
         </w_>
         <w_ id="3bwo" dep="3bwr-nummod:gov" n="756">
@@ -2709,7 +2709,7 @@
         <w_ id="3bxf" dep="3bxh-case" n="782">
           <w lemma="на" ana="prep:rv_zna">на</w>
         </w_>
-        <w_ id="3bxg" dep="3bxh-det" n="783">
+        <w_ id="3bxg" dep="3bxh-det:numgov" n="783">
           <w lemma="кілька" ana="numr:v_zna:&amp;pron:ind">кілька</w>
         </w_>
         <w_ id="3bxh" n="784">
@@ -3350,7 +3350,7 @@
         <w_ id="3c35" n="961">
           <w lemma="." ana="punct">.</w>
         </w_>
-        <sb/>
+        <sb id="3c97"/>
         <w_ id="3c36" dep="3c38-det" n="962">
           <w lemma="жодний" ana="adj:f:v_rod:&amp;pron:neg">Жодної</w>
         </w_>
@@ -3375,7 +3375,7 @@
         <w_ id="3c3c" n="968">
           <w lemma="!" ana="punct">!</w>
         </w_>
-        <sb/>
+        <sb id="3c98"/>
         <w_ id="3c3d" dep="3c3m-advmod" n="969">
           <w lemma="далі" ana="adv">Далі</w>
         </w_>
@@ -3672,7 +3672,7 @@
         <w_ id="3c60" n="1058">
           <w lemma="." ana="punct">.</w>
         </w_>
-        <sb/>
+        <sb id="3c99"/>
         <w_ id="3c61" dep="3c62-case" n="1059">
           <w lemma="на" ana="prep:rv_mis">На</w>
         </w_>
@@ -3958,7 +3958,7 @@
           <w lemma="довгий" ana="adj:p:v_zna:rinanim:compb">довгі</w>
         </w_>
         <g/>
-        <w_ id="3c8m" dep="3c8n-cc" n="1141">
+        <w_ id="3c8m" dep="3c8n-punct" n="1141">
           <w lemma="," ana="punct">,</w>
         </w_>
         <w_ id="3c8n" dep="3c8l-conj" n="1142">
