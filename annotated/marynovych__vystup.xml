@@ -80,7 +80,7 @@
     <w_ id="3aps" dep="3apt-case" n="23">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="3apt" dep="3apv-obl" n="24">
+    <w_ id="3apt" dep="3apv-obl" coref="3apl-coref" n="24">
       <w lemma="він" ana="noun:m:v_mis:rprep:&amp;pron:pers:3">ньому</w>
     </w_>
     <w_ id="3apu" dep="3apv-discourse" n="25">
@@ -163,7 +163,7 @@
     <w_ id="3aqj" dep="3aql-punct" n="49">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="3aqk" dep="3aql-nsubj" n="50">
+    <w_ id="3aqk" dep="3aql-nsubj" coref="3aqd-coref" n="50">
       <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
     </w_>
     <w_ id="3aql" dep="3aqd-acl" n="51">
@@ -172,7 +172,7 @@
     <w_ id="3aqm" dep="3aqq-case" n="52">
       <w lemma="за" ana="prep:rv_zna">за</w>
     </w_>
-    <w_ id="3aqn" dep="3aqq-det" n="53">
+    <w_ id="3aqn" dep="3aqq-det" coref="3aqk-coref" n="53">
       <w lemma="свій" ana="adj:n:v_zna:poss:&amp;pron:refl">своє</w>
     </w_>
     <w_ id="3aqo" dep="3aqq-amod" n="54">
@@ -323,7 +323,7 @@
     <w_ id="3arz" dep="3arx-acl" n="99">
       <w lemma="плоть" ana="noun:inanim:f:v_oru">плоттю</w>
     </w_>
-    <w_ id="3as0" dep="3arz-nmod" n="100">
+    <w_ id="3as0" dep="3arz-nmod" coref="3arx-coref" n="100">
       <w lemma="який" ana="adj:m:v_rod:&amp;pron:rel">Якого</w>
     </w_>
     <w_ id="3as1" dep="3arz-cop" n="101">
@@ -401,7 +401,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="3asp"/>
-    <w_ id="3asq" dep="3ast-nsubj|3ast-shared" n="123">
+    <w_ id="3asq" dep="3ast-nsubj|3ast-shared" coref="3ase-coref" n="123">
       <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">Вони</w>
     </w_>
     <w_ id="3asr" dep="3ast-advmod|3ast-private" n="124">
@@ -455,7 +455,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="3at7"/>
-    <w_ id="3at8" dep="3atd-nsubj" n="140">
+    <w_ id="3at8" dep="3atd-nsubj" coref="3at5-coref" n="140">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
     </w_>
     <g/>
