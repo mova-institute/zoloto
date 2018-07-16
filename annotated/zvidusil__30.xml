@@ -2,13 +2,13 @@
   <doc id="38x1" author="Куць Наталія" date="2017-10-04" src="http://kiev.pravda.com.ua/columns/59d3286ebdec6/" title="Полювання на дельфінарій">
     <p id="38x2">
       <sb id="38x3"/>
-      <w_ id="38x4" dep="38x6-case" n="0">
+      <w_ id="38x4" dep="38x5-case" n="0">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
-      <w_ id="38x5" n="1">
+      <w_ id="38x5" dep="38xa-obl" n="1">
         <w lemma="місто" ana="noun:inanim:n:v_mis">місті</w>
       </w_>
-      <w_ id="38x6" dep="38x5-flat:title|38xa-obl" n="2">
+      <w_ id="38x6" dep="38x5-flat:title" n="2">
         <w lemma="Київ" ana="noun:inanim:m:v_naz:prop">Київ</w>
       </w_>
       <w_ id="38x7" dep="38x9-case" n="3">
@@ -81,7 +81,7 @@
         <w lemma="Глушков" ana="noun:anim:m:v_rod:prop:lname:n2adj">Глушкова</w>
       </w_>
       <g/>
-      <w_ id="38xt" n="25">
+      <w_ id="38xt" dep="38xu-punct" n="25">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="38xu" n="26">
@@ -128,10 +128,10 @@
       <w_ id="38y8" n="39">
         <w lemma="походження" ana="noun:inanim:n:v_oru">походженням</w>
       </w_>
-      <w_ id="38y9" dep="38yb-case" n="40">
+      <w_ id="38y9" dep="38yb-case|38yb-shared" n="40">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="38ya" dep="38yb-amod" n="41">
+      <w_ id="38ya" dep="38yb-amod|38yb-private" n="41">
         <w lemma="чорний" ana="adj:n:v_rod:compb">Чорного</w>
       </w_>
       <w_ id="38yb" n="42">
