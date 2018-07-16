@@ -24,7 +24,7 @@
         <w_ id="3b93" dep="3b92-flat:foreign" n="5">
           <w lemma="Economist" ana="x:foreign">Economist</w>
         </w_>
-        <w_ id="3b94" dep="3b95-xcomp:sp" n="6">
+        <w_ id="3b94" dep="3b95-advcl:sp" n="6">
           <w lemma="перший" ana="adj:m:v_oru:compb:&amp;numr">першим</w>
         </w_>
         <w_ id="3b95" dep="3b8y-csubj" n="7">
@@ -42,7 +42,7 @@
         <w_ id="3b99" dep="3b97-nmod" n="11">
           <w lemma="перевищення" ana="noun:inanim:n:v_rod">перевищення</w>
         </w_>
-        <w_ id="3b9a" dep="3b9e-nmod" n="12">
+        <w_ id="3b9a" dep="3b99-nmod" n="12">
           <w lemma="ціна" ana="noun:inanim:f:v_oru">ціною</w>
         </w_>
         <w_ id="3b9b" dep="3b9c-case" n="13">
@@ -54,7 +54,7 @@
         <w_ id="3b9d" dep="3b9e-amod" n="15">
           <w lemma="100-доларовий" ana="adj:f:v_rod:auto">100-доларової</w>
         </w_>
-        <w_ id="3b9e" dep="3b99-nmod|3b99-private" n="16">
+        <w_ id="3b9e" dep="3b99-nmod" n="16">
           <w lemma="позначка" ana="noun:inanim:f:v_rod">позначки</w>
         </w_>
         <g/>
@@ -255,7 +255,7 @@
         <w_ id="3bb6" dep="3bb5-obj|3bb5-private" n="72">
           <w lemma="умова" ana="noun:inanim:p:f:v_zna">умови</w>
         </w_>
-        <w_ id="3bb7" dep="3bb6-nmod" n="73">
+        <w_ id="3bb7" dep="3bb6-nmod" coref="3bb3-equality" n="73">
           <w lemma="договір" ana="noun:inanim:m:v_rod">договору</w>
         </w_>
         <w_ id="3bb8" dep="3bb9-cc" n="74">
@@ -763,7 +763,7 @@
         <w_ id="3bfr" dep="3bft-punct" n="213">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3bfs" dep="3bft-nsubj" n="214">
+        <w_ id="3bfs" dep="3bft-nsubj" coref="3bfm-equality" n="214">
           <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
         </w_>
         <w_ id="3bft" dep="3bfn-parataxis" n="215">
@@ -793,7 +793,7 @@
         <w_ id="3bg1" dep="3bft-conj" n="223">
           <w lemma="експортувати" ana="verb:imperf:pres:s:3">експортує</w>
         </w_>
-        <w_ id="3bg2" dep="3bg1-obj" n="224">
+        <w_ id="3bg2" dep="3bg1-obj" coref="3bfz-equality" n="224">
           <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
         </w_>
         <w_ id="3bg3" n="225">
@@ -826,7 +826,7 @@
         <w_ id="3bgc" dep="3bgd-discourse" n="233">
           <w lemma="ось" ana="part">Ось</w>
         </w_>
-        <w_ id="3bgd" dep="3bge-obj" n="234">
+        <w_ id="3bgd" dep="3bge-obj" coref="3bft-equality:cl|3bg1-equality:cl" n="234">
           <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">що</w>
         </w_>
         <w_ id="3bge" n="235">
@@ -933,7 +933,7 @@
         <w_ id="3bhb" dep="3bha-nmod" n="267">
           <w lemma="метал" ana="noun:inanim:m:v_rod">металу</w>
         </w_>
-        <w_ id="3bhc" dep="3bhd-nsubj" n="268">
+        <w_ id="3bhc" dep="3bhd-nsubj" coref="3bgk-equality" n="268">
           <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
         </w_>
         <w_ id="3bhd" dep="3bgm-conj:parataxis" n="269">
@@ -966,7 +966,7 @@
         <w_ id="3bhl" dep="3bhm-mark" n="277">
           <w lemma="ніж" ana="conj:subord">ніж</w>
         </w_>
-        <w_ id="3bhm" n="278">
+        <w_ id="3bhm" coref="3bfm-equality" n="278">
           <w lemma="Індія" ana="noun:inanim:f:v_naz:prop">Індія</w>
         </w_>
         <g/>
@@ -1024,7 +1024,7 @@
         <w_ id="3bi5" dep="3bi6-det" n="292">
           <w lemma="цей" ana="adj:f:v_naz:&amp;pron:dem">ця</w>
         </w_>
-        <w_ id="3bi6" dep="3bi8-nsubj" n="293">
+        <w_ id="3bi6" dep="3bi8-nsubj" coref="3bi0-equality" n="293">
           <w lemma="шуба" ana="noun:inanim:f:v_naz">шуба</w>
         </w_>
         <w_ id="3bi7" dep="3bi8-advmod" n="294">
@@ -1110,7 +1110,7 @@
         <w_ id="3biy" dep="3biz-amod" n="316">
           <w lemma="далекий" ana="adj:p:v_rod:compb">далеких</w>
         </w_>
-        <w_ id="3biz" dep="3bj2-obl" n="317">
+        <w_ id="3biz" dep="3bj2-obl" coref="3bir-equality" n="317">
           <w lemma="час" ana="noun:inanim:p:m:v_rod">часів</w>
         </w_>
         <w_ id="3bj0" dep="3bj2-nsubj" n="318">
@@ -1171,7 +1171,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="3bji"/>
-        <w_ id="3bjj" dep="3bjk-obj" n="336">
+        <w_ id="3bjj" dep="3bjk-obj" coref="3bj0-equality" n="336">
           <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">Його</w>
         </w_>
         <w_ id="3bjk" n="337">
@@ -1238,7 +1238,7 @@
         <w_ id="3bk4" dep="3bk2-punct" n="356">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3bk5" dep="3bk6-obj" n="357">
+        <w_ id="3bk5" dep="3bk6-obj" coref="3bjz-equality" n="357">
           <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
         </w_>
         <w_ id="3bk6" n="358">
@@ -1393,7 +1393,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="3blj"/>
-        <w_ id="3blk" dep="3bll-nsubj" n="399">
+        <w_ id="3blk" dep="3bll-nsubj" coref="3ble-equality" n="399">
           <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
         </w_>
         <w_ id="3bll" n="400">
@@ -1402,7 +1402,7 @@
         <w_ id="3blm" dep="3blo-case" n="401">
           <w lemma="за" ana="prep:rv_zna">за</w>
         </w_>
-        <w_ id="3bln" dep="3blo-det" n="402">
+        <w_ id="3bln" dep="3blo-det" coref="3blg-equality" n="402">
           <w lemma="мій" ana="adj:m:v_zna:ranim:poss:&amp;pron:pers:1">мого</w>
         </w_>
         <w_ id="3blo" dep="3bll-obl" n="403">
@@ -1429,7 +1429,7 @@
         <w_ id="3blu" n="409">
           <w lemma="як" ana="adv:&amp;pron:rel">як</w>
         </w_>
-        <w_ id="3blv" n="410">
+        <w_ id="3blv" coref="3bln-equality" n="410">
           <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
         </w_>
         <w_ id="3blw" n="411">
@@ -1454,7 +1454,7 @@
         <w_ id="3bm2" dep="3bm3-case" n="417">
           <w lemma="з" ana="prep:rv_oru">з</w>
         </w_>
-        <w_ id="3bm3" dep="3bm1-obl" n="418">
+        <w_ id="3bm3" dep="3bm1-obl" coref="3blo-equality" n="418">
           <w lemma="він" ana="noun:m:v_oru:&amp;pron:pers:3">ним</w>
         </w_>
         <w_ id="3bm4" dep="3bm5-case" n="419">
@@ -1479,7 +1479,7 @@
         <w_ id="3bma" dep="3bmb-case" n="425">
           <w lemma="зі" ana="prep:rv_oru">зі</w>
         </w_>
-        <w_ id="3bmb" dep="3bmg-obl" n="426">
+        <w_ id="3bmb" dep="3bmg-obl" coref="3blv-equality" n="426">
           <w lemma="я" ana="noun:anim:s:v_oru:&amp;pron:pers:1">мною</w>
         </w_>
         <w_ id="3bmc" n="427">
@@ -1502,7 +1502,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="3bmi"/>
-        <w_ id="3bmj" dep="3bmq-nsubj" n="433">
+        <w_ id="3bmj" dep="3bmq-nsubj" coref="3bmb-equality" n="433">
           <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
         </w_>
         <g/>
@@ -1528,7 +1528,7 @@
         <w_ id="3bmq" n="440">
           <w lemma="назвати" ana="verb:perf:past:m">назвав</w>
         </w_>
-        <w_ id="3bmr" dep="3bmq-obj" n="441">
+        <w_ id="3bmr" dep="3bmq-obj" coref="3ble-equality" n="441">
           <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
         </w_>
         <w_ id="3bms" dep="3bmq-xcomp:sp" n="442">
@@ -1561,7 +1561,7 @@
         <w_ id="3bn1" dep="3bn2-discourse" n="450">
           <w lemma="хоч" ana="part">хоч</w>
         </w_>
-        <w_ id="3bn2" dep="3bn3-nsubj" n="451">
+        <w_ id="3bn2" dep="3bn3-nsubj" coref="3blo-equality" n="451">
           <w lemma="тато" ana="noun:anim:m:v_naz">тато</w>
         </w_>
         <w_ id="3bn3" n="452">
@@ -1575,7 +1575,7 @@
         <w_ id="3bn6" dep="3bn8-cc" n="454">
           <w lemma="а" ana="conj:coord">А</w>
         </w_>
-        <w_ id="3bn7" dep="3bn8-nsubj" n="455">
+        <w_ id="3bn7" dep="3bn8-nsubj" coref="3bmr-equality" n="455">
           <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
         </w_>
         <w_ id="3bn8" n="456">
@@ -1598,7 +1598,7 @@
         <w_ id="3bnd" n="461">
           <w lemma="то" ana="part">то</w>
         </w_>
-        <w_ id="3bne" n="462">
+        <w_ id="3bne" coref="3bmj-equality" n="462">
           <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
         </w_>
         <w_ id="3bnf" n="463">
@@ -1638,7 +1638,7 @@
         <w_ id="3bnq" dep="3bnr-punct" n="473">
           <w lemma="—" ana="punct:dash">—</w>
         </w_>
-        <w_ id="3bnr" n="474">
+        <w_ id="3bnr" coref="3bn7-equality" n="474">
           <w lemma="переплакати" ana="verb:perf:futr:s:3:auto">переплаче</w>
         </w_>
         <g/>
@@ -1646,7 +1646,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="3bnt"/>
-        <w_ id="3bnu" dep="3bnv-nsubj" n="476">
+        <w_ id="3bnu" dep="3bnv-nsubj" coref="3bnr-equality" n="476">
           <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
         </w_>
         <w_ id="3bnv" n="477">
@@ -1676,7 +1676,7 @@
         <w_ id="3bo3" n="484">
           <w lemma="спробувати" ana="verb:perf:impr:s:2">Спробуй</w>
         </w_>
-        <w_ id="3bo4" dep="3bo6-obj" n="485">
+        <w_ id="3bo4" dep="3bo6-obj" coref="3bo9-equality" n="485">
           <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
         </w_>
         <w_ id="3bo5" dep="3bo6-discourse" n="486">
@@ -1692,7 +1692,7 @@
         <w_ id="3bo8" dep="3bo9-det" n="489">
           <w lemma="той" ana="adj:f:v_zna:&amp;pron:dem">ту</w>
         </w_>
-        <w_ id="3bo9" dep="3bo6-dislocated" n="490">
+        <w_ id="3bo9" dep="3bo6-dislocated" coref="3bnp-equality" n="490">
           <w lemma="вільшечка" ana="noun:inanim:f:v_zna">вільшечку</w>
         </w_>
         <g/>
@@ -1706,7 +1706,7 @@
         <w_ id="3bod" dep="3boc-advmod" n="493">
           <w lemma="уже" ana="adv:v-u">уже</w>
         </w_>
-        <w_ id="3boe" dep="3boc-iobj" n="494">
+        <w_ id="3boe" dep="3boc-iobj" coref="3bnu-equality" n="494">
           <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">їй</w>
         </w_>
         <w_ id="3bof" dep="3boc-obl" n="495">
@@ -1735,7 +1735,7 @@
         <w_ id="3bom" n="502">
           <w lemma="й" ana="part">й</w>
         </w_>
-        <w_ id="3bon" n="503">
+        <w_ id="3bon" coref="3bol-equality" n="503">
           <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
         </w_>
         <w_ id="3boo" n="504">
@@ -1841,7 +1841,7 @@
         <w_ id="3bpl" dep="3bpe-conj:parataxis" n="532">
           <w lemma="одірвати" ana="verb:perf:past:n">одірвало</w>
         </w_>
-        <w_ id="3bpm" dep="3bpl-obl" n="533">
+        <w_ id="3bpm" dep="3bpl-obl" coref="3bm5-bridge" n="533">
           <w lemma="бомба" ana="noun:inanim:f:v_oru">бомбою</w>
         </w_>
         <g/>
@@ -1884,7 +1884,7 @@
         <w_ id="3bpz" dep="3bpy-cop" n="544">
           <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
         </w_>
-        <w_ id="3bq0" dep="3bpx-nsubj" n="545">
+        <w_ id="3bq0" dep="3bpx-nsubj" coref="3bm5-bridge" n="545">
           <w lemma="бій" ana="noun:inanim:m:v_naz">бій</w>
         </w_>
         <g/>
@@ -1948,7 +1948,7 @@
         <w_ id="3bqk" dep="3bqj-discourse" n="563">
           <w lemma="ж" ana="part">ж</w>
         </w_>
-        <w_ id="3bql" dep="3bqj-nsubj" n="564">
+        <w_ id="3bql" dep="3bqj-nsubj" coref="3boe-equality" n="564">
           <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
         </w_>
         <w_ id="3bqm" dep="3bqn-case" n="565">
