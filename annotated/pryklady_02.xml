@@ -70,11 +70,14 @@
         <w_ id="3b9i" dep="3b99-conj" n="20">
           <w lemma="наближення" ana="noun:inanim:n:v_rod">наближення</w>
         </w_>
-        <w_ id="3b9j" dep="3b9k-case" n="21">
+        <w_ id="3b9j" dep="3b9k-case|3c9a-case" n="21">
           <w lemma="до" ana="prep:rv_rod">до</w>
         </w_>
-        <w_ id="3b9k" dep="3b9i-nmod" tags="promoted" n="22">
+        <w_ id="3b9k" dep="3b9i-nmod|3c9a-amod" tags="promoted" n="22">
           <w lemma="200-доларовий" ana="adj:f:v_rod:auto">200-доларової</w>
+        </w_>
+        <w_ id="3c9a" dep="3b9i-nmod" elided="yes">
+          <w lemma="позначка" ana="noun:inanim:f:v_rod">позначки</w>
         </w_>
         <g/>
         <w_ id="3b9l" dep="3b8y-punct" n="23">
@@ -868,7 +871,7 @@
         <w_ id="3bgq" dep="3bgv-punct" n="246">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3bgr" dep="3bgv-obl" n="247">
+        <w_ id="3bgr" dep="3bgv-obl|3bgv-shared" n="247">
           <w lemma="день" ana="noun:inanim:m:v_zna">день</w>
         </w_>
         <w_ id="3bgs" dep="3bgt-cc" n="248">
@@ -877,29 +880,32 @@
         <w_ id="3bgt" dep="3bgr-conj" n="249">
           <w lemma="ніч" ana="noun:inanim:f:v_zna">ніч</w>
         </w_>
-        <w_ id="3bgu" dep="3bgv-nsubj" n="250">
+        <w_ id="3bgu" dep="3bgv-nsubj|3bgv-shared" n="250">
           <w lemma="поїзд" ana="noun:inanim:p:m:v_naz">поїзди</w>
         </w_>
         <w_ id="3bgv" dep="3bgm-conj:parataxis" n="251">
           <w lemma="везти" ana="verb:imperf:pres:p:3">везуть</w>
         </w_>
-        <w_ id="3bgw" dep="3bgv-advmod" n="252">
+        <w_ id="3bgw" dep="3bgv-advmod|3bgv-private" n="252">
           <w lemma="сюди" ana="adv:&amp;pron:dem">сюди</w>
         </w_>
-        <w_ id="3bgx" dep="3bgv-obj" n="253">
+        <w_ id="3bgx" dep="3bgv-obj|3bgv-private" n="253">
           <w lemma="вугілля" ana="noun:inanim:n:v_zna">вугілля</w>
         </w_>
         <g/>
-        <w_ id="3bgy" n="254">
+        <w_ id="3bgy" dep="3c9b-punct|3bh1-punct" n="254">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3bgz" n="255">
+        <w_ id="3bgz" dep="3c9b-advmod|3bh1-orphan" n="255">
           <w lemma="туди" ana="adv:&amp;pron:dem">туди</w>
         </w_>
-        <w_ id="3bh0" n="256">
+        <w_ id="3c9b" dep="3bgv-conj" elided="yes">
+          <w lemma="везти" ana="verb:imperf:pres:p:3">везуть</w>
+        </w_>
+        <w_ id="3bh0" dep="3bh1-punct" n="256">
           <w lemma="–" ana="punct:dash">–</w>
         </w_>
-        <w_ id="3bh1" n="257">
+        <w_ id="3bh1" dep="3c9b-obj|3bgv-conj" n="257">
           <w lemma="руда" ana="noun:inanim:f:v_zna">руду</w>
         </w_>
         <g/>
@@ -930,7 +936,7 @@
         <w_ id="3bha" dep="3bhd-obl" n="266">
           <w lemma="експорт" ana="noun:inanim:m:v_mis">експорті</w>
         </w_>
-        <w_ id="3bhb" dep="3bha-nmod" n="267">
+        <w_ id="3bhb" dep="3bhd-obj" n="267">
           <w lemma="метал" ana="noun:inanim:m:v_rod">металу</w>
         </w_>
         <w_ id="3bhc" dep="3bhd-nsubj" coref="3bgk-equality" n="268">
@@ -953,10 +959,10 @@
         <w_ id="3bhh" dep="3bhf-conj" n="273">
           <w lemma="5" ana="numr:v_zna:nv">5</w>
         </w_>
-        <w_ id="3bhi" n="274">
+        <w_ id="3bhi" dep="3bhj-obl" n="274">
           <w lemma="раз" ana="noun:inanim:p:m:v_rod">разів</w>
         </w_>
-        <w_ id="3bhj" n="275">
+        <w_ id="3bhj" dep="3bhb-advmod:amtgov" n="275">
           <w lemma="менше" ana="adv:compr">менше</w>
         </w_>
         <g/>
@@ -966,11 +972,11 @@
         <w_ id="3bhl" dep="3bhm-mark" n="277">
           <w lemma="ніж" ana="conj:subord">ніж</w>
         </w_>
-        <w_ id="3bhm" coref="3bfm-equality" n="278">
+        <w_ id="3bhm" dep="3bhj-advcl" coref="3bfm-equality" n="278">
           <w lemma="Індія" ana="noun:inanim:f:v_naz:prop">Індія</w>
         </w_>
         <g/>
-        <w_ id="3bhn" n="279">
+        <w_ id="3bhn" dep="3bgm-punct" n="279">
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="3bho"/>
