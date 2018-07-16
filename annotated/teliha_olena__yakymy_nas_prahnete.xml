@@ -642,7 +642,7 @@
     <w_ id="2xwg" dep="2xwf-fixed" n="193">
       <w lemma="лише" ana="part">лише</w>
     </w_>
-    <w_ id="2xwh" dep="2xwi-case" n="194">
+    <w_ id="2xwh" dep="2xwi-case|2xwi-private" n="194">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
     <w_ id="2xwi" dep="2xwe-obl" n="195">
@@ -1342,13 +1342,13 @@
     <w_ id="2y2m" dep="2y2k-acl" n="404">
       <w lemma="виховати" ana="verb:perf:inf">виховати</w>
     </w_>
-    <w_ id="2y2n" dep="2y2o-amod" n="405">
+    <w_ id="2y2n" dep="2y2o-amod|2y2o-private" n="405">
       <w lemma="свідомий" ana="adj:p:v_zna:ranim:compb">свідомих</w>
     </w_>
     <w_ id="2y2o" dep="2y2m-obj" n="406">
       <w lemma="дитина" ana="noun:anim:p:f:v_zna">дітей</w>
     </w_>
-    <w_ id="2y2p" dep="2y2o-nmod" n="407">
+    <w_ id="2y2p" dep="2y2o-nmod|2y2o-private" n="407">
       <w lemma="нація" ana="noun:inanim:f:v_rod">нації</w>
     </w_>
     <g/>
@@ -1705,7 +1705,7 @@
     <w_ id="2y5u" dep="2y5v-obj" n="514">
       <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
     </w_>
-    <w_ id="2y5v" dep="2y5p-advcl" n="515">
+    <w_ id="2y5v" dep="2y5p-advcl|2y5p-shared" n="515">
       <w lemma="вимагати" ana="verb:imperf:pres:s:3">вимагає</w>
     </w_>
     <w_ id="2y5w" dep="2y5v-nsubj" n="516">
@@ -2018,10 +2018,10 @@
     <w_ id="2y8q" n="610">
       <w lemma="існувати" ana="verb:imperf:pres:s:3">існує</w>
     </w_>
-    <w_ id="2y8r" dep="2y8q-nsubj" n="611">
+    <w_ id="2y8r" dep="2y8q-nsubj|2y8q-shared" n="611">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
-    <w_ id="2y8s" dep="2y8q-advmod" n="612">
+    <w_ id="2y8s" dep="2y8q-advmod|2y8q-private" n="612">
       <w lemma="масово" ana="adv:compb">масово</w>
     </w_>
     <g/>

@@ -132,7 +132,7 @@
       <w_ id="1ypp" dep="1ypq-amod">
         <w lemma="народний" ana="adj:m:v_rod">Народного</w>
       </w_>
-      <w_ id="1ypq" dep="1ypm-nmod">
+      <w_ id="1ypq" dep="1ypm-nmod|1ypm-private">
         <w lemma="фронт" ana="noun:inanim:m:v_rod">фронту</w>
       </w_>
       <g/>
@@ -484,7 +484,7 @@
       <w_ id="1ysy" dep="1ysx-xcomp">
         <w lemma="здійснювати" ana="verb:imperf:inf">здійснювати</w>
       </w_>
-      <w_ id="1ysz" dep="1ysy-obj">
+      <w_ id="1ysz" dep="1ysy-obj|1ysy-private">
         <w lemma="моніторинг" ana="noun:inanim:m:v_zna">моніторинг</w>
       </w_>
       <w_ id="1yt0" dep="1ysz-nmod">
@@ -882,7 +882,7 @@
       <w_ id="1ywo" dep="1ywp-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="1ywp" dep="1ywn-obl" tags="promoted">
+      <w_ id="1ywp" dep="1ywn-obl|1ywn-private" tags="promoted">
         <w lemma="9" ana="adj:n:v_rod:nv:&amp;numr">9</w>
       </w_>
       <w_ id="1ywq" dep="1ywp-nmod">
@@ -900,16 +900,16 @@
       <w_ id="1ywu" dep="1ywn-conj">
         <w lemma="поділятися" ana="verb:rev:imperf:past:m">поділявся</w>
       </w_>
-      <w_ id="1ywv" dep="1ywx-case">
+      <w_ id="1ywv" dep="1ywx-case|1ywx-shared">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1yww" dep="1ywx-amod">
+      <w_ id="1yww" dep="1ywx-amod|1ywx-private">
         <w lemma="військовий" ana="adj:f:v_zna">Військову</w>
       </w_>
       <w_ id="1ywx" dep="1ywu-obl">
         <w lemma="канцелярія" ana="noun:inanim:f:v_zna">канцелярію</w>
       </w_>
-      <w_ id="1ywy" dep="1ywx-nmod">
+      <w_ id="1ywy" dep="1ywx-nmod|1ywx-private">
         <w lemma="ДСВС" ana="noun:inanim:m:v_rod:nv:prop:abbr">ДСВС</w>
       </w_>
       <w_ id="1ywz" dep="1yx1-cc">
@@ -1381,14 +1381,14 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1z1a"/>
-      <w_ id="1z1b" dep="1z1c-advmod">
+      <w_ id="1z1b">
         <w lemma="скоро" ana="adv:compb">Скоро</w>
       </w_>
-      <w_ id="1z1c">
+      <w_ id="1z1c" dep="1z1b-nsubj">
         <w lemma="літо" ana="noun:inanim:n:v_naz">літо</w>
       </w_>
       <g/>
-      <w_ id="1z1d" dep="1z1c-punct">
+      <w_ id="1z1d" dep="1z1b-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1z1e"/>
@@ -2076,7 +2076,7 @@
         <w_ id="1z7v">
           <w lemma="погляд" ana="noun:inanim:m:v_naz">ПОГЛЯД</w>
         </w_>
-        <w_ id="1z7w" dep="1z7v-advmod">
+        <w_ id="1z7w" dep="1z7v-advmod:a">
           <w lemma="збоку" ana="adv">ЗБОКУ</w>
         </w_>
         <g/>
@@ -2088,13 +2088,13 @@
       <w_ id="1z7z" dep="1z89-mark">
         <w lemma="якщо" ana="conj:subord">Якщо</w>
       </w_>
-      <w_ id="1z80" dep="1z81-amod">
+      <w_ id="1z80" dep="1z81-amod|1z81-shared">
         <w lemma="явний" ana="adj:p:v_naz">явні</w>
       </w_>
       <w_ id="1z81" dep="1z89-nsubj">
         <w lemma="порушення" ana="noun:inanim:p:n:v_naz">порушення</w>
       </w_>
-      <w_ id="1z82" dep="1z81-nmod">
+      <w_ id="1z82" dep="1z81-nmod|1z81-private">
         <w lemma="законодавство" ana="noun:inanim:n:v_rod">законодавства</w>
       </w_>
       <w_ id="1z83" dep="1z84-cc">
@@ -2166,7 +2166,7 @@
       <w_ id="1z8o" dep="1z8d-parataxis">
         <w lemma="вважати" ana="verb:imperf:pres:s:3">вважає</w>
       </w_>
-      <w_ id="1z8p" dep="1z8q-amod">
+      <w_ id="1z8p" dep="1z8q-amod|1z8q-private">
         <w lemma="незалежний" ana="adj:m:v_naz:compb">незалежний</w>
       </w_>
       <w_ id="1z8q" dep="1z8o-nsubj">
@@ -2323,7 +2323,7 @@
       <w_ id="1za2" dep="1za3-amod">
         <w lemma="міський" ana="adj:f:v_naz">міська</w>
       </w_>
-      <w_ id="1za3" dep="1za4-nsubj">
+      <w_ id="1za3" dep="1za4-nsubj|1za4-shared">
         <w lemma="рада" ana="noun:inanim:f:v_naz">рада</w>
       </w_>
       <w_ id="1za4" dep="1z9x-parataxis">
@@ -2335,7 +2335,7 @@
       <w_ id="1za6" dep="1za5-xcomp">
         <w lemma="будувати" ana="verb:imperf:inf">будувати</w>
       </w_>
-      <w_ id="1za7" dep="1za8-advmod">
+      <w_ id="1za7" dep="1za8-advmod|1za8-private">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="1za8" dep="1za6-obj">
