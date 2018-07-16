@@ -1787,10 +1787,10 @@
       <w_ id="39dg" dep="39df-xcomp" n="531">
         <w lemma="відзначити" ana="verb:perf:inf">відзначити</w>
       </w_>
-      <w_ id="39dh" dep="39dj-det" n="532">
+      <w_ id="39dh" dep="39dj-det|39dj-shared" n="532">
         <w lemma="наш" ana="adj:p:v_zna:ranim:poss:&amp;pron:pers:1">наших</w>
       </w_>
-      <w_ id="39di" dep="39dj-amod" n="533">
+      <w_ id="39di" dep="39dj-amod|39dj-private" n="533">
         <w lemma="добрий" ana="adj:p:v_zna:ranim:compb">добрих</w>
       </w_>
       <w_ id="39dj" dep="39dg-obj" n="534">
@@ -1832,7 +1832,7 @@
       <w_ id="39du" dep="39dy-punct" n="545">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39dv" n="546">
+      <w_ id="39dv" dep="39dz-obl" comment="!" n="546">
         <w lemma="старання" ana="noun:inanim:p:n:v_oru">стараннями</w>
       </w_>
       <w_ id="39dw" dep="39dv-nmod" n="547">
@@ -1994,7 +1994,7 @@
       <w_ id="39f9" dep="39fa-case" n="595">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
-      <w_ id="39fa" n="596">
+      <w_ id="39fa" dep="39fg-obl" n="596">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ id="39fb" dep="39fc-det" n="597">
@@ -2083,10 +2083,10 @@
       <w_ id="39g2" dep="39g7-punct" n="623">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39g3" n="624">
+      <w_ id="39g3" dep="39g7-cc" n="624">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="39g4" n="625">
+      <w_ id="39g4" dep="39g3-fixed" n="625">
         <w lemma="також" ana="adv">також</w>
       </w_>
       <w_ id="39g5" dep="39g7-amod" n="626">
@@ -2159,7 +2159,7 @@
       <w_ id="39gr" dep="39gq-flat:foreign" n="646">
         <w lemma="DP" ana="x:foreign">DP</w>
       </w_>
-      <w_ id="39gs" dep="39gq-flat:title" n="647">
+      <w_ id="39gs" dep="39gq-flat:title" comment="~" n="647">
         <w lemma="4400" ana="numr:v_naz:nv">4400</w>
       </w_>
       <g/>
@@ -2575,7 +2575,7 @@
       <w_ id="39kg" n="769">
         <w lemma="більш" ana="adv:compr">більш</w>
       </w_>
-      <w_ id="39kh" n="770">
+      <w_ id="39kh" dep="39kg-fixed" n="770">
         <w lemma="ніж" ana="conj:subord">ніж</w>
       </w_>
       <w_ id="39ki" dep="39kj-nummod" n="771">
