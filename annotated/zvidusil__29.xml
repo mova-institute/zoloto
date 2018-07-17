@@ -1653,7 +1653,7 @@
       <w_ id="37av" dep="37au-nmod" n="499">
         <w lemma="система" ana="noun:inanim:f:v_rod">системи</w>
       </w_>
-      <w_ id="37aw" dep="37ax-amod" n="500">
+      <w_ id="37aw" dep="37ax-amod|37ax-shared" n="500">
         <w lemma="інституційний" ana="adj:m:v_rod">інституційного</w>
       </w_>
       <w_ id="37ax" dep="37av-nmod" n="501">
@@ -1665,7 +1665,7 @@
       <w_ id="37az" dep="37ax-conj" n="503">
         <w lemma="виховання" ana="noun:inanim:n:v_rod">виховання</w>
       </w_>
-      <w_ id="37b0" dep="37ax-nmod" n="504">
+      <w_ id="37b0" dep="37ax-nmod|37ax-shared" n="504">
         <w lemma="дитина" ana="noun:anim:p:f:v_rod">дітей</w>
       </w_>
       <w_ id="37b1" dep="37b5-case" n="505">
@@ -1840,7 +1840,7 @@
       <w_ id="37cl" dep="37ck-nmod" n="557">
         <w lemma="заклад" ana="noun:inanim:p:m:v_rod">закладів</w>
       </w_>
-      <w_ id="37cm" dep="37cn-amod" n="558">
+      <w_ id="37cm" dep="37cn-amod|37cn-shared" n="558">
         <w lemma="інституційний" ana="adj:m:v_rod">інституційного</w>
       </w_>
       <w_ id="37cn" dep="37cl-nmod" n="559">
@@ -1852,7 +1852,7 @@
       <w_ id="37cp" dep="37cn-conj" n="561">
         <w lemma="виховання" ana="noun:inanim:n:v_rod">виховання</w>
       </w_>
-      <w_ id="37cq" dep="37cn-nmod" n="562">
+      <w_ id="37cq" dep="37cn-nmod|37cn-shared" n="562">
         <w lemma="дитина" ana="noun:anim:p:f:v_rod">дітей</w>
       </w_>
       <w_ id="37cr" n="563">
@@ -1915,7 +1915,7 @@
       <w_ id="37d9" dep="37da-punct" n="581">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37da" dep="37dd-discourse|37dd-shared" n="582">
+      <w_ id="37da" dep="37dd-discourse|37dd-shared" comment="чи еліпс?" n="582">
         <w lemma="найголовніше" ana="adv:super">найголовніше</w>
       </w_>
       <w_ id="37db" dep="37da-punct" n="583">
@@ -4143,7 +4143,7 @@
       <w_ id="37x8" dep="37x7-punct" n="1260">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37x9" dep="37xa-amod" n="1261">
+      <w_ id="37x9" dep="37xa-amod|37xa-private" n="1261">
         <w lemma="хороший" ana="adj:p:v_naz:compb">хороші</w>
       </w_>
       <w_ id="37xa" n="1262">
@@ -5601,11 +5601,11 @@
       <w_ id="38a3" dep="38a2-nmod" n="1698">
         <w lemma="виробництво" ana="noun:inanim:n:v_rod">виробництва</w>
       </w_>
-      <w_ id="38a4" n="1699">
+      <w_ id="38a4" dep="389z-conj:parataxis" n="1699">
         <w lemma="відновитися" ana="verb:rev:perf:futr:s:3">відновиться</w>
       </w_>
       <g/>
-      <w_ id="38a5" n="1700">
+      <w_ id="38a5" dep="389t-punct" n="1700">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="38a6"/>
