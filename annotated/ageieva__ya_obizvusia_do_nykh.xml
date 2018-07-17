@@ -1334,19 +1334,19 @@
       <w lemma="»" ana="punct:quote:close">»</w>
     </w_>
     <g/>
-    <w_ id="00c3" dep="00c6-punct">
+    <w_ id="00c3" dep="00c6-punct|3c9c-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="00c4" dep="00c6-cc">
+    <w_ id="00c4" dep="00c6-cc|3c9c-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
     <w_ id="00c5" dep="00c6-det" coref="00br-equality">
       <w lemma="її" ana="adj:f:v_naz:poss:nv:&amp;pron:pers:3">її</w>
     </w_>
-    <w_ id="00c6" dep="00bw-conj:parataxis" tags="promoted">
+    <w_ id="00c6" dep="00bw-conj:parataxis|3c9c-nsubj" tags="promoted">
       <w lemma="донька" ana="noun:anim:f:v_naz">донька</w>
     </w_>
-    <w_ id="3c9c" elided="yes">
+    <w_ id="3c9c" dep="00bw-conj:parataxis" elided="yes">
       <w lemma="стояти" ana="verb:imperf:past:f">стояла</w>
     </w_>
     <w_ id="00c7" dep="00c9-punct">
@@ -1355,7 +1355,7 @@
     <w_ id="00c8" dep="00c9-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="00c9" dep="00c6-obl" tags="promoted">
+    <w_ id="00c9" dep="00c6-obl|3c9c-obl" tags="promoted">
       <w lemma="марксистський" ana="adj:p:v_mis">марксистських</w>
     </w_>
     <g/>
