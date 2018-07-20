@@ -5350,17 +5350,17 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0s4o"/>
-    <w_ id="0s4p" dep="0s4q-cop" comment="~">
-      <w lemma="бути" ana="verb:aux:imperf:past:m">Був</w>
+    <w_ id="0s4p">
+      <w lemma="бути" ana="verb:imperf:past:m">Був</w>
     </w_>
-    <w_ id="0s4q">
+    <w_ id="0s4q" dep="0s4p-nsubj">
       <w lemma="вересень" ana="noun:inanim:m:v_naz">вересень</w>
     </w_>
     <g/>
     <w_ id="0s4r" dep="0s4s-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0s4s" dep="0s4q-appos">
+    <w_ id="0s4s" dep="0s4q-appos" comment="~">
       <w lemma="п’ятдесятиріччя" ana="noun:inanim:n:v_naz">п’ятдесятиріччя</w>
     </w_>
     <w_ id="0s4t" dep="0s4s-nmod">
@@ -5379,7 +5379,7 @@
       <w lemma="УРСР" ana="noun:inanim:f:v_rod:nv:np:prop:abbr">УРСР</w>
     </w_>
     <g/>
-    <w_ id="0s4y">
+    <w_ id="0s4y" dep="0s4p-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0s4z"/>
@@ -5895,7 +5895,7 @@
     <w_ id="0s9n" dep="0s9o-mark" mark="resolved">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="0s9o" dep="0s9l-acl">
+    <w_ id="0s9o" dep="0s9j-acl">
       <w lemma="прилягати" ana="verb:imperf:pres:s:3">прилягає</w>
     </w_>
     <w_ id="0s9p" dep="0s9r-case">
@@ -23337,8 +23337,8 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0wqv"/>
-    <w_ id="0wqw" dep="0wqz-cop">
-      <w lemma="бути" ana="verb:aux:imperf:past:m">Був</w>
+    <w_ id="0wqw">
+      <w lemma="бути" ana="verb:imperf:past:m">Був</w>
     </w_>
     <w_ id="0wqx" dep="0wqy-compound">
       <w lemma="вісімдесят" ana="numr:v_naz">вісімдесят</w>
@@ -23346,7 +23346,7 @@
     <w_ id="0wqy" dep="0wqz-amod">
       <w lemma="третій" ana="adj:m:v_naz:&amp;numr">третій</w>
     </w_>
-    <w_ id="0wqz">
+    <w_ id="0wqz" dep="0wqw-nsubj">
       <w lemma="рік" ana="noun:inanim:m:v_naz">рік</w>
     </w_>
     <g/>
@@ -23356,7 +23356,7 @@
     <w_ id="0wr1" dep="0wr2-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="0wr2" dep="0wqz-conj:parataxis">
+    <w_ id="0wr2" dep="0wqw-conj:parataxis">
       <w lemma="початися" ana="verb:rev:perf:past:p">почалися</w>
     </w_>
     <w_ id="0wr3" dep="0wr4-amod">
@@ -23366,7 +23366,7 @@
       <w lemma="репресія" ana="noun:inanim:p:f:v_naz">репресії</w>
     </w_>
     <g/>
-    <w_ id="0wr5" dep="0wqz-punct">
+    <w_ id="0wr5" dep="0wqw-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0wr6"/>
@@ -23870,17 +23870,17 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0wvr"/>
-    <w_ id="0wvs" dep="0wvu-cop" comment="~">
-      <w lemma="бути" ana="verb:aux:imperf:past:f">Була</w>
+    <w_ id="0wvs" comment="~">
+      <w lemma="бути" ana="verb:imperf:past:f">Була</w>
     </w_>
     <w_ id="0wvt" dep="0wvu-amod" mark="reviewed">
       <w lemma="ранній" ana="adj:f:v_naz:compb">рання</w>
     </w_>
-    <w_ id="0wvu">
+    <w_ id="0wvu" dep="0wvs-nsubj">
       <w lemma="весна" ana="noun:inanim:f:v_naz">весна</w>
     </w_>
     <g/>
-    <w_ id="0wvv" dep="0wvu-punct">
+    <w_ id="0wvv" dep="0wvs-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0wvw"/>
@@ -35394,7 +35394,7 @@
       <w lemma="постріл" ana="noun:inanim:p:m:v_rod">пострілів</w>
     </w_>
     <w_ id="0zu5" dep="0zu7-advmod" mark="reviewed">
-      <w lemma="просто" ana="part">просто</w>
+      <w lemma="просто" ana="adv:compb">просто</w>
     </w_>
     <w_ id="0zu6" dep="0zu7-case">
       <w lemma="з" ana="prep:rv_rod">з</w>
@@ -43197,16 +43197,16 @@
     <w_ id="11tt" dep="11tr-conj">
       <w lemma="морський" ana="adj:p:v_mis">морських</w>
     </w_>
-    <w_ id="11tu" dep="11u0-obl">
+    <w_ id="11tu">
       <w lemma="пляж" ana="noun:inanim:p:m:v_mis">пляжах</w>
     </w_>
     <w_ id="11tv" dep="11tw-case">
       <w lemma="замість" ana="prep:rv_rod">замість</w>
     </w_>
-    <w_ id="11tw" dep="11u0-obl">
+    <w_ id="11tw">
       <w lemma="м’яч" ana="noun:inanim:m:v_rod">м’яча</w>
     </w_>
-    <w_ id="11tx" dep="11u0-cop">
+    <w_ id="11tx">
       <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
     </w_>
     <w_ id="11ty" dep="11u0-amod">
@@ -43248,7 +43248,7 @@
       <w lemma="зловити" ana="verb:perf:inf">зловити</w>
     </w_>
     <g/>
-    <w_ id="11ua" dep="11u0-punct">
+    <w_ id="11ua">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="11ub"/>

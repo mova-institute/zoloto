@@ -9034,7 +9034,7 @@
         </p>
         <p id="05pj">
           <sb id="05pk"/>
-          <w_ id="05pl" dep="05po-cop">
+          <w_ id="05pl">
             <w lemma="бути" ana="verb:aux:imperf:past:n">Було</w>
           </w_>
           <w_ id="05pm" dep="05po-case">
@@ -9156,7 +9156,7 @@
             <w lemma="ненависть" ana="noun:inanim:f:v_rod">Ненависті</w>
           </w_>
           <g/>
-          <w_ id="05qo" dep="05po-punct">
+          <w_ id="05qo">
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="05qp"/>
@@ -18784,16 +18784,16 @@
             <w lemma="рука" ana="noun:inanim:f:v_rod">руки</w>
           </w_>
           <w_ id="0874" dep="0876-mark">
-            <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
+            <w lemma="що" ana="conj:subord">що</w>
           </w_>
           <w_ id="0875" dep="0876-cop">
             <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
           </w_>
-          <w_ id="0876">
+          <w_ id="0876" dep="0871-acl">
             <w lemma="раніше" ana="adv:compr">раніше</w>
           </w_>
           <g/>
-          <w_ id="0877">
+          <w_ id="0877" dep="086v-punct">
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="0878"/>
@@ -20105,8 +20105,8 @@
           <w_ id="08jk" dep="08jj-discourse">
             <w lemma="б" ana="part">б</w>
           </w_>
-          <w_ id="08jl" dep="08jj-discourse">
-            <w lemma="це" ana="part">це</w>
+          <w_ id="08jl" dep="08jj-nsubj">
+            <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
           </w_>
           <w_ id="08jm" dep="08jn-advmod">
             <w lemma="не" ana="part:neg">не</w>
