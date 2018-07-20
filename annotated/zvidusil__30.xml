@@ -71,7 +71,7 @@
       <w_ id="38xp" dep="38xk-obl" n="21">
         <w lemma="адреса" ana="noun:inanim:f:v_oru">адресою</w>
       </w_>
-      <w_ id="38xq" dep="38xp-flat:title" tags="graft" n="22">
+      <w_ id="38xq" dep="38xp-flat:title" n="22">
         <w lemma="проспект" ana="noun:inanim:m:v_naz">проспект</w>
       </w_>
       <w_ id="38xr" dep="38xq-nmod" n="23">
@@ -84,7 +84,7 @@
       <w_ id="38xt" dep="38xu-punct" n="25">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38xu" n="26">
+      <w_ id="38xu" dep="38xq-appos" comment="~" n="26">
         <w lemma="9" ana="numr:v_naz:nv">9</w>
       </w_>
       <g/>
@@ -147,13 +147,13 @@
         <w lemma="океан" ana="noun:inanim:m:v_rod">океану</w>
       </w_>
       <g/>
-      <w_ id="38yf" n="46">
+      <w_ id="38yf" dep="38yh-punct" n="46">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38yg" dep="38yh-amod" n="47">
+      <w_ id="38yg" dep="38yh-amod|38yh-private" n="47">
         <w lemma="морський" ana="adj:p:v_naz">морські</w>
       </w_>
-      <w_ id="38yh" n="48">
+      <w_ id="38yh" dep="38y7-conj" n="48">
         <w lemma="лев" ana="noun:anim:p:m:v_naz">леви</w>
       </w_>
       <w_ id="38yi" dep="38yk-cc" n="49">
@@ -230,17 +230,17 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="38z6"/>
-      <w_ id="38z7" n="71">
+      <w_ id="38z7" dep="38zi-cc" n="71">
         <w lemma="проте" ana="conj:coord">Проте</w>
       </w_>
       <g/>
-      <w_ id="38z8" n="72">
+      <w_ id="38z8" dep="38za-punct" n="72">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38z9" n="73">
+      <w_ id="38z9" dep="38za-case" n="73">
         <w lemma="окрім" ana="prep:rv_rod">окрім</w>
       </w_>
-      <w_ id="38za" n="74">
+      <w_ id="38za" dep="38zi-obl" n="74">
         <w lemma="порушення" ana="noun:inanim:n:v_rod">порушення</w>
       </w_>
       <w_ id="38zb" dep="38zc-amod" n="75">
@@ -250,7 +250,7 @@
         <w lemma="норма" ana="noun:inanim:p:f:v_rod">норм</w>
       </w_>
       <g/>
-      <w_ id="38zd" n="77">
+      <w_ id="38zd" dep="38za-punct" n="77">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="38ze" dep="38zg-case" n="78">
@@ -277,7 +277,7 @@
       <w_ id="38zl" dep="38zk-nmod" n="85">
         <w lemma="законодавство" ana="noun:inanim:n:v_rod">законодавства</w>
       </w_>
-      <w_ id="38zm" n="86">
+      <w_ id="38zm" dep="38zn-case" n="86">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
       <w_ id="38zn" dep="38zl-nmod" n="87">
@@ -297,7 +297,7 @@
     </p>
     <gap/>
     <p id="38zs">
-      <w_ id="38zt" n="91">
+      <w_ id="38zt" dep="3908-cc" n="91">
         <w lemma="однак" ana="conj:coord">Однак</w>
       </w_>
       <g/>
@@ -307,10 +307,10 @@
       <w_ id="38zv" dep="3908-advcl" n="93">
         <w lemma="незважаючи" ana="verb:imperf:pres:advp:neg">незважаючи</w>
       </w_>
-      <w_ id="38zw" dep="38zy-case" n="94">
+      <w_ id="38zw" dep="38zy-case|38zy-shared" n="94">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="38zx" dep="38zy-amod" n="95">
+      <w_ id="38zx" dep="38zy-amod|38zy-private" n="95">
         <w lemma="судовий" ana="adj:p:v_zna:rinanim">судові</w>
       </w_>
       <w_ id="38zy" dep="38zv-obl" coref="38zk-bridge" n="96">
@@ -364,13 +364,13 @@
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
       <g/>
-      <w_ id="390d" n="111">
+      <w_ id="390d" dep="390f-punct" n="111">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="390e" n="112">
+      <w_ id="390e" dep="390f-advmod" n="112">
         <w lemma="тому" ana="adv:&amp;pron:dem">тому</w>
       </w_>
-      <w_ id="390f" n="113">
+      <w_ id="390f" dep="3908-advcl" n="113">
         <w lemma="почати" ana="verb:perf:past:m">почав</w>
       </w_>
       <w_ id="390g" dep="390f-xcomp" n="114">
@@ -389,7 +389,7 @@
         <w lemma="розташування" ana="noun:inanim:n:v_rod">розташування</w>
       </w_>
       <g/>
-      <w_ id="390l" n="119">
+      <w_ id="390l" dep="3908-punct" n="119">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="390m"/>
@@ -435,17 +435,17 @@
       <w_ id="390z" dep="390x-punct" n="132">
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
-      <w_ id="3910" n="133">
+      <w_ id="3910" dep="3911-punct" n="133">
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
       <w_ id="3911" n="134">
         <w lemma="раніше" ana="adv:compr">раніше</w>
       </w_>
-      <w_ id="3912" n="135">
+      <w_ id="3912" dep="3913-punct" n="135">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="3913" n="136">
+      <w_ id="3913" dep="3911-orphan|3911-punct" n="136">
         <w lemma="ВДНГ" ana="noun:inanim:f:v_naz:nv:np:abbr">ВДНГ</w>
       </w_>
       <g/>
@@ -506,7 +506,7 @@
       <w_ id="391l" dep="391m-case" n="154">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="391m" n="155">
+      <w_ id="391m" dep="391i-obl" n="155">
         <w lemma="територія" ana="noun:inanim:f:v_mis">території</w>
       </w_>
       <w_ id="391n" dep="391o-amod" n="156">
@@ -632,11 +632,11 @@
       <w_ id="392t" dep="392u-discourse" n="191">
         <w lemma="саме" ana="part">Саме</w>
       </w_>
-      <w_ id="392u" n="192">
+      <w_ id="392u" dep="392w-discourse" n="192">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <g/>
-      <w_ id="392v" n="193">
+      <w_ id="392v" dep="392u-punct" n="193">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="392w" coref="392k-equality" n="194">
@@ -662,7 +662,7 @@
         <w lemma="сільничка" ana="noun:inanim:f:v_oru">сільничкою</w>
       </w_>
       <g/>
-      <w_ id="3933" n="201">
+      <w_ id="3933" dep="392w-punct" n="201">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3934"/>
@@ -679,61 +679,61 @@
         <w lemma="пояснити" ana="verb:perf:past:f">пояснила</w>
       </w_>
       <g/>
-      <w_ id="3939" n="206">
+      <w_ id="3939" dep="393j-punct" n="206">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="393a" n="207">
+      <w_ id="393a" dep="393j-mark" n="207">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
     </p>
     <p id="393b">
-      <w_ id="393c" n="208">
+      <w_ id="393c" dep="393j-punct" n="208">
         <w lemma="&quot;" ana="punct:quote:open">"</w>
       </w_>
       <g/>
-      <w_ id="393d" n="209">
+      <w_ id="393d" dep="393j-punct" n="209">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
       <w_ id="393e" dep="393f-det" n="210">
         <w lemma="той" ana="adj:p:v_naz:&amp;pron:dem">ті</w>
       </w_>
-      <w_ id="393f" comment-equality="#abstract" n="211">
+      <w_ id="393f" dep="393j-nsubj|393j-shared" comment-equality="#abstract" n="211">
         <w lemma="слимак" ana="noun:anim:p:m:v_naz">слимаки</w>
       </w_>
       <g/>
-      <w_ id="393g" n="212">
+      <w_ id="393g" dep="393j-punct" n="212">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="393h" n="213">
-        <w lemma="то" ana="part">то</w>
+      <w_ id="393h" dep="393j-expl" n="213">
+        <w lemma="то" ana="noun:inanim:n:v_naz:&amp;pron:dem">то</w>
       </w_>
-      <w_ id="393i" n="214">
+      <w_ id="393i" dep="393j-det|393j-private" n="214">
         <w lemma="такий" ana="adj:f:v_naz:&amp;pron:dem">така</w>
       </w_>
-      <w_ id="393j" n="215">
+      <w_ id="393j" dep="3938-ccomp" comment="і прищепа, і ccomp одночасно" n="215">
         <w lemma="зараза" ana="noun:inanim:f:v_naz">зараза</w>
       </w_>
       <g/>
-      <w_ id="393k" n="216">
+      <w_ id="393k" dep="393l-punct" n="216">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="393l" dep="3938-ccomp" n="217">
+      <w_ id="393l" dep="393j-conj" n="217">
         <w lemma="з’їдати" ana="verb:imperf:pres:p:3">з'їдають</w>
       </w_>
-      <w_ id="393m" n="218">
+      <w_ id="393m" dep="393n-case" n="218">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="393n" n="219">
+      <w_ id="393n" dep="393l-obl" n="219">
         <w lemma="город" ana="noun:inanim:m:v_mis">городі</w>
       </w_>
-      <w_ id="393o" n="220">
-        <w lemma="чисто" ana="adv:compb">чисто</w>
+      <w_ id="393o" dep="393p-discourse" n="220">
+        <w lemma="чисто" ana="part">чисто</w>
       </w_>
-      <w_ id="393p" n="221">
+      <w_ id="393p" dep="393l-obj" n="221">
         <w lemma="все" ana="noun:inanim:n:v_zna:&amp;pron:gen:v-u">все</w>
       </w_>
       <g/>
-      <w_ id="393q" n="222">
+      <w_ id="393q" dep="393j-punct" n="222">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="393r"/>
@@ -759,16 +759,16 @@
       <sb id="393y"/>
     </p>
     <p id="393z">
-      <w_ id="3940" n="229">
+      <w_ id="3940" dep="3944-punct" n="229">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="3941" n="230">
+      <w_ id="3941" dep="3944-cc" n="230">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="3942" n="231">
+      <w_ id="3942" dep="3944-discourse" n="231">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="3943" coref="392a-equality" n="232">
+      <w_ id="3943" dep="3944-nsubj" coref="392a-equality" n="232">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="3944" comment-equality="#abstract" n="233">
@@ -778,10 +778,10 @@
       <w_ id="3945" n="234">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3946" correct="до" n="235">
+      <w_ id="3946" dep="3948-case" correct="до" n="235">
         <w lemma="до" ana="prep:rv_rod">що</w>
       </w_>
-      <w_ id="3947" coref="392k-equality" n="236">
+      <w_ id="3947" dep="3948-det" coref="392k-equality" n="236">
         <w lemma="ваш" ana="adj:m:v_rod:poss:&amp;pron:pers:2">вашого</w>
       </w_>
       <w_ id="3948" n="237">
@@ -797,87 +797,87 @@
       <sb id="394b"/>
     </p>
     <p id="394c">
-      <w_ id="394d" n="240">
+      <w_ id="394d" dep="394g-punct" n="240">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="394e" n="241">
+      <w_ id="394e" dep="394g-discourse" n="241">
         <w lemma="то" ana="part:conseq">то</w>
       </w_>
-      <w_ id="394f" n="242">
+      <w_ id="394f" dep="394g-discourse" n="242">
         <w lemma="й" ana="part">й</w>
       </w_>
       <w_ id="394g" n="243">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:int">що</w>
       </w_>
       <g/>
-      <w_ id="394h" n="244">
+      <w_ id="394h" dep="394g-punct" n="244">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="394i"/>
-      <w_ id="394j" coref="392k-equality" n="245">
+      <w_ id="394j" dep="394o-nsubj" coref="392k-equality" n="245">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
       </w_>
-      <w_ id="394k" n="246">
+      <w_ id="394k" dep="394o-advmod" n="246">
         <w lemma="ніколи" ana="adv:&amp;pron:neg">ніколи</w>
       </w_>
-      <w_ id="394l" n="247">
+      <w_ id="394l" dep="394o-obj" n="247">
         <w lemma="ніхто" ana="noun:anim:v_zna:&amp;pron:neg">нікого</w>
       </w_>
-      <w_ id="394m" n="248">
+      <w_ id="394m" dep="394o-advmod" n="248">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
-      <w_ id="394n" n="249">
+      <w_ id="394n" dep="394o-advmod" n="249">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="394o" n="250">
         <w lemma="ненавидіти" ana="verb:imperf:past:f">ненавиділа</w>
       </w_>
       <g/>
-      <w_ id="394p" n="251">
+      <w_ id="394p" dep="394s-punct" n="251">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="394q" n="252">
         <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
-      <w_ id="394r" n="253">
+      <w_ id="394r" dep="394s-det" n="253">
         <w lemma="той" ana="adj:p:v_zna:ranim:&amp;pron:dem">тих</w>
       </w_>
       <w_ id="394s" comment-equality="#abstract" n="254">
         <w lemma="слимак" ana="noun:anim:p:m:v_zna">слимаків</w>
       </w_>
       <g/>
-      <w_ id="394t" n="255">
+      <w_ id="394t" dep="394o-punct" n="255">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="394u"/>
-      <w_ id="394v" n="256">
+      <w_ id="394v" dep="394z-discourse" n="256">
         <w lemma="то" ana="part:conseq">То</w>
       </w_>
-      <w_ id="394w" coref="394j-equality" n="257">
+      <w_ id="394w" dep="394z-nsubj" coref="394j-equality" n="257">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="394x" n="258">
+      <w_ id="394x" dep="394z-obj" n="258">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
-      <w_ id="394y" n="259">
+      <w_ id="394y" dep="394z-advmod" n="259">
         <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
       </w_>
       <w_ id="394z" n="260">
         <w lemma="солити" ana="verb:imperf:pres:s:1">солю</w>
       </w_>
       <g/>
-      <w_ id="3950" n="261">
+      <w_ id="3950" dep="3951-punct" n="261">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3951" n="262">
+      <w_ id="3951" dep="394z-conj:repeat" n="262">
         <w lemma="солити" ana="verb:imperf:pres:s:1">солю</w>
       </w_>
       <g/>
-      <w_ id="3952" n="263">
+      <w_ id="3952" dep="394z-punct" n="263">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <g/>
-      <w_ id="3953" n="264">
+      <w_ id="3953" dep="394z-punct" n="264">
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
       <sb id="3954"/>
@@ -920,7 +920,7 @@
       <w_ id="395h" dep="395i-iobj" coref="395e-equality" n="276">
         <w lemma="себе" ana="noun:v_dav:&amp;pron:refl">собі</w>
       </w_>
-      <w_ id="395i" n="277">
+      <w_ id="395i" dep="395b-acl" n="277">
         <w lemma="насолити" ana="verb:perf:past:f">насолила</w>
       </w_>
       <g/>
@@ -961,7 +961,7 @@
       <w_ id="395v" dep="395w-mark" n="288">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="395w" coref="395r-equality" n="289">
+      <w_ id="395w" dep="395s-advcl" coref="395r-equality" n="289">
         <w lemma="думати" ana="verb:imperf:past:f">думала</w>
       </w_>
       <w_ id="395x" dep="395y-det" n="290">
@@ -983,16 +983,16 @@
       <w_ id="3963" n="294">
         <w lemma="могти" ana="verb:imperf:pres:s:1">можу</w>
       </w_>
-      <w_ id="3964" n="295">
+      <w_ id="3964" dep="3965-discourse" n="295">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
       <w_ id="3965" dep="3963-xcomp" n="296">
         <w lemma="фантазувати" ana="verb:imperf:inf">фантазувати</w>
       </w_>
-      <w_ id="3966" dep="3968-case" n="297">
+      <w_ id="3966" dep="3968-case|3968-shared" n="297">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="3967" dep="3968-det" coref="395e-equality" n="298">
+      <w_ id="3967" dep="3968-det|3968-private" coref="395e-equality" n="298">
         <w lemma="її" ana="adj:n:v_zna:poss:nv:&amp;pron:pers:3">її</w>
       </w_>
       <w_ id="3968" dep="3965-obl" n="299">
@@ -1007,7 +1007,7 @@
       <w_ id="396b" dep="396c-amod" n="302">
         <w lemma="львівський" ana="adj:f:v_mis">львівській</w>
       </w_>
-      <w_ id="396c" dep="3968-nmod" n="303">
+      <w_ id="396c" dep="3968-nmod|3968-private" n="303">
         <w lemma="родина" ana="noun:inanim:f:v_mis">родині</w>
       </w_>
       <g/>
@@ -1074,38 +1074,50 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="396w"/>
-      <w_ id="396x" coref="3967-bridge" n="323">
+      <w_ id="3c9l" elided="yes">
+        <w lemma="змушений" ana="adj:f:v_mis:&amp;adjp:perf:pasv">Змушеній</w>
+      </w_>
+      <w_ id="3c9m" dep="3c9l-xcomp" elided="yes">
+        <w lemma="приховувати" ana="verb:imperf:inf">приховувати</w>
+      </w_>
+      <w_ id="396x" dep="3c9m-obj" coref="3967-bridge" n="323">
         <w lemma="чоловік" ana="noun:anim:m:v_zna">Чоловіка</w>
       </w_>
-      <w_ id="396y" n="324">
+      <w_ id="396y" dep="396z-punct" n="324">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="396z" n="325">
+      <w_ id="396z" dep="396x-amod" comment="справді паратакса?" n="325">
         <w lemma="нелюблений" ana="adj:m:v_zna:ranim:&amp;adjp:imperf:pasv:auto">нелюбленого</w>
       </w_>
       <g/>
-      <w_ id="3970" n="326">
+      <w_ id="3970" dep="396z-punct" n="326">
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="3971"/>
-      <w_ id="3972" coref="3967-bridge" n="327">
+      <w_ id="3c9n" elided="yes">
+        <w lemma="змушений" ana="adj:f:v_mis:&amp;adjp:perf:pasv">Змушеній</w>
+      </w_>
+      <w_ id="3c9o" dep="3c9n-xcomp" elided="yes">
+        <w lemma="приховувати" ana="verb:imperf:inf">приховувати</w>
+      </w_>
+      <w_ id="3972" dep="3c9o-obj" coref="3967-bridge" n="327">
         <w lemma="дитина" ana="noun:anim:p:f:v_zna">Дітей</w>
       </w_>
-      <w_ id="3973" n="328">
+      <w_ id="3973" dep="3974-punct" n="328">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="3974" n="329">
+      <w_ id="3974" dep="3972-amod" comment="справді паратакса?" n="329">
         <w lemma="проблемний" ana="adj:p:v_zna:ranim:compb">проблемних</w>
       </w_>
       <g/>
-      <w_ id="3975" n="330">
+      <w_ id="3975" dep="3974-punct" n="330">
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="3976"/>
       <w_ id="3977" coref="3967-bridge" n="331">
         <w lemma="небажання" ana="noun:inanim:n:v_zna">Небажання</w>
       </w_>
-      <w_ id="3978" dep="3977-acl" n="332">
+      <w_ id="3978" dep="3977-acl|3977-private" n="332">
         <w lemma="готувати" ana="verb:imperf:inf">готувати</w>
       </w_>
       <w_ id="3979" dep="3978-obj" n="333">
@@ -1146,7 +1158,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="397k"/>
-      <w_ id="397l" n="344">
+      <w_ id="397l" dep="397t-cc" n="344">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
       <w_ id="397m" dep="397r-obj" n="345">
@@ -1164,11 +1176,11 @@
       <w_ id="397q" dep="397r-advmod" n="349">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="397r" n="350">
+      <w_ id="397r" dep="397t-advcl" n="350">
         <w lemma="нафантазувати" ana="verb:perf:past:p">нафантазували</w>
       </w_>
       <g/>
-      <w_ id="397s" n="351">
+      <w_ id="397s" dep="397r-punct" n="351">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="397t" n="352">
@@ -1180,10 +1192,10 @@
       <w_ id="397v" dep="397t-nsubj" n="354">
         <w lemma="одне" ana="adj:n:v_naz:&amp;pron:dem:&amp;noun:inanim" lemma2="один">одне</w>
       </w_>
-      <w_ id="397w" n="355">
+      <w_ id="397w" dep="397x-punct" n="355">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="397x" n="356">
+      <w_ id="397x" dep="397v-appos" n="356">
         <w lemma="відсутність" ana="noun:inanim:f:v_naz">відсутність</w>
       </w_>
       <w_ id="397y" dep="397x-nmod" n="357">
@@ -1218,62 +1230,62 @@
         <w lemma="отруювати" ana="verb:imperf:pres:p:3">отруюють</w>
       </w_>
       <g/>
-      <w_ id="3988" n="367">
+      <w_ id="3988" dep="397t-punct" n="367">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3989"/>
-      <w_ id="398a" n="368">
+      <w_ id="398a" dep="398b-cc" n="368">
         <w lemma="і" ana="conj:coord">І</w>
       </w_>
       <w_ id="398b" n="369">
         <w lemma="перший" ana="adj:m:v_naz:compb:&amp;numr">перший</w>
       </w_>
-      <w_ id="398c" n="370">
+      <w_ id="398c" dep="398e-case" n="370">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="398d" n="371">
+      <w_ id="398d" dep="398e-det" n="371">
         <w lemma="цей" ana="adj:p:v_rod:&amp;pron:dem">цих</w>
       </w_>
-      <w_ id="398e" n="372">
+      <w_ id="398e" dep="398b-nmod" n="372">
         <w lemma="ресурс" ana="noun:inanim:p:m:v_rod">ресурсів</w>
       </w_>
-      <w_ id="398f" n="373">
+      <w_ id="398f" dep="398g-punct" n="373">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="398g" n="374">
+      <w_ id="398g" dep="398b-nsubj" n="374">
         <w lemma="усвідомлення" ana="noun:inanim:n:v_naz">усвідомлення</w>
       </w_>
-      <w_ id="398h" n="375">
+      <w_ id="398h" dep="398i-mark" n="375">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="398i" n="376">
+      <w_ id="398i" dep="398g-appos" n="376">
         <w lemma="такий" ana="adj:n:v_naz:&amp;pron:dem">таке</w>
       </w_>
       <g/>
-      <w_ id="398j" n="377">
+      <w_ id="398j" dep="398m-punct" n="377">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="398k" n="378">
+      <w_ id="398k" dep="398m-mark" n="378">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="398l" n="379">
+      <w_ id="398l" dep="398n-obj" n="379">
         <w lemma="життя" ana="noun:inanim:n:v_zna">життя</w>
       </w_>
-      <w_ id="398m" n="380">
+      <w_ id="398m" dep="398g-acl" n="380">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="398n" n="381">
+      <w_ id="398n" dep="398m-csubj" n="381">
         <w lemma="змінювати" ana="verb:imperf:inf">змінювати</w>
       </w_>
       <g/>
-      <w_ id="398o" n="382">
+      <w_ id="398o" dep="398b-punct" n="382">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="398p"/>
-      <w_ id="398q" n="383">
+      <w_ id="398q" dep="398t-advmod" n="383">
         <w lemma="може" ana="adv">Може</w>
       </w_>
-      <w_ id="398r" dep="398t-nsubj" coref="3967-equality" n="384">
+      <w_ id="398r" dep="398t-nsubj|398t-shared" coref="3967-equality" n="384">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="398s" dep="398t-discourse" n="385">
@@ -1286,7 +1298,7 @@
       <w_ id="398u" dep="398v-punct" n="387">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="398v" n="388">
+      <w_ id="398v" dep="398t-parataxis:discourse" n="388">
         <w lemma="сказати" ana="verb:perf:impr:p:1">скажімо</w>
       </w_>
       <g/>
@@ -1320,54 +1332,54 @@
         <w lemma="подруга" ana="noun:anim:p:f:v_dav">подругам</w>
       </w_>
       <g/>
-      <w_ id="3995" n="398">
+      <w_ id="3995" dep="3998-punct" n="398">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3996" n="399">
+      <w_ id="3996" dep="3998-punct" n="399">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
       <w_ id="3997" dep="3998-cc" n="400">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="3998" coref="398r-equality" n="401">
+      <w_ id="3998" dep="398t-conj" coref="398r-equality" n="401">
         <w lemma="почути" ana="verb:perf:past:f">почула</w>
       </w_>
-      <w_ id="3999" n="402">
+      <w_ id="3999" dep="399b-punct" n="402">
         <w lemma="&quot;" ana="punct:quote:open">"</w>
       </w_>
       <g/>
-      <w_ id="399a" n="403">
+      <w_ id="399a" dep="399b-obj" n="403">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:int">що</w>
       </w_>
       <w_ id="399b" dep="3998-obj" tags="graft" n="404">
         <w lemma="поробити" ana="verb:perf:futr:s:2">поробиш</w>
       </w_>
       <g/>
-      <w_ id="399c" n="405">
+      <w_ id="399c" dep="399d-punct" n="405">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="399d" dep="399b-parataxis" coref="398r-equality" n="406">
         <w lemma="терпіти" ana="verb:imperf:impr:s:2">терпи</w>
       </w_>
       <g/>
-      <w_ id="399e" n="407">
+      <w_ id="399e" dep="399g-punct" n="407">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="399f" n="408">
+      <w_ id="399f" dep="399h-obj" n="408">
         <w lemma="то" ana="noun:inanim:n:v_zna:&amp;pron:dem">то</w>
       </w_>
       <w_ id="399g" dep="399b-parataxis" n="409">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="399h" n="410">
+      <w_ id="399h" dep="399g-csubj" n="410">
         <w lemma="терпіти" ana="verb:imperf:inf">терпіти</w>
       </w_>
       <g/>
-      <w_ id="399i" n="411">
+      <w_ id="399i" dep="399b-punct" n="411">
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
       <g/>
-      <w_ id="399j" n="412">
+      <w_ id="399j" dep="398t-punct" n="412">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="399k"/>
@@ -1413,7 +1425,7 @@
       <w_ id="399x" coref="39tr-equality" n="423">
         <w lemma="солити" ana="verb:imperf:pres:s:3">солить</w>
       </w_>
-      <w_ id="399y" dep="399x-obj" n="424">
+      <w_ id="399y" dep="399x-obj|399x-private" n="424">
         <w lemma="слимак" ana="noun:anim:p:m:v_rod">слимаків</w>
       </w_>
       <g/>
@@ -1453,20 +1465,20 @@
       <w_ id="39aa" n="435">
         <w lemma="мати" ana="verb:imperf:pres:s:3">Має</w>
       </w_>
-      <w_ id="39ab" n="436">
+      <w_ id="39ab" dep="39aa-discourse" n="436">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="39ac" n="437">
+      <w_ id="39ac" dep="39ae-cop" n="437">
         <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
-      <w_ id="39ad" n="438">
+      <w_ id="39ad" dep="39aa-nsubj" n="438">
         <w lemma="хтось" ana="noun:anim:v_naz:&amp;pron:ind">хтось</w>
       </w_>
-      <w_ id="39ae" n="439">
+      <w_ id="39ae" dep="39aa-xcomp" n="439">
         <w lemma="винний" ana="adj:m:v_naz:short">винен</w>
       </w_>
       <g/>
-      <w_ id="39af" n="440">
+      <w_ id="39af" dep="39aa-punct" n="440">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39ag"/>
@@ -1480,23 +1492,23 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39ak"/>
-      <w_ id="39al" n="443">
+      <w_ id="39al" dep="39an-mark" n="443">
         <w lemma="якщо" ana="conj:subord">Якщо</w>
       </w_>
-      <w_ id="39am" n="444">
+      <w_ id="39am" dep="39an-obj" n="444">
         <w lemma="ви" ana="noun:anim:p:v_zna:&amp;pron:pers:2">вас</w>
       </w_>
-      <w_ id="39an" n="445">
+      <w_ id="39an" dep="39at-advcl" comment="не справжня умова" n="445">
         <w lemma="турбувати" ana="verb:imperf:pres:s:3">турбує</w>
       </w_>
-      <w_ id="39ao" n="446">
+      <w_ id="39ao" dep="39an-nsubj" n="446">
         <w lemma="доля" ana="noun:inanim:f:v_naz">доля</w>
       </w_>
-      <w_ id="39ap" coref="392q-equality" n="447">
+      <w_ id="39ap" dep="39ao-nmod" coref="392q-equality" n="447">
         <w lemma="слимак" ana="noun:anim:m:v_rod">слимака</w>
       </w_>
       <g/>
-      <w_ id="39aq" n="448">
+      <w_ id="39aq" dep="39an-punct" n="448">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="39ar" dep="39at-nsubj" coref="3962-equality" n="449">
@@ -1515,11 +1527,11 @@
         <w lemma="калюжа" ana="noun:inanim:f:v_mis">калюжі</w>
       </w_>
       <g/>
-      <w_ id="39aw" n="454">
+      <w_ id="39aw" dep="39at-punct" n="454">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39ax"/>
-      <w_ id="39ay" comment-equality="чи це?" n="455">
+      <w_ id="39ay" dep="39b3-nsubj" comment-equality="чи це?" n="455">
         <w lemma="решта" ana="noun:inanim:f:v_naz">Решта</w>
       </w_>
       <w_ id="39az" dep="39ay-nmod" coref="39ap-bridge" n="456">
@@ -1529,7 +1541,7 @@
       <w_ id="39b0" dep="39b1-punct" n="457">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39b1" n="458">
+      <w_ id="39b1" dep="39b3-parataxis:discourse" n="458">
         <w lemma="сподіватися" ana="verb:rev:imperf:pres:s:1">сподіваюсь</w>
       </w_>
       <g/>
@@ -1549,7 +1561,7 @@
         <w lemma="трава" ana="noun:inanim:f:v_zna">траву</w>
       </w_>
       <g/>
-      <w_ id="39b7" n="464">
+      <w_ id="39b7" dep="39b3-punct" n="464">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39b8"/>
@@ -2264,7 +2276,7 @@
       <w_ id="39hp" dep="39hn-obj" n="678">
         <w lemma="шина" ana="noun:inanim:p:f:v_zna">шини</w>
       </w_>
-      <w_ id="39hq" n="679">
+      <w_ id="39hq" dep="39hp-flat:title" n="679">
         <w lemma="175" ana="numr:v_naz:nv">175</w>
       </w_>
       <g/>
@@ -2272,7 +2284,7 @@
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
-      <w_ id="39hs" n="681">
+      <w_ id="39hs" dep="39hq-compound" n="681">
         <w lemma="75" ana="numr:v_naz:nv">75</w>
       </w_>
       <g/>
@@ -2280,7 +2292,7 @@
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
-      <w_ id="39hu" n="683">
+      <w_ id="39hu" dep="39hq-compound" n="683">
         <w lemma="13" ana="numr:v_naz:nv">13</w>
       </w_>
       <w_ id="39hv" dep="39hx-punct" n="684">
@@ -2290,7 +2302,7 @@
       <w_ id="39hw" dep="39hx-nummod:gov" n="685">
         <w lemma="800" ana="numr:v_naz:nv">800</w>
       </w_>
-      <w_ id="39hx" n="686">
+      <w_ id="39hx" dep="39hp-appos" n="686">
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
       <g/>
@@ -2306,7 +2318,7 @@
       <w_ id="39i1" dep="39hp-conj" n="690">
         <w lemma="шина" ana="noun:inanim:p:f:v_zna">шини</w>
       </w_>
-      <w_ id="39i2" n="691">
+      <w_ id="39i2" dep="39i1-flat:title" n="691">
         <w lemma="235" ana="numr:v_naz:nv">235</w>
       </w_>
       <g/>
@@ -2314,7 +2326,7 @@
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
-      <w_ id="39i4" n="693">
+      <w_ id="39i4" dep="39i2-compound" n="693">
         <w lemma="75" ana="numr:v_naz:nv">75</w>
       </w_>
       <g/>
@@ -2322,7 +2334,7 @@
         <w lemma="/" ana="punct">/</w>
       </w_>
       <g/>
-      <w_ id="39i6" n="695">
+      <w_ id="39i6" dep="39i2-compound" n="695">
         <w lemma="15" ana="numr:v_naz:nv">15</w>
       </w_>
       <w_ id="39i7" dep="39i9-punct" n="696">
@@ -2332,7 +2344,7 @@
       <w_ id="39i8" dep="39i9-nummod:gov" n="697">
         <w lemma="4528" ana="numr:v_naz:nv">4528</w>
       </w_>
-      <w_ id="39i9" n="698">
+      <w_ id="39i9" dep="39i1-appos" n="698">
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
       <g/>
@@ -2340,7 +2352,7 @@
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
-      <w_ id="39ib" n="700">
+      <w_ id="39ib" dep="39id-punct" n="700">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="39ic" dep="39id-amod" n="701">
@@ -2358,7 +2370,7 @@
       <w_ id="39ig" dep="39ih-case" n="705">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="39ih" dep="39if-nmod" n="706">
+      <w_ id="39ih" dep="39id-nmod" n="706">
         <w lemma="автомобіль" ana="noun:inanim:m:v_rod">автомобіля</w>
       </w_>
       <w_ id="39ii" dep="39ih-flat:title" n="707">
@@ -2371,7 +2383,7 @@
       <w_ id="39ik" dep="39il-nummod:gov" n="709">
         <w lemma="300" ana="numr:v_naz:nv">300</w>
       </w_>
-      <w_ id="39il" n="710">
+      <w_ id="39il" dep="39id-flat:title" n="710">
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
       <g/>
@@ -2379,7 +2391,7 @@
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
-      <w_ id="39in" n="712">
+      <w_ id="39in" dep="39hn-punct" n="712">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39io"/>
@@ -2439,7 +2451,7 @@
       <w_ id="39j7" dep="39j8-punct" n="729">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="39j8" n="730">
+      <w_ id="39j8" dep="39j6-parataxis" n="730">
         <w lemma="воскреснути" ana="verb:perf:futr:s:3">воскресне</w>
       </w_>
       <w_ id="39j9" dep="39j8-nsubj" n="731">
@@ -2569,7 +2581,7 @@
       <w_ id="39ke" dep="39kf-det" n="767">
         <w lemma="цей" ana="adj:f:v_rod:&amp;pron:dem">цієї</w>
       </w_>
-      <w_ id="39kf" n="768">
+      <w_ id="39kf" dep="39kn-obl" n="768">
         <w lemma="сума" ana="noun:inanim:f:v_rod">суми</w>
       </w_>
       <w_ id="39kg" n="769">
@@ -2751,7 +2763,7 @@
       <w_ id="39m1" dep="39lz-compound" n="822">
         <w lemma="8" ana="numr:v_zna:nv">8</w>
       </w_>
-      <w_ id="39m2" n="823">
+      <w_ id="39m2" dep="39ls-appos" n="823">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
       <w_ id="39m3" dep="39m2-nmod" n="824">
@@ -2774,7 +2786,7 @@
       <w_ id="39m8" dep="39ma-case" n="829">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="39m9" n="830">
+      <w_ id="39m9" dep="39ma-nummod" n="830">
         <w lemma="2" ana="numr:v_zna:nv">2</w>
       </w_>
       <w_ id="3c92" dep="3c93-punct">
@@ -2816,7 +2828,7 @@
       <w_ id="39mi" dep="39mj-punct" n="839">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="39mj" n="840">
+      <w_ id="39mj" dep="39mb-conj" n="840">
         <w lemma="сума" ana="noun:inanim:f:v_zna">суму</w>
       </w_>
       <g/>
@@ -2853,7 +2865,7 @@
       <w_ id="39mv" dep="39mw-case" n="848">
         <w lemma="під" ana="prep:rv_zna">Під</w>
       </w_>
-      <w_ id="39mw" n="849">
+      <w_ id="39mw" dep="39nh-obl" n="849">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
       <w_ id="39mx" dep="39mw-nmod" n="850">
@@ -2881,10 +2893,10 @@
       <w_ id="39n4" dep="39n5-amod" n="857">
         <w lemma="допрем’єрний" ana="adj:p:v_rod">допрем'єрних</w>
       </w_>
-      <w_ id="39n5" n="858">
+      <w_ id="39n5" dep="39n2-obl" n="858">
         <w lemma="показ" ana="noun:inanim:p:m:v_rod">показів</w>
       </w_>
-      <w_ id="39n6" n="859">
+      <w_ id="39n6" dep="39n2-obl" n="859">
         <w lemma="17" ana="adj:n:v_rod:nv:&amp;numr">17</w>
       </w_>
       <w_ id="39n7" dep="39n6-nmod" n="860">
@@ -2906,13 +2918,13 @@
       <w_ id="39nc" dep="39nd-amod" n="865">
         <w lemma="перший" ana="adj:m:v_rod:compb:&amp;numr">першого</w>
       </w_>
-      <w_ id="39nd" n="866">
+      <w_ id="39nd" dep="39nh-obl" n="866">
         <w lemma="тиждень" ana="noun:inanim:m:v_rod">тижня</w>
       </w_>
       <w_ id="39ne" dep="39nf-case" n="867">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="39nf" coref="39mx-bridge" n="868">
+      <w_ id="39nf" dep="39nj-nmod" coref="39mx-bridge" n="868">
         <w lemma="фільм" ana="noun:inanim:m:v_zna">фільм</w>
       </w_>
       <w_ id="39ng" dep="39nh-aux" n="869">
@@ -2931,10 +2943,10 @@
       <w_ id="39nk" dep="39nn-punct" n="873">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39nl" dep="39nn-nsubj" n="874">
+      <w_ id="39nl" dep="39nn-nsubj|39nn-shared" n="874">
         <w lemma="фільм" ana="noun:inanim:m:v_naz">фільм</w>
       </w_>
-      <w_ id="39nm" dep="39nn-aux" n="875">
+      <w_ id="39nm" dep="39nn-aux|39nn-private" n="875">
         <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
       </w_>
       <w_ id="39nn" dep="39nh-parataxis" n="876">
@@ -2962,11 +2974,11 @@
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
       <g/>
-      <w_ id="39nv" n="884">
+      <w_ id="39nv" dep="39nz-punct" n="884">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39nw" n="885">
-        <w lemma="або" ana="conj:coord">або</w>
+      <w_ id="39nw" dep="39nz-mark" n="885">
+        <w lemma="або" ana="conj:subord">або</w>
       </w_>
       <w_ id="39nx" dep="39nw-discourse" n="886">
         <w lemma="ж" ana="part">ж</w>
@@ -2974,7 +2986,7 @@
       <w_ id="39ny" dep="39nz-nummod:gov" n="887">
         <w lemma="241233" ana="numr:v_oru:nv">241 233</w>
       </w_>
-      <w_ id="39nz" n="888">
+      <w_ id="39nz" dep="39nu-appos" n="888">
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <g/>
@@ -3091,34 +3103,34 @@
       <w_ id="39p0" dep="39p3-punct" n="924">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39p1" n="925">
+      <w_ id="39p1" dep="39p3-nsubj" n="925">
         <w lemma="фільм" ana="noun:inanim:m:v_naz">фільм</w>
       </w_>
-      <w_ id="39p2" n="926">
+      <w_ id="39p2" dep="39p3-cop" n="926">
         <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
       </w_>
       <w_ id="39p3" dep="39ox-parataxis" n="927">
         <w lemma="показаний" ana="adj:m:v_naz:&amp;adjp:perf:pasv">показаний</w>
       </w_>
-      <w_ id="39p4" n="928">
+      <w_ id="39p4" dep="39p6-case" n="928">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="39p5" n="929">
+      <w_ id="39p5" dep="39p6-nummod" n="929">
         <w lemma="213" ana="numr:v_mis:nv">213</w>
       </w_>
-      <w_ id="39p6" n="930">
+      <w_ id="39p6" dep="39p3-obl" n="930">
         <w lemma="кінотеатр" ana="noun:inanim:p:m:v_mis">кінотеатрах</w>
       </w_>
-      <w_ id="39p7" n="931">
+      <w_ id="39p7" dep="39p8-cc" n="931">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="39p8" n="932">
+      <w_ id="39p8" dep="39p3-conj" n="932">
         <w lemma="зібрати" ana="verb:perf:past:m">зібрав</w>
       </w_>
-      <w_ id="39p9" n="933">
+      <w_ id="39p9" dep="39pa-nummod" n="933">
         <w lemma="8440042" ana="numr:v_zna:nv">8 440 042</w>
       </w_>
-      <w_ id="39pa" n="934">
+      <w_ id="39pa" dep="39p8-obj" n="934">
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
       <g/>
@@ -3158,7 +3170,7 @@
       <w_ id="39pm" dep="39pn-det" n="946">
         <w lemma="увесь" ana="adj:p:v_rod:&amp;pron:gen">усіх</w>
       </w_>
-      <w_ id="39pn" n="947">
+      <w_ id="39pn" dep="39pk-nmod" n="947">
         <w lemma="прем’єра" ana="noun:inanim:p:f:v_rod">прем'єр</w>
       </w_>
       <g/>
@@ -3166,7 +3178,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39pp"/>
-      <w_ id="39pq" dep="39pt-nsubj" n="949">
+      <w_ id="39pq" dep="39pt-nsubj|39pt-shared" n="949">
         <w lemma="показ" ana="noun:inanim:m:v_naz">Показ</w>
       </w_>
       <w_ id="39pr" dep="39ps-case" n="950">
@@ -3181,7 +3193,7 @@
       <w_ id="39pu" dep="39pv-nummod:gov" n="953">
         <w lemma="7" ana="numr:v_zna:nv">7</w>
       </w_>
-      <w_ id="39pv" dep="39pt-obl" n="954">
+      <w_ id="39pv" dep="39pt-obl|39pt-private" n="954">
         <w lemma="тиждень" ana="noun:inanim:p:m:v_rod">тижнів</w>
       </w_>
       <w_ id="39pw" dep="39px-cc" n="955">
@@ -3203,7 +3215,7 @@
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
       <g/>
-      <w_ id="39q2" n="961">
+      <w_ id="39q2" dep="39q7-punct" n="961">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="39q3" dep="39q4-case" n="962">
@@ -3215,7 +3227,7 @@
       <w_ id="39q5" dep="39q4-nmod" n="964">
         <w lemma="прокат" ana="noun:inanim:m:v_rod">прокату</w>
       </w_>
-      <w_ id="39q6" dep="39q7-aux" n="965">
+      <w_ id="39q6" dep="39q7-aux|39q7-shared" n="965">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
       <w_ id="39q7" dep="39px-parataxis" n="966">
@@ -3240,19 +3252,19 @@
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
       <g/>
-      <w_ id="39qe" n="973">
+      <w_ id="39qe" dep="39qi-punct" n="973">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39qf" n="974">
-        <w lemma="або" ana="conj:coord">або</w>
+      <w_ id="39qf" dep="39qi-mark" n="974">
+        <w lemma="або" ana="conj:subord">або</w>
       </w_>
-      <w_ id="39qg" n="975">
+      <w_ id="39qg" dep="39qf-discourse" n="975">
         <w lemma="ж" ana="part">ж</w>
       </w_>
       <w_ id="39qh" dep="39qi-nummod:gov" n="976">
         <w lemma="1357145" ana="numr:v_zna:nv">1,357,145</w>
       </w_>
-      <w_ id="39qi" n="977">
+      <w_ id="39qi" dep="39qd-appos" n="977">
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <g/>
@@ -3265,10 +3277,10 @@
       <w_ id="39qm" dep="39qn-case" n="979">
         <w lemma="під" ana="prep:rv_zna">Під</w>
       </w_>
-      <w_ id="39qn" n="980">
+      <w_ id="39qn" dep="39r4-obl" n="980">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
-      <w_ id="39qo" n="981">
+      <w_ id="39qo" dep="39qn-nmod" n="981">
         <w lemma="показ" ana="noun:inanim:m:v_rod">показу</w>
       </w_>
       <w_ id="39qp" dep="39qq-case" n="982">
@@ -3312,10 +3324,10 @@
       <w_ id="39r1" dep="39r4-obl" n="994">
         <w lemma="тиждень" ana="noun:inanim:m:v_rod">тижня</w>
       </w_>
-      <w_ id="39r2" dep="39r4-nsubj" n="995">
+      <w_ id="39r2" dep="39r4-nsubj|39r4-shared" n="995">
         <w lemma="фільм" ana="noun:inanim:m:v_naz">фільм</w>
       </w_>
-      <w_ id="39r3" dep="39r4-cop" n="996">
+      <w_ id="39r3" dep="39r4-cop|39r4-private" n="996">
         <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
       </w_>
       <w_ id="39r4" n="997">
@@ -3339,14 +3351,14 @@
       <w_ id="39ra" dep="39rb-nummod:gov" n="1003">
         <w lemma="7222035" ana="numr:v_zna:nv">7 222 035</w>
       </w_>
-      <w_ id="39rb" dep="39r9-compound" n="1004">
+      <w_ id="39rb" dep="39r9-obj" n="1004">
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <g/>
-      <w_ id="39rc" dep="39rg-punct" n="1005">
+      <w_ id="39rc" dep="39rh-punct" n="1005">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39rd" dep="39rg-nsubj" n="1006">
+      <w_ id="39rd" dep="39rh-nsubj" n="1006">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="39re" dep="39rg-case" n="1007">
@@ -3355,10 +3367,10 @@
       <w_ id="39rf" dep="39rg-det" n="1008">
         <w lemma="той" ana="adj:m:v_zna:rinanim:&amp;pron:dem">той</w>
       </w_>
-      <w_ id="39rg" n="1009">
+      <w_ id="39rg" dep="39rh-obl" n="1009">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
-      <w_ id="39rh" n="1010">
+      <w_ id="39rh" dep="39r4-parataxis" n="1010">
         <w lemma="дозволити" ana="verb:perf:past:n">дозволило</w>
       </w_>
       <w_ id="39ri" dep="39rh-iobj" n="1011">
@@ -3379,11 +3391,11 @@
       <w_ id="39rn" dep="39ro-det" n="1016">
         <w lemma="увесь" ana="adj:p:v_rod:&amp;pron:gen">усіх</w>
       </w_>
-      <w_ id="39ro" n="1017">
+      <w_ id="39ro" dep="39rl-nmod" n="1017">
         <w lemma="прем’єра" ana="noun:inanim:p:f:v_rod">прем'єр</w>
       </w_>
       <g/>
-      <w_ id="39rp" dep="39r4-punct" n="1018">
+      <w_ id="39rp" dep="39rh-punct" n="1018">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39rq"/>
@@ -3417,25 +3429,25 @@
       <w_ id="39s0" dep="39s1-nummod" n="1028">
         <w lemma="62" ana="numr:m:v_zna:nv">62</w>
       </w_>
-      <w_ id="39s1" dep="39s6-punct" n="1029">
+      <w_ id="39s1" dep="39rz-obj" comment="чи таки obl?" n="1029">
         <w lemma="день" ana="noun:inanim:p:m:v_zna">дні</w>
       </w_>
-      <w_ id="39s2" n="1030">
+      <w_ id="39s2" dep="39s6-punct" n="1030">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="39s3" n="1031">
+      <w_ id="39s3" dep="39s6-nummod:gov" n="1031">
         <w lemma="8" ana="numr:v_zna:nv">8</w>
       </w_>
       <g/>
-      <w_ id="39s4" n="1032">
+      <w_ id="39s4" dep="39s5-punct" n="1032">
         <w lemma="," ana="punct">,</w>
       </w_>
       <g/>
-      <w_ id="39s5" n="1033">
+      <w_ id="39s5" dep="39s3-compound" n="1033">
         <w lemma="9" ana="numr:v_zna:nv">9</w>
       </w_>
-      <w_ id="39s6" n="1034">
+      <w_ id="39s6" dep="39s1-appos" n="1034">
         <w lemma="тиждень" ana="noun:inanim:m:v_rod">тижня</w>
       </w_>
       <g/>
@@ -3466,7 +3478,7 @@
       <w_ id="39sf" dep="39sg-case" n="1043">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="39sg" n="1044">
+      <w_ id="39sg" dep="39sc-obl" n="1044">
         <w lemma="США" ana="noun:inanim:p:v_mis:nv:ns:prop">США</w>
       </w_>
       <w_ id="39sh" dep="39si-nummod:gov" n="1045">
@@ -3479,16 +3491,16 @@
         <w lemma="США" ana="noun:inanim:p:v_rod:nv:ns:prop">США</w>
       </w_>
       <g/>
-      <w_ id="39sk" n="1048">
+      <w_ id="39sk" dep="39sq-punct" n="1048">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39sl" n="1049">
+      <w_ id="39sl" dep="39sq-cc" n="1049">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="39sm" dep="39sn-case" n="1050">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="39sn" n="1051">
+      <w_ id="39sn" dep="39sq-orphan" n="1051">
         <w lemma="решта" ana="noun:inanim:f:v_mis">решті</w>
       </w_>
       <w_ id="39so" dep="39sn-nmod" n="1052">
@@ -3497,7 +3509,7 @@
       <w_ id="39sp" dep="39sq-nummod:gov" n="1053">
         <w lemma="155324739" ana="numr:v_zna:nv">155 324 739</w>
       </w_>
-      <w_ id="39sq" n="1054">
+      <w_ id="39sq" dep="39sc-conj" n="1054">
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <w_ id="39sr" n="1055">
@@ -3524,10 +3536,10 @@
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
-      <w_ id="39sy" n="1062">
+      <w_ id="39sy" dep="39t2-punct" n="1062">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39sz" n="1063">
+      <w_ id="39sz" dep="39t2-mark" n="1063">
         <w lemma="тобто" ana="conj:subord">тобто</w>
       </w_>
       <w_ id="39t0" n="1064">
@@ -3574,7 +3586,7 @@
       <w_ id="39td" dep="39te-nummod:gov" n="1077">
         <w lemma="55" ana="numr:v_naz:nv">55</w>
       </w_>
-      <w_ id="39te" n="1078">
+      <w_ id="39te" dep="39tc-flat:title" n="1078">
         <w lemma="млн" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
       <w_ id="39tf" dep="39te-nmod" n="1079">
