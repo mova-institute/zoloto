@@ -168,7 +168,7 @@
         <w_ id="3bad" dep="3bae-punct" n="47">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3bae" dep="3baa-appos" n="48">
+        <w_ id="3bae" dep="3baa-list" n="48">
           <w lemma="пр." ana="noun:inanim:m:v_naz:nv:abbr">пр</w>
         </w_>
         <g/>
@@ -182,7 +182,7 @@
         <w_ id="3bah" dep="3bai-punct" n="51">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3bai" dep="3bae-appos" comment="~" n="52">
+        <w_ id="3bai" dep="3baa-list" comment="~" n="52">
           <w lemma="20" ana="numr:v_naz:nv">20</w>
         </w_>
         <g/>
@@ -490,7 +490,7 @@
           <w lemma="1768" ana="numr:v_naz:nv">1768</w>
         </w_>
         <w_ id="3bda" dep="3bd7-appos" n="140">
-          <w lemma="м" ana="noun:inanim:m:v_naz:nv:abbr">м</w>
+          <w lemma="м" ana="noun:inanim:p:m:v_rod:nv:abbr">м</w>
         </w_>
         <g/>
         <w_ id="3bdb" dep="3bda-punct" n="141">
@@ -1811,7 +1811,7 @@
           <w lemma="й" ana="part">й</w>
         </w_>
         <multitoken form="півхати">
-          <w_ id="3bpa" dep="3bpb-nummod:gov">
+          <w_ id="3bpa" dep="3bpb-nummod">
             <w lemma="пів" ana="numr:v_rod:nv:alt">пів</w>
           </w_>
           <w_ id="3bpb" dep="3bpc-obj">
@@ -2395,7 +2395,7 @@
         <w_ id="3buj" dep="3buk-punct" n="693">
           <w lemma="—" ana="punct:dash">—</w>
         </w_>
-        <w_ id="3buk" dep="3bue-advcl" n="694">
+        <w_ id="3buk" dep="3bue-advcl:svc" n="694">
           <w lemma="покуштувати" ana="verb:perf:inf">покуштувати</w>
         </w_>
         <g/>
@@ -2406,7 +2406,7 @@
         <w_ id="3bun" dep="3buo-amod" n="696">
           <w lemma="найдешевший" ana="adj:p:v_naz:super">Найдешевші</w>
         </w_>
-        <w_ id="3buo" dep="3c8v-nsubj" n="697">
+        <w_ id="3buo" dep="3buv-nsubj" n="697">
           <w lemma="персик" ana="noun:inanim:p:m:v_naz">персики</w>
         </w_>
         <g/>
@@ -2426,7 +2426,7 @@
         <w_ id="3but" dep="3bur-punct" n="702">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3buu" dep="3c8v-punct" n="703">
+        <w_ id="3buu" dep="3buv-punct" n="703">
           <w lemma="—" ana="punct:dash">—</w>
         </w_>
         <w_ id="3buv" n="704">
@@ -2441,11 +2441,11 @@
         <w_ id="3buw" dep="3bux-case" n="705">
           <w lemma="у" ana="prep:rv_mis:v-u">у</w>
         </w_>
-        <w_ id="3bux" dep="3c8v-obl" n="706">
+        <w_ id="3bux" dep="3buv-obl" comment="~" n="706">
           <w lemma="супермаркет" ana="noun:inanim:m:v_mis">супермаркеті</w>
         </w_>
         <g/>
-        <w_ id="3buy" dep="3c8v-punct" n="707">
+        <w_ id="3buy" dep="3buv-punct" n="707">
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="3buz"/>
@@ -2617,7 +2617,7 @@
           <w lemma="день" ana="noun:inanim:m:v_zna">день</w>
         </w_>
         <g/>
-        <w_ id="3bwj" dep="3bwb-punct" n="752">
+        <w_ id="3bwj" dep="3bw8-punct" n="752">
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="3bwk"/>

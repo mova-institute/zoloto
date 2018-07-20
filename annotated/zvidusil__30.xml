@@ -283,7 +283,7 @@
       <w_ id="38zn" dep="38zl-nmod" n="87">
         <w lemma="сфера" ana="noun:inanim:f:v_mis">сфері</w>
       </w_>
-      <w_ id="38zo" dep="38zp-nsubj" n="88">
+      <w_ id="38zo" dep="38zp-amod" n="88">
         <w lemma="містобудівний" ana="adj:f:v_rod">містобудівної</w>
       </w_>
       <w_ id="38zp" dep="38zn-nmod" n="89">
@@ -1282,7 +1282,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="398p"/>
-      <w_ id="398q" dep="398t-advmod" n="383">
+      <w_ id="398q" comment="~" n="383">
         <w lemma="може" ana="adv">Може</w>
       </w_>
       <w_ id="398r" dep="398t-nsubj|398t-shared" coref="3967-equality" n="384">
@@ -1291,7 +1291,7 @@
       <w_ id="398s" dep="398t-discourse" n="385">
         <w lemma="і" ana="part">і</w>
       </w_>
-      <w_ id="398t" n="386">
+      <w_ id="398t" dep="398q-csubj" n="386">
         <w lemma="жалітися" ana="verb:rev:imperf:past:f">жалілась</w>
       </w_>
       <g/>
@@ -1379,7 +1379,7 @@
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
       <g/>
-      <w_ id="399j" dep="398t-punct" n="412">
+      <w_ id="399j" dep="398q-punct" n="412">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="399k"/>
@@ -1426,7 +1426,7 @@
         <w lemma="солити" ana="verb:imperf:pres:s:3">солить</w>
       </w_>
       <w_ id="399y" dep="399x-obj|399x-private" n="424">
-        <w lemma="слимак" ana="noun:anim:p:m:v_rod">слимаків</w>
+        <w lemma="слимак" ana="noun:anim:p:m:v_zna">слимаків</w>
       </w_>
       <g/>
       <w_ id="399z" dep="39a0-punct" n="425">
