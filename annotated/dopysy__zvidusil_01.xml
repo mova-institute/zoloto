@@ -853,7 +853,7 @@
     <p id="30xg">
       <sb id="30xh"/>
       <w_ id="30xi" dep="30xl-expl" comment="~" n="257">
-        <w lemma="це" ana="part">Це</w>
+        <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
       </w_>
       <w_ id="30xj" dep="30xl-nsubj" n="258">
         <w lemma="Віня" ana="noun:anim:m:v_naz:prop:fname">Віня</w>
@@ -4642,11 +4642,11 @@
       <w_ id="31x0" dep="31x6-cc" n="1403">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
-      <w_ id="31x1" dep="31x2-det" n="1404">
+      <w_ id="31x1" dep="31x2-det:numgov" n="1404">
         <w lemma="кілька" ana="numr:v_zna:&amp;pron:ind">кілька</w>
       </w_>
-      <w_ id="31x2" dep="31x6-obj" comment="#&gt;:&amp;noun:inanim" n="1405">
-        <w lemma="вихідний" ana="adj:p:v_rod">вихідних</w>
+      <w_ id="31x2" dep="31x6-obj" n="1405">
+        <w lemma="вихідний" ana="adj:p:v_rod:&amp;noun:inanim">вихідних</w>
       </w_>
       <w_ id="31x3" dep="31x6-nsubj" n="1406">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
@@ -5218,7 +5218,7 @@
         <w lemma="забувати" ana="verb:imperf:inf">забувати</w>
       </w_>
       <g/>
-      <w_ id="3227" dep="3218-acl" n="1579">
+      <w_ id="3227" dep="3218-punct" n="1579">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -5930,7 +5930,7 @@
       <w_ id="3292" dep="3297-nsubj" n="1790">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
-      <w_ id="3293" dep="3294-det" n="1791">
+      <w_ id="3293" dep="3294-det:numgov" n="1791">
         <w lemma="кілька" ana="numr:v_zna:&amp;pron:ind">кілька</w>
       </w_>
       <w_ id="3294" dep="3297-obl" n="1792">
@@ -6016,11 +6016,11 @@
       <w_ id="329v" dep="329u-advcl:sp" comment="~, цікаво" n="1817">
         <w lemma="весь" ana="adj:p:v_naz:&amp;pron:gen">всі</w>
       </w_>
-      <w_ id="329w" dep="329u-obl" n="1818">
+      <w_ id="329w" dep="329u-iobj" n="1818">
         <w lemma="життя" ana="noun:inanim:n:v_dav">життю</w>
       </w_>
       <g/>
-      <w_ id="329x" dep="329z-case" n="1819">
+      <w_ id="329x" dep="329z-punct" n="1819">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="329y" dep="329z-nsubj" n="1820">
