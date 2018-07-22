@@ -1321,10 +1321,10 @@
     <w_ id="3b10" dep="3b11-cc" n="402">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="3b11" dep="3b0w-conj:parataxis" n="403">
+    <w_ id="3b11" dep="3b0w-conj:parataxis|3c9u-nsubj" n="403">
       <w lemma="частина" ana="noun:inanim:f:v_naz">частина</w>
     </w_>
-    <w_ id="3c9u" elided="yes">
+    <w_ id="3c9u" dep="3b0w-conj:parataxis" elided="yes">
       <w lemma="жити" ana="verb:imperf:pres:s:3">живе</w>
     </w_>
     <w_ id="3b12" dep="3b14-punct" n="404">
@@ -1333,7 +1333,7 @@
     <w_ id="3b13" dep="3b14-case" n="405">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="3b14" dep="3b11-orphan" n="406">
+    <w_ id="3b14" dep="3b11-orphan|3c9u-obl" n="406">
       <w lemma="Росія" ana="noun:inanim:f:v_mis:prop">Росії</w>
     </w_>
     <g/>
