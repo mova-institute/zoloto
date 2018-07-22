@@ -87,7 +87,7 @@
       <w_ id="2oja" dep="2oj9-nsubj" n="23">
         <w lemma="пошук" ana="noun:inanim:m:v_naz">пошук</w>
       </w_>
-      <w_ id="2ojb" dep="2ojc-amod" n="24">
+      <w_ id="2ojb" dep="2ojc-amod|2ojc-shared" n="24">
         <w lemma="новий" ana="adj:p:v_rod:compb">нових</w>
       </w_>
       <w_ id="2ojc" dep="2oja-nmod" n="25">
@@ -161,16 +161,16 @@
       <w_ id="2ok0" dep="2ojz-punct" n="43">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2ok1" dep="2ok4-iobj" n="44">
+      <w_ id="2ok1" dep="2ok4-iobj|2ok4-private" n="44">
         <w lemma="стиліст" ana="noun:anim:p:m:v_dav">стилістам</w>
       </w_>
       <w_ id="2ok2" n="45">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="2ok3" dep="2ok4-obj" n="46">
+      <w_ id="2ok3" dep="2ok4-obj|2ok4-private" n="46">
         <w lemma="рука" ana="noun:inanim:p:f:v_zna">руки</w>
       </w_>
-      <w_ id="2ok4" dep="2ok2-csubj" n="47">
+      <w_ id="2ok4" dep="2ok2-csubj" comment="неоднозначність: або пропущене наступне треба" n="47">
         <w lemma="відірвати" ana="verb:perf:inf">відірвати</w>
       </w_>
       <g/>
@@ -198,10 +198,10 @@
   <doc id="2okc" tags="autotitle" author="" date="" genre="коментар" src="https://www.youtube.com/watch?v=XH_WQi-LBcA&amp;lc=z12hxjximv2hvvptq23asduzysq2j1tsb" title="[Пісня просто неймовірна, дуже заряджає]">
     <p id="2okd">
       <sb id="30o8"/>
-      <w_ id="2oke" dep="2okg-nsubj" n="54">
+      <w_ id="2oke" dep="2okg-nsubj|2okg-shared" n="54">
         <w lemma="пісня" ana="noun:inanim:f:v_naz">Пісня</w>
       </w_>
-      <w_ id="2okf" dep="2okg-discourse" comment="adv?" n="55">
+      <w_ id="2okf" dep="2okg-discourse|2okg-private" comment="adv?" n="55">
         <w lemma="просто" ana="part">просто</w>
       </w_>
       <w_ id="2okg" n="56">
@@ -324,10 +324,10 @@
         <w lemma=":" ana="punct">:</w>
       </w_>
       <g/>
-      <w_ id="2olm" dep="2oln-amod" n="89">
+      <w_ id="2olm" dep="2oln-amod|2oln-shared" n="89">
         <w lemma="зроблений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">зроблені</w>
       </w_>
-      <w_ id="2oln" dep="2oli-parataxis" comment="appos?" n="90">
+      <w_ id="2oln" dep="2oli-parataxis" comment="!! упс: зроблені не shared для вилиць!" n="90">
         <w lemma="губа" ana="noun:inanim:p:f:v_naz">губи</w>
       </w_>
       <w_ id="2olo" dep="2olp-cc" n="91">
@@ -427,7 +427,7 @@
       <w_ id="2omi" dep="2omj-case" n="117">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="2omj" dep="2omh-obl" n="118">
+      <w_ id="2omj" dep="2omh-obl|2omh-private" n="118">
         <w lemma="звьозда" ana="noun:anim:p:f:v_zna">звьозд</w>
       </w_>
       <w_ id="2omk" dep="2omj-amod" n="119">
@@ -519,7 +519,7 @@
       <w_ id="2onb" n="145">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="2onc" n="146">
+      <w_ id="2onc" dep="2ond-det" n="146">
         <w lemma="ніякий" ana="adj:p:v_oru:&amp;pron:neg">ніякими</w>
       </w_>
       <w_ id="2ond" n="147">
@@ -534,10 +534,10 @@
       <w_ id="2ong" n="150">
         <w lemma="бути" ana="verb:aux:imperf:futr:p:3">будуть</w>
       </w_>
-      <w_ id="2onh" n="151">
+      <w_ id="2onh" dep="2oni-mark" n="151">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="2oni" n="152">
+      <w_ id="2oni" dep="2one-csubj" comment="~, цікаво" n="152">
         <w lemma="горбок" ana="noun:inanim:p:m:v_naz">горбки</w>
       </w_>
       <g/>
@@ -574,13 +574,13 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2ont"/>
-      <w_ id="2onu" n="163">
+      <w_ id="2onu" dep="2oo7-cc" n="163">
         <w lemma="а" ana="conj:coord">А</w>
       </w_>
       <w_ id="2onv" dep="2onw-case" n="164">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="2onw" n="165">
+      <w_ id="2onw" dep="2oo7-obl" comment="пропуск _а [що лежить на фоні], то тим_ і advcl?" n="165">
         <w lemma="фон" ana="noun:inanim:m:v_mis">фоні</w>
       </w_>
       <w_ id="2onx" dep="2ony-amod" n="166">
@@ -599,16 +599,16 @@
         <w lemma="грудина" ana="noun:inanim:f:v_rod">грудини</w>
       </w_>
       <g/>
-      <w_ id="2oo2" n="171">
+      <w_ id="2oo2" dep="2onw-punct" n="171">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2oo3" n="172">
+      <w_ id="2oo3" dep="2oo7-discourse" comment="#&gt;part:conseq" n="172">
         <w lemma="то" ana="conj:coord">то</w>
       </w_>
-      <w_ id="2oo4" n="173">
+      <w_ id="2oo4" dep="2oo5-obl" comment="?" n="173">
         <w lemma="те" ana="noun:inanim:n:v_oru:&amp;pron:dem">тим</w>
       </w_>
-      <w_ id="2oo5" n="174">
+      <w_ id="2oo5" dep="2oo7-advmod" n="174">
         <w lemma="явно" ana="adv">явно</w>
       </w_>
       <w_ id="2oo6" dep="2oo7-nsubj" n="175">
@@ -621,7 +621,7 @@
         <w lemma="неприродно" ana="adv">неприродно</w>
       </w_>
       <g/>
-      <w_ id="2oo9" n="178">
+      <w_ id="2oo9" dep="2oo7-discourse" comment="#&gt;sym" n="178">
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <sb id="2ooa"/>
