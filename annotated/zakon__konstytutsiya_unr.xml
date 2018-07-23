@@ -533,7 +533,7 @@
     <w_ id="1hv9" dep="1hva-case">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="1hva">
+    <w_ id="1hva" dep="1hv8-nmod">
       <w lemma="орудування" ana="noun:inanim:n:v_mis">орудуванню</w>
     </w_>
     <w_ id="1hvb" dep="1hve-amod">
@@ -560,13 +560,13 @@
     <w_ id="1hvi" dep="1hvg-conj">
       <w lemma="пасивний" ana="adj:f:v_zna:compb">пасивну</w>
     </w_>
-    <w_ id="1hvj">
+    <w_ id="1hvj" dep="1hv7-obl">
       <w lemma="участь" ana="noun:inanim:f:v_zna">участь</w>
     </w_>
     <w_ id="1hvk" dep="1hvl-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="1hvl">
+    <w_ id="1hvl" dep="1hvj-nmod">
       <w lemma="вибори" ana="noun:inanim:p:v_mis:ns">виборах</w>
     </w_>
     <w_ id="1hvm" dep="1hvo-case">
@@ -781,7 +781,7 @@
     <w_ id="1hxk" dep="1hxl-nsubj">
       <w lemma="переступство" ana="noun:inanim:p:n:v_naz">переступства</w>
     </w_>
-    <w_ id="1hxl">
+    <w_ id="1hxl" dep="1hxr-acl">
       <w lemma="тягнути" ana="verb:imperf:pres:p:3">тягнуть</w>
     </w_>
     <w_ id="1hxm" dep="1hxl-obj">
@@ -832,7 +832,7 @@
     <w_ id="1hy1" dep="1hy2-amod">
       <w lemma="инший" ana="adj:p:v_rod:alt">инших</w>
     </w_>
-    <w_ id="1hy2">
+    <w_ id="1hy2" dep="1hy7-obj">
       <w lemma="обмеження" ana="noun:inanim:p:n:v_rod">обмежень</w>
     </w_>
     <w_ id="1hy3" dep="1hy4-amod">
@@ -847,7 +847,7 @@
     <w_ id="1hy6">
       <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
     </w_>
-    <w_ id="1hy7">
+    <w_ id="1hy7" dep="1hy6-xcomp">
       <w lemma="бути" ana="verb:imperf:inf">бути</w>
     </w_>
     <g/>
@@ -1057,13 +1057,13 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1i07"/>
-    <w_ id="1i08" dep="1i0l-nsubj">
+    <w_ id="1i08" dep="1i0l-nsubj" comment="verbnoun">
       <w lemma="признання" ana="noun:inanim:n:v_naz">Признання</w>
     </w_>
     <w_ id="1i09" dep="1i08-nmod">
       <w lemma="мандат" ana="noun:inanim:p:m:v_rod">мандатів</w>
     </w_>
-    <w_ id="1i0a" comment="!">
+    <w_ id="1i0a" dep="1i08-xcomp:sp" comment="!">
       <w lemma="неправний" ana="adj:p:v_oru">неправними</w>
     </w_>
     <w_ id="1i0b" dep="1i0c-cc">
