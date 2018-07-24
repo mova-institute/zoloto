@@ -7940,8 +7940,8 @@
       <w_ id="28wp" dep="28wq-mark">
         <w lemma="як" ana="conj:subord">Як</w>
       </w_>
-      <w_ id="28wq" dep="28wx-advcl" comment="#&gt;noun:inanim:m:v_naz ~">
-        <w lemma="мінімум" ana="adv">мінімум</w>
+      <w_ id="28wq" dep="28wx-advcl" comment="~">
+        <w lemma="мінімум" ana="noun:inanim:m:v_naz">мінімум</w>
       </w_>
       <w_ id="28wr" dep="28wt-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
@@ -8094,8 +8094,8 @@
       <w_ id="28xz" dep="28ya-obl">
         <w lemma="який" ana="adj:m:v_rod:&amp;pron:rel">якого</w>
       </w_>
-      <w_ id="28y0" dep="28y1-cc" comment="#&gt;conj:coord:neg">
-        <w lemma="ні" ana="part:neg">ні</w>
+      <w_ id="28y0" dep="28y1-cc">
+        <w lemma="ні" ana="conj:coord:neg">ні</w>
       </w_>
       <w_ id="28y1" dep="28ya-obj">
         <w lemma="інформація" ana="noun:inanim:f:v_rod">інформації</w>
@@ -8110,8 +8110,8 @@
       <w_ id="28y4" dep="28y7-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="28y5" dep="28y7-cc" comment="#&gt;conj:coord:neg">
-        <w lemma="ні" ana="part:neg">ні</w>
+      <w_ id="28y5" dep="28y7-cc">
+        <w lemma="ні" ana="conj:coord:neg">ні</w>
       </w_>
       <w_ id="28y6" dep="28y7-amod">
         <w lemma="естетичний" ana="adj:n:v_rod:compb">естетичного</w>
@@ -8138,8 +8138,8 @@
     <gap/>
     <p id="28ye">
       <sb id="28yf"/>
-      <w_ id="28yg" dep="28yi-obj" comment="#&gt;:v_zna">
-        <w lemma="безліч" ana="noun:inanim:f:v_naz">Безліч</w>
+      <w_ id="28yg" dep="28yi-obj">
+        <w lemma="безліч" ana="noun:inanim:f:v_zna">Безліч</w>
       </w_>
       <w_ id="28yh" dep="28yg-nmod">
         <w lemma="інформація" ana="noun:inanim:f:v_rod">інформації</w>
@@ -8508,7 +8508,7 @@
         <w lemma="щоб" ana="conj:subord">щоб</w>
       </w_>
       <w_ id="291u" dep="291v-cop">
-        <w lemma="бути" ana="verb:imperf:inf">бути</w>
+        <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
       <w_ id="291v" dep="291o-advcl">
         <w lemma="актуальний" ana="adj:m:v_oru:compb">актуальним</w>
@@ -8684,7 +8684,7 @@
         <w lemma="Ґейтс" ana="noun:anim:m:v_rod:prop:lname:auto">Ґейтса</w>
       </w_>
       <g/>
-      <w_ id="293f" dep="292z-acl">
+      <w_ id="293f" dep="292z-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="293g"/>
@@ -8820,8 +8820,8 @@
       <w_ id="294o" dep="294p-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="294p" dep="294k-nmod" tags="promoted" comment="#&gt;adj:m:v_rod:compb@новий">
-        <w lemma="нове" ana="adj:n:v_rod:compb:&amp;noun:anim" lemma2="новий">нового</w>
+      <w_ id="294p" dep="294k-nmod" tags="promoted">
+        <w lemma="новий" ana="adj:m:v_rod:compb" lemma2="новий">нового</w>
       </w_>
       <w_ id="294q" dep="294r-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
@@ -8965,16 +8965,16 @@
       <w_ id="295x" dep="2961-nsubj">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
-      <w_ id="295y" dep="2961-advmod" comment="#&gt;adv">
-        <w lemma="от" ana="part">от</w>
+      <w_ id="295y" dep="2961-advmod">
+        <w lemma="от" ana="adv">от</w>
       </w_>
       <g/>
       <w_ id="295z" dep="2960-punct">
         <w lemma="-" ana="punct:hyphen">-</w>
       </w_>
       <g/>
-      <w_ id="2960" dep="295y-flat:repeat" comment="#&gt;adv">
-        <w lemma="от" ana="part">от</w>
+      <w_ id="2960" dep="295y-flat:repeat">
+        <w lemma="от" ana="adv">от</w>
       </w_>
       <w_ id="2961" dep="295v-acl">
         <w lemma="загнутися" ana="verb:rev:perf:futr:s:3">загнеться</w>
@@ -9124,8 +9124,8 @@
       <w_ id="297f" dep="297h-nsubj">
         <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">ти</w>
       </w_>
-      <w_ id="297g" dep="297h-discourse" comment="#&gt;part">
-        <w lemma="просто" ana="adv:compb">просто</w>
+      <w_ id="297g" dep="297h-discourse">
+        <w lemma="просто" ana="part">просто</w>
       </w_>
       <w_ id="297h">
         <w lemma="бачити" ana="verb:imperf:pres:s:2">бачиш</w>
@@ -9434,7 +9434,7 @@
       <w_ id="29ad" dep="29ac-obj">
         <w lemma="використання" ana="noun:inanim:n:v_zna">використання</w>
       </w_>
-      <w_ id="29ae" dep="29af-det">
+      <w_ id="29ae" dep="29af-det:nummod">
         <w lemma="багато" ana="numr:v_rod:&amp;pron:ind">багатьох</w>
       </w_>
       <w_ id="29af" dep="29ad-nmod">
@@ -9467,7 +9467,7 @@
       <w_ id="29an" dep="29ah-conj">
         <w lemma="↓" ana="sym">↓</w>
       </w_>
-      <w_ id="29ao" dep="29aq-punct">
+      <w_ id="29ao" dep="29aq-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
       <w_ id="29ap" dep="29aq-nmod">
