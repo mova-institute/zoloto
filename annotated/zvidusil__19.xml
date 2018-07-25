@@ -2758,16 +2758,16 @@
         <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
       </w_>
       <g/>
-      <w_ id="2e5b">
+      <w_ id="2e5b" dep="2e5e-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2e5c" tags="promoted">
+      <w_ id="2e5c" dep="2e5e-orphan">
         <w lemma="останній" ana="adj:m:v_dav:compb">останньому</w>
       </w_>
-      <w_ id="2e5d">
+      <w_ id="2e5d" dep="2e5e-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="2e5e">
+      <w_ id="2e5e" dep="2e56-conj:parataxis">
         <w lemma="обмеження" ana="noun:inanim:n:v_naz">обмеження</w>
       </w_>
       <w_ id="2e5f" dep="2e5g-cc">
@@ -2776,7 +2776,7 @@
       <w_ id="2e5g" dep="2e5e-conj">
         <w lemma="позбавлення" ana="noun:inanim:n:v_naz">позбавлення</w>
       </w_>
-      <w_ id="2e5h" dep="2e5e-nmod">
+      <w_ id="2e5h" dep="2e5e-nmod|2e5e-shared">
         <w lemma="воля" ana="noun:inanim:f:v_rod">волі</w>
       </w_>
       <w_ id="2e5i" dep="2e5k-case">
@@ -2785,11 +2785,11 @@
       <w_ id="2e5j" dep="2e5k-nummod">
         <w lemma="3" ana="numr:p:v_rod">3-х</w>
       </w_>
-      <w_ id="2e5k" dep="2e5e-nmod">
+      <w_ id="2e5k" dep="2e5e-nmod|2e5e-shared">
         <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
       </w_>
       <g/>
-      <w_ id="2e5l">
+      <w_ id="2e5l" dep="2e56-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3333,7 +3333,7 @@
       <w_ id="2eaq" dep="2ear-case">
         <w lemma="для" ana="prep:rv_rod">Для</w>
       </w_>
-      <w_ id="2ear">
+      <w_ id="2ear" dep="2eb7-obl">
         <w lemma="дорослий" ana="adj:m:p:v_rod:compb:&amp;noun:anim" lemma2="дорослий">дорослих</w>
       </w_>
       <w_ id="2eas" dep="2eat-cc">
@@ -3601,7 +3601,7 @@
       <w_ id="2ed6" dep="2ed7-amod">
         <w lemma="разовий" ana="adj:f:v_naz">разова</w>
       </w_>
-      <w_ id="2ed7">
+      <w_ id="2ed7" dep="2ed2-appos">
         <w lemma="доза" ana="noun:inanim:f:v_naz">доза</w>
       </w_>
       <g/>
@@ -4321,7 +4321,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2ejs"/>
-      <w_ id="2ejt">
+      <w_ id="2ejt" dep="2ejz-obj">
         <w lemma="лікування" ana="noun:inanim:n:v_naz">Лікування</w>
       </w_>
       <w_ id="2eju" dep="2ejw-compound">
@@ -4350,7 +4350,7 @@
       <w_ id="2ek1">
         <w lemma="24" ana="numr:v_rod:nv">24</w>
       </w_>
-      <w_ id="2ek2">
+      <w_ id="2ek2" dep="2ejz-obl">
         <w lemma="година" ana="noun:inanim:p:f:v_rod">годин</w>
       </w_>
       <w_ id="2ek3">
@@ -4359,7 +4359,7 @@
       <w_ id="2ek4">
         <w lemma="прийом" ana="noun:inanim:m:v_rod:bad">прийому</w>
       </w_>
-      <w_ id="2ek5">
+      <w_ id="2ek5" dep="2ek4-nmod">
         <w lemma="парацетамол" ana="noun:inanim:m:v_rod">парацетамолу</w>
       </w_>
       <g/>
