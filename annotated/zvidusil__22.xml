@@ -388,7 +388,7 @@
       <w_ id="2io5" dep="2io6-cc" n="114">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="2io6" dep="2io4-conj" n="115">
+      <w_ id="2io6" dep="2io1-conj" n="115">
         <w lemma="дізнатися" ana="verb:rev:perf:inf">дізнатись</w>
       </w_>
       <g/>
@@ -590,20 +590,20 @@
       <w_ id="2iq0" n="173">
         <w lemma="уявляти" ana="verb:imperf:pres:p:2">Уявляєте</w>
       </w_>
-      <w_ id="2iq1" n="174">
+      <w_ id="2iq1" dep="2iq2-det" n="174">
         <w lemma="мій" ana="adj:m:v_zna:rinanim:poss:&amp;pron:pers:1">мій</w>
       </w_>
-      <w_ id="2iq2" n="175">
+      <w_ id="2iq2" dep="2iq0-obj" n="175">
         <w lemma="настрій" ana="noun:inanim:m:v_zna">настрій</w>
       </w_>
-      <w_ id="2iq3" n="176">
+      <w_ id="2iq3" dep="2iq4-amod" n="176">
         <w lemma="цілий" ana="adj:m:v_zna:rinanim">цілий</w>
       </w_>
-      <w_ id="2iq4" n="177">
+      <w_ id="2iq4" dep="2iq2-nmod|2iq2-nmod" n="177">
         <w lemma="день" ana="noun:inanim:m:v_zna">день</w>
       </w_>
       <g/>
-      <w_ id="2iq5" n="178">
+      <w_ id="2iq5" dep="2iq0-punct" n="178">
         <w lemma="?" ana="punct">?</w>
       </w_>
     </p>
@@ -1612,16 +1612,16 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2izi"/>
-      <w_ id="2izj" n="477">
+      <w_ id="2izj" dep="2j01-discourse" n="477">
         <w lemma="ба" ana="part">Ба</w>
       </w_>
-      <w_ id="2izk" n="478">
+      <w_ id="2izk" dep="2izj-fixed" n="478">
         <w lemma="навіть" ana="part">навіть</w>
       </w_>
-      <w_ id="2izl" n="479">
+      <w_ id="2izl" dep="2izj-punct" n="479">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="2izm" n="480">
+      <w_ id="2izm" dep="2izr-mark" n="480">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="2izn" dep="2izo-advmod:amtgov" n="481">
@@ -1636,7 +1636,7 @@
       <w_ id="2izq" dep="2izr-cop" n="484">
         <w lemma="бути" ana="verb:aux:imperf:futr:p:3">будуть</w>
       </w_>
-      <w_ id="2izr" n="485">
+      <w_ id="2izr" dep="2j01-advcl" n="485">
         <w lemma="представлений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">представлені</w>
       </w_>
       <w_ id="2izs" dep="2izu-case" n="486">
@@ -1661,17 +1661,17 @@
         <w lemma="потік" ana="noun:inanim:m:v_mis">потоці</w>
       </w_>
       <g/>
-      <w_ id="2izz" n="493">
+      <w_ id="2izz" dep="2j01-punct" n="493">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2j00" n="494">
+      <w_ id="2j00" dep="2j01-discourse" n="494">
         <w lemma="то" ana="part:conseq">то</w>
       </w_>
       <w_ id="2j01" n="495">
         <w lemma="цікавіше" ana="adv:compr">цікавіше</w>
       </w_>
       <g/>
-      <w_ id="2j02" n="496">
+      <w_ id="2j02" dep="2j01-punct" n="496">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="2j03"/>
@@ -2769,7 +2769,7 @@
       <w_ id="2j9z" dep="2j9y-xcomp" n="839">
         <w lemma="гуляти" ana="verb:imperf:inf">гуляти</w>
       </w_>
-      <w_ id="2ja0" n="840">
+      <w_ id="2ja0" dep="2ja3-punct" n="840">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
       <w_ id="2ja1" dep="2ja3-case" n="841">
@@ -2778,13 +2778,13 @@
       <w_ id="2ja2" dep="2ja3-det" n="842">
         <w lemma="ваш" ana="adj:p:v_rod:poss:&amp;pron:pers:2">ваших</w>
       </w_>
-      <w_ id="2ja3" n="843">
+      <w_ id="2ja3" dep="2j9y-parataxis" n="843">
         <w lemma="послуга" ana="noun:inanim:p:f:v_rod">послуг</w>
       </w_>
       <w_ id="2ja4" dep="2ja5-amod" n="844">
         <w lemma="затишний" ana="adj:p:v_naz:compb">затишні</w>
       </w_>
-      <w_ id="2ja5" n="845">
+      <w_ id="2ja5" dep="2ja3-nsubj" n="845">
         <w lemma="столик" ana="noun:inanim:p:m:v_naz">столики</w>
       </w_>
       <w_ id="2ja6" dep="2ja7-case" n="846">
@@ -2802,7 +2802,7 @@
       <w_ id="2jaa" dep="2ja7-nmod" n="850">
         <w lemma="заклад" ana="noun:inanim:p:m:v_rod">закладів</w>
       </w_>
-      <w_ id="2jab" n="851">
+      <w_ id="2jab" dep="2jaj-punct" n="851">
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
@@ -2829,7 +2829,7 @@
       <w_ id="2jai" dep="2jag-nmod" n="858">
         <w lemma="гуртожиток" ana="noun:inanim:m:v_rod">гуртожитку</w>
       </w_>
-      <w_ id="2jaj" n="859">
+      <w_ id="2jaj" dep="2ja3-parataxis" n="859">
         <w lemma="стати" ana="verb:perf:futr:p:3">стануть</w>
       </w_>
       <w_ id="2jak" dep="2jaj-iobj" n="860">
@@ -2873,7 +2873,7 @@
         <w lemma=")" ana="punct:close">)</w>
       </w_>
       <g/>
-      <w_ id="2jax" n="873">
+      <w_ id="2jax" dep="2ja3-punct" n="873">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2jay"/>

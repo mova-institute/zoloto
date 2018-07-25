@@ -2658,7 +2658,7 @@
       <w_ id="33jm" dep="33jn-case" n="799">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="33jn" n="800">
+      <w_ id="33jn" dep="33jl-obl" n="800">
         <w lemma="палець" ana="noun:inanim:m:v_zna">палець</w>
       </w_>
       <w_ id="33jo" dep="33jp-punct" n="801">
@@ -2921,7 +2921,7 @@
         <w lemma="вечір" ana="noun:inanim:m:v_zna">вечір</w>
       </w_>
       <g/>
-      <w_ id="33m0" n="882">
+      <w_ id="33m0" dep="33ll-punct" n="882">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3360,7 +3360,7 @@
       <w_ id="33q0" dep="33py-obj" n="1014">
         <w lemma="квиток" ana="noun:inanim:p:m:v_zna">квитки</w>
       </w_>
-      <w_ id="33q1" n="1015">
+      <w_ id="33q1" dep="33q3-case" n="1015">
         <w lemma="по" ana="prep:rv_zna">по</w>
       </w_>
       <w_ id="33q2" dep="33q3-nummod" n="1016">
@@ -3663,10 +3663,10 @@
       <w_ id="33so" n="1105">
         <w lemma="можна" ana="adv">Можна</w>
       </w_>
-      <w_ id="33sp" n="1106">
+      <w_ id="33sp" dep="33so-cop" n="1106">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
-      <w_ id="33sq" n="1107">
+      <w_ id="33sq" dep="33so-csubj" n="1107">
         <w lemma="сказати" ana="verb:perf:inf">сказати</w>
       </w_>
       <g/>
@@ -3695,10 +3695,10 @@
         <w lemma="рибалка" ana="noun:anim:m:v_rod">рибалки</w>
       </w_>
       <g/>
-      <w_ id="33sz" n="1116">
+      <w_ id="33sz" dep="33t3-punct" n="1116">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="33t0" n="1117">
+      <w_ id="33t0" dep="33t3-mark" n="1117">
         <w lemma="якби" ana="conj:subord">якби</w>
       </w_>
       <w_ id="33t1" dep="33t3-advmod" n="1118">
@@ -3707,7 +3707,7 @@
       <w_ id="33t2" dep="33t3-amod" n="1119">
         <w lemma="блискучий" ana="adj:p:v_naz:compb">блискучі</w>
       </w_>
-      <w_ id="33t3" n="1120">
+      <w_ id="33t3" dep="33so-advcl" n="1120">
         <w lemma="бінокль" ana="noun:inanim:p:m:v_naz">біноклі</w>
       </w_>
       <w_ id="33t4" dep="33t5-case" n="1121">
@@ -3748,7 +3748,7 @@
         <w lemma="конгрес" ana="noun:inanim:m:v_rod">Конгресу</w>
       </w_>
       <g/>
-      <w_ id="33tg" n="1133">
+      <w_ id="33tg" dep="33so-punct" n="1133">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3793,10 +3793,10 @@
       <w_ id="33tv" dep="33tu-nmod" n="1145">
         <w lemma="оркестра" ana="noun:inanim:f:v_rod">оркестри</w>
       </w_>
-      <w_ id="33tw" dep="33ty-case" n="1146">
+      <w_ id="33tw" dep="33ty-case|33ty-shared" n="1146">
         <w lemma="серед" ana="prep:rv_rod">серед</w>
       </w_>
-      <w_ id="33tx" dep="33ty-amod" n="1147">
+      <w_ id="33tx" dep="33ty-amod|33ty-private" n="1147">
         <w lemma="чудовий" ana="adj:p:v_rod:compb">чудових</w>
       </w_>
       <w_ id="33ty" dep="33u2-obl" n="1148">
@@ -3814,7 +3814,7 @@
       <w_ id="33u2" n="1152">
         <w lemma="позацвітати" ana="verb:perf:past:p">позацвітали</w>
       </w_>
-      <w_ id="33u3" dep="33u4-amod" n="1153">
+      <w_ id="33u3" dep="33u4-amod|33u4-private" n="1153">
         <w lemma="червоний" ana="adj:m:v_oru:compb">червоним</w>
       </w_>
       <w_ id="33u4" dep="33u2-obl" n="1154">

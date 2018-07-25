@@ -1262,7 +1262,7 @@
         <w_ id="3bkb" dep="3bkc-amod" n="363">
           <w lemma="північний" ana="adj:n:v_rod:compb">Північного</w>
         </w_>
-        <w_ id="3bkc" dep="3bk6-obl" n="364">
+        <w_ id="3bkc" dep="3bk6-obl|3bk6-private" n="364">
           <w lemma="коло" ana="noun:inanim:n:v_rod">кола</w>
         </w_>
         <g/>
@@ -2618,7 +2618,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="3bwk"/>
-        <w_ id="3bwl" dep="3bwm-nsubj" n="753">
+        <w_ id="3bwl" dep="3bwm-nsubj|3bwm-shared" n="753">
           <w lemma="обід" ana="noun:inanim:m:v_naz">Обід</w>
         </w_>
         <w_ id="3bwm" n="754">
@@ -2638,7 +2638,7 @@
         <w_ id="3bwq" dep="3bwo-conj" n="758">
           <w lemma="5" ana="numr:v_zna:nv">5</w>
         </w_>
-        <w_ id="3bwr" dep="3bwm-obl" n="759">
+        <w_ id="3bwr" dep="3bwm-obl|3bwm-private" n="759">
           <w lemma="€" ana="noun:inanim:p:n:v_rod:nv:symbol">€</w>
         </w_>
         <w_ id="3bws" dep="3bwu-case" n="760">
@@ -2647,17 +2647,17 @@
         <w_ id="3bwt" dep="3bwu-amod" n="761">
           <w lemma="звичайний" ana="adj:p:v_mis:compb">звичайних</w>
         </w_>
-        <w_ id="3bwu" dep="3bwm-obl" n="762">
+        <w_ id="3bwu" dep="3bwm-obl|3bwm-private" n="762">
           <w lemma="заклад" ana="noun:inanim:p:m:v_mis">закладах</w>
         </w_>
         <g/>
-        <w_ id="3bwv" dep="3bwz-punct" n="763">
+        <w_ id="3bwv" dep="3bwz-punct|3c9g-punct" n="763">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="3bww" dep="3bwz-cc" n="764">
+        <w_ id="3bww" dep="3bwz-cc|3c9g-cc" n="764">
           <w lemma="або" ana="conj:coord">або</w>
         </w_>
-        <w_ id="3c9g" ellipsis="predicate">
+        <w_ id="3c9g" dep="3bwm-conj" ellipsis="predicate">
           <w lemma="обходитися" ana="verb:rev:imperf:pres:s:3">обходиться</w>
         </w_>
         <w_ id="3bwx" dep="3bwz-case" n="765">
@@ -2666,7 +2666,7 @@
         <w_ id="3bwy" dep="3bwz-nummod:gov" n="766">
           <w lemma="7" ana="numr:v_zna:nv">7</w>
         </w_>
-        <w_ id="3bwz" n="767">
+        <w_ id="3bwz" dep="3bwm-conj|3c9g-obl" n="767">
           <w lemma="€" ana="noun:inanim:p:n:v_rod:nv:symbol">€</w>
         </w_>
         <g/>
@@ -2676,7 +2676,7 @@
         <w_ id="3bx1" dep="3bx2-mark" n="769">
           <w lemma="якщо" ana="conj:subord">якщо</w>
         </w_>
-        <w_ id="3bx2" dep="3bwz-orphan" n="770">
+        <w_ id="3bx2" dep="3bwz-orphan|3c9g-advcl" n="770">
           <w lemma="харчуватися" ana="verb:rev:imperf:inf">харчуватись</w>
         </w_>
         <w_ id="3bx3" dep="3bx4-case" n="771">
@@ -2721,10 +2721,10 @@
         <w_ id="3bxg" dep="3bxh-det:numgov" n="783">
           <w lemma="кілька" ana="numr:v_zna:&amp;pron:ind">кілька</w>
         </w_>
-        <w_ id="3bxh" n="784">
+        <w_ id="3bxh" dep="3bxe-nmod" n="784">
           <w lemma="день" ana="noun:inanim:p:m:v_rod">днів</w>
         </w_>
-        <w_ id="3bxi" n="785">
+        <w_ id="3bxi" dep="3bxh-acl:adv" comment="~" n="785">
           <w lemma="наперед" ana="adv">наперед</w>
         </w_>
         <g/>
