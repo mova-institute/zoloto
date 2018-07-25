@@ -1149,10 +1149,10 @@
       <w_ id="2c18" dep="2c1f-mark">
         <w lemma="коли" ana="conj:subord">коли</w>
       </w_>
-      <w_ id="2c19" dep="2c1b-amod">
+      <w_ id="2c19" dep="2c1b-amod|2c1b-shared">
         <w lemma="авторів" ana="adj:m:v_naz">авторів</w>
       </w_>
-      <w_ id="2c1a" dep="2c1b-amod">
+      <w_ id="2c1a" dep="2c1b-amod|2c1b-private">
         <w lemma="лінгвістичний" ana="adj:m:v_naz">лінгвістичний</w>
       </w_>
       <w_ id="2c1b" dep="2c1f-nsubj">
@@ -1249,13 +1249,13 @@
       <w_ id="2c24" dep="2c26-cc">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="2c25" dep="2c26-case">
+      <w_ id="2c25" dep="2c26-case|2c26-private">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ id="2c26" dep="2c2f-obl">
         <w lemma="вимога" ana="noun:inanim:p:f:v_rod">вимог</w>
       </w_>
-      <w_ id="2c27" dep="2c26-nmod">
+      <w_ id="2c27" dep="2c26-nmod|2c26-private">
         <w lemma="стиль" ana="noun:inanim:m:v_rod">стилю</w>
       </w_>
       <g/>
@@ -1580,7 +1580,7 @@
       <w_ id="2c4z" dep="2c50-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2c50" dep="2c4y-conj">
+      <w_ id="2c50" dep="2c4y-appos">
         <w lemma="синонім" ana="noun:inanim:p:m:v_zna">синоніми</w>
       </w_>
       <g/>
@@ -3974,22 +3974,22 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2bpy"/>
-      <w_ id="2bpz">
+      <w_ id="2bpz" dep="2bq0-mark">
         <w lemma="як" ana="conj:subord">Як</w>
       </w_>
       <w_ id="2bq0">
         <w lemma="корінь" ana="noun:inanim:m:v_naz">корінь</w>
       </w_>
-      <w_ id="2bq1">
+      <w_ id="2bq1" dep="2bq3-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="2bq2">
+      <w_ id="2bq2" dep="2bq3-amod">
         <w lemma="цілий" ana="adj:m:v_mis">цілому</w>
       </w_>
-      <w_ id="2bq3">
+      <w_ id="2bq3" dep="2bq0-nmod">
         <w lemma="ряд" ana="noun:inanim:m:v_mis">ряді</w>
       </w_>
-      <w_ id="2bq4">
+      <w_ id="2bq4" dep="2bq3-nmod">
         <w lemma="слово" ana="noun:inanim:p:n:v_rod">слів</w>
       </w_>
       <g/>

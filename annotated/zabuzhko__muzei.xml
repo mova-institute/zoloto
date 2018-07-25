@@ -326,7 +326,7 @@
     <w_ id="1h7d" dep="1h7g-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="1h7e" dep="1h7g-nsubj">
+    <w_ id="1h7e" dep="1h7g-nsubj|1h7g-private">
       <w lemma="щось" ana="noun:inanim:n:v_naz:&amp;pron:ind">щось</w>
     </w_>
     <w_ id="1h7f" dep="1h7e-amod">
@@ -630,10 +630,10 @@
     <w_ id="1ha3" dep="1ha1-xcomp">
       <w lemma="вбраний" ana="adj:f:v_oru:&amp;adjp:perf:pasv:v-u">вбраною</w>
     </w_>
-    <w_ id="1ha4" dep="1ha6-advmod">
+    <w_ id="1ha4" dep="1ha6-advmod|1ha6-private">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="1ha5" dep="1ha6-case">
+    <w_ id="1ha5" dep="1ha6-case|1ha6-private">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
     <w_ id="1ha6" dep="1ha3-obl">
@@ -679,7 +679,7 @@
     <w_ id="1haj" dep="1hak-nsubj">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
-    <w_ id="1hak">
+    <w_ id="1hak" dep="1hag-ccomp" comment="чи екзистенційне?">
       <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
     </w_>
     <g/>
@@ -848,7 +848,7 @@
     <w_ id="1hc1" dep="1hc2-obl">
       <w lemma="він" ana="noun:m:v_mis:rprep:&amp;pron:pers:3">нім</w>
     </w_>
-    <w_ id="1hc2" dep="1hbq-conj">
+    <w_ id="1hc2" dep="1hbq-conj:parataxis">
       <w lemma="вкладатися" ana="verb:rev:imperf:past:n">вкладалося</w>
     </w_>
     <w_ id="1hc3" dep="1hc5-case">
@@ -924,10 +924,10 @@
       <w lemma="," ana="punct">,</w>
     </w_>
     <g/>
-    <w_ id="1hcq" dep="1hcs-advmod">
+    <w_ id="1hcq" dep="1hcs-advmod|1hcs-private">
       <w lemma="теж" ana="adv">теж</w>
     </w_>
-    <w_ id="1hcr" dep="1hcs-cop">
+    <w_ id="1hcr" dep="1hcs-cop|1hcs-private">
       <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
     </w_>
     <w_ id="1hcs">
@@ -1046,7 +1046,7 @@
     <w_ id="1hdv" dep="1hdw-case">
       <w lemma="під" ana="prep:rv_oru">під</w>
     </w_>
-    <w_ id="1hdw" tags="promoted">
+    <w_ id="1hdw" dep="1hdt-appos">
       <w lemma="оцей" ana="adj:m:v_oru:&amp;pron:dem">оцим</w>
     </w_>
     <g/>
@@ -1065,7 +1065,7 @@
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
     <g/>
-    <w_ id="1he1">
+    <w_ id="1he1" dep="1hdo-parataxis">
       <w lemma="взяти" ana="verb:perf:past:m">взяв</w>
     </w_>
     <w_ id="1he2" dep="1he1-obj">
@@ -1090,7 +1090,7 @@
     <w_ id="1he8" dep="1he9-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="1he9" dep="1he1-conj:repeat">
+    <w_ id="1he9" dep="1he1-conj:parataxis">
       <w lemma="пахнути" ana="verb:imperf:past:f:xp1">пахла</w>
     </w_>
     <g/>
@@ -1100,7 +1100,7 @@
     <w_ id="1heb" dep="1hec-nsubj">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
-    <w_ id="1hec">
+    <w_ id="1hec" dep="1he9-parataxis">
       <w lemma="перестати" ana="verb:perf:past:m">перестав</w>
     </w_>
     <w_ id="1hed" dep="1hec-xcomp">
@@ -1123,7 +1123,7 @@
       <w lemma="паленизна" ana="noun:inanim:f:v_zna">паленизну</w>
     </w_>
     <g/>
-    <w_ id="1hej">
+    <w_ id="1hej" dep="1hec-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1hek"/>
@@ -1243,7 +1243,7 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="1hfp" tags="promoted">
+    <w_ id="1hfp">
       <w lemma="Стодоля" ana="noun:anim:m:v_zna:prop:lname">Стодолю</w>
     </w_>
     <g/>
@@ -1253,7 +1253,7 @@
     <w_ id="1hfr" dep="1hfs-case">
       <w lemma="з" ana="prep:rv_oru">з</w>
     </w_>
-    <w_ id="1hfs" dep="1hfp-obl">
+    <w_ id="1hfs" dep="1hfp-nmod" comment="~">
       <w lemma="вони" ana="noun:p:v_oru:&amp;pron:pers:3">ними</w>
     </w_>
     <g/>
@@ -1263,7 +1263,7 @@
     <w_ id="1hfu" dep="1hfp-parataxis">
       <w lemma="подумати" ana="verb:perf:past:m">подумав</w>
     </w_>
-    <w_ id="1hfv" dep="1hfu-nsubj">
+    <w_ id="1hfv" dep="1hfu-nsubj|1hfu-shared">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
     <g/>
@@ -1286,7 +1286,7 @@
       <w lemma="сказати" ana="verb:perf:past:m">сказав</w>
     </w_>
     <g/>
-    <w_ id="1hg2" dep="1hfp-punct">
+    <w_ id="1hg2" dep="1hfu-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1hg3"/>
@@ -1345,7 +1345,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1hgl"/>
-    <w_ id="1hgm" dep="1hgn-advmod">
+    <w_ id="1hgm" dep="1hgn-advmod|1hgn-private">
       <w lemma="не" ana="part:neg">Не</w>
     </w_>
     <w_ id="1hgn">
@@ -1549,7 +1549,7 @@
     <w_ id="1hih" dep="1hii-case">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ id="1hii" dep="1hig-obl">
+    <w_ id="1hii" dep="1hig-obl|1hig-private">
       <w lemma="непізнання" ana="noun:inanim:n:v_rod">непізнання</w>
     </w_>
     <g/>
@@ -2176,7 +2176,7 @@
     <w_ id="1hoa" dep="1hoc-mark">
       <w lemma="якби" ana="conj:subord">якби</w>
     </w_>
-    <w_ id="1hob" dep="1hoc-nsubj">
+    <w_ id="1hob" dep="1hoc-nsubj|1hoc-shared">
       <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">ви</w>
     </w_>
     <w_ id="1hoc" dep="1ho7-advcl">
@@ -2185,7 +2185,7 @@
     <w_ id="1hod" dep="1hoc-advmod">
       <w lemma="зараз" ana="adv:&amp;pron:dem">зараз</w>
     </w_>
-    <w_ id="1hoe" dep="1hof-advmod">
+    <w_ id="1hoe" dep="1hof-advmod|1hof-private">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
     <w_ id="1hof" dep="1hoc-obj">
