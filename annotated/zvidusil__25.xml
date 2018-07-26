@@ -1233,13 +1233,13 @@
       <w_ id="2otx" dep="2oty-det" n="361">
         <w lemma="кожний" ana="adj:f:v_rod:&amp;pron:gen">кожної</w>
       </w_>
-      <w_ id="2oty" dep="2ou0-obl" n="362">
+      <w_ id="2oty" dep="2ou0-nmod" n="362">
         <w lemma="людина" ana="noun:anim:f:v_rod">людини</w>
       </w_>
-      <w_ id="2otz" dep="2ou0-det|2ou0-shared" n="363">
+      <w_ id="2otz" n="363">
         <w lemma="свій" ana="adj:n:v_naz:poss:&amp;pron:refl">своє</w>
       </w_>
-      <w_ id="2ou0" comment="ожеледиця, переглянути" n="364">
+      <w_ id="2ou0" dep="2otz-nsubj" comment="#лжеожеледиця" n="364">
         <w lemma="покликання" ana="noun:inanim:n:v_naz">покликання</w>
       </w_>
       <w_ id="2ou1" dep="2ou2-cc" n="365">
@@ -1249,7 +1249,7 @@
         <w lemma="талант" ana="noun:inanim:m:v_naz">талант</w>
       </w_>
       <g/>
-      <w_ id="2ou3" dep="2ou0-punct" n="367">
+      <w_ id="2ou3" dep="2otz-punct" n="367">
         <w lemma="." ana="punct">.</w>
       </w_>
       <g/>
@@ -2142,23 +2142,23 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2p29"/>
-      <w_ id="2p2a" dep="2p2e-advmod" n="629">
+      <w_ id="2p2a" dep="2p2d-advmod" n="629">
         <w lemma="також" ana="adv">Також</w>
       </w_>
       <w_ id="2p2b" dep="2p2c-case" n="630">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="2p2c" dep="2p2e-obl" n="631">
+      <w_ id="2p2c" dep="2p2e-nmod" n="631">
         <w lemma="кліп" ana="noun:inanim:m:v_mis">кліпі</w>
       </w_>
-      <w_ id="2p2d" dep="2p2e-amod" n="632">
+      <w_ id="2p2d" comment="#лжеожеледиця" n="632">
         <w lemma="некрасивий" ana="adj:p:v_naz">некрасиві</w>
       </w_>
-      <w_ id="2p2e" tags="promoted" comment="ожеледиця" n="633">
+      <w_ id="2p2e" dep="2p2d-nsubj" n="633">
         <w lemma="людина" ana="noun:anim:p:f:v_naz">люди</w>
       </w_>
       <g/>
-      <w_ id="2p2f" dep="2p2e-punct" n="634">
+      <w_ id="2p2f" dep="2p2d-punct" n="634">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2p2g"/>
