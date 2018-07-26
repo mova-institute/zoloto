@@ -42,10 +42,13 @@
     <w_ id="0a89" dep="0a8a-case">
       <w lemma="в" ana="prep:rv_rod:v-u">в</w>
     </w_>
-    <w_ id="0a8a" dep="0a8b-obl">
+    <w_ id="0a8a" dep="0a8b-orphan|3ca0-obl">
       <w lemma="баба" ana="noun:anim:f:v_rod">баби</w>
     </w_>
-    <w_ id="0a8b" dep="0a86-conj:parataxis" tags="promoted">
+    <w_ id="3ca0" dep="0a86-conj:parataxis" ellipsis="predicate">
+      <w lemma="бути" ana="verb:imperf:past:f">була</w>
+    </w_>
+    <w_ id="0a8b" dep="0a86-conj:parataxis|3ca0-nsubj">
       <w lemma="дочка" ana="noun:anim:f:v_naz">дочка</w>
     </w_>
     <g/>
@@ -69,23 +72,23 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0a8i"/>
-    <w_ id="0a8j">
+    <w_ id="0a8j" dep="0a8k-amod">
       <w lemma="дідовий" ana="adj:f:v_rod">Дідової</w>
     </w_>
-    <w_ id="0a8k">
+    <w_ id="0a8k" dep="0a8n-obj">
       <w lemma="дочка" ana="noun:anim:f:v_rod">дочки</w>
     </w_>
-    <w_ id="0a8l">
+    <w_ id="0a8l" dep="0a8n-nsubj">
       <w lemma="баба" ana="noun:anim:f:v_naz">баба</w>
     </w_>
-    <w_ id="0a8m">
+    <w_ id="0a8m" dep="0a8n-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
     <w_ id="0a8n">
       <w lemma="любити" ana="verb:imperf:past:f">любила</w>
     </w_>
     <g/>
-    <w_ id="0a8o">
+    <w_ id="0a8o" dep="0a8n-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0a8p"/>
@@ -106,30 +109,30 @@
     <w_ id="0a8u">
       <w lemma="лаяти" ana="verb:imperf:pres:s:3">лає</w>
     </w_>
-    <w_ id="0a8v">
+    <w_ id="0a8v" dep="0a8u-obj">
       <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
     </w_>
     <g/>
-    <w_ id="0a8w">
+    <w_ id="0a8w" dep="0a8x-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0a8x">
+    <w_ id="0a8x" dep="0a8v-amod">
       <w lemma="сердешний" ana="adj:f:v_zna">сердешну</w>
     </w_>
     <g/>
-    <w_ id="0a8y">
+    <w_ id="0a8y" dep="0a8x-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0a8z">
+    <w_ id="0a8z" dep="0a90-cc">
       <w lemma="та" ana="conj:coord">та</w>
     </w_>
-    <w_ id="0a90">
+    <w_ id="0a90" dep="0a8u-conj">
       <w lemma="знущатися" ana="verb:rev:imperf:pres:s:3">знущається</w>
     </w_>
-    <w_ id="0a91">
+    <w_ id="0a91" dep="0a92-case">
       <w lemma="над" ana="prep:rv_oru">над</w>
     </w_>
-    <w_ id="0a92">
+    <w_ id="0a92" dep="0a90-obl">
       <w lemma="вона" ana="noun:f:v_oru:&amp;pron:pers:3">нею</w>
     </w_>
     <g/>

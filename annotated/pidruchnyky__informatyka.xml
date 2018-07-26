@@ -1011,16 +1011,19 @@
     <w_ id="0nxl" dep="0nxm-case">
       <w lemma="у" ana="prep:rv_mis:v-u">У</w>
     </w_>
-    <w_ id="0nxm" dep="0nxp-orphan">
+    <w_ id="0nxm" dep="0nxp-orphan|3c9z-obl">
       <w lemma="підручник" ana="noun:inanim:m:v_mis">підручнику</w>
     </w_>
-    <w_ id="0nxn" dep="0nxp-case" comment="#&lt;є">
+    <w_ id="3c9z" ellipsis="predicate">
+      <w lemma="бути" ana="verb:imperf:pres:p:3">є</w>
+    </w_>
+    <w_ id="0nxn" dep="0nxp-case">
       <w lemma="близько" ana="prep:rv_rod">близько</w>
     </w_>
     <w_ id="0nxo" dep="0nxp-nummod">
       <w lemma="250" ana="numr:v_rod:nv">250</w>
     </w_>
-    <w_ id="0nxp" tags="promoted" comment="ожеледиця">
+    <w_ id="0nxp" dep="3c9z-nsubj" comment="ожеледиця">
       <w lemma="сторінка" ana="noun:inanim:p:f:v_rod">сторінок</w>
     </w_>
     <g/>
@@ -1042,7 +1045,7 @@
     <w_ id="0nxv" dep="0nxu-nmod">
       <w lemma="підручник" ana="noun:inanim:m:v_rod">підручника</w>
     </w_>
-    <w_ id="0nxw" dep="0nxp-parataxis:thatis">
+    <w_ id="0nxw" dep="0nxp-parataxis:thatis|3c9z-parataxis:thatis">
       <w lemma="складати" ana="verb:imperf:pres:s:3">складає</w>
     </w_>
     <w_ id="0nxx">
