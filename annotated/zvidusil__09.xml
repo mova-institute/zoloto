@@ -8284,13 +8284,13 @@
       <w_ id="1xpn" dep="1xpg-punct">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
-      <w_ id="1xpo" dep="1xpp-cc">
+      <w_ id="1xpo" dep="1xpp-cc|3c9y-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="3c9y" ellipsis="predicate">
+      <w_ id="3c9y" dep="1xp5-conj" ellipsis="predicate">
         <w lemma="встановлювати" ana="verb:imperf:pres:s:3:v-u">встановлює</w>
       </w_>
-      <w_ id="1xpp" dep="1xp5-conj">
+      <w_ id="1xpp" dep="1xp5-conj|3c9y-obj">
         <w lemma="низький" ana="adj:p:v_zna:rinanim:compb">низькі</w>
       </w_>
       <w_ id="1xpq" dep="1xpt-punct">
@@ -8302,7 +8302,7 @@
       <w_ id="1xps" dep="1xpt-amod">
         <w lemma="державний" ana="adj:f:v_rod">державної</w>
       </w_>
-      <w_ id="1xpt" dep="1xpp-orphan" comment="~">
+      <w_ id="1xpt" dep="1xpp-orphan|3c9y-obl" comment="~">
         <w lemma="структура" ana="noun:inanim:f:v_rod">структури</w>
       </w_>
       <g/>
@@ -9298,7 +9298,10 @@
       <w_ id="1xyh" dep="1xy0-parataxis">
         <w lemma="раз" ana="noun:inanim:p:m:v_rod">разів</w>
       </w_>
-      <w_ id="1xyi" dep="1xyk-punct">
+      <w_ id="3cbu" ellipsis="predicate">
+        <w lemma="визнавати" ana="verb:imperf:past:p">визнавали</w>
+      </w_>
+      <w_ id="1xyi" dep="1xyk-punct" comment="~">
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="1xyj" dep="1xyk-punct">

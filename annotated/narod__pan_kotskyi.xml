@@ -516,7 +516,7 @@
     <w_ id="0c3z" dep="3ca9-nsubj">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
-    <w_ id="0c40" dep="0c3z-orphan">
+    <w_ id="0c40" dep="0c3z-orphan|3ca9-iobj">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
     </w_>
     <g/>
@@ -1930,7 +1930,10 @@
     <w_ id="0cht">
       <w lemma="та" ana="part">та</w>
     </w_>
-    <w_ id="0chu">
+    <w_ id="3cbi" ellipsis="predicate">
+      <w lemma="вхопити" ana="verb:perf:past:m:v-u">вхопив</w>
+    </w_>
+    <w_ id="0chu" comment="~">
       <w lemma="кабан" ana="noun:anim:m:v_zna">кабана</w>
     </w_>
     <w_ id="0chv" dep="0chw-case">
