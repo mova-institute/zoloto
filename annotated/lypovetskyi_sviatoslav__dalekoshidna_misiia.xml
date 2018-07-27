@@ -2958,24 +2958,27 @@
       <w lemma="японець" ana="noun:anim:p:m:v_zna">японців</w>
     </w_>
     <g/>
-    <w_ id="2ggf" dep="2ggh-punct" n="918">
+    <w_ id="2ggf" dep="2ggh-punct|3cce-punct" n="918">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="2ggg" dep="2ggh-punct" n="919">
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="2ggh" dep="2ggd-parataxis" tags="promoted" n="920">
+    <w_ id="2ggh" dep="2ggd-parataxis|3cce-nsubj" comment="позначала?" n="920">
       <w lemma="Оля" ana="noun:anim:f:v_naz:prop:fname">Оля</w>
     </w_>
     <g/>
     <w_ id="2ggi" dep="2ggh-punct" n="921">
       <w lemma="»" ana="punct:quote:close">»</w>
     </w_>
+    <w_ id="3cce" dep="2ggd-parataxis" ellipsis="predicate">
+      <w lemma="позначати" ana="verb:imperf:past:n">позначало</w>
+    </w_>
     <w_ id="2ggj" dep="2ggk-punct" n="922">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="2ggk" dep="2ggh-obj" comment="~ orphan?" n="923">
+    <w_ id="2ggk" dep="2ggh-orphan|3cce-obj" n="923">
       <w lemma="провідник" ana="noun:anim:m:v_zna">провідника</w>
     </w_>
     <w_ id="2ggl" dep="2ggm-amod" n="924">

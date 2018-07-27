@@ -498,22 +498,25 @@
         <w lemma="вставати" ana="verb:imperf:pres:s:1:v-u">встаю</w>
       </w_>
       <g/>
-      <w_ id="1ma4" dep="1ma9-punct">
+      <w_ id="1ma4" dep="1ma9-punct|3cct-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1ma5" dep="1ma9-advmod">
+      <w_ id="1ma5" dep="1ma9-orphan|3cct-advmod">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
       <w_ id="1ma6" dep="1ma7-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="1ma7" dep="1ma9-obl">
+      <w_ id="1ma7" dep="1ma9-orphan|3cct-obl">
         <w lemma="вулиця" ana="noun:inanim:f:v_mis">вулиці</w>
       </w_>
-      <w_ id="1ma8" dep="1ma9-advmod">
+      <w_ id="1ma8" dep="1ma9-orphan|3cct-advmod">
         <w lemma="вже" ana="adv:v-u">вже</w>
       </w_>
-      <w_ id="1ma9" dep="1ma3-advcl" tags="promoted">
+      <w_ id="3cct" dep="1ma3-advcl" ellipsis="predicate">
+        <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
+      </w_>
+      <w_ id="1ma9" dep="1ma3-advcl|3cct-nsubj">
         <w lemma="сонце" ana="noun:inanim:n:v_naz">сонце</w>
       </w_>
       <g/>

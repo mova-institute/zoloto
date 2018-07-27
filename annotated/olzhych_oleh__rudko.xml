@@ -629,14 +629,17 @@
         <w lemma="приятель" ana="noun:anim:m:v_rod">приятеля</w>
       </w_>
       <g/>
-      <w_ id="2tza" dep="2tzc-punct" n="194">
+      <w_ id="2tza" dep="2tzc-punct|3ccf-punct" n="194">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2tzb" dep="2tzc-mark" n="195">
+      <w_ id="2tzb" dep="2tzc-mark|3ccf-mark" n="195">
         <w lemma="ніж" ana="conj:subord">ніж</w>
       </w_>
-      <w_ id="2tzc" dep="2tyy-advcl" tags="promoted" comment="(знає)" n="196">
+      <w_ id="2tzc" dep="2tyy-advcl|3ccf-nsubj" n="196">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
+      </w_>
+      <w_ id="3ccf" dep="2tyy-advcl" ellipsis="predicate">
+        <w lemma="знати" ana="verb:imperf:pres:s:3">знає</w>
       </w_>
       <g/>
       <w_ id="2tzd" dep="2tzf-punct" n="197">
@@ -645,7 +648,7 @@
       <w_ id="2tze" dep="2tzf-obj" n="198">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">що</w>
       </w_>
-      <w_ id="2tzf" dep="2tzc-ccomp" n="199">
+      <w_ id="2tzf" dep="2tzc-orphan|3ccf-ccomp" n="199">
         <w lemma="відчувати" ana="verb:imperf:pres:p:2">відчуваєте</w>
       </w_>
       <w_ id="2tzg" dep="2tzf-nsubj" n="200">

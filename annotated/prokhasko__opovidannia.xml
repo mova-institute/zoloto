@@ -2954,13 +2954,19 @@
     <w_ id="0rie" dep="0rif-case">
       <w lemma="про" ana="prep:rv_zna">Про</w>
     </w_>
-    <w_ id="0rif" dep="0rih-obl">
+    <w_ id="0rif" dep="0rih-orphan|3ccl-obl">
       <w lemma="стеля" ana="noun:inanim:f:v_zna">стелю</w>
+    </w_>
+    <w_ id="3cck" ellipsis="predicate">
+      <w lemma="могти" ana="verb:imperf:past:m">міг</w>
+    </w_>
+    <w_ id="3ccl" dep="3cck-xcomp" ellipsis="predicate">
+      <w lemma="сказати" ana="verb:perf:inf">сказати</w>
     </w_>
     <w_ id="0rig" dep="0rih-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0rih" tags="promoted" mark="resolved">
+    <w_ id="0rih" dep="3ccl-obj" tags="graft" mark="resolved">
       <w lemma="суфіт" ana="noun:inanim:m:v_naz:odd">суфіт</w>
     </w_>
     <w_ id="0rii" dep="0rij-cc">
@@ -2970,7 +2976,7 @@
       <w lemma="потолок" ana="noun:inanim:m:v_naz:odd">потолок</w>
     </w_>
     <g/>
-    <w_ id="0rik" dep="0rih-punct">
+    <w_ id="0rik" dep="0rih-punct|3cck-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0ril"/>
@@ -13451,7 +13457,7 @@
     <w_ id="0u7k" dep="0u7l-det" mark="reviewed">
       <w lemma="його" ana="adj:p:v_oru:poss:nv:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="0u7l" dep="0u7d-parataxis" tags="promoted">
+    <w_ id="0u7l" dep="0u7d-parataxis" comment="пропущена зв’язка">
       <w lemma="сестра" ana="noun:anim:p:f:v_oru">сестрами</w>
     </w_>
     <g/>
@@ -15334,19 +15340,22 @@
       <w lemma="весло" ana="noun:inanim:n:v_oru">веслом</w>
     </w_>
     <g/>
-    <w_ id="0uoz" dep="0up3-punct">
+    <w_ id="0uoz" dep="0up3-punct|3ccm-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0up0" dep="0up3-cc">
+    <w_ id="0up0" dep="0up3-cc|3ccm-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0up1" dep="0up3-nsubj">
+    <w_ id="0up1" dep="0up3-orphan|3ccm-nsubj">
       <w lemma="Фацик" ana="noun:anim:m:v_naz:prop:fname">Фацик</w>
+    </w_>
+    <w_ id="3ccm" dep="0uov-conj:parataxis" ellipsis="predicate">
+      <w lemma="мати" ana="verb:imperf:past:m">мав</w>
     </w_>
     <w_ id="0up2" dep="0up3-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0up3" dep="0uov-conj:parataxis" tags="promoted">
+    <w_ id="0up3" dep="0uov-conj:parataxis|3ccm-xcomp">
       <w lemma="закидати" ana="verb:imperf:inf:xp1">закидати</w>
     </w_>
     <w_ id="0up4" dep="0up5-cc">
@@ -18640,7 +18649,7 @@
     <w_ id="0vjl" dep="0vjm-advmod">
       <w lemma="двічі" ana="adv">двічі</w>
     </w_>
-    <w_ id="0vjm" dep="0vjd-parataxis" tags="promoted">
+    <w_ id="0vjm" dep="0vjd-parataxis">
       <w lemma="доктор" ana="noun:anim:m:v_naz">доктор</w>
     </w_>
     <w_ id="0vjn" dep="0vjm-nmod">
@@ -31937,7 +31946,7 @@
     <w_ id="0yy2" dep="0yy3-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0yy3" dep="0yxw-conj:parataxis" tags="promoted">
+    <w_ id="0yy3" dep="0yxw-conj:parataxis" comment="пропущена зв’язка">
       <w lemma="акторка" ana="noun:anim:f:v_oru">акторкою</w>
     </w_>
     <w_ id="0yy4" dep="0yy5-case">
@@ -41942,7 +41951,7 @@
     <w_ id="11i9" dep="11i7-conj">
       <w lemma="корисний" ana="adj:m:v_naz:compb">корисний</w>
     </w_>
-    <w_ id="11ia" dep="11i3-parataxis" tags="promoted">
+    <w_ id="11ia" dep="11i3-parataxis">
       <w lemma="продукт" ana="noun:inanim:m:v_naz">продукт</w>
     </w_>
     <g/>

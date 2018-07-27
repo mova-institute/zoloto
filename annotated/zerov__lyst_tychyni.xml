@@ -2770,19 +2770,22 @@
       <w lemma="вони" ana="noun:p:v_zna:rprep:&amp;pron:pers:3">них</w>
     </w_>
     <g/>
-    <w_ id="1kar" dep="1kat-punct">
+    <w_ id="1kar" dep="1kat-punct|3ccs-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1kas" dep="1kat-mark">
+    <w_ id="1kas" dep="1kat-mark|3ccs-mark">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ id="1kat" dep="1kao-advcl" tags="promoted">
+    <w_ id="1kat" dep="1kao-advcl|3ccs-nsubj">
       <w lemma="Монблан" ana="noun:inanim:m:v_naz:prop">Монблан</w>
+    </w_>
+    <w_ id="3ccs" dep="1kao-advcl" ellipsis="predicate">
+      <w lemma="дивитися" ana="verb:rev:imperf:pres:s:3">дивиться</w>
     </w_>
     <w_ id="1kau" dep="1kav-case">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ id="1kav" dep="1kat-obl">
+    <w_ id="1kav" dep="1kat-orphan|3ccs-obl">
       <w lemma="Шамуні" ana="noun:inanim:f:v_zna:nv:prop:odd">Шамуні</w>
     </w_>
     <g/>
@@ -2959,7 +2962,7 @@
     <w_ id="1kck" dep="1kcl-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="1kcl" dep="1kcg-parataxis" tags="promoted">
+    <w_ id="1kcl" dep="1kcg-parataxis">
       <w lemma="Крим" ana="noun:inanim:m:v_mis:prop">Криму</w>
     </w_>
     <g/>

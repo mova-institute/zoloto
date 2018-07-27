@@ -300,7 +300,7 @@
       <w lemma="сім’я" ana="noun:inanim:f:v_rod">сім’ї</w>
     </w_>
     <g/>
-    <w_ id="19t2" dep="19t5-punct">
+    <w_ id="19t2" dep="19t5-punct|3ccp-punct">
       <w lemma=";" ana="punct">;</w>
     </w_>
     <w_ id="19t3" dep="19t5-case">
@@ -309,13 +309,16 @@
     <w_ id="19t4" dep="19t5-amod">
       <w lemma="південний" ana="adj:m:v_mis:compb">південному</w>
     </w_>
-    <w_ id="19t5" dep="19sr-conj" tags="promoted">
+    <w_ id="19t5" dep="19sr-parataxis|3ccp-obl">
       <w lemma="захід" ana="noun:inanim:m:v_mis">заході</w>
+    </w_>
+    <w_ id="3ccp" dep="19sr-parataxis" ellipsis="predicate">
+      <w lemma="межувати" ana="verb:imperf:pres:s:3">межує</w>
     </w_>
     <w_ id="19t6" dep="19t7-case">
       <w lemma="з" ana="prep:rv_oru">з</w>
     </w_>
-    <w_ id="19t7" dep="19t5-obl" tags="promoted" comment="що робити з &amp;noun коли вони контекстні? і тут?">
+    <w_ id="19t7" dep="19t5-orphan|3ccp-obl" tags="promoted" comment="що робити з &amp;noun коли вони контекстні? і тут?">
       <w lemma="румунський" ana="adj:f:v_oru">румунською</w>
     </w_>
     <w_ id="19t8" dep="19tb-cc">
@@ -392,10 +395,10 @@
       <w lemma="мова" ana="noun:inanim:p:f:v_oru">мовами</w>
     </w_>
     <g/>
-    <w_ id="19tv" dep="19tw-punct">
+    <w_ id="19tv" dep="3ccq-punct|19u7-punct">
       <w lemma=";" ana="punct">;</w>
     </w_>
-    <w_ id="19tw" dep="19sr-conj" tags="promoted">
+    <w_ id="19tw" dep="19u7-orphan|3ccq-advmod">
       <w lemma="донедавна" ana="adv">донедавна</w>
     </w_>
     <w_ id="19tx" dep="19u1-punct">
@@ -422,8 +425,11 @@
     <w_ id="19u3" dep="19u1-punct">
       <w lemma=")" ana="punct:close">)</w>
     </w_>
-    <w_ id="19u4" dep="19tw-advmod">
+    <w_ id="19u4" dep="19u7-orphan|3ccq-advmod">
       <w lemma="також" ana="adv">також</w>
+    </w_>
+    <w_ id="3ccq" dep="19sr-parataxis" ellipsis="predicate">
+      <w lemma="межувати" ana="verb:imperf:pres:s:3">межує</w>
     </w_>
     <w_ id="19u5" dep="19u7-case">
       <w lemma="із" ana="prep:rv_oru">із</w>
@@ -431,7 +437,7 @@
     <w_ id="19u6" dep="19u7-amod">
       <w lemma="кримськотатарський" ana="adj:f:v_oru">кримськотатарською</w>
     </w_>
-    <w_ id="19u7" dep="19tw-obl">
+    <w_ id="19u7" dep="19sr-parataxis|3ccq-obl">
       <w lemma="мова" ana="noun:inanim:f:v_oru">мовою</w>
     </w_>
     <g/>

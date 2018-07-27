@@ -2978,7 +2978,7 @@
         <w lemma="техніка" ana="noun:inanim:f:v_rod">техніки</w>
       </w_>
       <g/>
-      <w_ id="1v4c" dep="1v4j-punct">
+      <w_ id="1v4c" dep="1v4j-punct|3ccv-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1v4d" dep="1v4f-case">
@@ -2987,19 +2987,22 @@
       <w_ id="1v4e" dep="1v4f-det">
         <w lemma="той" ana="adj:n:v_mis:&amp;pron:dem">тому</w>
       </w_>
-      <w_ id="1v4f" dep="1v4j-obl">
+      <w_ id="1v4f" dep="1v4j-orphan|3ccv-obl">
         <w lemma="число" ana="noun:inanim:n:v_mis">числі</w>
       </w_>
       <w_ id="1v4g" dep="1v4h-case">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="1v4h" dep="1v4j-obl|1v4j-shared">
+      <w_ id="1v4h" dep="1v4j-orphan|3ccv-obl|1v4j-shared" comment="~ nmod?">
         <w lemma="ДСНС" ana="noun:inanim:f:v_rod:nv:prop:abbr">ДСНС</w>
+      </w_>
+      <w_ id="3ccv" dep="1v45-parataxis" ellipsis="predicate">
+        <w lemma="залучити" ana="verb:perf:impers">залучено</w>
       </w_>
       <w_ id="1v4i" dep="1v4j-nummod|1v4j-private">
         <w lemma="4" ana="numr:v_zna:nv">4</w>
       </w_>
-      <w_ id="1v4j" dep="1v45-parataxis" tags="promoted" comment="~">
+      <w_ id="1v4j" dep="1v45-parataxis|3ccv-obj" comment="~">
         <w lemma="особа" ana="noun:anim:p:f:v_rod">особи</w>
       </w_>
       <w_ id="1v4k" dep="1v4m-cc">

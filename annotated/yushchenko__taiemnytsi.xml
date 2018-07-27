@@ -925,22 +925,22 @@
       <w lemma="потягнути" ana="verb:perf:futr:p:3">потягнуть</w>
     </w_>
     <g/>
-    <w_ id="1fzv" dep="1fzx-punct">
+    <w_ id="1fzv" dep="1fzx-punct|3ccr-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1fzw" dep="1fzx-cc">
+    <w_ id="1fzw" dep="1fzx-cc|3ccr-cc">
       <w lemma="то" ana="conj:coord">то</w>
     </w_>
-    <w_ id="1fzx" dep="1fzu-conj" tags="promoted">
+    <w_ id="1fzx" dep="1fzu-conj|3ccr-obj">
       <w lemma="щось" ana="noun:inanim:n:v_zna:&amp;pron:ind">щось</w>
     </w_>
-    <w_ id="1fzy" dep="1fzx-punct">
+    <w_ id="1fzy" dep="1g00-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
     <w_ id="1fzz" dep="1g00-case">
       <w lemma="із" ana="prep:rv_rod">із</w>
     </w_>
-    <w_ id="1g00" dep="1fzx-obl">
+    <w_ id="1g00" dep="1fzx-orphan|3ccr-obl">
       <w lemma="кошик" ana="noun:inanim:m:v_rod">кошика</w>
     </w_>
     <w_ id="1g01" dep="1g02-case">
@@ -950,6 +950,9 @@
       <w lemma="хтось" ana="noun:anim:v_rod:&amp;pron:ind">когось</w>
     </w_>
     <g/>
+    <w_ id="3ccr" dep="1fzu-conj" ellipsis="predicate">
+      <w lemma="потягнути" ana="verb:perf:futr:p:3">потягнуть</w>
+    </w_>
     <w_ id="1g03" dep="1g07-punct">
       <w lemma="," ana="punct">,</w>
     </w_>

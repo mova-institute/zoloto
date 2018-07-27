@@ -455,22 +455,25 @@
         <w lemma="cyanus" ana="x:foreign">cyanus</w>
       </w_>
       <g/>
-      <w_ id="208l" dep="208n-punct">
+      <w_ id="208l" dep="208n-punct|3ccx-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="208m" dep="208n-cc">
+      <w_ id="208m" dep="208n-cc|3ccx-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="208n" dep="208g-conj:parataxis" tags="promoted" coref="2082-equality">
+      <w_ id="208n" dep="208g-conj:parataxis|3ccx-obj" coref="2082-equality">
         <w lemma="Cyanus" ana="x:foreign">Cyanus</w>
       </w_>
       <w_ id="208o" dep="208n-flat:foreign">
         <w lemma="segetum" ana="x:foreign">segetum</w>
       </w_>
+      <w_ id="3ccx" dep="208g-conj:parataxis" ellipsis="predicate">
+        <w lemma="вказувати" ana="verb:imperf:pres:p:3:v-u">вказують</w>
+      </w_>
       <w_ id="208p" dep="208q-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="208q" dep="208n-xcomp:sp">
+      <w_ id="208q" dep="208n-orphan|3ccx-xcomp:sp">
         <w lemma="синонім" ana="noun:inanim:m:v_oru">синонімом</w>
       </w_>
       <g/>

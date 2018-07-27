@@ -1828,7 +1828,7 @@
     <w_ id="145c" dep="145d-nsubj" coref="1455-equality">
       <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
     </w_>
-    <w_ id="145d" tags="promoted">
+    <w_ id="145d">
       <w lemma="подарунок" ana="noun:inanim:m:v_naz">подарунок</w>
     </w_>
     <w_ id="145e" dep="145d-nmod">
@@ -1854,44 +1854,44 @@
       <w lemma="себе" ana="noun:v_zna:&amp;pron:refl">себе</w>
     </w_>
     <g/>
-    <w_ id="145l" dep="145o-punct">
+    <w_ id="145l" dep="145n-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
-    <w_ id="145m" dep="145o-punct">
+    <w_ id="145m" dep="145n-punct">
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="145n" dep="145o-nsubj">
+    <w_ id="145n" dep="145j-parataxis">
       <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:int">Хто</w>
     </w_>
-    <w_ id="145o" dep="145j-parataxis" tags="promoted">
+    <w_ id="145o" dep="145n-nsubj">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
     <g/>
-    <w_ id="145p" dep="145r-punct">
+    <w_ id="145p" dep="145q-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="145q" dep="145r-advmod">
+    <w_ id="145q" dep="145n-parataxis">
       <w lemma="звідки" ana="adv:&amp;pron:int">звідки</w>
     </w_>
-    <w_ id="145r" dep="145o-parataxis" tags="promoted" coref="145o-equality">
+    <w_ id="145r" dep="145q-nsubj" coref="145o-equality">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
     <g/>
-    <w_ id="145s" dep="145v-punct">
+    <w_ id="145s" dep="145u-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="145t" dep="145u-case">
       <w lemma="для" ana="prep:rv_rod">для</w>
     </w_>
-    <w_ id="145u" dep="145v-obl" mark="reviewed">
+    <w_ id="145u" dep="145n-parataxis" mark="reviewed">
       <w lemma="що" ana="noun:inanim:n:v_rod:&amp;pron:int">чого</w>
     </w_>
-    <w_ id="145v" dep="145o-parataxis" tags="promoted" coref="145r-equality">
+    <w_ id="145v" dep="145u-nsubj" coref="145r-equality">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
     <g/>
-    <w_ id="145w" dep="145o-punct">
+    <w_ id="145w" dep="145n-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="145x"/>

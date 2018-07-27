@@ -379,10 +379,10 @@
         <w lemma="побуткомбінат" ana="noun:inanim:m:v_rod">побуткомбінату</w>
       </w_>
       <g/>
-      <w_ id="09sr" dep="09t1-punct">
+      <w_ id="09sr" dep="09t1-punct|3ccd-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="09ss" dep="09t1-advmod">
+      <w_ id="09ss" dep="09t1-orphan|3ccd-advmod">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="09st" dep="09sv-case">
@@ -391,7 +391,7 @@
       <w_ id="09su" dep="09sv-amod">
         <w lemma="прозорий" ana="adj:p:v_oru:compb">прозорими</w>
       </w_>
-      <w_ id="09sv" dep="09t1-obl">
+      <w_ id="09sv" dep="09t1-orphan|3ccd-obl">
         <w lemma="вікно" ana="noun:inanim:p:n:v_oru">вікнами</w>
       </w_>
       <w_ id="09sw" dep="09sy-case">
@@ -400,8 +400,11 @@
       <w_ id="09sx" dep="09sy-amod">
         <w lemma="підвальний" ana="adj:n:v_mis">підвальному</w>
       </w_>
-      <w_ id="09sy" dep="09t1-obl">
+      <w_ id="09sy" dep="09t1-orphan|3ccd-obl">
         <w lemma="приміщення" ana="noun:inanim:n:v_mis">приміщенні</w>
+      </w_>
+      <w_ id="3ccd" dep="09sq-acl" ellipsis="predicate">
+        <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
       </w_>
       <w_ id="09sz" dep="09t1-punct">
         <w lemma="—" ana="punct">—</w>
@@ -409,7 +412,7 @@
       <w_ id="09t0" dep="09t1-amod">
         <w lemma="чоловічий" ana="adj:f:v_naz">чоловіча</w>
       </w_>
-      <w_ id="09t1" dep="09sq-acl" tags="promoted">
+      <w_ id="09t1" dep="09sq-acl|3ccd-nsubj">
         <w lemma="качалка" ana="noun:inanim:f:v_naz">качалка</w>
       </w_>
       <g/>

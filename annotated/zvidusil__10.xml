@@ -783,10 +783,10 @@
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
       <g/>
-      <w_ id="1yvs" dep="1yvz-punct">
+      <w_ id="1yvs" dep="1yvz-punct|3ccw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1yvt" dep="1yvz-cc">
+      <w_ id="1yvt" dep="1yvz-cc|3ccw-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="1yvu" dep="1yvw-case">
@@ -795,8 +795,11 @@
       <w_ id="1yvv" dep="1yvw-amod">
         <w lemma="третій" ana="adj:n:v_mis:&amp;numr">третьому</w>
       </w_>
-      <w_ id="1yvw" dep="1yvz-obl">
+      <w_ id="1yvw" dep="1yvz-orphan|3ccw-obl">
         <w lemma="місце" ana="noun:inanim:n:v_mis">місці</w>
+      </w_>
+      <w_ id="3ccw" dep="1yvm-conj:parataxis" ellipsis="predicate">
+        <w lemma="розташуватися" ana="verb:rev:perf:past:f">розташувалася</w>
       </w_>
       <w_ id="1yvx" dep="1yvz-punct">
         <w lemma="–" ana="punct:dash">–</w>
@@ -804,7 +807,7 @@
       <w_ id="1yvy" dep="1yvz-amod">
         <w lemma="режисерський" ana="adj:f:v_naz">режисерська</w>
       </w_>
-      <w_ id="1yvz" dep="1yvm-conj:parataxis" tags="promoted">
+      <w_ id="1yvz" dep="1yvm-conj:parataxis|3ccw-nsubj">
         <w lemma="робота" ana="noun:inanim:f:v_naz">робота</w>
       </w_>
       <w_ id="1yw0" dep="1yvz-nmod">

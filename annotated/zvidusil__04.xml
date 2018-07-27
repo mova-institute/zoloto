@@ -2590,17 +2590,20 @@
         <w lemma="донька" ana="noun:anim:f:v_oru">донькою</w>
       </w_>
       <g/>
-      <w_ id="1p8z" dep="1p91-punct">
+      <w_ id="1p8z" dep="1p91-punct|3ccu-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1p90" dep="1p91-amod">
         <w lemma="схудлий" ana="adj:f:v_naz:&amp;adjp:perf:actv">схудла</w>
       </w_>
-      <w_ id="1p91" dep="1p8w-conj" tags="promoted">
+      <w_ id="1p91" dep="1p8w-parataxis|3ccu-nsubj">
         <w lemma="Кім" ana="noun:anim:f:v_naz:nv:np:prop:fname">Кім</w>
       </w_>
       <w_ id="1p92" dep="1p91-flat:name">
         <w lemma="Кардаш’ян" ana="noun:anim:f:v_naz:nv:np:prop:lname">Кардаш’ян</w>
+      </w_>
+      <w_ id="3ccu" dep="1p8w-parataxis" ellipsis="predicate">
+        <w lemma="прибути" ana="verb:perf:past:f">прибула</w>
       </w_>
       <w_ id="1p93" dep="1p95-punct">
         <w lemma="—" ana="punct">—</w>
@@ -2608,11 +2611,11 @@
       <w_ id="1p94" dep="1p95-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="1p95" dep="1p91-obl">
+      <w_ id="1p95" dep="1p91-orphan|3ccu-obl">
         <w lemma="чоловік" ana="noun:anim:m:v_oru">чоловіком</w>
       </w_>
       <g/>
-      <w_ id="1p96" dep="1p8w-punct">
+      <w_ id="1p96" dep="1p91-punct|3ccu-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1p97" sid="3649"/>

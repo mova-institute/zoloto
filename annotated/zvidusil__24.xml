@@ -616,17 +616,20 @@
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
-      <w_ id="2rdb" dep="2rdg-punct" n="183">
+      <w_ id="2rdb" dep="2rdg-punct|3ccy-punct" n="183">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2rdc" dep="2rdg-cc" n="184">
+      <w_ id="2rdc" dep="2rdg-cc|3ccy-cc" n="184">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="2rdd" dep="2rde-case" n="185">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="2rde" dep="2rdg-obl" n="186">
+      <w_ id="2rde" dep="2rdg-orphan|3ccy-obl" n="186">
         <w lemma="рік" ana="noun:inanim:m:v_zna">рік</w>
+      </w_>
+      <w_ id="3ccy" dep="2rd6-conj:parataxis" ellipsis="predicate">
+        <w lemma="становити" ana="verb:imperf:futr:s:3">становитиме</w>
       </w_>
       <w_ id="2rdf" dep="2rdg-nummod:gov" n="187">
         <w lemma="979" ana="numr:v_zna:nv">979</w>
@@ -639,7 +642,7 @@
       <w_ id="30ln" dep="2rdf-compound">
         <w lemma="2" ana="numr:p:v_zna:nv">2</w>
       </w_>
-      <w_ id="2rdg" dep="2rd6-conj:parataxis" comment="~" n="188">
+      <w_ id="2rdg" dep="2rd6-conj:parataxis|3ccy-obj" comment="~" n="188">
         <w lemma="тис." ana="noun:inanim:f:v_rod:nv:abbr:&amp;_numr">тис</w>
       </w_>
       <g/>

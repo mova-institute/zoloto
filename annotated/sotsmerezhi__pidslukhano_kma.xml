@@ -1187,7 +1187,7 @@
       <w_ id="13aj" dep="13ak-det">
         <w lemma="такий" ana="adj:f:v_naz:&amp;pron:dem">така</w>
       </w_>
-      <w_ id="13ak" tags="promoted" comment="#exist-ellips">
+      <w_ id="13ak" tags="promoted" comment="#ожеледиця">
         <w lemma="справа" ana="noun:inanim:f:v_naz">справа</w>
       </w_>
       <w_ id="13al" dep="13ay-punct">
@@ -2248,16 +2248,19 @@
         <w lemma="підказати" ana="verb:perf:impr:p:2">підкажіть</w>
       </w_>
       <g/>
-      <w_ id="13kf" dep="13ki-punct">
+      <w_ id="13kf" dep="13ki-punct|3cco-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="13kg" dep="13kh-case">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
-      <w_ id="13kh" dep="13ki-obl">
+      <w_ id="13kh" dep="13ki-orphan|3cco-obl">
         <w lemma="вівторок" ana="noun:inanim:m:v_zna">вівторок</w>
       </w_>
-      <w_ id="13ki" dep="13ke-ccomp" tags="promoted">
+      <w_ id="3cco" dep="13ke-ccomp" ellipsis="predicate">
+        <w lemma="бути" ana="verb:imperf:futr:s:3">буде</w>
+      </w_>
+      <w_ id="13ki" dep="13ke-ccomp|3cco-nsubj">
         <w lemma="семінар" ana="noun:inanim:m:v_naz">семінар</w>
       </w_>
       <w_ id="13kj" dep="13kk-cc">
