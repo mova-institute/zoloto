@@ -1089,8 +1089,11 @@
       <w_ id="2610" dep="2614-discourse">
         <w lemma="то" ana="part:conseq">то</w>
       </w_>
-      <w_ id="2611" dep="2614-advmod">
+      <w_ id="2611" dep="2614-orphan">
         <w lemma="автоматично" ana="adv">автоматично</w>
+      </w_>
+      <w_ id="3car" ellipsis="predicate">
+        <w lemma="зникнути" ana="verb:perf:futr:p:3">зникнуть</w>
       </w_>
       <w_ id="2612" dep="2614-discourse">
         <w lemma="і" ana="part">і</w>
@@ -1519,6 +1522,9 @@
       </w_>
       <w_ id="264r" dep="264u-obl">
         <w lemma="Донеччина" ana="noun:inanim:f:v_mis:prop">Донеччині</w>
+      </w_>
+      <w_ id="3cb5" ellipsis="predicate">
+        <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
       </w_>
       <w_ id="264s" dep="264t-amod">
         <w lemma="надзвичайний" ana="adj:f:v_rod">надзвичайної</w>
@@ -2756,7 +2762,7 @@
         <w lemma="переміщення" ana="noun:inanim:p:n:v_rod">переміщень</w>
       </w_>
       <g/>
-      <w_ id="26gf">
+      <w_ id="26gf" dep="26gi-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="26gg" dep="26gh-det:numgov">
@@ -2887,10 +2893,10 @@
       <w_ id="26hn">
         <w lemma="можна" ana="adv">Можна</w>
       </w_>
-      <w_ id="26ho">
-        <w lemma="бути" ana="verb:imperf:past:n">було</w>
+      <w_ id="26ho" dep="26hn-aux">
+        <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
-      <w_ id="26hp">
+      <w_ id="26hp" dep="26hn-aux">
         <w lemma="б" ana="part">б</w>
       </w_>
       <w_ id="26hq" dep="26hn-csubj">
@@ -2925,40 +2931,40 @@
         <w lemma="ініціалізація" ana="noun:inanim:f:v_zna">ініціалізацію</w>
       </w_>
       <g/>
-      <w_ id="26i0">
+      <w_ id="26i0" dep="26i7-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26i1">
+      <w_ id="26i1" dep="26i7-cc">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
       <w_ id="26i2">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="26i3">
+      <w_ id="26i3" dep="26i4-case">
         <w lemma="при" ana="prep:rv_mis">при</w>
       </w_>
-      <w_ id="26i4">
+      <w_ id="26i4" dep="26i7-obl">
         <w lemma="створення" ana="noun:inanim:n:v_mis">створенні</w>
       </w_>
-      <w_ id="26i5">
+      <w_ id="26i5" dep="26i4-nmod">
         <w lemma="екземпляр" ana="noun:inanim:m:v_rod:odd">екземпляру</w>
       </w_>
-      <w_ id="26i6">
+      <w_ id="26i6" dep="26i5-nmod">
         <w lemma="структура" ana="noun:inanim:f:v_rod">структури</w>
       </w_>
-      <w_ id="26i7">
+      <w_ id="26i7" dep="26hn-conj:parataxis">
         <w lemma="діяти" ana="verb:imperf:pres:p:3">діють</w>
       </w_>
-      <w_ id="26i8">
+      <w_ id="26i8" dep="26i9-det">
         <w lemma="інший" ana="adj:p:v_naz:&amp;pron:ind">інші</w>
       </w_>
-      <w_ id="26i9">
+      <w_ id="26i9" dep="26i7-nsubj">
         <w lemma="правило" ana="noun:inanim:p:n:v_naz">правила</w>
       </w_>
-      <w_ id="26ia">
+      <w_ id="26ia" dep="26ib-amod">
         <w lemma="неявний" ana="adj:f:v_rod">неявної</w>
       </w_>
-      <w_ id="26ib">
+      <w_ id="26ib" dep="26i9-nmod">
         <w lemma="ініціалізація" ana="noun:inanim:f:v_rod">ініціалізації</w>
       </w_>
       <g/>
@@ -2971,19 +2977,19 @@
       <w_ id="26ie">
         <w lemma="саме" ana="part">саме</w>
       </w_>
-      <w_ id="26if">
+      <w_ id="26if" dep="26ig-case">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
       <w_ id="26ig">
         <w lemma="допомога" ana="noun:inanim:f:v_oru">допомогою</w>
       </w_>
-      <w_ id="26ih">
+      <w_ id="26ih" dep="26ii-amod">
         <w lemma="замовчуваний" ana="adj:p:v_rod:&amp;adjp:imperf:pasv">замовчуваних</w>
       </w_>
-      <w_ id="26ii">
+      <w_ id="26ii" dep="26ig-nmod">
         <w lemma="значення" ana="noun:inanim:p:n:v_rod">значень</w>
       </w_>
-      <w_ id="26ij">
+      <w_ id="26ij" dep="26ii-nmod">
         <w lemma="параметр" ana="noun:inanim:p:m:v_rod">параметрів</w>
       </w_>
       <g/>
@@ -3474,16 +3480,16 @@
       <w_ id="26mz" dep="26mm-conj:parataxis">
         <w lemma="тремтіти" ana="verb:imperf:past:f">тремтіла</w>
       </w_>
-      <w_ id="26n0" dep="26n2-case">
+      <w_ id="26n0" dep="26n2-case|26n2-shared">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="26n1" dep="26n2-amod">
+      <w_ id="26n1" dep="26n2-amod|26n2-private">
         <w lemma="далекий" ana="adj:f:v_rod:compb">далекої</w>
       </w_>
       <w_ id="26n2" dep="26mz-obl">
         <w lemma="вільгість" ana="noun:inanim:f:v_rod">вільгості</w>
       </w_>
-      <w_ id="26n3" dep="26n2-nmod">
+      <w_ id="26n3" dep="26n2-nmod|26n2-private">
         <w lemma="вода" ana="noun:inanim:f:v_rod">води</w>
       </w_>
       <w_ id="26n4" dep="26n6-cc">

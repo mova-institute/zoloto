@@ -731,16 +731,19 @@
       <w lemma="людина" ana="noun:anim:p:f:v_naz">люди</w>
     </w_>
     <g/>
-    <w_ id="02f8" dep="02fa-punct">
+    <w_ id="02f8" dep="02fa-punct|3ca7-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="02f9" dep="02fa-mark">
+    <w_ id="02f9" dep="02fa-mark|3ca7-mark">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ id="02fa" dep="02f4-advcl" tags="promoted">
+    <w_ id="02fa" dep="02f4-advcl|3ca7-nsubj">
       <w lemma="комашня" ana="noun:inanim:f:v_naz">комашня</w>
     </w_>
-    <w_ id="02fb" dep="02fa-obj">
+    <w_ id="3ca7" dep="02f4-advcl" ellipsis="predicate">
+      <w lemma="обліплювати" ana="verb:imperf:pres:s:3">обліплює</w>
+    </w_>
+    <w_ id="02fb" dep="02fa-orphan|3ca7-obj">
       <w lemma="шкоринка" ana="noun:inanim:f:v_zna">шкоринку</w>
     </w_>
     <w_ id="02fc" dep="02fb-nmod">
@@ -1173,7 +1176,7 @@
     <w_ id="02jh" dep="02jg-obj|02jg-private">
       <w lemma="камера" ana="noun:inanim:f:v_zna">камеру</w>
     </w_>
-    <w_ id="02ji" dep="02jg-obl">
+    <w_ id="02ji" dep="02jg-obl|02jg-private">
       <w lemma="око" ana="noun:inanim:n:v_oru">оком</w>
     </w_>
     <g/>

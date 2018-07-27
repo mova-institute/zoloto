@@ -7654,16 +7654,16 @@
       <w_ id="32p3" n="2306">
         <w lemma="відносини" ana="noun:inanim:p:v_naz:ns">відносини</w>
       </w_>
-      <w_ id="32p4" n="2307">
+      <w_ id="32p4" dep="32p5-case" n="2307">
         <w lemma="між" ana="prep:rv_oru">між</w>
       </w_>
-      <w_ id="32p5" n="2308">
+      <w_ id="32p5" dep="32p3-nmod" n="2308">
         <w lemma="вони" ana="noun:p:v_oru:&amp;pron:pers:3">ними</w>
       </w_>
       <w_ id="32p6" n="2309">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="32p7" n="2310">
+      <w_ id="32p7" dep="32p8-case" n="2310">
         <w lemma="між" ana="prep:rv_oru">між</w>
       </w_>
       <w_ id="32p8" n="2311">
@@ -7678,10 +7678,10 @@
       <w_ id="32pb" n="2314">
         <w lemma="ініційована" ana="adj:f:v_oru:&amp;adjp:perf:pasv:&amp;noun:anim" lemma2="ініційований">ініційованою</w>
       </w_>
-      <w_ id="32pc" n="2315">
+      <w_ id="32pc" dep="32pd-cc" n="2315">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="32pd" n="2316">
+      <w_ id="32pd" dep="32pb-conj" n="2316">
         <w lemma="вчитель" ana="noun:anim:p:m:v_oru:v-u">вчителями</w>
       </w_>
       <w_ id="32pe" n="2317">
@@ -7831,7 +7831,7 @@
       <w_ id="32qs" n="2358">
         <w lemma="привід" ana="noun:inanim:m:v_rod">приводу</w>
       </w_>
-      <w_ id="32qt" n="2359">
+      <w_ id="32qt" dep="32qs-nmod" n="2359">
         <w lemma="тримати" ana="verb:imperf:inf">тримати</w>
       </w_>
       <w_ id="32qu" dep="32qw-case" n="2360">
@@ -7853,13 +7853,13 @@
         <w lemma="забобон" ana="noun:inanim:m:v_naz">забобон</w>
       </w_>
       <g/>
-      <w_ id="32r0" n="2366">
+      <w_ id="32r0" dep="32r5-punct" n="2366">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="32r1" n="2367">
+      <w_ id="32r1" dep="32r5-cc" n="2367">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="32r2" n="2368">
+      <w_ id="32r2" dep="32r5-nsubj" n="2368">
         <w lemma="сестра" ana="noun:anim:f:v_naz">сестра</w>
       </w_>
       <w_ id="32r3" n="2369">
@@ -7937,22 +7937,25 @@
         <w lemma="сестра" ana="noun:anim:f:v_rod">сестри</w>
       </w_>
       <g/>
-      <w_ id="32rt" dep="32rw-punct" n="2391">
+      <w_ id="32rt" dep="32rw-punct|3cac-punct" n="2391">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="32ru" dep="32rw-cc" n="2392">
+      <w_ id="32ru" dep="32rw-cc|3cac-cc" n="2392">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="32rv" dep="32rw-advmod" n="2393">
+      <w_ id="32rv" dep="32rw-orphan|3cac-advmod" n="2393">
         <w lemma="потім" ana="adv:&amp;pron:dem">потім</w>
       </w_>
-      <w_ id="32rw" dep="32rq-conj:parataxis" tags="promoted" n="2394">
+      <w_ id="32rw" dep="32rq-conj:parataxis|3cac-nsubj" n="2394">
         <w lemma="сестра" ana="noun:anim:f:v_naz">сестра</w>
+      </w_>
+      <w_ id="3cac" dep="32rq-conj:parataxis" ellipsis="predicate">
+        <w lemma="хрестити" ana="verb:imperf:past:f">хрестила</w>
       </w_>
       <w_ id="32rx" dep="32ry-case" n="2395">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="32ry" dep="32rw-obl" n="2396">
+      <w_ id="32ry" dep="32rw-orphan|3cac-obl" n="2396">
         <w lemma="мама" ana="noun:anim:f:v_rod">мами</w>
       </w_>
       <g/>
