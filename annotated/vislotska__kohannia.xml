@@ -1396,19 +1396,25 @@
         <w lemma="жінка" ana="noun:anim:f:v_oru">жінкою</w>
       </w_>
       <g/>
-      <w_ id="1czv" dep="1czx-punct">
+      <w_ id="1czv" dep="1czx-punct|3cc7-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1czw" dep="1czx-cc">
+      <w_ id="1czw" dep="1czx-cc|3cc7-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="1czx" dep="1czs-conj" tags="promoted">
+      <w_ id="1czx" dep="1czs-conj|3cc7-nsubj">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
+      </w_>
+      <w_ id="3cc7" dep="1czs-conj" ellipsis="predicate">
+        <w lemma="повинний" ana="adj:m:v_naz:short">повинен</w>
+      </w_>
+      <w_ id="3cca" dep="1czz-cop" comment="~" ellipsis="predicate">
+        <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
       <w_ id="1czy" dep="1czz-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="1czz" dep="1czx-orphan">
+      <w_ id="1czz" dep="1czx-orphan|3cc7-xcomp:sp">
         <w lemma="чоловік" ana="noun:anim:m:v_oru">чоловіком</w>
       </w_>
       <g/>
@@ -3798,7 +3804,7 @@
       <w_ id="1dk2" dep="1dk3-det">
         <w lemma="такий" ana="adj:n:v_mis:&amp;pron:dem">такому</w>
       </w_>
-      <w_ id="1dk3" dep="1dk5-orphan">
+      <w_ id="1dk3" dep="1dk5-orphan|3cbm-obl">
         <w lemma="становище" ana="noun:inanim:n:v_mis">становищі</w>
       </w_>
       <w_ id="3cbm" ellipsis="predicate">
@@ -3807,7 +3813,7 @@
       <w_ id="1dk4" dep="1dk5-nummod" comment="(лишається)?">
         <w lemma="один" ana="numr:m:v_naz">один</w>
       </w_>
-      <w_ id="1dk5">
+      <w_ id="1dk5" dep="3cbm-nsubj">
         <w lemma="крок" ana="noun:inanim:m:v_naz">крок</w>
       </w_>
       <w_ id="1dk6" dep="1dk7-case">
@@ -3962,7 +3968,7 @@
       <w_ id="1dle" dep="1dlf-case">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="1dlf" dep="1dli-orphan">
+      <w_ id="1dlf" dep="3cbn-obl|1dlg-orphan">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:int">що</w>
       </w_>
       <w_ id="1dlg">
@@ -3975,7 +3981,7 @@
         <w lemma="треба" ana="adv">треба</w>
       </w_>
       <g/>
-      <w_ id="3cbn" ellipsis="predicate">
+      <w_ id="3cbn" dep="1dlg-csubj" ellipsis="predicate">
         <w lemma="розмовляти" ana="verb:imperf:inf">розмовляти</w>
       </w_>
       <w_ id="1dlj" dep="1dlg-punct">
@@ -4594,19 +4600,19 @@
       </w_>
     </s>
     <s id="2sve" parallel-id="uk:Wislocka-Ars_amandi:0:431:10">
-      <w_ id="1dqn" dep="1dqt-cc">
+      <w_ id="1dqn" dep="1dqt-cc|3cbo-cc">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
       <w_ id="1dqo" dep="1dqp-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1dqp" dep="1dqq-nmod" comment="~">
+      <w_ id="1dqp" dep="1dqq-nmod|3cbo-obl" comment="~">
         <w lemma="середнє" ana="adj:n:v_mis:&amp;noun:inanim" lemma2="середній">середньому</w>
       </w_>
       <w_ id="3cbo" ellipsis="predicate">
         <w lemma="мити" ana="verb:imperf:inf">мити</w>
       </w_>
-      <w_ id="1dqq" dep="1dqt-orphan">
+      <w_ id="1dqq" dep="1dqt-orphan|3cbo-obl">
         <w lemma="раз" ana="noun:inanim:m:v_zna">раз</w>
       </w_>
       <w_ id="1dqr" dep="1dqs-case">
@@ -4615,20 +4621,20 @@
       <w_ id="1dqs" dep="1dqq-nmod">
         <w lemma="тиждень" ana="noun:inanim:m:v_zna">тиждень</w>
       </w_>
-      <w_ id="1dqt">
+      <w_ id="1dqt" dep="3cbo-iobj">
         <w lemma="жінка" ana="noun:anim:f:v_dav">жінці</w>
       </w_>
       <g/>
-      <w_ id="1dqu" dep="1dqw-punct">
+      <w_ id="1dqu" dep="1dqw-punct|3cbp-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1dqv" dep="1dqw-cc">
+      <w_ id="1dqv" dep="1dqw-cc|3cbp-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="1dqw" dep="1dqt-conj:parataxis">
+      <w_ id="1dqw" dep="1dqt-conj:parataxis|3cbp-iobj">
         <w lemma="чоловік" ana="noun:anim:m:v_dav">чоловікові</w>
       </w_>
-      <w_ id="3cbp" ellipsis="predicate">
+      <w_ id="3cbp" dep="3cbo-conj:parataxis" ellipsis="predicate">
         <w lemma="мити" ana="verb:imperf:inf">мити</w>
       </w_>
       <w_ id="1dqx" dep="1dqy-discourse">
@@ -4637,7 +4643,7 @@
       <w_ id="1dqy" dep="1dqz-obl">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
-      <w_ id="1dqz" dep="1dqw-orphan">
+      <w_ id="1dqz" dep="1dqw-orphan|3cbp-advmod">
         <w lemma="частіше" ana="adv:compr">частіше</w>
       </w_>
       <w_ id="1dr0" dep="1dr3-punct">
@@ -4650,7 +4656,7 @@
       <w_ id="1dr2" dep="1dr3-nsubj">
         <w lemma="волосся" ana="noun:inanim:n:v_naz">волосся</w>
       </w_>
-      <w_ id="1dr3" dep="1dqw-advcl">
+      <w_ id="1dr3" dep="1dqw-orphan|3cbp-advcl">
         <w lemma="коротший" ana="adj:n:v_naz:compr">коротше</w>
       </w_>
       <w_ id="1dr4" dep="1dr5-cc">

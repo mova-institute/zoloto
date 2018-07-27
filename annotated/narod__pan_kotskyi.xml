@@ -1924,7 +1924,7 @@
       <w lemma="туди" ana="adv:&amp;pron:dem">туди</w>
     </w_>
     <g/>
-    <w_ id="0chs" dep="0chu-punct">
+    <w_ id="0chs" dep="0chu-punct|3cbi-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0cht">
@@ -1933,13 +1933,13 @@
     <w_ id="3cbi" ellipsis="predicate">
       <w lemma="вхопити" ana="verb:perf:past:m:v-u">вхопив</w>
     </w_>
-    <w_ id="0chu" comment="~">
+    <w_ id="0chu" dep="3cbi-obj" comment="~">
       <w lemma="кабан" ana="noun:anim:m:v_zna">кабана</w>
     </w_>
     <w_ id="0chv" dep="0chw-case">
       <w lemma="за" ana="prep:rv_zna">за</w>
     </w_>
-    <w_ id="0chw" dep="0chu-orphan">
+    <w_ id="0chw" dep="0chu-orphan|3cbi-obl">
       <w lemma="хвіст" ana="noun:inanim:m:v_zna">хвіст</w>
     </w_>
     <g/>

@@ -7243,35 +7243,47 @@
       <w lemma="деревлянин" ana="noun:anim:p:m:v_rod">деревлян</w>
     </w_>
     <g/>
-    <w_ id="1bit" dep="1biu-punct">
+    <w_ id="1bit" dep="1biu-punct|3cbk-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1biu" dep="1bio-parataxis">
+    <w_ id="1biu" dep="1bio-parataxis|3cbk-nsubj">
       <w lemma="східнополіський" ana="adj:p:v_naz:auto">східнополіські</w>
     </w_>
-    <w_ id="3cbk" ellipsis="predicate">
+    <w_ id="3cbk" dep="1bio-parataxis" ellipsis="predicate">
       <w lemma="могти" ana="verb:imperf:pres:p:3">можуть</w>
     </w_>
-    <w_ id="3cbl" ellipsis="predicate">
+    <w_ id="3ccc" dep="3cbl-cop" comment="~" ellipsis="predicate">
+      <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
+    </w_>
+    <w_ id="3cbl" dep="3cbk-xcomp" ellipsis="predicate">
       <w lemma="виведений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">виведені</w>
     </w_>
     <w_ id="1biv" dep="1biw-case">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
-    <w_ id="1biw" dep="1biu-orphan">
+    <w_ id="1biw" dep="1biu-orphan|3cbl-obl">
       <w lemma="сіверянин" ana="noun:anim:p:m:v_rod">сіверян</w>
     </w_>
     <g/>
-    <w_ id="1bix" dep="1biy-punct">
+    <w_ id="1bix" dep="1biy-punct|3cc5-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1biy" dep="1bio-parataxis">
+    <w_ id="1biy" dep="1bio-parataxis|3cc5-nsubj">
       <w lemma="західноволинський" ana="adj:p:v_naz:auto">західноволинські</w>
+    </w_>
+    <w_ id="3cc5" dep="1bio-parataxis" ellipsis="predicate">
+      <w lemma="могти" ana="verb:imperf:pres:p:3">можуть</w>
+    </w_>
+    <w_ id="3cc9" dep="3cc6-cop" ellipsis="predicate">
+      <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
+    </w_>
+    <w_ id="3cc6" dep="3cc5-xcomp" ellipsis="predicate">
+      <w lemma="виведений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">виведені</w>
     </w_>
     <w_ id="1biz" dep="1bj0-case">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
-    <w_ id="1bj0" dep="1biy-orphan">
+    <w_ id="1bj0" dep="1biy-orphan|3cc6-obl">
       <w lemma="дуліб" ana="noun:anim:p:m:v_rod">дулібів</w>
     </w_>
     <g/>

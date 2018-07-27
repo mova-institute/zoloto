@@ -4188,7 +4188,7 @@
       <w_ id="1t9h" dep="1t9i-obl">
         <w lemma="сайт" ana="noun:inanim:m:v_mis">сайті</w>
       </w_>
-      <w_ id="1t9i" comment="?">
+      <w_ id="1t9i">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <w_ id="1t9j" dep="1t9i-nsubj">
@@ -4205,16 +4205,16 @@
       <w_ id="1t9m" dep="1t9l-punct">
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
-      <w_ id="1t9n" dep="1t9p-cc">
+      <w_ id="1t9n" dep="1t9p-cc|3cbq-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="1t9o" dep="1t9p-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1t9p" dep="1t9i-conj:parataxis" tags="promoted">
+      <w_ id="1t9p" dep="1t9i-conj:parataxis|3cbq-obl">
         <w lemma="він" ana="noun:m:v_mis:rprep:&amp;pron:pers:3">нім</w>
       </w_>
-      <w_ id="3cbq" ellipsis="predicate">
+      <w_ id="3cbq" dep="1t9i-conj:parataxis" ellipsis="predicate">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <w_ id="1t9q" dep="1t9s-punct">
@@ -4224,7 +4224,7 @@
         <w lemma="&quot;" ana="punct:quote:open">"</w>
       </w_>
       <g/>
-      <w_ id="1t9s" dep="1t9p-orphan">
+      <w_ id="1t9s" dep="1t9p-orphan|3cbq-nsubj">
         <w lemma="готуватися" ana="verb:rev:imperf:pres:p:3">готуються</w>
       </w_>
       <w_ id="1t9t" dep="1t9u-case">

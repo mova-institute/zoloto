@@ -861,13 +861,13 @@
         <w lemma=")" ana="punct:close">)</w>
       </w_>
       <g/>
-      <w_ id="29ju" dep="29jv-punct">
+      <w_ id="29ju" dep="29jv-punct|3cc2-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="29jv" dep="29jo-parataxis" tags="promoted">
+      <w_ id="29jv" dep="29jo-parataxis|3cc2-nsubj" tags="promoted">
         <w lemma="інший" ana="adj:f:v_naz:&amp;pron:ind">інша</w>
       </w_>
-      <w_ id="3cc2" ellipsis="predicate">
+      <w_ id="3cc2" dep="29jo-parataxis" ellipsis="predicate">
         <w lemma="називатися" ana="verb:rev:imperf:past:f">називалася</w>
       </w_>
       <w_ id="29jw" dep="29jz-punct">
@@ -880,7 +880,7 @@
       <w_ id="29jy" dep="29jz-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="29jz" dep="29jv-orphan">
+      <w_ id="29jz" dep="29jv-orphan|3cc2-xcomp:sp">
         <w lemma="тополька" ana="noun:inanim:p:f:v_mis">Топольках</w>
       </w_>
       <g/>
@@ -910,7 +910,7 @@
         <w lemma="нині" ana="adv">нині</w>
       </w_>
       <g/>
-      <w_ id="29k8" dep="29jv-punct">
+      <w_ id="29k8" dep="29jv-punct|3cc2-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

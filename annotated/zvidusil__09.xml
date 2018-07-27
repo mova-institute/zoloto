@@ -9289,16 +9289,16 @@
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
       <g/>
-      <w_ id="1xyf" dep="1xyh-punct">
+      <w_ id="1xyf" dep="1xyh-punct|3cbu-punct">
         <w lemma=";" ana="punct">;</w>
       </w_>
       <w_ id="1xyg" dep="1xyh-nummod:gov">
         <w lemma="18" ana="numr:v_zna:nv">18</w>
       </w_>
-      <w_ id="1xyh" dep="1xy0-parataxis">
+      <w_ id="1xyh" dep="1xy0-parataxis|3cbu-obl">
         <w lemma="раз" ana="noun:inanim:p:m:v_rod">разів</w>
       </w_>
-      <w_ id="3cbu" ellipsis="predicate">
+      <w_ id="3cbu" dep="1xy0-parataxis" ellipsis="predicate">
         <w lemma="визнавати" ana="verb:imperf:past:p">визнавали</w>
       </w_>
       <w_ id="1xyi" dep="1xyk-punct" comment="~">
@@ -9308,7 +9308,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="1xyk" dep="1xyh-orphan">
+      <w_ id="1xyk" dep="1xyh-orphan|3cbu-obj">
         <w lemma="критика" ana="noun:inanim:f:v_rod">Критики</w>
       </w_>
       <g/>

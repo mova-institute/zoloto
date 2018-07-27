@@ -2775,7 +2775,7 @@
         <w lemma="гірник" ana="noun:anim:m:v_rod">гірника</w>
       </w_>
       <g/>
-      <w_ id="1v2g" dep="1v2l-punct">
+      <w_ id="1v2g" dep="1v2l-punct|3cbr-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1v2h" dep="1v2j-case">
@@ -2784,16 +2784,16 @@
       <w_ id="1v2i" dep="1v2j-amod">
         <w lemma="аварійний" ana="adj:f:v_mis">аварійній</w>
       </w_>
-      <w_ id="1v2j" dep="1v2l-orphan">
+      <w_ id="1v2j" dep="1v2l-orphan|3cbr-obl">
         <w lemma="ділянка" ana="noun:inanim:f:v_mis">ділянці</w>
       </w_>
-      <w_ id="3cbr" ellipsis="predicate">
+      <w_ id="3cbr" dep="1v2d-parataxis" ellipsis="predicate">
         <w lemma="працювати" ana="verb:imperf:past:n">працювало</w>
       </w_>
       <w_ id="1v2k" dep="1v2l-nummod:gov">
         <w lemma="34" ana="numr:v_naz:nv">34</w>
       </w_>
-      <w_ id="1v2l" dep="1v2d-conj" tags="promoted">
+      <w_ id="1v2l" dep="1v2d-parataxis|3cbr-nsubj">
         <w lemma="гірник" ana="noun:anim:m:v_rod">гірника</w>
       </w_>
       <g/>
@@ -3522,13 +3522,13 @@
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
-      <w_ id="1v92" dep="1v93-punct">
+      <w_ id="1v92" dep="1v93-punct|3cbs-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1v93" dep="1v8y-parataxis">
+      <w_ id="1v93" dep="1v8y-parataxis|3cbs-nsubj">
         <w lemma="внутрішній" ana="adj:p:v_naz">внутрішні</w>
       </w_>
-      <w_ id="3cbs" ellipsis="predicate">
+      <w_ id="3cbs" dep="1v8y-parataxis" comment="~ conj?" ellipsis="predicate">
         <w lemma="становити" ana="verb:imperf:past:p">становили</w>
       </w_>
       <w_ id="1v94" dep="1v96-punct">
@@ -3545,7 +3545,7 @@
       <w_ id="2eoj" dep="1v95-compound">
         <w lemma="4" ana="numr:v_zna:nv">4</w>
       </w_>
-      <w_ id="1v96" dep="1v93-orphan">
+      <w_ id="1v96" dep="1v93-orphan|3cbs-obj">
         <w lemma="млрд" ana="noun:inanim:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
       <w_ id="1v97" dep="1v96-nmod">
@@ -3707,13 +3707,13 @@
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
       <g/>
-      <w_ id="1vaj" dep="1vak-punct">
+      <w_ id="1vaj" dep="1vak-punct|3cbt-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1vak" dep="1vaa-conj">
+      <w_ id="1vak" dep="1vaa-conj|3cbt-nsubj">
         <w lemma="видаток" ana="noun:inanim:p:m:v_naz">видатки</w>
       </w_>
-      <w_ id="3cbt" ellipsis="predicate">
+      <w_ id="3cbt" dep="1vaa-conj" ellipsis="predicate">
         <w lemma="зрости" ana="verb:perf:past:p">зросли</w>
       </w_>
       <w_ id="1val" dep="1vao-punct">
@@ -3734,7 +3734,7 @@
         <w lemma="7" ana="numr:v_zna:nv">7</w>
       </w_>
       <g/>
-      <w_ id="1vao" dep="1vak-orphan">
+      <w_ id="1vao" dep="1vak-orphan|3cbt-obl">
         <w lemma="%" ana="noun:inanim:m:v_rod:nv:symbol">%</w>
       </w_>
       <g/>

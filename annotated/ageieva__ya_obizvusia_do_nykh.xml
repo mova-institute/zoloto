@@ -3741,10 +3741,10 @@
       <w lemma="»" ana="punct:quote:close">»</w>
     </w_>
     <g/>
-    <w_ id="00x3" dep="00x4-punct">
+    <w_ id="00x3" dep="00x4-punct|3cbh-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="00x4" dep="00wj-conj:parataxis">
+    <w_ id="00x4" dep="00wj-conj:parataxis|3cbh-nsubj">
       <w lemma="співачка" ana="noun:anim:f:v_naz">співачка</w>
     </w_>
     <foreign lang="ru">
@@ -3766,7 +3766,7 @@
     <w_ id="00x9" dep="00x8-punct">
       <w lemma=")" ana="punct:close">)</w>
     </w_>
-    <w_ id="3cbh" ellipsis="predicate">
+    <w_ id="3cbh" dep="00wj-conj:parataxis" ellipsis="predicate">
       <w lemma="співати" ana="verb:imperf:past:f">співала</w>
     </w_>
     <w_ id="00xa" dep="00xf-punct">
@@ -3786,7 +3786,7 @@
     <w_ id="00xe" dep="00xc-conj:repeat" comment="#no_qmark">
       <w lemma="чом" ana="adv:&amp;pron:int:coll">чом</w>
     </w_>
-    <w_ id="00xf" dep="00x4-orphan" tags="graft">
+    <w_ id="00xf" dep="00x4-orphan|3cbh-obj" tags="graft">
       <w lemma="чорнобров" ana="noun:anim:m:v_naz">чорнобров</w>
     </w_>
     <g/>
