@@ -2216,28 +2216,28 @@
       <w lemma="мотоцикліст" ana="noun:anim:p:m:v_naz">мотоциклісти</w>
     </w_>
     <g/>
-    <w_ id="1gc3" dep="1gc9-punct">
+    <w_ id="1gc3" dep="1gc9-punct|3cak-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1gc4" dep="1gc9-cc">
+    <w_ id="1gc4" dep="1gc9-cc|3cak-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
     <w_ id="1gc5" dep="1gc6-case">
       <w lemma="через" ana="prep:rv_zna">через</w>
     </w_>
-    <w_ id="1gc6" dep="1gc9-obl" mark="reviewed">
+    <w_ id="1gc6" dep="1gc9-orphan|3cak-obl" mark="reviewed">
       <w lemma="чверть" ana="noun:inanim:f:v_zna">чверть</w>
     </w_>
     <w_ id="1gc7" dep="1gc6-nmod">
       <w lemma="година" ana="noun:inanim:f:v_rod">години</w>
     </w_>
-    <w_ id="3cak" ellipsis="predicate">
+    <w_ id="3cak" dep="1gc1-conj:parataxis" ellipsis="predicate">
       <w lemma="приїхати" ana="verb:perf:past:m">приїхав</w>
     </w_>
     <w_ id="1gc8" dep="1gc9-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="1gc9" dep="1gc1-conj:parataxis" tags="promoted">
+    <w_ id="1gc9" dep="1gc1-conj:parataxis|3cak-nsubj">
       <w lemma="танк" ana="noun:inanim:m:v_naz">танк</w>
     </w_>
     <g/>

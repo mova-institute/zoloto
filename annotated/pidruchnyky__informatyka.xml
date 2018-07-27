@@ -173,19 +173,19 @@
       <w lemma="цифра" ana="noun:inanim:p:f:v_oru">цифрами</w>
     </w_>
     <g/>
-    <w_ id="0npw" dep="0npz-punct">
+    <w_ id="0npw" dep="0npz-punct|3cad-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0npx" dep="0npz-cc">
+    <w_ id="0npx" dep="0npz-cc|3cad-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
     <w_ id="0npy" dep="0npz-amod">
       <w lemma="математичний" ana="adj:p:v_zna:rinanim:compb">математичні</w>
     </w_>
-    <w_ id="0npz" dep="0npu-conj:parataxis" tags="promoted">
+    <w_ id="0npz" dep="0npu-conj:parataxis|3cad-obj">
       <w lemma="операція" ana="noun:inanim:p:f:v_zna">операції</w>
     </w_>
-    <w_ id="3cad" ellipsis="predicate">
+    <w_ id="3cad" dep="0npu-conj:parataxis" ellipsis="predicate">
       <w lemma="записувати" ana="verb:imperf:pres:p:3">записують</w>
     </w_>
     <w_ id="0nq0" dep="0nq2-punct">
@@ -194,7 +194,7 @@
     <w_ id="0nq1" dep="0nq2-amod">
       <w lemma="спеціальний" ana="adj:p:v_oru">спеціальними</w>
     </w_>
-    <w_ id="0nq2" dep="0npz-orphan">
+    <w_ id="0nq2" dep="0npz-orphan|3cad-obl">
       <w lemma="знак" ana="noun:inanim:p:m:v_oru:xp1">знаками</w>
     </w_>
     <g/>
@@ -202,29 +202,29 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0nq4"/>
-    <w_ id="0nq5">
+    <w_ id="0nq5" dep="0nq6-nsubj">
       <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
     </w_>
     <w_ id="0nq6">
       <w lemma="спрощувати" ana="verb:imperf:pres:s:3">спрощує</w>
     </w_>
-    <w_ id="0nq7">
+    <w_ id="0nq7" dep="0nq6-obj">
       <w lemma="виконання" ana="noun:inanim:n:v_zna">виконання</w>
     </w_>
-    <w_ id="0nq8">
+    <w_ id="0nq8" dep="0nq7-nmod">
       <w lemma="операція" ana="noun:inanim:p:f:v_rod">операцій</w>
     </w_>
-    <w_ id="0nq9">
+    <w_ id="0nq9" dep="0nqa-case">
       <w lemma="з" ana="prep:rv_rod">з</w>
     </w_>
-    <w_ id="0nqa">
+    <w_ id="0nqa" dep="0nq8-nmod">
       <w lemma="опрацювання" ana="noun:inanim:n:v_rod">опрацювання</w>
     </w_>
-    <w_ id="0nqb">
+    <w_ id="0nqb" dep="0nqa-nmod">
       <w lemma="повідомлення" ana="noun:inanim:p:n:v_rod">повідомлень</w>
     </w_>
     <g/>
-    <w_ id="0nqc">
+    <w_ id="0nqc" dep="0nq6-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0nqd"/>

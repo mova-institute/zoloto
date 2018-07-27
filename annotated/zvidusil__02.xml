@@ -1221,7 +1221,7 @@
       <w_ id="1mgu" dep="1mgv-case">
         <w lemma="опісля" ana="prep:rv_rod">Опісля</w>
       </w_>
-      <w_ id="1mgv" dep="1mgy-orphan" coref="1mg9-equality">
+      <w_ id="1mgv" dep="1mgy-orphan|3cal-obl" coref="1mg9-equality">
         <w lemma="він" ana="noun:m:v_rod:rprep:&amp;pron:pers:3">нього</w>
       </w_>
       <w_ id="3cal" ellipsis="predicate">
@@ -1233,11 +1233,11 @@
       <w_ id="1mgx" dep="1mgy-amod">
         <w lemma="німий" ana="adj:m:v_zna:ranim">німого</w>
       </w_>
-      <w_ id="1mgy" tags="promoted">
+      <w_ id="1mgy" dep="3cal-obj">
         <w lemma="Іван" ana="noun:anim:m:v_zna:prop:fname">Івана</w>
       </w_>
       <g/>
-      <w_ id="1mgz" dep="1mgy-punct">
+      <w_ id="1mgz" dep="1mgy-punct|3cal-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1mh0"/>
@@ -1395,7 +1395,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1mif"/>
-      <w_ id="1mig" tags="promoted">
+      <w_ id="1mig" dep="3cam-obj">
         <w lemma="Лариска" ana="noun:anim:f:v_zna:prop:fname">Лариску</w>
       </w_>
       <w_ id="3cam" ellipsis="predicate">
@@ -1407,17 +1407,17 @@
       <w_ id="1mii" dep="1mij-case">
         <w lemma="під" ana="prep:rv_oru">під</w>
       </w_>
-      <w_ id="1mij" dep="1mig-orphan">
+      <w_ id="1mij" dep="1mig-orphan|3cam-obl">
         <w lemma="горіх" ana="noun:inanim:m:v_oru">горіхом</w>
       </w_>
       <g/>
-      <w_ id="1mik" dep="1mil-punct">
+      <w_ id="1mik" dep="1mil-punct|3can-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1mil" dep="1mig-parataxis" tags="promoted">
+      <w_ id="1mil" dep="1mig-parataxis|3can-obj">
         <w lemma="Михайло" ana="noun:anim:m:v_zna:prop:fname">Михайла</w>
       </w_>
-      <w_ id="3can" ellipsis="predicate">
+      <w_ id="3can" dep="3cam-parataxis" ellipsis="predicate">
         <w lemma="народити" ana="verb:perf:past:f">народила</w>
       </w_>
       <w_ id="1mim" dep="1mio-punct">
@@ -1426,17 +1426,17 @@
       <w_ id="1min" dep="1mio-case">
         <w lemma="під" ana="prep:rv_oru">під</w>
       </w_>
-      <w_ id="1mio" dep="1mil-orphan">
+      <w_ id="1mio" dep="1mil-orphan|3can-obl">
         <w lemma="черешня" ana="noun:inanim:f:v_oru">черешнею</w>
       </w_>
       <g/>
-      <w_ id="1mip" dep="1miq-punct">
+      <w_ id="1mip" dep="1miq-punct|3cao-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1miq" dep="1mig-parataxis" tags="promoted">
+      <w_ id="1miq" dep="1mig-parataxis|3cao-obj">
         <w lemma="Анюта" ana="noun:anim:f:v_zna:prop:fname">Анюту</w>
       </w_>
-      <w_ id="3cao" ellipsis="predicate">
+      <w_ id="3cao" dep="3cam-parataxis" ellipsis="predicate">
         <w lemma="народити" ana="verb:perf:past:f">народила</w>
       </w_>
       <w_ id="1mir" dep="1mit-punct">
@@ -1445,17 +1445,17 @@
       <w_ id="1mis" dep="1mit-case">
         <w lemma="під" ana="prep:rv_oru">під</w>
       </w_>
-      <w_ id="1mit" dep="1miq-orphan">
+      <w_ id="1mit" dep="1miq-orphan|3cao-obl">
         <w lemma="сіно" ana="noun:inanim:n:v_oru">сіном</w>
       </w_>
       <g/>
-      <w_ id="1miu" dep="1miv-punct">
+      <w_ id="1miu" dep="1miv-punct|3cap-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1miv" dep="1mig-parataxis" tags="promoted">
+      <w_ id="1miv" dep="1mig-parataxis|3cap-obj" tags="promoted">
         <w lemma="другий" ana="adj:p:v_zna:ranim:&amp;pron:ind">других</w>
       </w_>
-      <w_ id="3cap" ellipsis="predicate">
+      <w_ id="3cap" dep="3cam-parataxis" ellipsis="predicate">
         <w lemma="народити" ana="verb:perf:past:f">народила</w>
       </w_>
       <w_ id="1miw" dep="1miy-punct">
@@ -1464,11 +1464,11 @@
       <w_ id="1mix" dep="1miy-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="1miy" dep="1miv-orphan">
+      <w_ id="1miy" dep="1miv-orphan|3cap-obl">
         <w lemma="ліжко" ana="noun:inanim:n:v_mis">ліжку</w>
       </w_>
       <g/>
-      <w_ id="1miz" dep="1mig-punct">
+      <w_ id="1miz" dep="3cap-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1mj0"/>

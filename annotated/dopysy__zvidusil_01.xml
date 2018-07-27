@@ -1060,13 +1060,13 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="30zd"/>
-      <w_ id="30ze" dep="30zf-advmod" n="320">
+      <w_ id="30ze" dep="30zf-orphan|3cbe-advmod" n="320">
         <w lemma="звідси" ana="adv:&amp;pron:dem">Звідси</w>
       </w_>
       <w_ id="3cbe" ellipsis="predicate">
         <w lemma="випливати" ana="verb:imperf:pres:s:3">випливає</w>
       </w_>
-      <w_ id="30zf" tags="promoted" comment="~" n="321">
+      <w_ id="30zf" dep="3cbe-nsubj" comment="~" n="321">
         <w lemma="висновок" ana="noun:inanim:m:v_naz">висновок</w>
       </w_>
       <g/>
@@ -1095,7 +1095,7 @@
         <w lemma="туманність" ana="noun:inanim:p:f:v_rod">туманностей</w>
       </w_>
       <g/>
-      <w_ id="30zo" dep="30zf-punct" n="330">
+      <w_ id="30zo" dep="30zf-punct|3cbe-punct" n="330">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

@@ -1587,13 +1587,13 @@
       <w_ id="1z3d" dep="1z3e-case">
         <w lemma="в" ana="prep:rv_rod:v-u">В</w>
       </w_>
-      <w_ id="1z3e" dep="1z3f-orphan">
+      <w_ id="1z3e" dep="1z3f-orphan|3caq-obl">
         <w lemma="я" ana="noun:anim:s:v_rod:&amp;pron:pers:1">мене</w>
       </w_>
       <w_ id="3caq" ellipsis="predicate">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
-      <w_ id="1z3f" tags="promoted" comment="#ожеледиця">
+      <w_ id="1z3f" dep="3caq-nsubj" comment="#ожеледиця">
         <w lemma="питання" ana="noun:inanim:n:v_naz">питання</w>
       </w_>
       <w_ id="1z3g" dep="1z3j-iobj">
@@ -1605,7 +1605,7 @@
       <w_ id="1z3i" dep="1z3j-advcl:sp" comment="~">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
-      <w_ id="1z3j" dep="1z3f-parataxis">
+      <w_ id="1z3j" dep="1z3f-parataxis|3caq-parataxis">
         <w lemma="потрібний" ana="adj:p:v_naz:compb">потрібні</w>
       </w_>
       <g/>

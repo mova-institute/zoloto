@@ -6529,16 +6529,16 @@
         <w lemma="сосна" ana="noun:inanim:f:v_rod">сосни</w>
       </w_>
       <g/>
-      <w_ id="2way" dep="2wb0-punct" n="1995">
+      <w_ id="2way" dep="2wb0-punct|3caz-punct" n="1995">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2waz" dep="2wb0-cc" n="1996">
+      <w_ id="2waz" dep="2wb0-cc|3caz-cc" n="1996">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="2wb0" dep="2wav-conj:parataxis" tags="promoted" n="1997">
+      <w_ id="2wb0" dep="2wav-conj:parataxis|3caz-nsubj" n="1997">
         <w lemma="обшивка" ana="noun:inanim:f:v_naz">обшивка</w>
       </w_>
-      <w_ id="3caz" ellipsis="predicate">
+      <w_ id="3caz" dep="2wav-conj:parataxis" ellipsis="predicate">
         <w lemma="виготовлятися" ana="verb:rev:imperf:past:f">виготовлялася</w>
       </w_>
       <w_ id="2wb1" dep="2wb3-punct" n="1998">
@@ -6547,7 +6547,7 @@
       <w_ id="2wb2" dep="2wb3-case" n="1999">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="2wb3" dep="2wb0-orphan" n="2000">
+      <w_ id="2wb3" dep="2wb0-orphan|3caz-obl" n="2000">
         <w lemma="фанера" ana="noun:inanim:f:v_rod">фанери</w>
       </w_>
       <g/>

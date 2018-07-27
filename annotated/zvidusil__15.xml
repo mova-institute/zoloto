@@ -1073,7 +1073,7 @@
       <w_ id="260v" dep="260w-nsubj" coref="260r-equality">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
-      <w_ id="260w" dep="2614-advcl">
+      <w_ id="260w" dep="2614-advcl|3car-advcl">
         <w lemma="зникнути" ana="verb:perf:futr:p:3">зникнуть</w>
       </w_>
       <w_ id="260x" dep="260y-case">
@@ -1086,10 +1086,10 @@
       <w_ id="260z" dep="260w-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2610" dep="2614-discourse">
+      <w_ id="2610" dep="2614-discourse|3car-discourse">
         <w lemma="то" ana="part:conseq">то</w>
       </w_>
-      <w_ id="2611" dep="2614-orphan">
+      <w_ id="2611" dep="2614-orphan|3car-advmod">
         <w lemma="автоматично" ana="adv">автоматично</w>
       </w_>
       <w_ id="3car" ellipsis="predicate">
@@ -1101,11 +1101,11 @@
       <w_ id="2613" dep="2614-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="2614" tags="promoted">
+      <w_ id="2614" dep="3car-obl">
         <w lemma="Європа" ana="noun:inanim:f:v_mis:prop">Європі</w>
       </w_>
       <g/>
-      <w_ id="2615" dep="2614-punct">
+      <w_ id="2615" dep="2614-punct|3car-punct">
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
       <g/>
@@ -1115,7 +1115,7 @@
       <w_ id="2617" dep="2618-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="2618" dep="2614-parataxis">
+      <w_ id="2618" dep="2614-parataxis|3car-parataxis">
         <w lemma="наголошувати" ana="verb:imperf:pres:s:3">наголошує</w>
       </w_>
       <w_ id="2619" dep="2618-nsubj">
@@ -1514,16 +1514,16 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="264o"/>
-      <w_ id="264p" dep="264u-advmod">
+      <w_ id="264p" dep="264u-orphan|3cb5-advmod">
         <w lemma="також" ana="adv">Також</w>
       </w_>
       <w_ id="264q" dep="264r-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="264r" dep="264u-obl">
+      <w_ id="264r" dep="264u-orphan|3cb5-obl">
         <w lemma="Донеччина" ana="noun:inanim:f:v_mis:prop">Донеччині</w>
       </w_>
-      <w_ id="3cb5" ellipsis="predicate">
+      <w_ id="3cb5" comment="~~ подвійна обставина часу?" ellipsis="predicate">
         <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
       </w_>
       <w_ id="264s" dep="264t-amod">
@@ -1532,13 +1532,13 @@
       <w_ id="264t" dep="264u-nmod">
         <w lemma="краса" ana="noun:inanim:f:v_rod">краси</w>
       </w_>
-      <w_ id="264u" tags="promoted" comment="ожеледиця">
+      <w_ id="264u" dep="3cb5-nsubj" comment="ожеледиця">
         <w lemma="каньйон" ana="noun:inanim:m:v_naz">каньйон</w>
       </w_>
       <w_ id="264v" dep="264w-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="264w" dep="264u-obl">
+      <w_ id="264w" dep="264u-orphan|3cb5-obl" comment="~">
         <w lemma="долина" ana="noun:inanim:f:v_mis">долині</w>
       </w_>
       <w_ id="264x" dep="264w-nmod">
@@ -1548,7 +1548,7 @@
         <w lemma="Кальміус" ana="noun:inanim:m:v_naz:prop">Кальміус</w>
       </w_>
       <g/>
-      <w_ id="264z" dep="264u-punct">
+      <w_ id="264z" dep="264u-punct|3cb5-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2650"/>

@@ -1041,16 +1041,16 @@
         <w lemma="Пасьйон" ana="noun:inanim:f:v_naz:nv:prop">Пасьйон</w>
       </w_>
       <g/>
-      <w_ id="29lf" dep="29lh-punct">
+      <w_ id="29lf" dep="29lh-punct|3cas-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="29lg" dep="29lh-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="29lh" dep="29lc-conj:parataxis" tags="promoted">
+      <w_ id="29lh" dep="29lc-conj|3cas-obl">
         <w lemma="схід" ana="noun:inanim:m:v_mis">сході</w>
       </w_>
-      <w_ id="3cas" ellipsis="predicate">
+      <w_ id="3cas" dep="29lc-conj" ellipsis="predicate">
         <w lemma="обмежений" ana="adj:p:v_naz:compb:&amp;adjp:perf:pasv">обмежені</w>
       </w_>
       <w_ id="29li" dep="29ll-punct">
@@ -1062,23 +1062,23 @@
       <w_ id="29lk" dep="29ll-amod">
         <w lemma="болотистий" ana="adj:f:v_oru">болотистою</w>
       </w_>
-      <w_ id="29ll" dep="29lh-orphan">
+      <w_ id="29ll" dep="29lh-orphan|3cas-obl">
         <w lemma="рівнина" ana="noun:inanim:f:v_oru">рівниною</w>
       </w_>
       <g/>
-      <w_ id="29lm" dep="29lp-punct">
+      <w_ id="29lm" dep="29lp-punct|3cat-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="29ln" dep="29lp-cc">
+      <w_ id="29ln" dep="29lp-cc|3cat-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="29lo" dep="29lp-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="29lp" dep="29lc-conj:parataxis" tags="promoted">
+      <w_ id="29lp" dep="29lc-conj|3cat-obl">
         <w lemma="південь" ana="noun:inanim:m:v_mis">півдні</w>
       </w_>
-      <w_ id="3cat" ellipsis="predicate">
+      <w_ id="3cat" dep="29lc-conj" ellipsis="predicate">
         <w lemma="обмежений" ana="adj:p:v_naz:compb:&amp;adjp:perf:pasv">обмежені</w>
       </w_>
       <w_ id="29lq" dep="29lz-punct">
@@ -1111,7 +1111,7 @@
       <w_ id="29ly" dep="29lx-punct">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
-      <w_ id="29lz" dep="29lp-orphan">
+      <w_ id="29lz" dep="29lp-orphan|3cat-obl">
         <w lemma="яр" ana="noun:inanim:m:v_oru">яром</w>
       </w_>
       <w_ id="29m0" dep="29lz-nmod">
@@ -1502,22 +1502,22 @@
         <w lemma="Аббас" ana="noun:anim:m:v_naz:nv:prop:lname">Аббасі</w>
       </w_>
       <g/>
-      <w_ id="29pn" dep="29pp-punct">
+      <w_ id="29pn" dep="29pp-punct|3cau-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="29po" dep="29pp-nummod:gov">
         <w lemma="219" ana="numr:v_naz:nv">219</w>
       </w_>
-      <w_ id="29pp" dep="29pi-conj:parataxis" tags="promoted">
+      <w_ id="29pp" dep="29pi-conj:parataxis|3cau-nsubj">
         <w lemma="тіло" ana="noun:inanim:p:n:v_rod">тіл</w>
       </w_>
-      <w_ id="3cau" ellipsis="predicate">
+      <w_ id="3cau" dep="29pi-conj:parataxis" ellipsis="predicate">
         <w lemma="доставлений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">доставлені</w>
       </w_>
       <w_ id="29pq" dep="29pr-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="29pr" dep="29pp-orphan">
+      <w_ id="29pr" dep="29pp-orphan|3cau-obl">
         <w lemma="JPMC" ana="x:foreign">JPMC</w>
       </w_>
       <w_ id="29ps" dep="29pu-punct">
@@ -1534,7 +1534,7 @@
       <w_ id="29pv" dep="29pu-punct">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
-      <w_ id="29pw" dep="29q0-cc">
+      <w_ id="29pw" dep="29q0-cc|3cav-cc">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
       <w_ id="29px" dep="29q0-advmod">
@@ -1546,10 +1546,10 @@
       <w_ id="29pz" dep="29q0-nummod">
         <w lemma="98" ana="numr:v_rod:nv">98</w>
       </w_>
-      <w_ id="29q0" dep="29pi-conj:parataxis" tags="promoted">
+      <w_ id="29q0" dep="29pi-conj:parataxis|3cav-nsubj" tags="promoted">
         <w lemma="загиблі" ana="adj:p:v_rod:ns:&amp;adjp:perf:actv:&amp;noun:anim" lemma2="загиблий">загиблих</w>
       </w_>
-      <w_ id="3cav" ellipsis="predicate">
+      <w_ id="3cav" dep="29pi-conj:parataxis" ellipsis="predicate">
         <w lemma="доставлений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">доставлені</w>
       </w_>
       <w_ id="29q1" dep="29q3-case">
@@ -1558,7 +1558,7 @@
       <w_ id="29q2" dep="29q3-amod">
         <w lemma="цивільний" ana="adj:m:v_zna:rinanim">Цивільний</w>
       </w_>
-      <w_ id="29q3" dep="29q0-orphan">
+      <w_ id="29q3" dep="29q0-orphan|3cav-obl">
         <w lemma="госпіталь" ana="noun:inanim:m:v_zna">Госпіталь</w>
       </w_>
       <g/>
@@ -3616,22 +3616,22 @@
         <w lemma="пізніший" ana="adj:p:v_zna:rinanim:compr">пізніші</w>
       </w_>
       <g/>
-      <w_ id="2a8h" dep="2a8l-punct">
+      <w_ id="2a8h" dep="2a8l-punct|3caw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2a8i" dep="2a8l-cc">
+      <w_ id="2a8i" dep="2a8l-cc|3caw-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="2a8j" dep="2a8l-orphan">
+      <w_ id="2a8j" dep="2a8l-orphan|3caw-advmod">
         <w lemma="потім" ana="adv:&amp;pron:dem">потім</w>
       </w_>
-      <w_ id="3caw" ellipsis="predicate">
+      <w_ id="3caw" dep="2a87-conj" ellipsis="predicate">
         <w lemma="перелітати" ana="verb:imperf:pres:s:3">перелітає</w>
       </w_>
       <w_ id="2a8k" dep="2a8l-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="2a8l" dep="2a87-conj" tags="promoted">
+      <w_ id="2a8l" dep="2a87-conj|3caw-obl">
         <w lemma="малина" ana="noun:inanim:f:v_zna">малину</w>
       </w_>
       <g/>

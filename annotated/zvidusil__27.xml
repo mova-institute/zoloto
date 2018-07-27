@@ -595,7 +595,7 @@
         <w lemma="сум" ana="noun:inanim:m:v_rod">суму</w>
       </w_>
       <g/>
-      <w_ id="330q" dep="330t-punct|3c9p-cc" n="178">
+      <w_ id="330q" dep="330t-punct|3c9p-punct" n="178">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="3c9p" dep="330k-conj" ellipsis="predicate">
@@ -3401,7 +3401,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="33qe"/>
-      <w_ id="33qf" n="1028">
+      <w_ id="33qf" dep="3c9q-nsubj" n="1028">
         <w lemma="мр." ana="noun:anim:m:v_naz:nv:abbr">Мр</w>
       </w_>
       <g/>
@@ -3417,20 +3417,20 @@
       <w_ id="33qi" dep="33qj-punct" n="1031">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="33qj" dep="33qf-orphan" n="1032">
+      <w_ id="33qj" dep="33qf-orphan|3c9q-obj" n="1032">
         <w lemma="№" ana="noun:inanim:m:v_zna:nv:symbol">№</w>
       </w_>
       <w_ id="33qk" dep="33qj-flat:title" n="1033">
         <w lemma="847" ana="numr:v_naz:nv">847</w>
       </w_>
       <g/>
-      <w_ id="33ql" dep="33qn-punct" n="1034">
+      <w_ id="33ql" dep="33qn-punct|3c9r-punct" n="1034">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="33qm" dep="33qn-cc" n="1035">
+      <w_ id="33qm" dep="33qn-cc|3c9r-cc" n="1035">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="33qn" dep="33qf-conj" n="1036">
+      <w_ id="33qn" dep="33qf-conj:parataxis|3c9r-nsubj" n="1036">
         <w lemma="мр." ana="noun:anim:m:v_naz:nv:abbr">мр</w>
       </w_>
       <g/>
@@ -3440,7 +3440,7 @@
       <w_ id="33qp" dep="33qn-flat:title" n="1038">
         <w lemma="Кетлінг" ana="noun:anim:m:v_naz:prop:lname">Кетлінг</w>
       </w_>
-      <w_ id="3c9r" ellipsis="predicate">
+      <w_ id="3c9r" dep="3c9q-conj:parataxis" ellipsis="predicate">
         <w lemma="зайняти" ana="verb:perf:past:m">зайняв</w>
       </w_>
       <g/>
@@ -3448,14 +3448,14 @@
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <g/>
-      <w_ id="33qr" dep="33qn-orphan" n="1040">
+      <w_ id="33qr" dep="33qn-orphan|3c9r-obj" n="1040">
         <w lemma="№" ana="noun:inanim:m:v_zna:nv:symbol">№</w>
       </w_>
       <w_ id="33qs" dep="33qr-flat:title" n="1041">
         <w lemma="848" ana="numr:v_naz:nv">848</w>
       </w_>
       <g/>
-      <w_ id="33qt" dep="33qf-punct" n="1042">
+      <w_ id="33qt" dep="33qf-punct|3c9q-punct" n="1042">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

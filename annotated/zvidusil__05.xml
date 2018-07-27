@@ -370,10 +370,10 @@
         <w lemma="Варшава" ana="noun:inanim:f:v_mis:prop">Варшаві</w>
       </w_>
       <g/>
-      <w_ id="1phn" dep="1phu-punct">
+      <w_ id="1phn" dep="1phu-punct|3ca2-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="1pho" dep="1phu-obl" tags="promoted">
+      <w_ id="1pho" dep="1phu-orphan|3ca2-obl" tags="promoted">
         <w lemma="1" ana="adj:n:v_rod:nv:&amp;numr">1</w>
       </w_>
       <w_ id="1php" dep="1pho-nmod">
@@ -382,26 +382,26 @@
       <w_ id="1phq" dep="1phr-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1phr" dep="1phu-obl">
+      <w_ id="1phr" dep="1phu-orphan|3ca2-obl">
         <w lemma="Teatrze" ana="x:foreign">Teatrze</w>
       </w_>
       <w_ id="1phs" dep="1phr-flat:foreign">
         <w lemma="Polskim" ana="x:foreign">Polskim</w>
       </w_>
-      <w_ id="3ca2" ellipsis="predicate">
+      <w_ id="3ca2" dep="1phi-parataxis" ellipsis="predicate">
         <w lemma="бути" ana="verb:imperf:futr:p:3">будуть</w>
       </w_>
       <w_ id="1pht" dep="1phu-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="1phu" dep="1phi-parataxis" comment="#ожеледиця">
+      <w_ id="1phu" dep="1phi-parataxis|3ca2-nsubj" comment="#ожеледиця">
         <w lemma="сестра" ana="noun:anim:p:f:v_naz">Сестри</w>
       </w_>
       <w_ id="1phv" dep="1phu-flat:title">
         <w lemma="Тельнюк" ana="noun:anim:f:v_naz:nv:np:prop:lname">Тельнюк</w>
       </w_>
       <g/>
-      <w_ id="1phw" dep="1phu-punct">
+      <w_ id="1phw" dep="1phu-punct|3ca2-punct">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="1phx"/>

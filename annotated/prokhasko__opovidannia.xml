@@ -3202,7 +3202,7 @@
     <w_ id="0rkq" dep="0rkr-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="0rkr" dep="0rkp-nmod">
+    <w_ id="0rkr" dep="0rkp-obl" comment="чи nmod?">
       <w lemma="гімназія" ana="noun:inanim:f:v_mis">гімназії</w>
     </w_>
     <w_ id="0rks" dep="0rkr-nmod">
@@ -3228,22 +3228,22 @@
       <w lemma="Міра" ana="noun:anim:f:v_naz:prop:fname">Міра</w>
     </w_>
     <g/>
-    <w_ id="0rkz" dep="0rl2-punct">
+    <w_ id="0rkz" dep="0rl2-punct|3cb7-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0rl0" dep="0rl2-cc">
+    <w_ id="0rl0" dep="0rl2-cc|3cb7-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
     <w_ id="0rl1" dep="0rl2-case">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="0rl2" dep="0rkp-conj">
+    <w_ id="0rl2" dep="0rkp-conj|3cb7-obl">
       <w lemma="сорокові" ana="adj:p:v_mis:ns:&amp;numr:&amp;noun:inanim" lemma2="сороковий">сорокових</w>
     </w_>
-    <w_ id="3cb6" ellipsis="predicate">
-      <w lemma="бути" ana="verb:imperf:past:m">був</w>
+    <w_ id="3cb6" dep="3cb7-cop" ellipsis="predicate">
+      <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
     </w_>
-    <w_ id="3cb7" ellipsis="predicate">
+    <w_ id="3cb7" dep="0rkp-conj" ellipsis="predicate">
       <w lemma="духівник" ana="noun:anim:m:v_oru">духівником</w>
     </w_>
     <w_ id="0rl3" dep="0rl5-punct">
@@ -3252,7 +3252,7 @@
     <w_ id="0rl4" dep="0rl5-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="0rl5" dep="0rl2-orphan" tags="promoted">
+    <w_ id="0rl5" dep="0rl2-orphan|3cb7-obl">
       <w lemma="дивізія" ana="noun:inanim:f:v_mis">дивізії</w>
     </w_>
     <w_ id="0rl6" dep="0rl7-punct">
@@ -28087,26 +28087,26 @@
     <w_ id="0xyj" dep="0xyk-obj">
       <w lemma="біологія" ana="noun:inanim:f:v_zna">біологію</w>
     </w_>
-    <w_ id="0xyk" dep="0xyc-parataxis">
+    <w_ id="0xyk" dep="0xyc-conj:parataxis">
       <w lemma="викладати" ana="verb:imperf:past:m">викладав</w>
     </w_>
     <w_ id="0xyl" dep="0xyk-nsubj">
       <w lemma="Мельник" ana="noun:anim:m:v_naz:prop:lname:xp1">Мельник</w>
     </w_>
     <g/>
-    <w_ id="0xym" dep="0xyp-punct">
+    <w_ id="0xym" dep="0xyp-punct|3cb8-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0xyn" dep="0xyp-cc">
+    <w_ id="0xyn" dep="0xyp-cc|3cb8-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0xyo" dep="0xyp-orphan">
+    <w_ id="0xyo" dep="0xyp-orphan|3cb8-obj">
       <w lemma="географія" ana="noun:inanim:f:v_zna">географію</w>
     </w_>
-    <w_ id="3cb8" ellipsis="predicate">
+    <w_ id="3cb8" dep="0xyc-conj:parataxis" ellipsis="predicate">
       <w lemma="викладати" ana="verb:imperf:past:f">викладала</w>
     </w_>
-    <w_ id="0xyp" dep="0xyk-conj" tags="promoted">
+    <w_ id="0xyp" dep="0xyc-conj:parataxis|3cb8-nsubj">
       <w lemma="Олена" ana="noun:anim:f:v_naz:prop:fname:xp1">Олена</w>
     </w_>
     <w_ id="0xyq" dep="0xyp-flat:name" mark="reviewed">
@@ -32683,16 +32683,16 @@
       <w lemma="дерево" ana="noun:inanim:n:v_zna">дерево</w>
     </w_>
     <g/>
-    <w_ id="0z50" dep="0z52-punct">
+    <w_ id="0z50" dep="0z52-punct|3cb9-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0z51" dep="0z52-mark">
+    <w_ id="0z51" dep="0z52-mark|3cb9-mark">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ id="0z52" dep="0z4x-advcl" tags="promoted">
+    <w_ id="0z52" dep="0z4x-advcl|3cb9-nsubj">
       <w lemma="богема" ana="noun:inanim:f:v_naz">богема</w>
     </w_>
-    <w_ id="3cb9" ellipsis="predicate">
+    <w_ id="3cb9" dep="0z4x-advcl" ellipsis="predicate">
       <w lemma="трактувати" ana="verb:imperf:pres:s:3">трактує</w>
     </w_>
     <w_ id="0z53" dep="0z55-punct">
@@ -32701,7 +32701,7 @@
     <w_ id="0z54" dep="0z55-amod">
       <w lemma="різний" ana="adj:p:v_zna:rinanim">різні</w>
     </w_>
-    <w_ id="0z55" dep="0z52-orphan">
+    <w_ id="0z55" dep="0z52-orphan|3cb9-obj">
       <w lemma="каварня" ana="noun:inanim:p:f:v_zna:odd">каварні</w>
     </w_>
     <w_ id="0z56" dep="0z57-cc">
@@ -38687,19 +38687,19 @@
       <w lemma="слабість" ana="noun:inanim:f:v_rod">слабості</w>
     </w_>
     <g/>
-    <w_ id="10o7" dep="10oa-punct">
+    <w_ id="10o7" dep="10oa-punct|3cba-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="10o8" dep="10oa-orphan">
+    <w_ id="10o8" dep="10oa-orphan|3cba-advmod">
       <w lemma="щороку" ana="adv">щороку</w>
     </w_>
-    <w_ id="3cba" ellipsis="predicate">
+    <w_ id="3cba" dep="10nt-parataxis" ellipsis="predicate">
       <w lemma="фіксувати" ana="verb:imperf:past:m">фіксував</w>
     </w_>
     <w_ id="10o9" dep="10oa-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="10oa" dep="10nt-parataxis" tags="promoted" mark="resolved">
+    <w_ id="10oa" dep="10nt-parataxis|3cba-obj" mark="resolved">
       <w lemma="підрахунок" ana="noun:inanim:p:m:v_zna">підрахунки</w>
     </w_>
     <w_ id="10ob" dep="10oa-nmod">
@@ -45031,16 +45031,16 @@
       <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
     </w_>
     <g/>
-    <w_ id="12al" dep="12ao-punct">
+    <w_ id="12al" dep="12ao-punct|3cbb-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="12am" dep="12ao-cc">
+    <w_ id="12am" dep="12ao-cc|3cbb-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
     <w_ id="12an" dep="12ao-det">
       <w lemma="мій" ana="adj:m:v_zna:ranim:poss:&amp;pron:pers:1">мого</w>
     </w_>
-    <w_ id="12ao" dep="12af-conj:parataxis" tags="promoted">
+    <w_ id="12ao" dep="12af-conj|3cbb-obj">
       <w lemma="тато" ana="noun:anim:m:v_zna">тата</w>
     </w_>
     <g/>
@@ -45057,7 +45057,7 @@
     <w_ id="12as" dep="12ar-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="3cbb" ellipsis="predicate">
+    <w_ id="3cbb" dep="12af-conj" ellipsis="predicate">
       <w lemma="пережити" ana="verb:perf:past:f">пережила</w>
     </w_>
     <w_ id="12at" dep="12av-case">
@@ -45066,7 +45066,7 @@
     <w_ id="12au" dep="12av-nummod">
       <w lemma="три" ana="numr:v_zna">три</w>
     </w_>
-    <w_ id="12av" dep="12ao-orphan">
+    <w_ id="12av" dep="12ao-orphan|3cbb-obl">
       <w lemma="тиждень" ana="noun:inanim:p:m:v_zna">тижні</w>
     </w_>
     <g/>

@@ -510,10 +510,10 @@
   </p>
   <p id="0c3w">
     <sb id="0c3x"/>
-    <w_ id="0c3y" dep="0c3z-cc">
+    <w_ id="0c3y" dep="0c3z-cc|3ca9-cc">
       <w lemma="а" ana="conj:coord">А</w>
     </w_>
-    <w_ id="0c3z">
+    <w_ id="0c3z" dep="3ca9-nsubj">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
     <w_ id="0c40" dep="0c3z-orphan">
@@ -523,7 +523,7 @@
     <w_ id="3ca9" ellipsis="predicate">
       <w lemma="казати" ana="verb:imperf:pres:s:3">каже</w>
     </w_>
-    <w_ id="0c41" dep="0c3z-punct">
+    <w_ id="0c41" dep="0c3z-punct|3ca9-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
   </p>
@@ -875,23 +875,23 @@
   </p>
   <p id="0c7k">
     <sb id="0c7l"/>
-    <w_ id="0c7m" dep="0c7o-punct">
+    <w_ id="0c7m" dep="0c7o-punct|3caa-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0c7n" dep="0c7o-cc">
+    <w_ id="0c7n" dep="0c7o-cc|3caa-cc">
       <w lemma="а" ana="conj:coord">А</w>
     </w_>
-    <w_ id="0c7o">
+    <w_ id="0c7o" dep="3caa-nsubj">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
     <w_ id="3caa" ellipsis="predicate">
       <w lemma="принести" ana="verb:perf:futr:s:1">принесу</w>
     </w_>
-    <w_ id="0c7p" dep="0c7o-orphan">
+    <w_ id="0c7p" dep="0c7o-orphan|3caa-obj">
       <w lemma="капуста" ana="noun:inanim:f:v_rod">капусти</w>
     </w_>
     <g/>
-    <w_ id="0c7q" dep="0c7o-punct">
+    <w_ id="0c7q" dep="0c7o-punct|3caa-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
   </p>
@@ -1310,20 +1310,20 @@
   </p>
   <p id="0cbx">
     <sb id="0cby"/>
-    <w_ id="0cbz" dep="0cc0-cc">
+    <w_ id="0cbz" dep="0cc0-cc|3cab-cc">
       <w lemma="а" ana="conj:coord">А</w>
     </w_>
-    <w_ id="0cc0">
+    <w_ id="0cc0" dep="3cab-nsubj">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
-    <w_ id="0cc1" dep="0cc0-orphan">
+    <w_ id="0cc1" dep="0cc0-orphan|3cab-iobj">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
     </w_>
     <g/>
     <w_ id="3cab" ellipsis="predicate">
       <w lemma="казати" ana="verb:imperf:pres:s:3">каже</w>
     </w_>
-    <w_ id="0cc2" dep="0cc0-punct">
+    <w_ id="0cc2" dep="0cc0-punct|3cab-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
   </p>
