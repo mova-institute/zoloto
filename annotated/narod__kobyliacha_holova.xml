@@ -1924,8 +1924,8 @@
     <w_ id="0aps" dep="0apr-discourse">
       <w lemma="же" ana="part">же</w>
     </w_>
-    <w_ id="0apt" dep="0apr-advmod">
-      <w lemma="там" ana="part">там</w>
+    <w_ id="0apt" dep="0apr-advmod" comment="part?">
+      <w lemma="там" ana="adv">там</w>
     </w_>
     <g/>
     <w_ id="0apu" dep="0apv-punct">
@@ -4047,7 +4047,7 @@
     <w_ id="0b9v">
       <w lemma="звеліти" ana="verb:perf:past:f">звеліла</w>
     </w_>
-    <w_ id="0b9w" dep="0b9v-ccomp">
+    <w_ id="0b9w" dep="0b9v-ccomp" comment="#inf-ccomp">
       <w lemma="запрягти" ana="verb:perf:inf">запрягти</w>
     </w_>
     <w_ id="0b9x" dep="0b9w-obj">
@@ -4848,7 +4848,7 @@
     <w_ id="0bhd" dep="0bhe-obj">
       <w lemma="дрівця" ana="noun:inanim:p:v_rod:ns">дровець</w>
     </w_>
-    <w_ id="0bhe" dep="0bhb-advcl:sp">
+    <w_ id="0bhe" dep="0bhb-advcl:svc">
       <w lemma="нарубати" ana="verb:perf:futr:s:1">нарубаю</w>
     </w_>
     <g/>
@@ -6163,7 +6163,7 @@
     <w_ id="0bu7" dep="0bua-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0bu8" comment="part?">
+    <w_ id="0bu8" dep="0bua-mark" comment="part?">
       <w lemma="щоб" ana="conj:subord">щоб</w>
     </w_>
     <w_ id="0bu9" dep="0bua-advmod">
