@@ -2305,25 +2305,25 @@
       <w lemma="брюки" ana="noun:inanim:p:v_zna:ns:bad">брюки</w>
     </w_>
     <g/>
-    <w_ id="2m62" dep="2m64-punct" n="712">
+    <w_ id="2m62" dep="2m64-punct|3ccn-punct" n="712">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2m63" dep="2m64-cc" n="713">
+    <w_ id="2m63" dep="2m64-cc|3ccn-cc" n="713">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="2m64" dep="2m5y-conj:parataxis" n="714">
+    <w_ id="2m64" dep="2m5y-conj:parataxis|3ccn-nsubj" n="714">
       <w lemma="жінка" ana="noun:anim:p:f:v_naz">жінки</w>
     </w_>
-    <w_ id="3ccn" ellipsis="predicate">
+    <w_ id="3ccn" dep="2m5y-conj:parataxis" ellipsis="predicate">
       <w lemma="повинний" ana="adj:p:v_naz">повинні</w>
     </w_>
-    <w_ id="3cbj" ellipsis="predicate">
+    <w_ id="3cbj" dep="3ccn-xcomp" ellipsis="predicate">
       <w lemma="носити" ana="verb:imperf:inf">носити</w>
     </w_>
     <w_ id="2m65" dep="2m66-punct" n="715">
       <w lemma="–" ana="punct:dash">–</w>
     </w_>
-    <w_ id="2m66" dep="2m64-orphan" n="716">
+    <w_ id="2m66" dep="2m64-orphan|3cbj-obj" n="716">
       <w lemma="панчоха" ana="noun:inanim:p:f:v_zna">панчохи</w>
     </w_>
     <g/>
