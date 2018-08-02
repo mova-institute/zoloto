@@ -1705,7 +1705,7 @@
     <w_ id="2y5u" dep="2y5v-obj" n="514">
       <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
     </w_>
-    <w_ id="2y5v" dep="2y5p-advcl|2y5p-shared" n="515">
+    <w_ id="2y5v" dep="2y5p-advcl|2y5p-distrib" n="515">
       <w lemma="вимагати" ana="verb:imperf:pres:s:3">вимагає</w>
     </w_>
     <w_ id="2y5w" dep="2y5v-nsubj" n="516">
@@ -2018,7 +2018,7 @@
     <w_ id="2y8q" n="610">
       <w lemma="існувати" ana="verb:imperf:pres:s:3">існує</w>
     </w_>
-    <w_ id="2y8r" dep="2y8q-nsubj|2y8q-shared" n="611">
+    <w_ id="2y8r" dep="2y8q-nsubj|2y8q-distrib" n="611">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
     <w_ id="2y8s" dep="2y8q-advmod|2y8q-private" n="612">
@@ -2282,10 +2282,10 @@
     <w_ id="2yb4" dep="2ybg-advcl" n="691">
       <w lemma="вимагатися" ana="verb:rev:imperf:pres:s:3">вимагається</w>
     </w_>
-    <w_ id="2yb5" dep="2yb7-cop|2yb7-shared" n="692">
+    <w_ id="2yb5" dep="2yb7-cop|2yb7-distrib" n="692">
       <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
     </w_>
-    <w_ id="2yb6" dep="2yb7-discourse|2yb7-groupshared" n="693">
+    <w_ id="2yb6" dep="2yb7-discourse|2yb7-collect" n="693">
       <w lemma="лише" ana="part">лише</w>
     </w_>
     <w_ id="2yb7" dep="2yb4-xcomp" n="694">
@@ -2378,10 +2378,10 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="2yc0" dep="2yc2-case|2yc2-shared" n="722">
+    <w_ id="2yc0" dep="2yc2-case|2yc2-distrib" n="722">
       <w lemma="по" ana="prep:rv_mis">по</w>
     </w_>
-    <w_ id="2yc1" dep="2yc2-det|2yc2-shared" n="723">
+    <w_ id="2yc1" dep="2yc2-det|2yc2-distrib" n="723">
       <w lemma="свій" ana="adj:m:v_mis:poss:&amp;pron:refl">своєму</w>
     </w_>
     <w_ id="2yc2" dep="2ybx-obl" n="724">
@@ -2548,7 +2548,7 @@
     <w_ id="2ydj" dep="2ydi-xcomp" n="774">
       <w lemma="дивитися" ana="verb:rev:imperf:inf">дивитися</w>
     </w_>
-    <w_ id="2ydk" dep="2ydl-case|2ydl-shared" n="775">
+    <w_ id="2ydk" dep="2ydl-case|2ydl-distrib" n="775">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
     <w_ id="2ydl" dep="2ydj-obl" n="776">
@@ -3013,13 +3013,13 @@
     <w_ id="2yhq" dep="2yi2-mark" n="920">
       <w lemma="інакше" ana="conj:subord">Інакше</w>
     </w_>
-    <w_ id="2yhr" dep="2yi2-aux|2yi2-shared" n="921">
+    <w_ id="2yhr" dep="2yi2-aux|2yi2-distrib" n="921">
       <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
     </w_>
-    <w_ id="2yhs" dep="2yi2-nsubj|2yi2-shared" n="922">
+    <w_ id="2yhs" dep="2yi2-nsubj|2yi2-distrib" n="922">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
-    <w_ id="2yht" dep="2yi2-advmod|2yi2-shared" n="923">
+    <w_ id="2yht" dep="2yi2-advmod|2yi2-distrib" n="923">
       <w lemma="завжди" ana="adv:&amp;pron:gen">завжди</w>
     </w_>
     <g/>
@@ -3032,7 +3032,7 @@
     <w_ id="2yhw" dep="2yhx-det" n="926">
       <w lemma="той" ana="adj:f:v_naz:&amp;pron:dem">та</w>
     </w_>
-    <w_ id="2yhx" dep="2yi2-advcl|2yi2-shared" n="927">
+    <w_ id="2yhx" dep="2yi2-advcl|2yi2-distrib" n="927">
       <w lemma="мати" ana="noun:anim:f:v_naz">мати</w>
     </w_>
     <w_ id="2yhy" dep="2yhx-nmod" n="928">
@@ -3045,7 +3045,7 @@
     <w_ id="2yi0" dep="2yhx-punct" n="930">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2yi1" dep="2yi2-advmod|2yi2-groupshared" n="931">
+    <w_ id="2yi1" dep="2yi2-advmod|2yi2-collect" n="931">
       <w lemma="лише" ana="adv">лише</w>
     </w_>
     <w_ id="2yi2" n="932">
@@ -3090,7 +3090,7 @@
     <w_ id="2yif" dep="2yig-obj" n="945">
       <w lemma="стрем’я" ana="noun:inanim:n:v_zna">стрем'я</w>
     </w_>
-    <w_ id="2yig" dep="2yi2-obl|2yi2-shared" comment="~ #inf_prep" n="946">
+    <w_ id="2yig" dep="2yi2-obl|2yi2-distrib" comment="~ #inf_prep" n="946">
       <w lemma="тримати" ana="verb:imperf:inf">тримати</w>
     </w_>
     <g/>
