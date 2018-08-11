@@ -3803,7 +3803,7 @@
       <w_ id="2phx" dep="2phy-advmod" n="1112">
         <w lemma="зовсім" ana="adv">зовсім</w>
       </w_>
-      <w_ id="2phy" n="1113">
+      <w_ id="2phy" dep="2phz-nsubj" tags="promoted" n="1113">
         <w lemma="трішечки" ana="adv">трішечки</w>
       </w_>
       <w_ id="2phz" n="1114">
@@ -3989,7 +3989,7 @@
   <doc id="2pjk" tags="autotitle" author="" date="" genre="допис" src="https://www.facebook.com/permalink.php?story_fbid=1963399667279156&amp;id=100008274249152" title="[Щось якось невесело. Київ хочуть перетворити…]">
     <p id="2pjl">
       <sb id="30ov"/>
-      <w_ id="2pjm" n="1165">
+      <w_ id="2pjm" dep="2pjo-advmod" comment="~ discourse?" n="1165">
         <w lemma="щось" ana="adv:&amp;pron:ind">Щось</w>
       </w_>
       <w_ id="2pjn" dep="2pjo-advmod" n="1166">
@@ -3999,7 +3999,7 @@
         <w lemma="невесело" ana="adv">невесело</w>
       </w_>
       <g/>
-      <w_ id="2pjp" n="1168">
+      <w_ id="2pjp" dep="2pjo-punct" n="1168">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2pjq"/>
@@ -4015,7 +4015,7 @@
       <w_ id="2pju" dep="2pjw-case|2pjw-distrib" n="1172">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="2pjv" dep="2pjw-amod" n="1173">
+      <w_ id="2pjv" dep="2pjw-amod|2pjw-collect" n="1173">
         <w lemma="суцільний" ana="adj:p:v_zna:rinanim">суцільні</w>
       </w_>
       <w_ id="2pjw" dep="2pjt-obl" n="1174">
@@ -4209,7 +4209,7 @@
       <w_ id="2plo" dep="2pln-nmod" n="1230">
         <w lemma="частина" ana="noun:inanim:f:v_rod">частини</w>
       </w_>
-      <w_ id="2plp" dep="2plo-nmod" n="1231">
+      <w_ id="2plp" dep="2plo-nmod|2plo-private" n="1231">
         <w lemma="Сагайдачний" ana="noun:anim:m:v_rod:prop:lname">Сагайдачного</w>
       </w_>
       <w_ id="2plq" dep="2pls-cc" n="1232">
@@ -4312,7 +4312,7 @@
       <w_ id="2pml" n="1261">
         <w lemma="впливати" ana="verb:imperf:pres:s:3:v-u">впливає</w>
       </w_>
-      <w_ id="2pmm" dep="2pmn-case" n="1262">
+      <w_ id="2pmm" dep="2pmn-case|2pmn-private" n="1262">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
       <w_ id="2pmn" dep="2pml-obl" n="1263">
@@ -4552,7 +4552,7 @@
       <w_ id="2poq" dep="2pou-nsubj" n="1331">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
       </w_>
-      <w_ id="2por" n="1332">
+      <w_ id="2por" dep="2pou-advmod" comment="~ до ніде?" n="1332">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
       <w_ id="2pos" dep="2pou-advmod" n="1333">
@@ -4580,7 +4580,7 @@
       <w_ id="2poz" dep="2pp0-case" n="1340">
         <w lemma="крім" ana="prep:rv_rod">крім</w>
       </w_>
-      <w_ id="2pp0" n="1341">
+      <w_ id="2pp0" dep="2ppc-nmod" n="1341">
         <w lemma="пласт" ana="noun:inanim:m:v_rod:odd">пласту</w>
       </w_>
       <w_ id="2pp1" dep="2pp0-nmod" n="1342">
@@ -4615,7 +4615,7 @@
       <w_ id="2ppa" dep="2pou-ccomp" n="1351">
         <w lemma="мати" ana="verb:imperf:past:m">мав</w>
       </w_>
-      <w_ id="2ppb" n="1352">
+      <w_ id="2ppb" dep="2ppa-advmod" comment="~ до щось?" n="1352">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
       <w_ id="2ppc" dep="2ppa-obj" n="1353">
@@ -4629,24 +4629,27 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2ppf"/>
-      <w_ id="2ppg" n="1356">
+      <w_ id="2ppg" dep="2ppj-cc" n="1356">
         <w lemma="а" ana="conj:coord">А</w>
       </w_>
-      <w_ id="2pph" n="1357">
+      <w_ id="2pph" dep="2ppj-orphan" n="1357">
         <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
       </w_>
-      <w_ id="2ppi" dep="2ppj-advmod:amtgov" n="1358">
+      <w_ id="3cdd" ellipsis="predicate">
+        <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
+      </w_>
+      <w_ id="2ppi" dep="2ppj-advmod:amtgov" comment=":excl" n="1358">
         <w lemma="скільки" ana="adv:&amp;pron:dem:odd">скільки</w>
       </w_>
       <w_ id="2ppj" n="1359">
         <w lemma="життя" ana="noun:inanim:n:v_rod">життя</w>
       </w_>
       <g/>
-      <w_ id="2ppk" n="1360">
+      <w_ id="2ppk" dep="2ppj-punct" n="1360">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="2stl"/>
-      <w_ id="2ppl" dep="2ppm-amod" n="1361">
+      <w_ id="2ppl" dep="2ppm-amod|2ppm-private" n="1361">
         <w lemma="старий" ana="adj:p:v_naz:compb">Старі</w>
       </w_>
       <w_ id="2ppm" n="1362">
@@ -4742,10 +4745,10 @@
       <w_ id="2pqf" dep="2pqi-cc" n="1389">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="2pqg" dep="2pqi-nsubj" n="1390">
+      <w_ id="2pqg" dep="2pqi-nsubj|2pqi-distrib" n="1390">
         <w lemma="все" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">все</w>
       </w_>
-      <w_ id="2pqh" dep="2pqi-cop" n="1391">
+      <w_ id="2pqh" dep="2pqi-cop|2pqi-private" n="1391">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
       <w_ id="2pqi" dep="2pqd-conj:parataxis" n="1392">
@@ -4837,10 +4840,10 @@
       <w_ id="2prb" n="1419">
         <w lemma="кав’ярня" ana="noun:inanim:f:v_zna">кав’ярню</w>
       </w_>
-      <w_ id="2prc" dep="2pre-case" n="1420">
+      <w_ id="2prc" dep="2pre-case|2pre-distrib" n="1420">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="2prd" dep="2pre-amod" n="1421">
+      <w_ id="2prd" dep="2pre-amod|2pre-private" n="1421">
         <w lemma="книжковий" ana="adj:p:v_oru">книжковими</w>
       </w_>
       <w_ id="2pre" dep="2prb-nmod" n="1422">
@@ -4878,7 +4881,7 @@
       <w_ id="2prp" dep="2prr-advmod" n="1430">
         <w lemma="поки" ana="adv:&amp;pron:dem">Поки</w>
       </w_>
-      <w_ id="2prq" dep="2prr-nsubj" n="1431">
+      <w_ id="2prq" dep="2prr-nsubj|2prr-distrib" n="1431">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="2prr" dep="2psq-advcl" n="1432">
@@ -4887,7 +4890,7 @@
       <w_ id="2prs" dep="2prt-amod" n="1433">
         <w lemma="останній" ana="adj:p:v_zna:rinanim:compb">останні</w>
       </w_>
-      <w_ id="2prt" dep="2prr-obj" n="1434">
+      <w_ id="2prt" dep="2prr-obj|2prr-private" n="1434">
         <w lemma="промінчик" ana="noun:inanim:p:m:v_zna">промінчики</w>
       </w_>
       <w_ id="2pru" dep="2prt-nmod" n="1435">
