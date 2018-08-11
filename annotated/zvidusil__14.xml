@@ -2116,7 +2116,7 @@
         <w lemma="осока" ana="noun:inanim:f:v_naz">осока</w>
       </w_>
       <g/>
-      <w_ id="24vz" dep="24w3-punct">
+      <w_ id="24vz" dep="24w3-punct|3cdb-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="24w0" dep="24w2-case">
@@ -2125,17 +2125,17 @@
       <w_ id="24w1" dep="24w2-amod">
         <w lemma="менший" ana="adj:f:v_mis:compr">меншій</w>
       </w_>
-      <w_ id="24w2" dep="24w3-orphan">
+      <w_ id="24w2" dep="24w3-orphan|3cdb-obl">
         <w lemma="глибина" ana="noun:inanim:f:v_mis">глибині</w>
       </w_>
-      <w_ id="3cdb" ellipsis="predicate">
+      <w_ id="3cdb" dep="24vv-parataxis" ellipsis="predicate">
         <w lemma="присутній" ana="adj:f:v_naz">присутня</w>
       </w_>
-      <w_ id="24w3" dep="24vv-parataxis" comment="flat:pack?">
+      <w_ id="24w3" dep="24vv-parataxis|3cdb-nsubj" comment="flat:pack?">
         <w lemma="кропивка" ana="noun:inanim:f:v_naz">кропивка</w>
       </w_>
       <g/>
-      <w_ id="24w4" dep="24w3-punct">
+      <w_ id="24w4" dep="24w3-punct|3cdb-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="24w5"/>
@@ -4708,22 +4708,22 @@
         <w lemma="шафа" ana="noun:inanim:f:v_rod">шафи</w>
       </w_>
       <g/>
-      <w_ id="25io" dep="25is-punct">
+      <w_ id="25io" dep="25is-punct|3cdc-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25ip" dep="25is-cc">
+      <w_ id="25ip" dep="25is-cc|3cdc-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="25iq" dep="25is-orphan">
+      <w_ id="25iq" dep="25is-orphan|3cdc-advmod">
         <w lemma="там" ana="adv:&amp;pron:dem">там</w>
       </w_>
-      <w_ id="3cdc" ellipsis="predicate">
+      <w_ id="3cdc" dep="25ik-conj:parataxis" ellipsis="predicate">
         <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
       </w_>
       <w_ id="25ir" dep="25is-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="25is" dep="25ik-conj:parataxis">
+      <w_ id="25is" dep="25ik-conj:parataxis|3cdc-nsubj">
         <w lemma="кошеня" ana="noun:anim:n:v_naz">кошеня</w>
       </w_>
       <g/>

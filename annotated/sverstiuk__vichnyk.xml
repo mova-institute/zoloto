@@ -969,11 +969,14 @@
     <w_ id="13x6" dep="13x7-case">
       <w lemma="у" ana="prep:rv_mis:v-u">У</w>
     </w_>
-    <w_ id="13x7" dep="13xa-obl">
+    <w_ id="13x7" dep="13xa-orphan">
       <w lemma="запис" ana="noun:inanim:p:m:v_mis">записах</w>
     </w_>
     <w_ id="13x8" dep="13x7-nmod" coref="13vl-equality">
       <w lemma="старий" ana="adj:m:v_rod:compb:&amp;noun:anim" lemma2="старий">старого</w>
+    </w_>
+    <w_ id="3cdg" ellipsis="predicate">
+      <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
     </w_>
     <w_ id="13x9" dep="13xa-det:numgov">
       <w lemma="багато" ana="numr:v_naz:&amp;pron:ind">багато</w>
@@ -2357,12 +2360,15 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="14ac" dep="14ag-obl" mark="resolved" coref="149l-equality">
+    <w_ id="14ac" dep="14ag-orphan" mark="resolved" coref="149l-equality">
       <w lemma="Вічник" ana="noun:inanim:m:v_mis:prop">Вічнику</w>
     </w_>
     <g/>
     <w_ id="14ad" dep="14ac-punct">
       <w lemma="»" ana="punct:quote:close">»</w>
+    </w_>
+    <w_ id="3cdh" ellipsis="predicate">
+      <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
     </w_>
     <w_ id="14ae" dep="14ag-advmod">
       <w lemma="не" ana="part:neg">не</w>
