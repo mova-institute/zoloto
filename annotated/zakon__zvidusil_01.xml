@@ -6,7 +6,7 @@
       <w_ id="2jnn" dep="2jp1-obj" n="0">
         <w lemma="угода" ana="noun:inanim:f:v_zna">Угоду</w>
       </w_>
-      <w_ id="2jno" dep="2jnp-case" n="1">
+      <w_ id="2jno" dep="2jnp-case|2jnp-collect" n="1">
         <w lemma="між" ana="prep:rv_oru">між</w>
       </w_>
       <w_ id="2jnp" dep="2jnn-nmod" n="2">
@@ -504,7 +504,7 @@
         <w lemma="1" ana="numr:m:v_naz:nv">1</w>
       </w_>
       <g/>
-      <w_ id="2js7" n="154">
+      <w_ id="2js7" dep="2js6-punct" n="154">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2js8"/>
@@ -647,7 +647,7 @@
       <w_ id="2jtg" dep="2jth-case" n="198">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="2jth" dep="2jsg-obl" n="199">
+      <w_ id="2jth" n="199">
         <w lemma="урахування" ana="noun:inanim:n:v_oru:v-u">урахуванням</w>
       </w_>
       <w_ id="2jti" dep="2jtj-amod" n="200">
@@ -669,7 +669,7 @@
       <w_ id="2jtn" dep="2jto-punct" n="205">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2jto" n="206">
+      <w_ id="2jto" dep="2jsj-conj" n="206">
         <w lemma="зменшення" ana="noun:inanim:n:v_rod">зменшення</w>
       </w_>
       <w_ id="2jtp" dep="2jto-nmod" n="207">
@@ -700,7 +700,7 @@
       <w_ id="2jtx" dep="2jty-punct" n="215">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2jty" n="216">
+      <w_ id="2jty" dep="2jsj-conj" n="216">
         <w lemma="впровадження" ana="noun:inanim:n:v_rod:v-u">впровадження</w>
       </w_>
       <w_ id="2jtz" dep="2jty-nmod" n="217">
@@ -737,7 +737,7 @@
       <w_ id="2ju9" dep="2jua-punct" n="227">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2jua" n="228">
+      <w_ id="2jua" dep="2jsj-conj" n="228">
         <w lemma="забезпечення" ana="noun:inanim:n:v_rod">забезпечення</w>
       </w_>
       <w_ id="2jub" dep="2jua-nmod" n="229">
@@ -772,7 +772,7 @@
         <w lemma="2" ana="numr:m:v_naz:nv">2</w>
       </w_>
       <g/>
-      <w_ id="2jum" n="238">
+      <w_ id="2jum" dep="2jul-punct" n="238">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2jun"/>
@@ -922,7 +922,7 @@
         <w lemma="3" ana="numr:v_naz:nv">3</w>
       </w_>
       <g/>
-      <w_ id="2jw2" n="283">
+      <w_ id="2jw2" dep="2jw1-punct" n="283">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2jw3"/>
@@ -1108,7 +1108,7 @@
         <w lemma="4" ana="numr:v_naz:nv">4</w>
       </w_>
       <g/>
-      <w_ id="2jxs" n="341">
+      <w_ id="2jxs" dep="2jxr-punct" n="341">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2jxt"/>
@@ -1274,7 +1274,7 @@
         <w lemma="5" ana="numr:v_naz:nv">5</w>
       </w_>
       <g/>
-      <w_ id="2jza" n="392">
+      <w_ id="2jza" dep="2jz9-punct" n="392">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2jzb"/>
@@ -6193,7 +6193,7 @@
       <w_ id="2l85" dep="2l84-fixed" n="1899">
         <w lemma="також" ana="adv">також</w>
       </w_>
-      <w_ id="2l86" dep="2l7j-conj" n="1900">
+      <w_ id="2l86" n="1900">
         <w lemma="препарат" ana="noun:inanim:p:m:v_rod">препаратів</w>
       </w_>
       <w_ id="2l87" dep="2l89-amod" n="1901">
@@ -6258,7 +6258,7 @@
       <w_ id="2l8q" dep="2l8o-conj" n="1920">
         <w lemma="антиретровірусний" ana="adj:p:v_rod">антиретровірусних</w>
       </w_>
-      <w_ id="2l8r" dep="2l7j-conj" n="1921">
+      <w_ id="2l8r" n="1921">
         <w lemma="препарат" ana="noun:inanim:p:m:v_rod">препаратів</w>
       </w_>
       <g/>
@@ -6296,7 +6296,7 @@
       <w_ id="2l92" n="1932">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2l93" n="1933">
+      <w_ id="2l93" dep="2l7j-conj" n="1933">
         <w lemma="лікування" ana="noun:inanim:n:v_rod">лікування</w>
       </w_>
       <w_ id="2l94" n="1934">
@@ -6315,7 +6315,7 @@
       <w_ id="2l98" n="1938">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2l99" n="1939">
+      <w_ id="2l99" dep="2l7j-conj" n="1939">
         <w lemma="контрацептив" ana="noun:inanim:p:m:v_rod">контрацептивів</w>
       </w_>
       <w_ id="2l9a" n="1940">
@@ -6371,7 +6371,7 @@
       <w_ id="2l9q" n="1956">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2l9r" n="1957">
+      <w_ id="2l9r" dep="2l9p-nmod" n="1957">
         <w lemma="запобігання" ana="noun:inanim:n:v_rod">запобігання</w>
       </w_>
       <w_ id="2l9s" n="1958">
@@ -6918,7 +6918,7 @@
       <w_ id="2lef" n="2125">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2leg" n="2126">
+      <w_ id="2leg" dep="2lee-acl" n="2126">
         <w lemma="хворий" ana="adj:p:v_rod">хворих</w>
       </w_>
       <w_ id="2leh" n="2127">
@@ -6930,79 +6930,79 @@
       <w_ id="2lej" n="2129">
         <w lemma="ревматоїдний" ana="adj:m:v_zna:rinanim">ревматоїдний</w>
       </w_>
-      <w_ id="2lek" n="2130">
+      <w_ id="2lek" dep="2leg-obl" n="2130">
         <w lemma="артрит" ana="noun:inanim:m:v_zna">артрит</w>
       </w_>
       <g/>
-      <w_ id="2lel" n="2131">
+      <w_ id="2lel" dep="2len-punct" n="2131">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2lem" n="2132">
+      <w_ id="2lem" dep="2len-case" n="2132">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
       <w_ id="2len" n="2133">
         <w lemma="забезпечення" ana="noun:inanim:n:v_rod">забезпечення</w>
       </w_>
-      <w_ id="2leo" n="2134">
+      <w_ id="2leo" dep="2len-nmod" n="2134">
         <w lemma="дитина" ana="noun:anim:p:f:v_rod">дітей</w>
       </w_>
       <g/>
-      <w_ id="2lep" n="2135">
+      <w_ id="2lep" dep="2leq-punct" n="2135">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2leq" n="2136">
+      <w_ id="2leq" dep="2leo-amod" n="2136">
         <w lemma="хворий" ana="adj:p:v_rod">хворих</w>
       </w_>
       <w_ id="2ler" n="2137">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="2les" n="2138">
+      <w_ id="2les" dep="2leq-obl" n="2138">
         <w lemma="гемофілія" ana="noun:inanim:f:v_zna">гемофілію</w>
       </w_>
-      <w_ id="2let" n="2139">
+      <w_ id="2let" dep="2les-nmod" n="2139">
         <w lemma="тип" ana="noun:inanim:p:m:v_rod">типів</w>
       </w_>
-      <w_ id="2leu" correct="A" n="2140">
+      <w_ id="2leu" dep="2let-flat:title" correct="A" n="2140">
         <w lemma="A" ana="x:foreign">А</w>
       </w_>
-      <w_ id="2lev" n="2141">
+      <w_ id="2lev" dep="2lew-cc" n="2141">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
-      <w_ id="2lew" correct="B" n="2142">
+      <w_ id="2lew" dep="2leu-conj" correct="B" n="2142">
         <w lemma="B" ana="x:foreign">В</w>
       </w_>
-      <w_ id="2lex" n="2143">
+      <w_ id="2lex" dep="2ley-cc" n="2143">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
-      <w_ id="2ley" n="2144">
+      <w_ id="2ley" dep="2les-conj" n="2144">
         <w lemma="хвороба" ana="noun:inanim:f:v_zna">хворобу</w>
       </w_>
-      <w_ id="2lez" n="2145">
+      <w_ id="2lez" dep="2ley-nmod" n="2145">
         <w lemma="Віллебранд" ana="noun:anim:m:v_rod:prop:lname">Віллебранда</w>
       </w_>
       <g/>
-      <w_ id="2lf0" n="2146">
+      <w_ id="2lf0" dep="2leq-punct" n="2146">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2lf1" n="2147">
         <w lemma="фактор" ana="noun:inanim:p:m:v_oru">факторами</w>
       </w_>
-      <w_ id="2lf2" n="2148">
+      <w_ id="2lf2" dep="2lf1-nmod" n="2148">
         <w lemma="коагуляція" ana="noun:inanim:f:v_rod">коагуляції</w>
       </w_>
-      <w_ id="2lf3" n="2149">
+      <w_ id="2lf3" dep="2lf2-nmod" n="2149">
         <w lemma="кров" ana="noun:inanim:f:v_rod">крові</w>
       </w_>
-      <w_ id="2lf4" n="2150">
+      <w_ id="2lf4" dep="2lf5-cc" n="2150">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="2lf5" n="2151">
+      <w_ id="2lf5" dep="2lf1-conj" n="2151">
         <w lemma="виріб" ana="noun:inanim:p:m:v_oru">виробами</w>
       </w_>
-      <w_ id="2lf6" n="2152">
+      <w_ id="2lf6" dep="2lf7-amod" n="2152">
         <w lemma="медичний" ana="adj:n:v_rod">медичного</w>
       </w_>
-      <w_ id="2lf7" n="2153">
+      <w_ id="2lf7" dep="2lf5-nmod" n="2153">
         <w lemma="призначення" ana="noun:inanim:n:v_rod">призначення</w>
       </w_>
       <g/>
