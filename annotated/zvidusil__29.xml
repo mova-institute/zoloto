@@ -690,7 +690,7 @@
       <w_ id="3722" dep="3721-xcomp" n="208">
         <w lemma="втрачати" ana="verb:imperf:inf:v-u">втрачати</w>
       </w_>
-      <w_ id="3723" dep="3724-det" n="209">
+      <w_ id="3723" dep="3724-det|3724-distrib" n="209">
         <w lemma="свій" ana="adj:p:v_zna:ranim:poss:&amp;pron:refl">своїх</w>
       </w_>
       <w_ id="3724" dep="3722-obj" n="210">
@@ -1915,7 +1915,7 @@
       <w_ id="37d9" dep="37da-punct" n="581">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37da" dep="37dd-discourse|37dd-distrib" comment="чи еліпс?" n="582">
+      <w_ id="37da" dep="37dd-discourse|37dd-distrib" comment="~ чи еліпс?" n="582">
         <w lemma="найголовніше" ana="adv:super">найголовніше</w>
       </w_>
       <w_ id="37db" dep="37da-punct" n="583">
@@ -3551,7 +3551,7 @@
       <w_ id="37s2" dep="37s3-punct" n="1087">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37s3" n="1088">
+      <w_ id="37s3" dep="37ry-list" n="1088">
         <w lemma="вул." ana="noun:inanim:f:v_naz:nv:abbr">вул</w>
       </w_>
       <g/>
@@ -3565,14 +3565,14 @@
       <w_ id="37s6" dep="37s7-punct" n="1091">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37s7" n="1092">
+      <w_ id="37s7" dep="37ry-list" n="1092">
         <w lemma="105" ana="numr:v_naz:nv">105</w>
       </w_>
       <g/>
       <w_ id="37s8" dep="37s9-punct" n="1093">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37s9" n="1094">
+      <w_ id="37s9" dep="37ry-list" n="1094">
         <w lemma="м" ana="noun:inanim:m:v_naz:nv:abbr">м</w>
       </w_>
       <g/>
@@ -3733,7 +3733,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="38pd"/>
-      <w_ id="37tl" n="1138">
+      <w_ id="37tl" dep="37to-nsubj" n="1138">
         <w lemma="вхід" ana="noun:inanim:m:v_naz">Вхід</w>
       </w_>
       <w_ id="37tm" dep="37to-case|37to-distrib" n="1139">
@@ -3742,7 +3742,7 @@
       <w_ id="37tn" dep="37to-amod|37to-private" n="1140">
         <w lemma="редакційний" ana="adj:n:v_oru">редакційним</w>
       </w_>
-      <w_ id="37to" dep="37tl-nmod" n="1141">
+      <w_ id="37to" n="1141">
         <w lemma="посвідчення" ana="noun:inanim:n:v_oru">посвідченням</w>
       </w_>
       <w_ id="37tp" dep="37tq-cc" n="1142">
@@ -3752,7 +3752,7 @@
         <w lemma="паспорт" ana="noun:inanim:m:v_oru">паспортом</w>
       </w_>
       <g/>
-      <w_ id="37tr" dep="37tl-punct" n="1144">
+      <w_ id="37tr" dep="37to-punct" n="1144">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -4518,7 +4518,7 @@
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="380g" n="1370">
+      <w_ id="380g" dep="380j-advmod" comment="~ чи з однієї?" n="1370">
         <w lemma="менш" ana="adv:compr">менш</w>
       </w_>
       <w_ id="380h" dep="380g-fixed" n="1371">

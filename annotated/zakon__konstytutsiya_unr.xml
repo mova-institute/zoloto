@@ -490,7 +490,7 @@
     <w_ id="1huv" dep="1huw-discourse">
       <w lemma="лише" ana="part">Лише</w>
     </w_>
-    <w_ id="1huw" dep="1huy-nsubj">
+    <w_ id="1huw" dep="1huy-nsubj|1huy-distrib">
       <w lemma="громадянин" ana="noun:anim:p:m:v_naz:rare">громадяне</w>
     </w_>
     <w_ id="1hux" dep="1huw-nmod">
@@ -505,7 +505,7 @@
     <w_ id="1hv0" dep="1hv1-det">
       <w lemma="увесь" ana="adj:f:v_rod:&amp;pron:gen">усієї</w>
     </w_>
-    <w_ id="1hv1" dep="1huy-obl">
+    <w_ id="1hv1" dep="1huy-obl|1huy-private">
       <w lemma="повнота" ana="noun:inanim:f:v_rod">повноти</w>
     </w_>
     <w_ id="1hv2" dep="1hv5-amod">
@@ -569,10 +569,10 @@
     <w_ id="1hvl" dep="1hvj-nmod">
       <w lemma="вибори" ana="noun:inanim:p:v_mis:ns">виборах</w>
     </w_>
-    <w_ id="1hvm" dep="1hvo-case">
+    <w_ id="1hvm" dep="1hvo-case|1hvo-distrib">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ id="1hvn" dep="1hvo-amod">
+    <w_ id="1hvn" dep="1hvo-amod|1hvo-private">
       <w lemma="законодатний" ana="adj:p:v_rod">законодатних</w>
     </w_>
     <w_ id="1hvo" dep="1hvl-nmod">
@@ -626,10 +626,10 @@
     <w_ id="1hw5" dep="1hw8-cc">
       <w lemma="як" ana="conj:coord">як</w>
     </w_>
-    <w_ id="1hw6" dep="1hw8-case">
+    <w_ id="1hw6" dep="1hw8-case|1hw8-private">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ id="1hw7" dep="1hw8-amod">
+    <w_ id="1hw7" dep="1hw8-amod|1hw8-private">
       <w lemma="законодатний" ana="adj:p:v_rod">законодатних</w>
     </w_>
     <w_ id="1hw8" dep="1hw3-nmod">
@@ -739,10 +739,10 @@
     <w_ id="1hx6" dep="1hx5-nmod">
       <w lemma="закон" ana="noun:inanim:m:v_oru">законом</w>
     </w_>
-    <w_ id="1hx7" dep="1hx8-case">
+    <w_ id="1hx7" dep="1hx8-case|1hx8-distrib">
       <w lemma="за" ana="prep:rv_rod">за</w>
     </w_>
-    <w_ id="1hx8" dep="1hx5-nmod">
+    <w_ id="1hx8" dep="1hx5-obl">
       <w lemma="безумний" ana="adj:m:p:v_rod:&amp;noun:anim" lemma2="безумний">безумних</w>
     </w_>
     <w_ id="1hx9" dep="1hxa-cc">
@@ -952,7 +952,7 @@
     <w_ id="1hz6" dep="1hz7-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="1hz7" dep="1hyv-conj">
+    <w_ id="1hz7" dep="1hyv-conj:parataxis">
       <w lemma="мати" ana="verb:imperf:past:m">мав</w>
     </w_>
     <w_ id="1hz8" dep="1hz9-amod">
@@ -1060,7 +1060,7 @@
     <w_ id="1i08" dep="1i0l-nsubj" comment="verbnoun">
       <w lemma="признання" ana="noun:inanim:n:v_naz">Признання</w>
     </w_>
-    <w_ id="1i09" dep="1i08-nmod">
+    <w_ id="1i09" dep="1i08-nmod|1i08-private">
       <w lemma="мандат" ana="noun:inanim:p:m:v_rod">мандатів</w>
     </w_>
     <w_ id="1i0a" dep="1i08-xcomp:sp" comment="!">
@@ -1072,7 +1072,7 @@
     <w_ id="1i0c" dep="1i08-conj">
       <w lemma="скасовання" ana="noun:inanim:n:v_naz:alt">скасовання</w>
     </w_>
-    <w_ id="1i0d" dep="1i0c-nmod">
+    <w_ id="1i0d" dep="1i0c-nmod|1i0c-private">
       <w lemma="вибори" ana="noun:inanim:p:v_rod:ns">виборів</w>
     </w_>
     <w_ id="1i0e" dep="1i0f-cc">
@@ -1120,7 +1120,7 @@
     <w_ id="1i0t" dep="1i0u-amod">
       <w lemma="всенародний" ana="adj:p:v_zna:rinanim:v-u">Всенародні</w>
     </w_>
-    <w_ id="1i0u" dep="1i0s-obj">
+    <w_ id="1i0u" dep="1i0s-obj|1i0s-private">
       <w lemma="збори" ana="noun:inanim:p:v_zna:ns">Збори</w>
     </w_>
     <w_ id="1i0v" dep="1i0w-cc">
@@ -1132,7 +1132,7 @@
     <w_ id="1i0x" dep="1i0w-obl">
       <w lemma="вони" ana="noun:p:v_oru:&amp;pron:pers:3">ними</w>
     </w_>
-    <w_ id="1i0y" dep="1i0s-nsubj">
+    <w_ id="1i0y" dep="1i0s-nsubj|1i0s-distrib">
       <w lemma="голова" ana="noun:anim:m:v_naz">Голова</w>
     </w_>
     <w_ id="1i0z" dep="1i0y-nmod">
@@ -1162,7 +1162,7 @@
     <w_ id="1i17" dep="1i18-amod">
       <w lemma="всенародний" ana="adj:p:v_zna:rinanim:v-u">Всенародні</w>
     </w_>
-    <w_ id="1i18" dep="1i19-obj">
+    <w_ id="1i18" dep="1i19-obj|1i19-distrib">
       <w lemma="збори" ana="noun:inanim:p:v_zna:ns">Збори</w>
     </w_>
     <w_ id="1i19">
@@ -1174,7 +1174,7 @@
     <w_ id="1i1b" dep="1i19-conj">
       <w lemma="відкривати" ana="verb:imperf:pres:s:3">відкриває</w>
     </w_>
-    <w_ id="1i1c" dep="1i19-nsubj">
+    <w_ id="1i1c" dep="1i19-nsubj|1i19-distrib">
       <w lemma="голова" ana="noun:anim:m:v_naz">Голова</w>
     </w_>
     <g/>
@@ -1222,7 +1222,7 @@
     <w_ id="1i1q" dep="1i1r-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="1i1r" dep="1i1s-cop">
+    <w_ id="1i1r" dep="1i1s-cop|1i1s-private">
       <w lemma="бути" ana="verb:aux:imperf:futr:p:3">будуть</w>
     </w_>
     <w_ id="1i1s" dep="1i1n-acl">
@@ -1231,7 +1231,7 @@
     <w_ id="1i1t" dep="1i1u-amod">
       <w lemma="новий" ana="adj:p:v_naz:compb">нові</w>
     </w_>
-    <w_ id="1i1u" dep="1i1s-nsubj">
+    <w_ id="1i1u" dep="1i1s-nsubj|1i1s-private">
       <w lemma="збори" ana="noun:inanim:p:v_naz:ns">Збори</w>
     </w_>
     <w_ id="1i1v" dep="1i1x-cc">

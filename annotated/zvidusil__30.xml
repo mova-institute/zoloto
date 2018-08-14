@@ -1534,7 +1534,7 @@
       <w_ id="39ay" dep="39b3-nsubj" comment-equality="чи це?" n="455">
         <w lemma="решта" ana="noun:inanim:f:v_naz">Решта</w>
       </w_>
-      <w_ id="39az" dep="39ay-nmod" coref="39ap-bridge" n="456">
+      <w_ id="39az" dep="39ay-nmod" tags="promoted" coref="39ap-bridge" n="456">
         <w lemma="посолений" ana="adj:p:v_rod:&amp;adjp:perf:pasv">посолених</w>
       </w_>
       <g/>
@@ -1674,13 +1674,13 @@
       <sb id="39c8"/>
     </p>
     <p id="39c9">
-      <w_ id="39ca" n="497">
+      <w_ id="39ca" comment="~" n="497">
         <w lemma="*" ana="punct">*</w>
       </w_>
-      <w_ id="39cb" n="498">
+      <w_ id="39cb" dep="39ca-flat" n="498">
         <w lemma="*" ana="punct">*</w>
       </w_>
-      <w_ id="39cc" n="499">
+      <w_ id="39cc" dep="39ca-flat" n="499">
         <w lemma="*" ana="punct">*</w>
       </w_>
       <sb id="39cd"/>
@@ -2584,7 +2584,7 @@
       <w_ id="39kf" dep="39kn-obl" n="768">
         <w lemma="сума" ana="noun:inanim:f:v_rod">суми</w>
       </w_>
-      <w_ id="39kg" n="769">
+      <w_ id="39kg" dep="39ki-advmod" n="769">
         <w lemma="більш" ana="adv:compr">більш</w>
       </w_>
       <w_ id="39kh" dep="39kg-fixed" n="770">
@@ -2824,6 +2824,9 @@
       </w_>
       <w_ id="39mh" n="838">
         <w lemma="раз" ana="noun:inanim:p:m:v_zna">рази</w>
+      </w_>
+      <w_ id="3ceb" ellipsis="predicate">
+        <w lemma="перевищувати" ana="verb:imperf:pres:s:3">перевищує</w>
       </w_>
       <w_ id="39mi" dep="39mj-punct" n="839">
         <w lemma="—" ana="punct:dash">—</w>
