@@ -84,7 +84,7 @@
     <w_ id="2mek" dep="2mei-amod" n="25">
       <w lemma="розділений" ana="adj:m:v_naz:&amp;adjp:perf:pasv">розділений</w>
     </w_>
-    <w_ id="2mel" dep="2mek-obl:agent" n="26">
+    <w_ id="2mel" dep="2mek-obl:agent" coref="2mdw-bridge" n="26">
       <w lemma="течія" ana="noun:inanim:f:v_oru">течією</w>
     </w_>
     <w_ id="2mem" dep="2mel-nmod" n="27">
@@ -152,7 +152,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2mf6"/>
-    <w_ id="2mf7" dep="2mfc-advmod" n="46">
+    <w_ id="2mf7" dep="2mfc-advmod" coref="2mf0-equality" n="46">
       <w lemma="там" ana="adv:&amp;pron:dem">Там</w>
     </w_>
     <g/>
@@ -162,7 +162,7 @@
     <w_ id="2mf9" dep="2mfa-case" n="48">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="2mfa" dep="2mf7-appos:nonnom" n="49">
+    <w_ id="2mfa" dep="2mf7-appos:nonnom" coref="2mf7-equality" n="49">
       <w lemma="собор" ana="noun:inanim:m:v_mis">Соборі</w>
     </w_>
     <w_ id="2mfb" dep="2mfc-advmod" n="50">
@@ -194,7 +194,7 @@
     <w_ id="2mfj" dep="2mfk-case" n="58">
       <w lemma="під" ana="prep:rv_oru">під</w>
     </w_>
-    <w_ id="2mfk" dep="2mfn-obl" n="59">
+    <w_ id="2mfk" dep="2mfn-obl" coref="2mf7-bridge" n="59">
       <w lemma="баня" ana="noun:inanim:f:v_oru">банею</w>
     </w_>
     <w_ id="2mfl" dep="2mfm-advmod" n="60">
@@ -212,7 +212,7 @@
     <w_ id="2mfp" dep="2mfn-nsubj" n="64">
       <w lemma="голос" ana="noun:inanim:m:v_naz">голос</w>
     </w_>
-    <w_ id="2mfq" dep="2mfp-nmod" n="65">
+    <w_ id="2mfq" dep="2mfp-nmod" coref="2mf7-bridge" n="65">
       <w lemma="дячок" ana="noun:anim:m:v_rod">дячка</w>
     </w_>
     <g/>
