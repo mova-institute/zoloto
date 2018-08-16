@@ -34,7 +34,7 @@
       <w_ id="1s6r" dep="1s6v-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="1s6s" dep="1s6v-discourse">
+      <w_ id="1s6s" dep="1s6v-discourse" comment="~ чи з _я_?">
         <w lemma="щойно" ana="part">щойно</w>
       </w_>
       <w_ id="1s6t" dep="1s6v-nsubj">
@@ -59,7 +59,7 @@
       <w_ id="1s6z" dep="1s70-case">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
-      <w_ id="1s70">
+      <w_ id="1s70" dep="1s6u-conj" comment="~">
         <w lemma="жирафік" ana="noun:anim:p:m:v_rod:odd">жирафіків</w>
       </w_>
       <g/>
@@ -85,11 +85,11 @@
       <w_ id="1s77" dep="1s78-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1s78" dep="1s70-conj">
+      <w_ id="1s78" dep="1s70-conj:upperlevel">
         <w lemma="тапці" ana="noun:inanim:p:v_mis:ns:odd">тапцях</w>
       </w_>
       <g/>
-      <w_ id="1s79" dep="1s6q-punct">
+      <w_ id="1s79" dep="1s6v-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1s7a"/>
@@ -5899,14 +5899,14 @@
       <w_ id="1tp5" dep="1tp6-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1tp6" dep="1toy-advcl">
+      <w_ id="1tp6" dep="1toy-advcl:cmp">
         <w lemma="знати" ana="verb:imperf:pres:s:1">знаю</w>
       </w_>
-      <w_ id="1tp7">
+      <w_ id="1tp7" dep="1tp6-ccomp" comment="~ як не знаю що (летить)">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <g/>
-      <w_ id="1tp8" dep="1toq-punct">
+      <w_ id="1tp8" dep="1toy-punct">
         <w lemma="..." ana="punct:ellipsis">...</w>
       </w_>
       <sb id="1tp9"/>
@@ -5949,7 +5949,7 @@
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="1tpn"/>
-      <w_ id="1tpo" dep="1tpp-advmod">
+      <w_ id="1tpo" dep="1tpp-advmod|1tpp-distrib">
         <w lemma="дуууже" ana="adv:odd">Дуууже</w>
       </w_>
       <w_ id="1tpp" dep="1tps-amod">

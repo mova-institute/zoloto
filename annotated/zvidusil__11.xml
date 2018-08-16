@@ -3183,7 +3183,7 @@
       <w_ id="20y8" dep="20y9-case">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
-      <w_ id="20y9" dep="20yb-orphan">
+      <w_ id="20y9" dep="20yb-orphan|3cdk-obl">
         <w lemma="село" ana="noun:inanim:n:v_mis">селі</w>
       </w_>
       <w_ id="3cdk" ellipsis="predicate">
@@ -3192,26 +3192,26 @@
       <w_ id="20ya" dep="20yb-amod">
         <w lemma="прекрасний" ana="adj:m:v_naz:compb">прекрасний</w>
       </w_>
-      <w_ id="20yb">
+      <w_ id="20yb" dep="3cdk-nsubj">
         <w lemma="сільбуд" ana="noun:inanim:m:v_naz">сільбуд</w>
       </w_>
       <g/>
-      <w_ id="20yc" dep="20yg-punct">
+      <w_ id="20yc" dep="20yg-punct|3cdl-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="20yd" dep="20yg-cc">
+      <w_ id="20yd" dep="20yg-cc|3cdl-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="20ye" dep="20yf-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="20yf" dep="20yg-orphan">
+      <w_ id="20yf" dep="20yg-orphan|3cdl-obl">
         <w lemma="він" ana="noun:m:v_mis:rprep:&amp;pron:pers:3">ньому</w>
       </w_>
-      <w_ id="3cdl" ellipsis="predicate">
+      <w_ id="3cdl" dep="3cdk-conj:parataxis" ellipsis="predicate">
         <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
       </w_>
-      <w_ id="20yg" dep="20yb-conj">
+      <w_ id="20yg" dep="20yb-conj:parataxis|3cdl-nsubj">
         <w lemma="зала" ana="noun:inanim:f:v_naz">зала</w>
       </w_>
       <w_ id="20yh" dep="20yj-case">
@@ -3262,7 +3262,7 @@
         <w lemma="актор" ana="noun:anim:p:m:v_rod">акторів</w>
       </w_>
       <g/>
-      <w_ id="20yw" dep="20yb-punct">
+      <w_ id="20yw" dep="20yb-punct|3cdk-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="20yx"/>

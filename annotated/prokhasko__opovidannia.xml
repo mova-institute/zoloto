@@ -28928,23 +28928,23 @@
     <w_ id="0y67">
       <w lemma="сказати" ana="verb:perf:past:m">сказав</w>
     </w_>
-    <w_ id="0y68" dep="0y6b-punct">
+    <w_ id="0y68" dep="0y6b-punct|3cd3-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0y69" dep="0y6b-discourse" mark="resolved">
+    <w_ id="0y69" dep="0y6b-discourse|3cd3-discourse" mark="resolved">
       <w lemma="а" ana="part">а</w>
     </w_>
-    <w_ id="0y6a" dep="0y6b-orphan" comment="~">
+    <w_ id="0y6a" dep="0y6b-orphan|3cd3-advmod" comment="~">
       <w lemma="вдруг" ana="adv:foreign">вдруг</w>
     </w_>
-    <w_ id="3cd3" ellipsis="predicate">
+    <w_ id="3cd3" dep="0y67-parataxis" ellipsis="predicate">
       <w lemma="статися" ana="verb:rev:perf:futr:s:3">станеться</w>
     </w_>
-    <w_ id="0y6b" dep="0y67-parataxis" tags="promoted">
+    <w_ id="0y6b" dep="0y67-parataxis|3cd3-nsubj">
       <w lemma="крушеніє" ana="noun:inanim:n:v_naz:foreign">крушеніє</w>
     </w_>
     <g/>
-    <w_ id="0y6c" dep="0y67-punct">
+    <w_ id="0y6c" dep="0y6b-punct|3cd3-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0y6d"/>

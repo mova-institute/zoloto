@@ -4240,7 +4240,7 @@
       <w_ id="36aa" dep="36a6-obj" n="1295">
         <w lemma="заперечення" ana="noun:inanim:n:v_zna">заперечення</w>
       </w_>
-      <w_ id="36ab" dep="36aa-nmod" n="1296">
+      <w_ id="36ab" dep="36aa-nmod|36aa-private" n="1296">
         <w lemma="ідеалізм" ana="noun:inanim:m:v_rod">ідеалізму</w>
       </w_>
       <g/>
@@ -4280,11 +4280,11 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36an"/>
-      <w_ id="36ao" comment="parataxis:discource?" n="1308">
+      <w_ id="36ao" dep="36bk-parataxis:discourse" comment="~ parataxis:discource?" n="1308">
         <w lemma="повторювати" ana="verb:imperf:pres:s:1">Повторюю</w>
       </w_>
       <g/>
-      <w_ id="36ap" dep="36bk-punct" n="1309">
+      <w_ id="36ap" dep="36ao-punct" n="1309">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="36aq" dep="36bk-nsubj" n="1310">
@@ -4325,7 +4325,7 @@
       <w_ id="36b1" dep="36b2-case" n="1321">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="36b2" n="1322">
+      <w_ id="36b2" dep="36b0-nmod" n="1322">
         <w lemma="коло" ana="noun:inanim:n:v_mis">колі</w>
       </w_>
       <w_ id="36b3" dep="36b4-amod|36b4-distrib" n="1323">
@@ -4382,7 +4382,7 @@
       <w_ id="36bj" dep="36at-punct" n="1339">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="36bk" dep="36ao-ccomp" n="1340">
+      <w_ id="36bk" n="1340">
         <w lemma="залишатися" ana="verb:rev:imperf:pres:s:3">залишається</w>
       </w_>
       <w_ id="36bl" dep="36bk-xcomp:sp" n="1341">
@@ -4395,7 +4395,7 @@
       <w_ id="36bn" dep="36bk-advcl" n="1343">
         <w lemma="позбуватися" ana="verb:rev:imperf:pres:advp">позбуваючись</w>
       </w_>
-      <w_ id="36bo" n="1344">
+      <w_ id="36bo" dep="36bn-advmod" n="1344">
         <w lemma="проте" ana="conj:coord">проте</w>
       </w_>
       <w_ id="36bp" dep="36bn-obj" n="1345">
@@ -4411,7 +4411,7 @@
         <w lemma="універсальність" ana="noun:inanim:f:v_zna">універсальність</w>
       </w_>
       <g/>
-      <w_ id="36bt" dep="36ao-punct" n="1349">
+      <w_ id="36bt" dep="36bk-punct" n="1349">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36bu"/>

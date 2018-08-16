@@ -1799,10 +1799,10 @@
   </p>
   <p id="0d2k">
     <sb id="0d2l"/>
-    <w_ id="0d2m" dep="0d2n-punct">
+    <w_ id="0d2m" dep="0d2n-punct|3cdn-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0d2n">
+    <w_ id="0d2n" dep="3cdn-nsubj">
       <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">Ви</w>
     </w_>
     <g/>
@@ -1813,7 +1813,7 @@
     <w_ id="0d2p" dep="0d2q-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0d2q" dep="0d2n-parataxis">
+    <w_ id="0d2q" dep="0d2n-parataxis|3cdn-parataxis">
       <w lemma="казати" ana="verb:imperf:pres:s:3">каже</w>
     </w_>
     <g/>
@@ -1830,11 +1830,11 @@
     <w_ id="0d2t" dep="0d2u-case">
       <w lemma="без" ana="prep:rv_rod">без</w>
     </w_>
-    <w_ id="0d2u" dep="0d2n-orphan">
+    <w_ id="0d2u" dep="0d2n-orphan|3cdn-obl">
       <w lemma="сокира" ana="noun:inanim:f:v_rod">сокири</w>
     </w_>
     <g/>
-    <w_ id="0d2v" dep="0d2n-punct">
+    <w_ id="0d2v" dep="0d2n-punct|3cdn-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0d2w"/>
@@ -1896,22 +1896,22 @@
       <w lemma="сторона" ana="noun:inanim:f:v_zna">сторону</w>
     </w_>
     <g/>
-    <w_ id="0d3g" dep="0d3i-punct">
+    <w_ id="0d3g" dep="0d3i-punct|3ce0-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0d3h" dep="0d3i-cc">
+    <w_ id="0d3h" dep="0d3i-cc|3ce0-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0d3i" dep="0d3c-conj:parataxis">
+    <w_ id="0d3i" dep="0d3c-conj:parataxis|3ce0-nsubj">
       <w lemma="половина" ana="noun:inanim:f:v_naz">половина</w>
     </w_>
-    <w_ id="3ce0" ellipsis="predicate">
+    <w_ id="3ce0" dep="0d3c-conj:parataxis" ellipsis="predicate">
       <w lemma="тягнути" ana="verb:imperf:pres:s:3">тягне</w>
     </w_>
     <w_ id="0d3j" dep="0d3k-case">
       <w lemma="в" ana="prep:rv_zna:v-u">в</w>
     </w_>
-    <w_ id="0d3k" dep="0d3i-obl">
+    <w_ id="0d3k" dep="0d3i-obl|3ce0-obl" tags="promoted">
       <w lemma="другий" ana="adj:f:v_zna:&amp;pron:ind">другу</w>
     </w_>
     <g/>

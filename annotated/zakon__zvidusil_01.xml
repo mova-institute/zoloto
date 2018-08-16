@@ -524,7 +524,7 @@
       <w_ id="2jsd" dep="2jse-punct" n="159">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="2jse" n="160">
+      <w_ id="2jse" dep="2js9-acl:parataxis" n="160">
         <w lemma="фонд" ana="noun:inanim:m:v_naz">Фонд</w>
       </w_>
       <g/>
@@ -601,17 +601,17 @@
       <w_ id="2jt2" dep="2jt0-conj" n="184">
         <w lemma="енергозбереження" ana="noun:inanim:n:v_rod:bad">енергозбереження</w>
       </w_>
-      <w_ id="2jt3" dep="2jt4-punct" n="185">
+      <w_ id="2jt3" dep="2jt6-punct" n="185">
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="2jt4" dep="2jsu-parataxis" n="186">
+      <w_ id="2jt4" dep="2jt6-advmod" n="186">
         <w lemma="далі" ana="adv">далі</w>
       </w_>
       <w_ id="2jt5" dep="2jt6-punct" n="187">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="2jt6" dep="2jt4-orphan" n="188">
+      <w_ id="2jt6" dep="2jsu-acl:parataxis" n="188">
         <w lemma="захід" ana="noun:inanim:p:m:v_naz">заходи</w>
       </w_>
       <w_ id="2jt7" dep="2jt8-case" n="189">
@@ -621,7 +621,7 @@
         <w lemma="енергоефективність" ana="noun:inanim:f:v_rod">енергоефективності</w>
       </w_>
       <g/>
-      <w_ id="2jt9" dep="2jt4-punct" n="191">
+      <w_ id="2jt9" dep="2jt6-punct" n="191">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
       <g/>
@@ -5928,11 +5928,11 @@
       <w_ id="2l5r" dep="2l5g-punct" n="1815">
         <w lemma="&quot;" ana="punct:quote:close">"</w>
       </w_>
-      <w_ id="2l5s" dep="2l5t-punct" n="1816">
+      <w_ id="2l5s" dep="2l5w-punct" n="1816">
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="2l5t" dep="2l4x-parataxis" n="1817">
+      <w_ id="2l5t" dep="2l5w-advmod" n="1817">
         <w lemma="далі" ana="adv">далі</w>
       </w_>
       <w_ id="2l5u" dep="2l5w-punct" n="1818">
@@ -5941,11 +5941,11 @@
       <w_ id="2l5v" dep="2l5w-amod" n="1819">
         <w lemma="національний" ana="adj:m:v_naz">Національний</w>
       </w_>
-      <w_ id="2l5w" dep="2l5t-parataxis" comment="xcomp:2?" n="1820">
+      <w_ id="2l5w" dep="2l4x-acl:parataxis" comment="xcomp:2?" n="1820">
         <w lemma="перелік" ana="noun:inanim:m:v_naz">перелік</w>
       </w_>
       <g/>
-      <w_ id="2l5x" dep="2l5t-punct" n="1821">
+      <w_ id="2l5x" dep="2l5w-punct" n="1821">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
       <g/>

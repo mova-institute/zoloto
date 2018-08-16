@@ -1381,7 +1381,7 @@
       <w_ id="2f5f" dep="2f5g-amod" n="413">
         <w lemma="об’єднаний" ana="adj:n:v_rod:&amp;adjp:perf:pasv">об'єднаного</w>
       </w_>
-      <w_ id="2f5g" n="414">
+      <w_ id="2f5g" dep="2f5d-nmod" comment="~" n="414">
         <w lemma="відправлення" ana="noun:inanim:n:v_rod">відправлення</w>
       </w_>
       <g/>
@@ -1647,16 +1647,16 @@
         <w lemma="см" ana="noun:inanim:p:m:v_rod:nv:abbr">см</w>
       </w_>
       <g/>
-      <w_ id="2f7o" dep="2f7q-punct" n="494">
+      <w_ id="2f7o" dep="2f7q-punct|3cec-punct" n="494">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2f7p" dep="2f7q-cc" n="495">
+      <w_ id="2f7p" dep="2f7q-cc|3cec-cc" n="495">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="2f7q" dep="2f7i-conj:parataxis" n="496">
+      <w_ id="2f7q" dep="2f7i-conj:parataxis|3cec-nsubj" tags="promoted" n="496">
         <w lemma="інший" ana="adj:f:v_rod:&amp;pron:ind">іншої</w>
       </w_>
-      <w_ id="3cec" ellipsis="predicate">
+      <w_ id="3cec" dep="2f7i-conj:parataxis" ellipsis="predicate">
         <w lemma="становити" ana="verb:imperf:pres:s:3">становить</w>
       </w_>
       <w_ id="2f7r" dep="2f7u-punct" n="497">

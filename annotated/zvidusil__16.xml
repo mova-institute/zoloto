@@ -3038,7 +3038,7 @@
       <w_ id="27o4" dep="27o5-obl">
         <w lemma="вуличка" ana="noun:inanim:f:v_mis">вуличці</w>
       </w_>
-      <w_ id="27o5">
+      <w_ id="27o5" dep="27nu-appos">
         <w lemma="розцвітати" ana="verb:imperf:pres:p:3">розцвітають</w>
       </w_>
       <w_ id="27o6" dep="27o5-nsubj">
@@ -3253,7 +3253,7 @@
       <w_ id="27q4" dep="27q1-advcl">
         <w lemma="стати" ana="verb:perf:past:n">стало</w>
       </w_>
-      <w_ id="27q5">
+      <w_ id="27q5" dep="27q4-xcomp:sp">
         <w lemma="ясно" ana="adv:compb">ясно</w>
       </w_>
       <g/>
@@ -3263,7 +3263,7 @@
       <w_ id="27q7" dep="27qc-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="27q8">
+      <w_ id="27q8" dep="27qa-advmod">
         <w lemma="більш" ana="adv:compr">більш</w>
       </w_>
       <w_ id="27q9" dep="27q8-fixed">
@@ -3275,7 +3275,7 @@
       <w_ id="27qb" dep="27qa-nmod">
         <w lemma="вулиця" ana="noun:inanim:p:f:v_rod">вулиць</w>
       </w_>
-      <w_ id="27qc">
+      <w_ id="27qc" dep="27q4-csubj">
         <w lemma="починатися" ana="verb:rev:imperf:pres:s:3">починається</w>
       </w_>
       <w_ id="27qd" dep="27qf-case">
@@ -3370,13 +3370,13 @@
       <w_ id="27r7" dep="27r9-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="27r8" dep="27r9-advmod">
+      <w_ id="27r8" dep="27r9-advmod|27r9-private">
         <w lemma="рясно" ana="adv">рясно</w>
       </w_>
       <w_ id="27r9" dep="27r2-amod">
         <w lemma="висаджений" ana="adj:m:v_naz:&amp;adjp:perf:pasv">висаджений</w>
       </w_>
-      <w_ id="27ra" dep="27r9-obl">
+      <w_ id="27ra" dep="27r9-obl|27r9-private">
         <w lemma="каштан" ana="noun:inanim:p:m:v_oru">каштанами</w>
       </w_>
       <w_ id="27rb" dep="27rc-cc">
@@ -3421,10 +3421,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27rq"/>
-      <w_ id="27rr">
+      <w_ id="27rr" dep="27rs-case">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
-      <w_ id="27rs">
+      <w_ id="27rs" dep="27rt-obl">
         <w lemma="центр" ana="noun:inanim:m:v_mis">центрі</w>
       </w_>
       <w_ id="27rt">
@@ -3433,64 +3433,73 @@
       <w_ id="27ru" dep="27rt-csubj">
         <w lemma="побачити" ana="verb:perf:inf">побачити</w>
       </w_>
-      <w_ id="27rv">
+      <w_ id="27rv" dep="27ru-obj">
         <w lemma="багатоповерхівка" ana="noun:inanim:p:f:v_zna">багатоповерхівки</w>
       </w_>
       <g/>
-      <w_ id="27rw">
+      <w_ id="27rw" dep="27s3-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="27rx">
+      <w_ id="27rx" dep="27s3-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="27ry">
+      <w_ id="27ry" dep="27s0-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="27rz">
+      <w_ id="27rz" dep="27s0-amod">
         <w lemma="сусідній" ana="adj:f:v_mis">сусідній</w>
       </w_>
-      <w_ id="27s0">
+      <w_ id="27s0" dep="27s3-orphan">
         <w lemma="вулиця" ana="noun:inanim:f:v_mis">вулиці</w>
       </w_>
-      <w_ id="27s1">
+      <w_ id="3ced" ellipsis="predicate">
+        <w lemma="можна" ana="adv">можна</w>
+      </w_>
+      <w_ id="3cee" ellipsis="predicate">
+        <w lemma="побачити" ana="verb:perf:inf">побачити</w>
+      </w_>
+      <w_ id="27s1" dep="27s3-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="27s2">
+      <w_ id="27s2" dep="27s3-amod">
         <w lemma="приватний" ana="adj:p:v_zna:rinanim">приватні</w>
       </w_>
-      <w_ id="27s3">
+      <w_ id="27s3" dep="27rt-conj:parataxis">
         <w lemma="будинок" ana="noun:inanim:p:m:v_zna">будинки</w>
       </w_>
-      <w_ id="27s4">
+      <w_ id="27s4" dep="27s5-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="27s5">
+      <w_ id="27s5" dep="27s3-nmod">
         <w lemma="сад" ana="noun:inanim:p:m:v_oru">садами</w>
       </w_>
       <g/>
-      <w_ id="27s6">
+      <w_ id="27s6" dep="27rt-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
     <p id="27s8">
       <sb id="27s9"/>
-      <w_ id="27sa">
+      <w_ id="27sa" dep="27sb-case">
         <w lemma="біля" ana="prep:rv_rod">Біля</w>
       </w_>
-      <w_ id="27sb">
+      <w_ id="27sb" dep="27se-orphan">
         <w lemma="водосховище" ana="noun:inanim:n:v_rod">водосховища</w>
       </w_>
-      <w_ id="27sc">
+      <w_ id="3cef" ellipsis="predicate">
+        <w lemma="міститися" ana="verb:rev:imperf:pres:p:3">містяться</w>
+      </w_>
+      <w_ id="27sc" dep="27se-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="27sd">
+      <w_ id="27sd" dep="27se-amod">
         <w lemma="сосновий" ana="adj:p:v_naz">соснові</w>
       </w_>
       <w_ id="27se">
         <w lemma="ліс" ana="noun:inanim:p:m:v_naz">ліси</w>
       </w_>
       <g/>
-      <w_ id="27sf">
+      <w_ id="27sf" dep="27se-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27sg"/>
@@ -3498,27 +3507,27 @@
         <w lemma="могутній" ana="adj:p:v_naz:compb">Могутні</w>
       </w_>
       <g/>
-      <w_ id="27si">
+      <w_ id="27si" dep="27sj-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="27sj">
+      <w_ id="27sj" dep="27sh-conj">
         <w lemma="старий" ana="adj:p:v_naz:compb">старі</w>
       </w_>
       <g/>
-      <w_ id="27sk">
+      <w_ id="27sk" dep="27sm-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="27sl">
+      <w_ id="27sl" dep="27sm-discourse">
         <w lemma="аж" ana="part">аж</w>
       </w_>
       <w_ id="27sm">
         <w lemma="пашіти" ana="verb:imperf:pres:p:3">пашіють</w>
       </w_>
-      <w_ id="27sn">
+      <w_ id="27sn" dep="27sm-obl">
         <w lemma="енергія" ana="noun:inanim:f:v_oru">енергією</w>
       </w_>
       <g/>
-      <w_ id="27so">
+      <w_ id="27so" dep="27sh-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27sp"/>
@@ -3609,14 +3618,14 @@
       <w_ id="27th" dep="27ti-amod">
         <w lemma="дитячий" ana="adj:p:v_naz">дитячі</w>
       </w_>
-      <w_ id="27ti">
+      <w_ id="27ti" dep="27tc-conj">
         <w lemma="майданчик" ana="noun:inanim:p:m:v_naz">майданчики</w>
       </w_>
       <g/>
       <w_ id="27tj" dep="27tk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="27tk">
+      <w_ id="27tk" dep="27tc-conj">
         <w lemma="лавочка" ana="noun:inanim:p:f:v_naz">лавочки</w>
       </w_>
       <w_ id="27tl" dep="27tm-case">
@@ -3642,7 +3651,7 @@
         <w lemma="“" ana="punct:quote:open">“</w>
       </w_>
       <g/>
-      <w_ id="27ts">
+      <w_ id="27ts" dep="27tc-conj">
         <w lemma="місток" ana="noun:inanim:m:v_naz">місток</w>
       </w_>
       <w_ id="27tt" dep="27ts-nmod">
@@ -3656,10 +3665,10 @@
       <w_ id="27tv" dep="27tw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="27tw">
+      <w_ id="27tw" dep="27tc-conj">
         <w lemma="виставка" ana="noun:inanim:p:f:v_naz">виставки</w>
       </w_>
-      <w_ id="27tx" dep="27ty-case">
+      <w_ id="27tx" dep="27ty-case|27ty-distrib">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="27ty" dep="27tw-nmod">
@@ -3676,17 +3685,20 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27u2"/>
-      <w_ id="27u3">
+      <w_ id="27u3" dep="27u5-orphan">
         <w lemma="неподалік" ana="adv">Неподалік</w>
       </w_>
-      <w_ id="27u4">
+      <w_ id="3ceg" ellipsis="predicate">
+        <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
+      </w_>
+      <w_ id="27u4" dep="27u5-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="27u5">
         <w lemma="пляж" ana="noun:inanim:m:v_naz">пляж</w>
       </w_>
       <g/>
-      <w_ id="27u6">
+      <w_ id="27u6" dep="27u5-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27u7"/>
@@ -3719,7 +3731,7 @@
       <w_ id="27ug" dep="27uh-nsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="27uh" dep="27u8-advcl">
+      <w_ id="27uh">
         <w lemma="ховати" ana="verb:imperf:pres:s:3">ховає</w>
       </w_>
       <w_ id="27ui" dep="27uk-case">
@@ -3795,7 +3807,7 @@
       <w_ id="27v6" dep="27v7-case">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="27v7">
+      <w_ id="27v7" dep="27v5-obl">
         <w lemma="центр" ana="noun:inanim:m:v_rod">центру</w>
       </w_>
       <w_ id="27v8" dep="27v9-case">
@@ -3852,10 +3864,10 @@
       <w_ id="27vo" dep="27vq-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="27vp">
+      <w_ id="27vp" dep="27vq-advmod">
         <w lemma="також" ana="adv">також</w>
       </w_>
-      <w_ id="27vq">
+      <w_ id="27vq" dep="27vg-parataxis">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
       <w_ id="27vr" dep="27vs-punct">
@@ -3879,7 +3891,7 @@
         <w lemma="розвага" ana="noun:inanim:p:f:v_rod">розваг</w>
       </w_>
       <g/>
-      <w_ id="27vx">
+      <w_ id="27vx" dep="27vq-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27vy"/>
@@ -4227,16 +4239,16 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27z2"/>
-      <w_ id="27z3">
+      <w_ id="27z3" dep="27zc-cc">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
-      <w_ id="27z4">
+      <w_ id="27z4" dep="27zc-orphan">
         <w lemma="знову" ana="adv">знову</w>
       </w_>
-      <w_ id="27z5">
+      <w_ id="27z5" dep="27z4-discourse" comment="~">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="27z6">
+      <w_ id="27z6" dep="27z4-discourse">
         <w lemma="таки" ana="part">таки</w>
       </w_>
       <w_ id="27z7" dep="27z9-case">
@@ -4245,8 +4257,11 @@
       <w_ id="27z8" dep="27z9-amod">
         <w lemma="правий" ana="adj:f:v_mis:compb">правій</w>
       </w_>
-      <w_ id="27z9">
+      <w_ id="27z9" dep="27zc-orphan">
         <w lemma="стулка" ana="noun:inanim:f:v_mis">стулці</w>
+      </w_>
+      <w_ id="3ceh" ellipsis="predicate">
+        <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
       </w_>
       <w_ id="27za" dep="27zc-det">
         <w lemma="жодний" ana="adj:p:v_rod:&amp;pron:neg">жодних</w>
@@ -4258,7 +4273,7 @@
         <w lemma="білило" ana="noun:inanim:p:n:v_rod">білил</w>
       </w_>
       <g/>
-      <w_ id="27zd">
+      <w_ id="27zd" dep="27zc-punct">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="27ze"/>
@@ -4493,7 +4508,7 @@
         <w lemma="століття" ana="noun:inanim:n:v_rod">століття</w>
       </w_>
       <g/>
-      <w_ id="281d">
+      <w_ id="281d" dep="281f-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="281e">
@@ -4734,7 +4749,7 @@
       <w_ id="283j" dep="283u-csubj" comment="#advsubj">
         <w lemma="чому" ana="adv:&amp;pron:rel">Чому</w>
       </w_>
-      <w_ id="283k" dep="283j-orphan">
+      <w_ id="283k">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <w_ id="283l" dep="283s-cc">
@@ -4796,7 +4811,7 @@
       <w_ id="2843" dep="2844-advmod">
         <w lemma="менш" ana="adv:compr">менш</w>
       </w_>
-      <w_ id="2844">
+      <w_ id="2844" dep="2840-conj" comment="~ чи прикладка?">
         <w lemma="тривалий" ana="adj:f:v_rod:compb">тривалої</w>
       </w_>
       <w_ id="2845" dep="283w-conj">
@@ -4834,7 +4849,7 @@
       <w_ id="284f" dep="284b-acl">
         <w lemma="хотіти" ana="verb:imperf:pres:s:3">хоче</w>
       </w_>
-      <w_ id="284g" dep="284f-xcomp" comment="вимушена незв’язка">
+      <w_ id="284g" dep="284f-xcomp" comment="вимушена незв’язка; еліпс наперед; цікаво">
         <w lemma="бути" ana="verb:imperf:inf">бути</w>
       </w_>
       <g/>
@@ -7116,7 +7131,7 @@
       <w_ id="28p1" dep="28p2-case">
         <w lemma="серед" ana="prep:rv_rod">серед</w>
       </w_>
-      <w_ id="28p2">
+      <w_ id="28p2" dep="28oy-obl">
         <w lemma="прихильник" ana="noun:anim:p:m:v_rod">прихильників</w>
       </w_>
       <w_ id="28p3" dep="28p4-amod">
@@ -7609,7 +7624,7 @@
       <w_ id="28tg" dep="28th-case">
         <w lemma="за" ana="prep:rv_oru">За</w>
       </w_>
-      <w_ id="28th">
+      <w_ id="28th" dep="28to-obl" comment="~ parataxis:discourse?">
         <w lemma="результат" ana="noun:inanim:p:m:v_oru">результатами</w>
       </w_>
       <w_ id="28ti" dep="28tj-amod">

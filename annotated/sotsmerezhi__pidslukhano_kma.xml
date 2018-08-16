@@ -1396,13 +1396,13 @@
       <w_ id="13cd" dep="13ce-case">
         <w lemma="перед" ana="prep:rv_oru">Перед</w>
       </w_>
-      <w_ id="13ce" dep="13cf-orphan">
+      <w_ id="13ce" dep="13cf-orphan|3cd7-obl">
         <w lemma="ви" ana="noun:anim:p:v_oru:&amp;pron:pers:2">вами</w>
       </w_>
       <w_ id="3cd7" ellipsis="predicate">
         <w lemma="міститися" ana="verb:rev:imperf:pres:p:3">містяться</w>
       </w_>
-      <w_ id="13cf" tags="promoted" comment="#ожеледиця">
+      <w_ id="13cf" dep="3cd7-nsubj" comment="#ожеледиця">
         <w lemma="зразок" ana="noun:inanim:p:m:v_naz">зразки</w>
       </w_>
       <w_ id="13cg" dep="13ch-det">
@@ -1440,7 +1440,7 @@
         <w lemma="цікавий" ana="adj:f:v_oru:compb">цікавою</w>
       </w_>
       <g/>
-      <w_ id="13cr" dep="13cf-punct">
+      <w_ id="13cr" dep="13cf-punct|3cd7-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

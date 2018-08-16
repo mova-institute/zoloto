@@ -969,7 +969,7 @@
     <w_ id="13x6" dep="13x7-case">
       <w lemma="у" ana="prep:rv_mis:v-u">У</w>
     </w_>
-    <w_ id="13x7" dep="13xa-orphan">
+    <w_ id="13x7" dep="13xa-orphan|3cdg-obl">
       <w lemma="запис" ana="noun:inanim:p:m:v_mis">записах</w>
     </w_>
     <w_ id="13x8" dep="13x7-nmod" coref="13vl-equality">
@@ -978,10 +978,10 @@
     <w_ id="3cdg" ellipsis="predicate">
       <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
     </w_>
-    <w_ id="13x9" dep="13xa-det:numgov">
+    <w_ id="13x9" dep="13xa-det:numgov|13xa-distrib">
       <w lemma="багато" ana="numr:v_naz:&amp;pron:ind">багато</w>
     </w_>
-    <w_ id="13xa" tags="promoted" comment="exist">
+    <w_ id="13xa" dep="3cdg-nsubj">
       <w lemma="молитва" ana="noun:inanim:p:f:v_rod">молитов</w>
     </w_>
     <w_ id="13xb" dep="13xc-cc">
@@ -1000,7 +1000,7 @@
       <w lemma="дух" ana="noun:inanim:m:v_mis:xp2">дусі</w>
     </w_>
     <g/>
-    <w_ id="13xg" dep="13xa-punct">
+    <w_ id="13xg" dep="13xa-punct|3cdg-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="13xh"/>
@@ -2350,7 +2350,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="14a8"/>
-    <w_ id="14a9" dep="14ag-cc">
+    <w_ id="14a9" dep="14ag-cc|3cdh-cc">
       <w lemma="але" ana="conj:coord">Але</w>
     </w_>
     <w_ id="14aa" dep="14ac-case">
@@ -2360,7 +2360,7 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="14ac" dep="14ag-orphan" mark="resolved" coref="149l-equality">
+    <w_ id="14ac" dep="14ag-orphan|3cdh-obl" mark="resolved" coref="149l-equality">
       <w lemma="Вічник" ana="noun:inanim:m:v_mis:prop">Вічнику</w>
     </w_>
     <g/>
@@ -2377,7 +2377,7 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="14ag" tags="promoted" comment-equality="?">
+    <w_ id="14ag" dep="3cdh-nsubj" comment-equality="?">
       <w lemma="забарвлення" ana="noun:inanim:n:v_naz">забарвлення</w>
     </w_>
     <g/>
@@ -2432,7 +2432,7 @@
       <w lemma="живий" ana="adj:f:v_naz:compb">жива</w>
     </w_>
     <g/>
-    <w_ id="14ax" dep="14ag-punct">
+    <w_ id="14ax" dep="14ag-punct|3cdh-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="14ay"/>
@@ -2675,8 +2675,8 @@
     <w_ id="14d3" dep="14d5-obl">
       <w lemma="основа" ana="noun:inanim:f:v_mis">основі</w>
     </w_>
-    <w_ id="14d4" comment="noun+nmod?" coref="14cm-equality">
-      <w lemma="її" ana="adj:f:v_mis:poss:nv:&amp;pron:pers:3">її</w>
+    <w_ id="14d4" dep="14d3-nmod" coref="14cm-equality">
+      <w lemma="вона" ana="noun:f:v_rod:&amp;pron:pers:3">її</w>
     </w_>
     <w_ id="14d5" dep="14cz-acl">
       <w lemma="лежати" ana="verb:imperf:pres:p:3">лежать</w>
@@ -2717,7 +2717,7 @@
       <w lemma="підробити" ana="verb:perf:inf">підробити</w>
     </w_>
     <g/>
-    <w_ id="14dh" dep="14d9-punct">
+    <w_ id="14dh" dep="14dd-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
   </p>
