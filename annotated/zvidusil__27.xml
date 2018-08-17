@@ -1598,22 +1598,22 @@
         <w lemma="впливати" ana="verb:imperf:pres:s:3:v-u">впливає</w>
       </w_>
       <g/>
-      <w_ id="339u" dep="339w-punct" n="475">
+      <w_ id="339u" dep="339w-punct|3ceo-punct" n="475">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="339v" dep="339w-orphan" n="476">
+      <w_ id="339v" dep="339w-orphan|3ceo-advmod" n="476">
         <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
-      <w_ id="339w" dep="339t-advcl:cmp" n="477">
+      <w_ id="339w" dep="339t-advcl:cmp|3ceo-nsubj" n="477">
         <w lemma="батіг" ana="noun:inanim:m:v_naz">батіг</w>
       </w_>
-      <w_ id="3ceo" ellipsis="predicate">
+      <w_ id="3ceo" dep="339t-advcl:cmp" ellipsis="predicate">
         <w lemma="впливати" ana="verb:imperf:pres:s:3:v-u">впливає</w>
       </w_>
       <w_ id="339x" dep="339y-case" n="478">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="339y" dep="339w-orphan" n="479">
+      <w_ id="339y" dep="339w-orphan|3ceo-obl" n="479">
         <w lemma="рисак" ana="noun:anim:m:v_zna">рисака</w>
       </w_>
       <g/>
@@ -1691,13 +1691,13 @@
         <w lemma="відстати" ana="verb:perf:past:p">відстали</w>
       </w_>
       <g/>
-      <w_ id="33ao" dep="33aq-punct" n="501">
+      <w_ id="33ao" dep="33aq-punct|3ceq-punct" n="501">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="33ap" dep="33aq-cc" n="502">
+      <w_ id="33ap" dep="33aq-cc|3ceq-cc" n="502">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="33aq" dep="33an-conj:parataxis" n="503">
+      <w_ id="33aq" dep="33an-conj:parataxis|3ceq-nsubj" n="503">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="33ar" dep="33as-cc" n="504">
@@ -1706,19 +1706,19 @@
       <w_ id="33as" dep="33aq-conj" n="505">
         <w lemma="кречет" ana="noun:anim:m:v_naz">Кречет</w>
       </w_>
-      <w_ id="3ceq" ellipsis="predicate">
+      <w_ id="3ceq" dep="33an-conj:parataxis" ellipsis="predicate">
         <w lemma="попрямувати" ana="verb:perf:past:p">попрямували</w>
       </w_>
       <w_ id="33at" dep="33au-case" n="506">
         <w lemma="по" ana="prep:rv_mis">по</w>
       </w_>
-      <w_ id="33au" dep="33as-orphan" n="507">
+      <w_ id="33au" dep="3ceq-obl|33aq-orphan" n="507">
         <w lemma="п’ята" ana="noun:inanim:p:f:v_mis">п'ятах</w>
       </w_>
       <w_ id="33av" dep="33aw-case" n="508">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
-      <w_ id="33aw" dep="33as-orphan" n="509">
+      <w_ id="33aw" dep="3ceq-obl|33aq-orphan" n="509">
         <w lemma="він" ana="noun:m:v_oru:&amp;pron:pers:3">ним</w>
       </w_>
       <g/>

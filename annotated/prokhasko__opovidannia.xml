@@ -18585,7 +18585,7 @@
     <w_ id="0viz" dep="0viw-nsubj">
       <w lemma="подружжя" ana="noun:inanim:n:v_naz">подружжя</w>
     </w_>
-    <w_ id="0vj0" dep="0viz-flat:title">
+    <w_ id="0vj0" dep="0viz-nmod">
       <w lemma="Салтиков" ana="noun:anim:p:m:v_rod:prop:lname:n2adj">Салтикових</w>
     </w_>
     <g/>
@@ -33027,7 +33027,7 @@
     <w_ id="0z81" dep="0z82-case">
       <w lemma="за" ana="prep:rv_oru">за</w>
     </w_>
-    <w_ id="0z82" dep="0z84-orphan">
+    <w_ id="0z82" dep="0z84-orphan|3cem-obl">
       <w lemma="міст" ana="noun:inanim:m:v_oru">мостом</w>
     </w_>
     <w_ id="3cem" ellipsis="predicate">
@@ -33036,7 +33036,7 @@
     <w_ id="0z83" dep="0z84-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0z84">
+    <w_ id="0z84" dep="3cem-nsubj">
       <w lemma="зупинка" ana="noun:inanim:f:v_naz">зупинка</w>
     </w_>
     <w_ id="0z85" dep="0z86-amod">
@@ -33046,7 +33046,7 @@
       <w lemma="поїзд" ana="noun:inanim:m:v_rod:odd">поїзду</w>
     </w_>
     <g/>
-    <w_ id="0z87" dep="0z84-punct">
+    <w_ id="0z87" dep="0z84-punct|3cem-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0z88"/>

@@ -2878,10 +2878,10 @@
     <w_ id="2n48" dep="2n49-case" n="861">
       <w lemma="в" ana="prep:rv_rod:v-u">В</w>
     </w_>
-    <w_ id="2n49" dep="2n4c-obl" n="862">
+    <w_ id="2n49" dep="2n4c-obl|3ce8-obl" n="862">
       <w lemma="він" ana="noun:m:v_rod:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="2n4a" dep="2n4c-advmod" n="863">
+    <w_ id="2n4a" dep="2n4c-advmod|3ce8-advmod" n="863">
       <w lemma="дома" ana="adv">дома</w>
     </w_>
     <w_ id="3ce8" ellipsis="predicate">
@@ -2891,7 +2891,7 @@
       <w lemma="&quot;" ana="punct:quote:open">"</w>
     </w_>
     <g/>
-    <w_ id="2n4c" tags="promoted" n="865">
+    <w_ id="2n4c" dep="3ce8-nsubj" tags="promoted" n="865">
       <w lemma="жіночка" ana="noun:anim:f:v_naz">жіночка</w>
     </w_>
     <w_ id="2n4d" dep="2n4f-cc" n="866">
@@ -2968,7 +2968,7 @@
       <w lemma="усмішка" ana="noun:inanim:f:v_zna">усмішку</w>
     </w_>
     <g/>
-    <w_ id="2n50" n="889">
+    <w_ id="2n50" dep="2n4c-punct|3ce8-punct" n="889">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2n51"/>

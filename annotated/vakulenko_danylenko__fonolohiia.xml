@@ -6399,16 +6399,16 @@
       <w lemma="реґіон" ana="noun:inanim:m:v_zna:auto">реґіон</w>
     </w_>
     <g/>
-    <w_ id="1bba" dep="1bbc-punct">
+    <w_ id="1bba" dep="1bbc-punct|3cea-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1bbb" dep="1bbc-cc">
+    <w_ id="1bbb" dep="1bbc-cc|3cea-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="1bbc" dep="1bb6-conj:parataxis" tags="promoted">
+    <w_ id="1bbc" dep="1bb6-conj:parataxis|3cea-nsubj" tags="promoted">
       <w lemma="інший" ana="adj:p:v_naz:&amp;pron:ind">інші</w>
     </w_>
-    <w_ id="3cea" ellipsis="predicate">
+    <w_ id="3cea" dep="1bb6-conj:parataxis" ellipsis="predicate">
       <w lemma="охопити" ana="verb:perf:past:p">охопили</w>
     </w_>
     <w_ id="1bbd" dep="1bbh-punct">
@@ -6423,7 +6423,7 @@
     <w_ id="1bbg" dep="1bbh-det">
       <w lemma="його" ana="adj:p:v_zna:poss:nv:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="1bbh" dep="1bbc-obj">
+    <w_ id="1bbh" dep="1bbc-orphan|3cea-obj">
       <w lemma="частина" ana="noun:inanim:p:f:v_zna">частини</w>
     </w_>
     <g/>
@@ -11037,7 +11037,7 @@
     <w_ id="1cgd" dep="1cgc-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
-    <w_ id="1cge" dep="1cgf-obj">
+    <w_ id="1cge" dep="1cgg-obj">
       <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
     </w_>
     <w_ id="1cgf">
