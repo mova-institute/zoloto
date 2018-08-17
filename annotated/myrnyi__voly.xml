@@ -5334,13 +5334,13 @@
     <w_ id="0jll">
       <w lemma="один" ana="adj:m:v_rod:&amp;pron:ind">одного</w>
     </w_>
-    <w_ id="0jlm" dep="0jlo-cc">
+    <w_ id="0jlm">
       <w lemma="й" ana="conj:coord">й</w>
     </w_>
     <w_ id="0jln">
       <w lemma="з" ana="prep:rv_rod">з</w>
     </w_>
-    <w_ id="0jlo" dep="0jll-conj">
+    <w_ id="0jlo">
       <w lemma="другий" ana="adj:m:v_rod:&amp;pron:ind">другого</w>
     </w_>
     <w_ id="0jlp">
@@ -5407,7 +5407,7 @@
     <w_ id="0jm7" dep="0jm8-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0jm8" dep="0jm1-parataxis">
+    <w_ id="0jm8" dep="0jm1-conj">
       <w lemma="деренчати" ana="verb:imperf:past:p">деренчали</w>
     </w_>
     <w_ id="0jm9" dep="0jma-amod">
@@ -5417,7 +5417,7 @@
       <w lemma="дрожка" ana="noun:inanim:p:f:v_naz:rare">дрожки</w>
     </w_>
     <g/>
-    <w_ id="0jmb" dep="0jlr-punct">
+    <w_ id="0jmb" dep="0jm1-punct">
       <w lemma="..." ana="punct:ellipsis">...</w>
     </w_>
   </p>
@@ -6361,30 +6361,30 @@
     <w_ id="0jut" dep="0jur-obl">
       <w lemma="вона" ana="noun:f:v_zna:rprep:&amp;pron:pers:3">неї</w>
     </w_>
-    <w_ id="0juu">
+    <w_ id="0juu" dep="0juv-cc">
       <w lemma="та" ana="conj:coord">та</w>
     </w_>
-    <w_ id="0juv">
+    <w_ id="0juv" dep="0jur-conj">
       <w lemma="дивуватися" ana="verb:rev:imperf:past:m">дивувався</w>
     </w_>
     <g/>
-    <w_ id="0juw">
+    <w_ id="0juw" dep="0jv0-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0jux">
+    <w_ id="0jux" dep="0jv0-nsubj">
       <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:ind">що</w>
     </w_>
-    <w_ id="0juy">
+    <w_ id="0juy" dep="0juz-case">
       <w lemma="з" ana="prep:rv_oru">з</w>
     </w_>
-    <w_ id="0juz">
+    <w_ id="0juz" dep="0jv0-obl">
       <w lemma="вона" ana="noun:f:v_oru:&amp;pron:pers:3">нею</w>
     </w_>
-    <w_ id="0jv0">
+    <w_ id="0jv0" dep="0juv-ccomp" comment="давальна валентність?">
       <w lemma="статися" ana="verb:rev:perf:past:n">сталося</w>
     </w_>
     <g/>
-    <w_ id="0jv1">
+    <w_ id="0jv1" dep="0juv-punct" comment="~">
       <w lemma="..." ana="punct:ellipsis">...</w>
     </w_>
     <sb id="0jv2"/>
