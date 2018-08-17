@@ -3424,7 +3424,7 @@
       <w_ id="27rr" dep="27rs-case">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
-      <w_ id="27rs" dep="27rt-obl">
+      <w_ id="27rs">
         <w lemma="центр" ana="noun:inanim:m:v_mis">центрі</w>
       </w_>
       <w_ id="27rt">
@@ -3452,10 +3452,10 @@
       <w_ id="27s0" dep="27s3-orphan">
         <w lemma="вулиця" ana="noun:inanim:f:v_mis">вулиці</w>
       </w_>
-      <w_ id="3ced" ellipsis="predicate">
+      <w_ id="3ced" dep="27rt-conj:parataxis" ellipsis="predicate">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="3cee" ellipsis="predicate">
+      <w_ id="3cee" dep="3ced-csubj" ellipsis="predicate">
         <w lemma="побачити" ana="verb:perf:inf">побачити</w>
       </w_>
       <w_ id="27s1" dep="27s3-punct">
@@ -3464,7 +3464,7 @@
       <w_ id="27s2" dep="27s3-amod">
         <w lemma="приватний" ana="adj:p:v_zna:rinanim">приватні</w>
       </w_>
-      <w_ id="27s3" dep="27rt-conj:parataxis">
+      <w_ id="27s3" dep="27rt-conj:parataxis|3cee-obj">
         <w lemma="будинок" ana="noun:inanim:p:m:v_zna">будинки</w>
       </w_>
       <w_ id="27s4" dep="27s5-case">
@@ -3685,7 +3685,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27u2"/>
-      <w_ id="27u3" dep="27u5-orphan">
+      <w_ id="27u3" dep="27u5-orphan|3ceg-advmod">
         <w lemma="неподалік" ana="adv">Неподалік</w>
       </w_>
       <w_ id="3ceg" ellipsis="predicate">
@@ -3694,11 +3694,11 @@
       <w_ id="27u4" dep="27u5-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="27u5">
+      <w_ id="27u5" dep="3ceg-nsubj">
         <w lemma="пляж" ana="noun:inanim:m:v_naz">пляж</w>
       </w_>
       <g/>
-      <w_ id="27u6" dep="27u5-punct">
+      <w_ id="27u6" dep="27u5-punct|3ceg-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27u7"/>

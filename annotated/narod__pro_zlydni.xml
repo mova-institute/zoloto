@@ -1467,29 +1467,29 @@
     <w_ id="0czi">
       <w lemma="запрягти" ana="verb:perf:past:m">Запріг</w>
     </w_>
-    <w_ id="0czj">
+    <w_ id="0czj" dep="0czi-nsubj">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
-    <w_ id="0czk">
+    <w_ id="0czk" dep="0czi-obj">
       <w lemma="кінь" ana="noun:anim:m:v_zna">коня</w>
     </w_>
     <g/>
-    <w_ id="0czl">
+    <w_ id="0czl" dep="0czm-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0czm">
+    <w_ id="0czm" dep="0czi-conj">
       <w lemma="приїхати" ana="verb:perf:past:m">приїхав</w>
     </w_>
     <w_ id="0czn" dep="0czm-advmod">
       <w lemma="додому" ana="adv">додому</w>
     </w_>
-    <w_ id="0czo">
+    <w_ id="0czo" dep="0czq-cc">
       <w lemma="та" ana="conj:coord">та</w>
     </w_>
-    <w_ id="0czp">
+    <w_ id="0czp" dep="0czq-discourse">
       <w lemma="й" ana="part">й</w>
     </w_>
-    <w_ id="0czq">
+    <w_ id="0czq" dep="0czi-conj">
       <w lemma="казати" ana="verb:imperf:pres:s:3">каже</w>
     </w_>
     <g/>
@@ -1502,7 +1502,7 @@
     <w_ id="0czu" dep="0czw-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0czv">
+    <w_ id="0czv" dep="0czw-discourse" comment="#&gt;part">
       <w lemma="а" ana="intj">А</w>
     </w_>
     <w_ id="0czw">
@@ -3143,26 +3143,26 @@
     <w_ id="0df7" dep="0dfe-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0df8">
+    <w_ id="0df8" dep="0dfe-nsubj">
       <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
     </w_>
     <g/>
-    <w_ id="0df9">
+    <w_ id="0df9" dep="0dfb-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <g/>
-    <w_ id="0dfa">
+    <w_ id="0dfa" dep="0dfb-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0dfb">
+    <w_ id="0dfb" dep="0dfe-parataxis">
       <w lemma="казати" ana="verb:imperf:pres:p:3">кажуть</w>
     </w_>
     <g/>
-    <w_ id="0dfc">
+    <w_ id="0dfc" dep="0dfb-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <g/>
-    <w_ id="0dfd" dep="0dfe-punct">
+    <w_ id="0dfd" dep="0dfe-punct|0dfb-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
     <w_ id="0dfe">
