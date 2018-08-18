@@ -172,13 +172,13 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="14h6"/>
-          <w_ id="14h7" dep="14hc-cc">
+          <w_ id="14h7" dep="14hc-cc|3ce2-cc">
             <w lemma="а" ana="conj:coord">А</w>
           </w_>
           <w_ id="14h8" dep="14h9-case">
             <w lemma="перед" ana="prep:rv_oru">перед</w>
           </w_>
-          <w_ id="14h9" dep="14hc-obl">
+          <w_ id="14h9" dep="14hc-orphan|3ce2-obl">
             <w lemma="вона" ana="noun:f:v_oru:&amp;pron:pers:3">нею</w>
           </w_>
           <w_ id="3ce2" ellipsis="predicate">
@@ -190,13 +190,13 @@
           <w_ id="14hb" dep="14hc-amod">
             <w lemma="молоденький" ana="adj:f:v_naz">молоденька</w>
           </w_>
-          <w_ id="14hc" tags="promoted">
+          <w_ id="14hc" dep="3ce2-nsubj" tags="promoted">
             <w lemma="сосна" ana="noun:inanim:f:v_naz">сосна</w>
           </w_>
           <w_ id="14hd" dep="14he-amod">
             <w lemma="рівний" ana="adj:p:v_oru:compb">рівними</w>
           </w_>
-          <w_ id="14he" dep="14hc-obl">
+          <w_ id="14he" dep="14hc-obl" comment="~">
             <w lemma="рядочок" ana="noun:inanim:p:m:v_oru">рядочками</w>
           </w_>
           <w_ id="14hf" dep="14hh-case">
@@ -209,7 +209,7 @@
             <w lemma="пісок" ana="noun:inanim:m:v_mis">піску</w>
           </w_>
           <g/>
-          <w_ id="14hi" dep="14hc-punct">
+          <w_ id="14hi" dep="14hc-punct|3ce2-punct">
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="14hj"/>

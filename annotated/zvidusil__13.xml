@@ -901,22 +901,22 @@
         <w lemma="лоток" ana="noun:inanim:m:v_zna">лоток</w>
       </w_>
       <g/>
-      <w_ id="237f" dep="237j-punct">
+      <w_ id="237f" dep="237j-punct|3cdy-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="237g" dep="237j-mark">
+      <w_ id="237g" dep="237j-mark|3cdy-mark">
         <w lemma="щоб" ana="conj:subord">щоб</w>
       </w_>
-      <w_ id="237h" dep="237j-orphan">
+      <w_ id="237h" dep="237j-orphan|3cdy-advmod">
         <w lemma="потім" ana="adv:&amp;pron:dem">потім</w>
       </w_>
-      <w_ id="3cdy" ellipsis="predicate">
+      <w_ id="3cdy" dep="237a-advcl" ellipsis="predicate">
         <w lemma="піти" ana="verb:perf:inf">піти</w>
       </w_>
       <w_ id="237i" dep="237j-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="237j" dep="237a-advcl">
+      <w_ id="237j" dep="237a-advcl|3cdy-obl">
         <w lemma="викинштейн" ana="noun:inanim:m:v_zna">викинштейн</w>
       </w_>
       <g/>
@@ -4230,7 +4230,7 @@
       <w_ id="241u" dep="241x-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="241v">
+      <w_ id="241v" dep="241x-advmod" comment="~">
         <w lemma="майже" ana="adv">майже</w>
       </w_>
       <w_ id="241w" dep="241x-nummod:gov">

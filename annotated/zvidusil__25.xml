@@ -3084,14 +3084,17 @@
       <w_ id="2paz" dep="2pb5-punct" n="902">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2pb0" dep="2pb5-advmod" n="903">
+      <w_ id="2pb0" dep="2pb5-orphan" n="903">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="2pb1" dep="2pb2-case" n="904">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="2pb2" dep="2pb5-obl" tags="promoted" n="905">
+      <w_ id="2pb2" dep="2pb5-orphan" tags="promoted" n="905">
         <w lemma="кожний" ana="adj:m:v_rod:&amp;pron:gen">кожного</w>
+      </w_>
+      <w_ id="3cf4" ellipsis="predicate">
+        <w lemma="існувати" ana="verb:imperf:pres:s:3">існує</w>
       </w_>
       <w_ id="2pb3" dep="2pb5-det" n="906">
         <w lemma="свій" ana="adj:f:v_naz:poss:&amp;pron:refl">своя</w>
@@ -3099,7 +3102,7 @@
       <w_ id="2pb4" dep="2pb5-amod" n="907">
         <w lemma="тотемний" ana="adj:f:v_naz">тотемна</w>
       </w_>
-      <w_ id="2pb5" dep="2pay-acl" tags="promoted" n="908">
+      <w_ id="2pb5" dep="2pay-acl" n="908">
         <w lemma="рослина" ana="noun:inanim:f:v_naz">рослина</w>
       </w_>
       <w_ id="2pb6" dep="2pb8-amod" n="909">
@@ -3911,8 +3914,11 @@
       <w_ id="2piv" dep="2piw-case" n="1142">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
-      <w_ id="2piw" dep="2pj1-obl" n="1143">
+      <w_ id="2piw" dep="2pj1-orphan" n="1143">
         <w lemma="плече" ana="noun:inanim:p:n:v_oru:odd">плечами</w>
+      </w_>
+      <w_ id="3cf5" ellipsis="predicate">
+        <w lemma="існувати" ana="verb:imperf:pres:s:3">існує</w>
       </w_>
       <w_ id="2pix" dep="2pj1-discourse" n="1144">
         <w lemma="всього" ana="part">всього</w>
@@ -3927,7 +3933,7 @@
       <w_ id="2pj0" dep="2piy-compound" n="1147">
         <w lemma="5" ana="numr:v_naz:nv">5</w>
       </w_>
-      <w_ id="2pj1" dep="2pil-conj:parataxis" tags="promoted" comment="ожеледиця" n="1148">
+      <w_ id="2pj1" dep="2pil-conj:parataxis" tags="promoted" n="1148">
         <w lemma="день" ana="noun:inanim:p:m:v_naz">дні</w>
       </w_>
       <w_ id="2pj2" dep="2pj1-nmod" n="1149">

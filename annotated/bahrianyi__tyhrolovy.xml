@@ -1419,16 +1419,19 @@
     <w_ id="03af" dep="03ag-case">
       <w lemma="серед" ana="prep:rv_rod">серед</w>
     </w_>
-    <w_ id="03ag" dep="03aj-obl" coref="03ab-equality">
+    <w_ id="03ag" dep="03aj-orphan" coref="03ab-equality">
       <w lemma="вони" ana="noun:p:v_rod:rprep:&amp;pron:pers:3">них</w>
     </w_>
-    <w_ id="03ah" dep="03aj-advmod">
+    <w_ id="03ah" dep="03aj-orphan">
       <w lemma="десь" ana="adv:&amp;pron:ind">десь</w>
+    </w_>
+    <w_ id="3cet" ellipsis="predicate">
+      <w lemma="існувати" ana="verb:imperf:pres:p:3">існують</w>
     </w_>
     <w_ id="03ai" dep="03aj-discourse">
       <w lemma="й" ana="part">й</w>
     </w_>
-    <w_ id="03aj" comment="#exist">
+    <w_ id="03aj">
       <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
     </w_>
     <g/>
@@ -1549,10 +1552,10 @@
       <w lemma="пень" ana="noun:inanim:m:v_zna">пень</w>
     </w_>
     <g/>
-    <w_ id="03bm" dep="03bp-punct|3cbd-punct">
+    <w_ id="03bm" dep="3cbd-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="03bn" dep="03bp-orphan|3cbd-advmod">
+    <w_ id="03bn" dep="3cbd-advmod">
       <w lemma="звідти" ana="adv:&amp;pron:dem">звідти</w>
     </w_>
     <w_ id="3cbd" ellipsis="predicate">

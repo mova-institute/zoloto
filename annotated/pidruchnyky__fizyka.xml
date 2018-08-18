@@ -1569,8 +1569,11 @@
     <w_ id="0luc" dep="0lud-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0lud" dep="0lu8-conj" comment="orphan?">
+    <w_ id="0lud" dep="0lu3-conj:parataxis">
       <w lemma="інший" ana="adj:f:v_zna:&amp;pron:ind">іншу</w>
+    </w_>
+    <w_ id="3cev" ellipsis="predicate">
+      <w lemma="занурити" ana="verb:perf:futr:p:1">зануримо</w>
     </w_>
     <w_ id="0lue" dep="0lug-punct">
       <w lemma="—" ana="punct">—</w>
@@ -1578,7 +1581,7 @@
     <w_ id="0luf" dep="0lug-case">
       <w lemma="в" ana="prep:rv_zna:v-u">в</w>
     </w_>
-    <w_ id="0lug" dep="0lud-obl" tags="promoted">
+    <w_ id="0lug" dep="0lud-orphan" tags="promoted">
       <w lemma="холодний" ana="adj:f:v_zna:compb">холодну</w>
     </w_>
     <g/>
@@ -1647,7 +1650,7 @@
     <w_ id="0lv2" dep="0lv3-case">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="0lv3" dep="0lv1-obl">
+    <w_ id="0lv3">
       <w lemma="вона" ana="noun:f:v_mis:rprep:&amp;pron:pers:3">ній</w>
     </w_>
     <w_ id="0lv4" dep="0lv1-nsubj">
