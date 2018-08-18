@@ -1372,16 +1372,16 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1mi6"/>
-      <w_ id="1mi7" dep="1mi9-cc">
+      <w_ id="1mi7" dep="1mi9-cc|3cer-cc">
         <w lemma="а" ana="conj:coord">А</w>
       </w_>
-      <w_ id="1mi8" dep="1mi9-advmod">
+      <w_ id="1mi8" dep="1mi9-orphan|3cer-advmod">
         <w lemma="вже" ana="adv:v-u">вже</w>
       </w_>
-      <w_ id="1mi9" tags="promoted">
+      <w_ id="1mi9" dep="3cer-obj" tags="promoted">
         <w lemma="весь" ana="adj:p:v_zna:ranim:&amp;pron:gen">всіх</w>
       </w_>
-      <w_ id="1mia" dep="1mi9-advmod">
+      <w_ id="1mia" dep="1mi9-acl:adv">
         <w lemma="далі" ana="adv">далі</w>
       </w_>
       <w_ id="3cer" ellipsis="predicate">
@@ -1393,11 +1393,11 @@
       <w_ id="1mic" dep="1mid-discourse">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
-      <w_ id="1mid" dep="1mi9-orphan">
+      <w_ id="1mid" dep="1mi9-orphan|3cer-advmod">
         <w lemma="вдома" ana="adv:v-u">вдома</w>
       </w_>
       <g/>
-      <w_ id="1mie">
+      <w_ id="1mie" dep="3cer-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1mif"/>
@@ -3685,19 +3685,19 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <g/>
-      <w_ id="1n43" dep="1n46-punct">
+      <w_ id="1n43" dep="1n46-punct|3cex-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1n44" dep="1n46-orphan">
+      <w_ id="1n44" dep="1n46-orphan|3cex-advmod">
         <w lemma="сьогодні" ana="adv">сьогодні</w>
       </w_>
-      <w_ id="3cex" ellipsis="predicate">
+      <w_ id="3cex" dep="1n3x-parataxis" ellipsis="predicate">
         <w lemma="обмежити" ana="verb:perf:past:p">обмежили</w>
       </w_>
       <w_ id="1n45" dep="1n46-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="1n46" dep="1n3x-parataxis" tags="promoted">
+      <w_ id="1n46" dep="1n3x-parataxis|3cex-obl" tags="promoted">
         <w lemma="вісім" ana="numr:v_rod">восьми</w>
       </w_>
       <g/>
