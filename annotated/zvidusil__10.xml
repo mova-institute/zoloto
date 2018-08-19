@@ -3427,10 +3427,10 @@
       <w_ id="1zk3" dep="1zk4-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="1zk4">
+      <w_ id="1zk4" dep="1zk5-orphan">
         <w lemma="стадіон" ana="noun:inanim:m:v_mis">стадіоні</w>
       </w_>
-      <w_ id="1zk5" dep="1zk4-nsubj">
+      <w_ id="1zk5" comment="#&lt;існує">
         <w lemma="життя" ana="noun:inanim:n:v_naz">життя</w>
       </w_>
       <g/>
@@ -3443,7 +3443,7 @@
       <w_ id="1zk8" dep="1zk9-nsubj">
         <w lemma="пані" ana="noun:anim:f:v_naz:nv">пані</w>
       </w_>
-      <w_ id="1zk9" dep="1zk4-parataxis">
+      <w_ id="1zk9" dep="1zk5-parataxis">
         <w lemma="бігати" ana="verb:imperf:pres:s:3">бігає</w>
       </w_>
       <w_ id="1zka" dep="1zk9-obj">
@@ -3459,7 +3459,7 @@
       <w_ id="1zkd" dep="1zke-nsubj">
         <w lemma="пан" ana="noun:anim:m:v_naz">пан</w>
       </w_>
-      <w_ id="1zke" dep="1zk4-parataxis">
+      <w_ id="1zke" dep="1zk9-parataxis">
         <w lemma="робити" ana="verb:imperf:pres:s:3">робить</w>
       </w_>
       <w_ id="1zkf" dep="1zkg-amod">
@@ -3481,7 +3481,7 @@
       <w_ id="1zkk" dep="1zki-nmod">
         <w lemma="камуфляж" ana="noun:inanim:m:v_mis">камуфляжі</w>
       </w_>
-      <w_ id="1zkl" dep="1zk4-parataxis">
+      <w_ id="1zkl" dep="1zk9-parataxis">
         <w lemma="умовляти" ana="verb:imperf:pres:s:3:v-u">умовляє</w>
       </w_>
       <w_ id="1zkm" dep="1zkl-obj">
@@ -4924,19 +4924,19 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1zy0"/>
-      <w_ id="1zy1" dep="1zy3-cop">
+      <w_ id="1zy1">
         <w lemma="бути" ana="verb:aux:imperf:pres:s:3">Є</w>
       </w_>
       <w_ id="1zy2" dep="1zy3-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1zy3">
+      <w_ id="1zy3" dep="1zy1-obl">
         <w lemma="він" ana="noun:m:v_mis:rprep:&amp;pron:pers:3">ньому</w>
       </w_>
-      <w_ id="1zy4" dep="1zy3-punct">
+      <w_ id="1zy4" dep="1zy5-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="1zy5" dep="1zy3-nsubj">
+      <w_ id="1zy5" dep="1zy1-nsubj">
         <w lemma="рефлєксія" ana="noun:inanim:f:v_naz:odd">рефлєксія</w>
       </w_>
       <g/>
@@ -4962,7 +4962,7 @@
         <w lemma="питання" ana="noun:inanim:p:n:v_zna">питання</w>
       </w_>
       <g/>
-      <w_ id="1zyd" dep="1zy3-punct">
+      <w_ id="1zyd" dep="1zy1-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1zye"/>

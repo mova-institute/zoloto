@@ -84,7 +84,7 @@
       <w_ id="38xt" dep="38xu-punct" n="25">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38xu" dep="38xq-appos" comment="~" n="26">
+      <w_ id="38xu" dep="38xq-list" comment="~" n="26">
         <w lemma="9" ana="numr:v_naz:nv">9</w>
       </w_>
       <g/>
@@ -113,19 +113,19 @@
       <w_ id="38y3" dep="38y4-case" n="34">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="38y4" n="35">
+      <w_ id="38y4" dep="38y7-nummod:gov" n="35">
         <w lemma="4" ana="numr:v_rod:nv">4</w>
       </w_>
       <w_ id="38y5" dep="38y6-case" n="36">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="38y6" n="37">
+      <w_ id="38y6" dep="38y4-flat:range" n="37">
         <w lemma="6" ana="numr:v_rod:nv">6</w>
       </w_>
       <w_ id="38y7" n="38">
         <w lemma="дельфін" ana="noun:anim:p:m:v_rod">дельфінів</w>
       </w_>
-      <w_ id="38y8" n="39">
+      <w_ id="38y8" dep="38yb-nmod" comment="~" n="39">
         <w lemma="походження" ana="noun:inanim:n:v_oru">походженням</w>
       </w_>
       <w_ id="38y9" dep="38yb-case|38yb-distrib" n="40">
@@ -134,7 +134,7 @@
       <w_ id="38ya" dep="38yb-amod|38yb-private" n="41">
         <w lemma="чорний" ana="adj:n:v_rod:compb">Чорного</w>
       </w_>
-      <w_ id="38yb" n="42">
+      <w_ id="38yb" dep="38y7-nmod" n="42">
         <w lemma="море" ana="noun:inanim:n:v_rod">моря</w>
       </w_>
       <w_ id="38yc" dep="38ye-cc" n="43">

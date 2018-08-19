@@ -641,7 +641,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <g/>
-      <w_ id="1nh9" dep="1nhj-punct">
+      <w_ id="1nh9" dep="1nhj-punct" comment="~розбивати?">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <w_ id="1nha" dep="1nhe-advmod">
@@ -1297,19 +1297,19 @@
       <w_ id="1nnd">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="1nne">
+      <w_ id="1nne" dep="1nnf-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
       <w_ id="1nnf">
         <w lemma="кіно" ana="noun:inanim:n:v_mis:nv">кіно</w>
       </w_>
-      <w_ id="1nng">
+      <w_ id="1nng" dep="1nnh-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="1nnh">
         <w lemma="2" ana="adj:n:v_rod:nv:&amp;numr">2</w>
       </w_>
-      <w_ id="1nni">
+      <w_ id="1nni" dep="1nnh-nmod">
         <w lemma="лютий" ana="adj:m:v_rod:compb:&amp;noun:inanim" lemma2="лютий">лютого</w>
       </w_>
       <g/>
@@ -1321,16 +1321,16 @@
   <doc id="1nnk" author="Мороз Міла" date="2017-01-23 05:32" genre="допис" src="https://www.facebook.com/milkamorozova/posts/1299296326803476" title="[А в нас Уляна Супрун]">
     <p id="1nnl">
       <sb id="1nnm"/>
-      <w_ id="1nnn" dep="1nnp-discourse">
+      <w_ id="1nnn" dep="1nnq-discourse" comment="~">
         <w lemma="а" ana="part">А</w>
       </w_>
       <w_ id="1nno" dep="1nnp-case">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="1nnp">
+      <w_ id="1nnp" dep="1nnq-orphan">
         <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
       </w_>
-      <w_ id="1nnq" dep="1nnp-nsubj">
+      <w_ id="1nnq" comment="#&lt;існує">
         <w lemma="Уляна" ana="noun:anim:f:v_naz:prop:fname">Уляна</w>
       </w_>
       <w_ id="1nnr" dep="1nnq-flat:name">
@@ -1345,11 +1345,11 @@
       <w_ id="1nnu" dep="1nnv-det">
         <w lemma="мій" ana="adj:f:v_naz:poss:&amp;pron:pers:1">моя</w>
       </w_>
-      <w_ id="1nnv" dep="1nnq-flat:title">
+      <w_ id="1nnv" dep="1nnq-appos">
         <w lemma="міністерка" ana="noun:anim:f:v_naz">міністерка</w>
       </w_>
       <g/>
-      <w_ id="1nnw" dep="1nnp-discourse">
+      <w_ id="1nnw" dep="1nnq-discourse">
         <w lemma=":)" ana="sym">:)</w>
       </w_>
     </p>
