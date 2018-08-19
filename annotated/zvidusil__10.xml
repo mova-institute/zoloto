@@ -1969,13 +1969,13 @@
         <w lemma="міськвлада" ana="noun:inanim:f:v_dav">міськвладі</w>
       </w_>
       <g/>
-      <w_ id="1z6t" dep="1z6v-punct">
+      <w_ id="1z6t" dep="1z6v-punct|3cf7-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1z6u" dep="1z6v-cc">
+      <w_ id="1z6u" dep="1z6v-cc|3cf7-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="1z6v" dep="1z6p-conj:parataxis" tags="promoted">
+      <w_ id="1z6v" dep="1z6p-conj:parataxis|3cf7-nsubj" tags="promoted">
         <w lemma="той" ana="adj:f:v_naz:&amp;pron:dem">та</w>
       </w_>
       <w_ id="1z6w" dep="1z6y-case">
@@ -1984,16 +1984,19 @@
       <w_ id="1z6x" dep="1z6y-det">
         <w lemma="свій" ana="adj:f:v_zna:poss:&amp;pron:refl">свою</w>
       </w_>
-      <w_ id="1z6y" dep="1z6v-obl">
+      <w_ id="1z6y" dep="1z6v-orphan|3cf7-obl">
         <w lemma="черга" ana="noun:inanim:f:v_zna">чергу</w>
       </w_>
-      <w_ id="1z6z" dep="1z6v-punct">
+      <w_ id="3cf7" dep="1z6p-conj:parataxis" ellipsis="predicate">
+        <w lemma="передавати" ana="verb:imperf:pres:s:3">передає</w>
+      </w_>
+      <w_ id="1z6z" dep="1z71-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
       <w_ id="1z70" dep="1z71-case">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
-      <w_ id="1z71" dep="1z6v-obl">
+      <w_ id="1z71" dep="1z6v-orphan|3cf7-obl">
         <w lemma="користування" ana="noun:inanim:n:v_zna">користування</w>
       </w_>
       <w_ id="1z72" dep="1z71-nmod">

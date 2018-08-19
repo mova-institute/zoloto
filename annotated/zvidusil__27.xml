@@ -478,7 +478,7 @@
         <w lemma="черево" ana="noun:inanim:n:v_naz">черево</w>
       </w_>
       <g/>
-      <w_ id="32zp" n="143">
+      <w_ id="32zp" dep="32zq-punct" n="143">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="32zq" dep="32zm-conj" n="144">
@@ -6458,7 +6458,7 @@
         <w lemma="-" ana="punct:ndash">-</w>
       </w_>
       <g/>
-      <w_ id="34ie" dep="34ic-conj" n="1936">
+      <w_ id="34ie" dep="34ic-flat:range" n="1936">
         <w lemma="7" ana="numr:v_naz:nv">7</w>
       </w_>
       <w_ id="34if" dep="34ia-flat:title" n="1937">
@@ -8444,10 +8444,10 @@
       <w_ id="350a" dep="3507-conj" n="2540">
         <w lemma="комбінація" ana="noun:inanim:f:v_rod">комбінації</w>
       </w_>
-      <w_ id="350b" dep="350a-nmod" comment="~" n="2541">
+      <w_ id="350b" dep="350c-nummod" n="2541">
         <w lemma="n" ana="x:foreign">n</w>
       </w_>
-      <w_ id="350c" dep="350b-nmod" n="2542">
+      <w_ id="350c" dep="350a-nmod" n="2542">
         <w lemma="розв’язок" ana="noun:inanim:p:m:v_rod">розв'язків</w>
       </w_>
       <w_ id="350d" dep="350f-amod" n="2543">
@@ -8489,13 +8489,13 @@
       <w_ id="350p" n="2553">
         <w lemma="мати" ana="verb:imperf:pres:p:1">маємо</w>
       </w_>
-      <w_ id="350q" dep="350p-nmod" n="2554">
+      <w_ id="350q" dep="350s-nummod:gov" n="2554">
         <w lemma="n" ana="x:foreign">n</w>
       </w_>
       <w_ id="350r" dep="350s-amod" n="2555">
         <w lemma="різний" ana="adj:p:v_rod">різних</w>
       </w_>
-      <w_ id="350s" dep="350q-nmod" n="2556">
+      <w_ id="350s" dep="350p-obj" n="2556">
         <w lemma="розв’язок" ana="noun:inanim:p:m:v_rod">розв'язків</w>
       </w_>
       <w_ id="350t" dep="350u-amod" n="2557">

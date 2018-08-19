@@ -1358,7 +1358,7 @@
         <w lemma="–" ana="punct:ndash">–</w>
       </w_>
       <g/>
-      <w_ id="1siz" dep="1six-conj">
+      <w_ id="1siz" dep="1six-flat:range">
         <w lemma="1939-ий" ana="adj:m:v_mis:&amp;numr:&amp;noun:inanim" lemma2="1939-ий">1939-му</w>
       </w_>
       <g/>
@@ -6971,7 +6971,7 @@
         <w lemma="-" ana="punct:ndash">-</w>
       </w_>
       <g/>
-      <w_ id="1tz5" dep="1tz3-conj">
+      <w_ id="1tz5" dep="1tz3-flat:range">
         <w lemma="14" ana="numr:v_rod:nv">14</w>
       </w_>
       <w_ id="1tz6" dep="1tyv-ccomp">
@@ -7093,7 +7093,7 @@
       <w_ id="1u08" dep="1u09-nummod">
         <w lemma="14" ana="numr:v_rod:nv">14</w>
       </w_>
-      <w_ id="1u09" dep="1u0d-obl">
+      <w_ id="1u09" dep="1u0c-obl">
         <w lemma="день" ana="noun:inanim:p:m:v_rod">днів</w>
       </w_>
       <w_ id="1u0a" dep="1u0d-obj">
@@ -7112,13 +7112,13 @@
         <w lemma="животик" ana="noun:inanim:m:v_naz">животик</w>
       </w_>
       <g/>
-      <w_ id="1u0f">
+      <w_ id="1u0f" dep="1u0h-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1u0g" dep="1u0h-nsubj" coref="1u0b-equality">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
-      <w_ id="1u0h">
+      <w_ id="1u0h" dep="1u0c-conj:parataxis">
         <w lemma="ставати" ana="verb:imperf:pres:p:3">стають</w>
       </w_>
       <w_ id="1u0i" dep="1u0j-advmod">
@@ -7130,17 +7130,17 @@
       <w_ id="1u0k" dep="1u0o-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1u0l">
+      <w_ id="1u0l" dep="1u0o-discourse" comment="~ точно вставне?">
         <w lemma="звичайно" ana="adv:compb">звичайно</w>
       </w_>
       <g/>
-      <w_ id="1u0m">
+      <w_ id="1u0m" dep="1u0l-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1u0n" dep="1u0o-nsubj" coref="1u0c-equality:cl|1u0h-equality:cl">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="1u0o">
+      <w_ id="1u0o" dep="1u0c-conj:parataxis">
         <w lemma="впливати" ana="verb:imperf:pres:s:3:v-u">впливає</w>
       </w_>
       <w_ id="1u0p" dep="1u0q-case|1u0q-distrib">
@@ -7159,7 +7159,7 @@
         <w lemma="зйомка" ana="noun:inanim:f:v_rod:bad">зйомки</w>
       </w_>
       <g/>
-      <w_ id="1u0u">
+      <w_ id="1u0u" dep="1u0c-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
