@@ -14,7 +14,7 @@
       <w_ id="32vm" dep="32vn-amod" n="3">
         <w lemma="дикий" ana="adj:f:v_naz:compb">дика</w>
       </w_>
-      <w_ id="32vn" dep="32vk-nsubj" n="4">
+      <w_ id="32vn" dep="32vk-nsubj" comment="#pred-right" n="4">
         <w lemma="коза" ana="noun:anim:f:v_naz">коза</w>
       </w_>
       <g/>
@@ -1318,8 +1318,8 @@
       <w_ id="3379" dep="337a-punct" n="391">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="337a" dep="3377-conj" comment="#&gt;:anim:prop:lname" n="392">
-        <w lemma="галушка" ana="noun:inanim:f:v_naz">Галушка</w>
+      <w_ id="337a" dep="3377-conj" n="392">
+        <w lemma="галушка" ana="noun:anim:f:v_naz:prop:lname">Галушка</w>
       </w_>
       <w_ id="337b" dep="337c-cc" n="393">
         <w lemma="й" ana="conj:coord">й</w>
