@@ -3524,10 +3524,10 @@
       <w_ id="2119" dep="2118-xcomp">
         <w lemma="розповідати" ana="verb:imperf:inf">розповідати</w>
       </w_>
-      <w_ id="211a" dep="2119-obl" comment="перевірити">
-        <w lemma="одне" ana="adj:n:v_naz:&amp;pron:ind:&amp;noun:anim" lemma2="один">одне</w>
+      <w_ id="211a" dep="2119-iobj" comment="перевірити">
+        <w lemma="один" ana="adj:n:v_naz:&amp;pron:ind">одне</w>
       </w_>
-      <w_ id="211b" dep="211a-nmod">
+      <w_ id="211b" dep="211a-flat:rcp">
         <w lemma="одне" ana="adj:n:v_dav:&amp;pron:ind:&amp;noun:anim" lemma2="один">одному</w>
       </w_>
       <g/>
@@ -3860,7 +3860,7 @@
       <w_ id="2149" dep="214a-case">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
-      <w_ id="214a" dep="2148-nmod" tags="promoted">
+      <w_ id="214a" dep="2148-flat:rcp" tags="promoted">
         <w lemma="один" ana="adj:n:v_oru:&amp;pron:ind">одним</w>
       </w_>
       <w_ id="214b">
