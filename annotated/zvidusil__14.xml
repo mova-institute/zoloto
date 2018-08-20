@@ -1248,7 +1248,7 @@
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="24o1">
+      <w_ id="24o1" comment="еліпс наперед">
         <w lemma="територія" ana="noun:inanim:p:f:v_naz">території</w>
       </w_>
       <w_ id="24o2" dep="24o9-amod">
@@ -3083,10 +3083,10 @@
         <w lemma="тварина" ana="noun:anim:p:f:v_rod">тварин</w>
       </w_>
       <g/>
-      <w_ id="254p">
+      <w_ id="254p" dep="254q-punct|3cfh-punct">
         <w lemma=";" ana="punct">;</w>
       </w_>
-      <w_ id="254q">
+      <w_ id="254q" dep="254k-parataxis|3cfh-nsubj" tags="promoted">
         <w lemma="тригеномний" ana="adj:p:v_naz">тригеномні</w>
       </w_>
       <w_ id="254r" dep="254y-punct">
@@ -3111,11 +3111,14 @@
       <w_ id="254x" dep="254t-conj">
         <w lemma="пластидний" ana="adj:m:v_oru">пластидним</w>
       </w_>
-      <w_ id="254y">
+      <w_ id="254y" dep="254q-nmod" comment="~ що робити з цими відокремленнями?">
         <w lemma="геном" ana="noun:inanim:p:m:v_oru">геномами</w>
       </w_>
       <w_ id="254z" dep="254y-punct">
         <w lemma="—" ana="punct">—</w>
+      </w_>
+      <w_ id="3cfh" dep="254k-parataxis" ellipsis="predicate">
+        <w lemma="характерний" ana="adj:p:v_naz:compb">характерні</w>
       </w_>
       <w_ id="2550" dep="2553-case">
         <w lemma="для" ana="prep:rv_rod">для</w>
@@ -3126,17 +3129,17 @@
       <w_ id="2552" dep="2553-det">
         <w lemma="весь" ana="adj:p:v_rod:&amp;pron:gen">всіх</w>
       </w_>
-      <w_ id="2553">
+      <w_ id="2553" dep="254q-orphan|3cfh-obl">
         <w lemma="рослина" ana="noun:inanim:p:f:v_rod">рослин</w>
       </w_>
       <g/>
-      <w_ id="2554">
+      <w_ id="2554" dep="255h-punct">
         <w lemma=";" ana="punct">;</w>
       </w_>
-      <w_ id="2555">
+      <w_ id="2555" dep="255h-nsubj" tags="promoted">
         <w lemma="чотиригеномний" ana="adj:p:v_naz">чотиригеномні</w>
       </w_>
-      <w_ id="2556">
+      <w_ id="2556" dep="255f-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="2557" dep="255f-case">
@@ -3165,14 +3168,14 @@
       <w_ id="255e" dep="2558-conj">
         <w lemma="нуклеоморфний" ana="adj:p:v_oru">нуклеоморфними</w>
       </w_>
-      <w_ id="255f">
+      <w_ id="255f" dep="2555-nmod">
         <w lemma="геном" ana="noun:inanim:p:m:v_oru">геномами</w>
       </w_>
       <g/>
-      <w_ id="255g">
+      <w_ id="255g" dep="255f-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="255h">
+      <w_ id="255h" dep="254k-parataxis">
         <w lemma="виявлений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">виявлені</w>
       </w_>
       <w_ id="255i" dep="255m-case" mark="reviewed">
@@ -3219,7 +3222,7 @@
         <w lemma="Dinophyta" ana="x:foreign">Dinophyta</w>
       </w_>
       <g/>
-      <w_ id="255w">
+      <w_ id="255w" dep="254k-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3604,15 +3607,18 @@
       <w_ id="2eq9" dep="2592-compound">
         <w lemma="5" ana="numr:v_naz:nv">5</w>
       </w_>
-      <w_ id="2593">
+      <w_ id="2593" dep="258z-flat:title">
         <w lemma="км" ana="noun:inanim:p:m:v_naz:nv:abbr">км</w>
       </w_>
       <g/>
-      <w_ id="2594">
+      <w_ id="2594" dep="2595-punct|3cfi-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2595" mark="reviewed">
+      <w_ id="2595" dep="258x-parataxis|3cfi-nsubj" mark="reviewed">
         <w lemma="рудний" ana="adj:p:v_naz">рудні</w>
+      </w_>
+      <w_ id="3cfi" dep="258x-parataxis" ellipsis="predicate">
+        <w lemma="йти" ana="verb:imperf:pres:p:3">йдуть</w>
       </w_>
       <w_ id="2596" dep="2598-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
@@ -3628,7 +3634,7 @@
       <w_ id="2eqb" dep="2597-compound">
         <w lemma="5" ana="numr:v_rod:nv">5</w>
       </w_>
-      <w_ id="2598">
+      <w_ id="2598" dep="2595-orphan|3cfi-obl">
         <w lemma="км" ana="noun:inanim:p:m:v_rod:nv:abbr">км</w>
       </w_>
       <g/>
@@ -4830,7 +4836,7 @@
       <w_ id="25jp" dep="25jq-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="25jq">
+      <w_ id="25jq" comment="~">
         <w lemma="тому" ana="adv:&amp;pron:dem">тому</w>
       </w_>
       <g/>
@@ -4843,7 +4849,7 @@
       <w_ id="25jt" dep="25ju-nsubj|25ju-distrib">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="25ju" mark="resolved">
+      <w_ id="25ju" dep="25jq-advcl" mark="resolved">
         <w lemma="соня" ana="noun:anim:f:v_naz" author="16:Уманець">соня</w>
       </w_>
       <g/>
@@ -4857,18 +4863,18 @@
         <w lemma="суперледацюга" ana="noun:anim:f:v_naz:auto" author="16:Уманець">суперледацюга</w>
       </w_>
       <g/>
-      <w_ id="25jy">
+      <w_ id="25jy" dep="25jq-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="25jz"/>
-      <w_ id="25k0">
+      <w_ id="25k0" dep="25k6-advmod">
         <w lemma="нарешті" ana="adv">Нарешті</w>
       </w_>
       <w_ id="25k1" dep="25k2-punct">
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="25k2">
+      <w_ id="25k2" dep="25k0-punct">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <g/>
@@ -4878,21 +4884,21 @@
       <w_ id="25k4" dep="25k5-case">
         <w lemma="у" ana="prep:rv_rod:v-u">у</w>
       </w_>
-      <w_ id="25k5">
+      <w_ id="25k5" dep="25k7-nmod">
         <w lemma="я" ana="noun:anim:s:v_rod:&amp;pron:pers:1">мене</w>
       </w_>
-      <w_ id="25k6" dep="25k7-amod">
+      <w_ id="25k6">
         <w lemma="правильний" ana="adj:f:v_naz:compb">правильна</w>
       </w_>
-      <w_ id="25k7">
+      <w_ id="25k7" dep="25k6-nsubj" comment="#лжеожеледиця">
         <w lemma="субота" ana="noun:inanim:f:v_naz">субота</w>
       </w_>
       <g/>
-      <w_ id="25k8">
+      <w_ id="25k8" dep="25k6-punct">
         <w lemma="!" ana="punct">!</w>
       </w_>
-      <!-- поділити? -->
-      <w_ id="25k9">
+      <sb id="3cfj"/>
+      <w_ id="25k9" comment="~ було не ділити?">
         <w lemma="халааа" ana="intj">халааа</w>
       </w_>
       <g/>
@@ -5058,7 +5064,7 @@
         <w lemma="„" ana="punct:quote:open">„</w>
       </w_>
       <g/>
-      <w_ id="25lu">
+      <w_ id="25lu" dep="25ls-flat:title">
         <w lemma="Mindestens" ana="x:foreign">Mindestens</w>
       </w_>
       <w_ id="25lv" dep="25lu-flat:foreign">
@@ -5098,14 +5104,14 @@
       <w_ id="25m5" dep="25m4-advmod" mark="reviewed">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="25m6">
+      <w_ id="25m6" dep="25mc-amod">
         <w lemma="перший" ana="adj:m:v_zna:rinanim:compb:&amp;numr">перший</w>
       </w_>
-      <w_ id="25m7">
+      <w_ id="25m7" dep="25m6-flat:pack">
         <w lemma="український" ana="adj:m:v_zna:rinanim">український</w>
       </w_>
       <g/>
-      <w_ id="25m8">
+      <w_ id="25m8" dep="25mb-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="25m9" dep="25ma-advmod">
@@ -5114,7 +5120,7 @@
       <w_ id="25ma" dep="25mb-advmod">
         <w lemma="дуже" ana="adv:compb">дуже</w>
       </w_>
-      <w_ id="25mb">
+      <w_ id="25mb" dep="25m6-conj">
         <w lemma="досконалий" ana="adj:m:v_zna:rinanim:compb">досконалий</w>
       </w_>
       <w_ id="25mc" dep="25m4-obj">
@@ -5133,7 +5139,7 @@
       <w_ id="25mg" dep="25mh-obj" mark="resolved">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">Що</w>
       </w_>
-      <w_ id="25mh">
+      <w_ id="25mh" dep="25mc-appos" comment="#цікаво: прикладка а не flat:title, а попереду flat:title?">
         <w lemma="сказати" ana="verb:perf:impers">сказано</w>
       </w_>
       <g/>

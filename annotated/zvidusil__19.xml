@@ -3376,7 +3376,7 @@
       <w_ id="2eb2" dep="2eb3-nummod:gov">
         <w lemma="40" ana="numr:v_zna:nv">40</w>
       </w_>
-      <w_ id="2eb3" dep="2eaz-flat:title">
+      <w_ id="2eb3">
         <w lemma="кг" ana="noun:inanim:p:m:v_rod:nv:abbr">кг</w>
       </w_>
       <g/>
@@ -3694,13 +3694,13 @@
       <w_ id="2ee0">
         <w lemma="вік" ana="noun:inanim:m:v_oru">віком</w>
       </w_>
-      <w_ id="2ee1">
+      <w_ id="2ee1" dep="2ee2-case">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
       <w_ id="2ee2">
         <w lemma="3" ana="numr:v_rod:nv">3</w>
       </w_>
-      <w_ id="2ee3">
+      <w_ id="2ee3" dep="2ee4-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ id="2ee4">
@@ -3833,7 +3833,7 @@
       <w_ id="2ef8" dep="2ef9-amod">
         <w lemma="максимальний" ana="adj:f:v_naz">Максимальна</w>
       </w_>
-      <w_ id="2ef9">
+      <w_ id="2ef9" dep="2efi-nsubj">
         <w lemma="тривалість" ana="noun:inanim:f:v_naz">тривалість</w>
       </w_>
       <w_ id="2efa" dep="2ef9-nmod">
@@ -3842,13 +3842,13 @@
       <w_ id="2efb" dep="2efc-case">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2efc">
+      <w_ id="2efc" dep="2ef9-nmod">
         <w lemma="дитина" ana="noun:anim:p:f:v_rod">дітей</w>
       </w_>
       <w_ id="2efd" dep="2efe-case">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
-      <w_ id="2efe">
+      <w_ id="2efe" dep="2ef9-nmod">
         <w lemma="консультація" ana="noun:inanim:f:v_rod">консультації</w>
       </w_>
       <w_ id="2eff" dep="2efe-nmod">
@@ -3864,7 +3864,7 @@
         <w lemma="день" ana="noun:inanim:p:m:v_naz">дні</w>
       </w_>
       <g/>
-      <w_ id="2efj" dep="2ef9-punct">
+      <w_ id="2efj" dep="2efi-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -4028,7 +4028,7 @@
         <w lemma="(" ana="punct:open">(</w>
       </w_>
       <g/>
-      <w_ id="2eh1" dep="2eh2-amod">
+      <w_ id="2eh1" dep="2eh2-amod|2eh2-private">
         <w lemma="нирковий" ana="adj:f:v_naz">ниркова</w>
       </w_>
       <w_ id="2eh2" dep="2egz-appos">
@@ -4059,7 +4059,7 @@
         <w lemma=")" ana="punct:close">)</w>
       </w_>
       <g/>
-      <w_ id="2eha">
+      <w_ id="2eha" dep="2egz-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -4344,75 +4344,75 @@
       <w_ id="2ejx">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
-      <w_ id="2ejy">
+      <w_ id="2ejy" dep="2ejz-aux">
         <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
-      <w_ id="2ejz" comment="ungrammatical">
+      <w_ id="2ejz" dep="2ejx-ccomp" comment="ungrammatical">
         <w lemma="застосувати" ana="verb:perf:impers">застосовано</w>
       </w_>
-      <w_ id="2ek0">
+      <w_ id="2ek0" dep="2ek2-case">
         <w lemma="протягом" ana="prep:rv_rod">протягом</w>
       </w_>
-      <w_ id="2ek1">
+      <w_ id="2ek1" dep="2ek2-nummod">
         <w lemma="24" ana="numr:v_rod:nv">24</w>
       </w_>
       <w_ id="2ek2" dep="2ejz-obl">
         <w lemma="година" ana="noun:inanim:p:f:v_rod">годин</w>
       </w_>
-      <w_ id="2ek3">
+      <w_ id="2ek3" dep="2ek4-case">
         <w lemma="після" ana="prep:rv_rod">після</w>
       </w_>
-      <w_ id="2ek4">
+      <w_ id="2ek4" dep="2ek2-nmod">
         <w lemma="прийом" ana="noun:inanim:m:v_rod:bad">прийому</w>
       </w_>
       <w_ id="2ek5" dep="2ek4-nmod">
         <w lemma="парацетамол" ana="noun:inanim:m:v_rod">парацетамолу</w>
       </w_>
       <g/>
-      <w_ id="2ek6">
+      <w_ id="2ek6" dep="2ekb-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2ek7">
+      <w_ id="2ek7" dep="2ekb-cc">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="2ek8">
+      <w_ id="2ek8" dep="2eka-amod">
         <w lemma="максимальний" ana="adj:m:v_zna:rinanim">максимальний</w>
       </w_>
-      <w_ id="2ek9">
+      <w_ id="2ek9" dep="2eka-amod">
         <w lemma="захисний" ana="adj:m:v_zna:rinanim">захисний</w>
       </w_>
-      <w_ id="2eka">
+      <w_ id="2eka" dep="2ekb-obj">
         <w lemma="ефект" ana="noun:inanim:m:v_zna">ефект</w>
       </w_>
-      <w_ id="2ekb">
+      <w_ id="2ekb" dep="2ejx-conj:parataxis">
         <w lemma="отримувати" ana="verb:imperf:pres:p:3">отримують</w>
       </w_>
-      <w_ id="2ekc">
+      <w_ id="2ekc" dep="2eke-case">
         <w lemma="при" ana="prep:rv_mis">при</w>
       </w_>
-      <w_ id="2ekd">
+      <w_ id="2ekd" dep="2eke-nmod">
         <w lemma="він" ana="noun:m:v_rod:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ id="2eke">
+      <w_ id="2eke" dep="2ekb-nmod">
         <w lemma="застосування" ana="noun:inanim:n:v_mis">застосуванні</w>
       </w_>
-      <w_ id="2ekf">
+      <w_ id="2ekf" dep="2ekh-case">
         <w lemma="протягом" ana="prep:rv_rod">протягом</w>
       </w_>
-      <w_ id="2ekg">
+      <w_ id="2ekg" dep="2ekh-nummod">
         <w lemma="8" ana="numr:v_rod:nv">8</w>
       </w_>
-      <w_ id="2ekh">
+      <w_ id="2ekh" dep="2eke-nmod">
         <w lemma="година" ana="noun:inanim:p:f:v_rod">годин</w>
       </w_>
-      <w_ id="2eki">
+      <w_ id="2eki" dep="2ekj-case">
         <w lemma="після" ana="prep:rv_rod">після</w>
       </w_>
-      <w_ id="2ekj">
+      <w_ id="2ekj" dep="2ekh-nmod">
         <w lemma="прийом" ana="noun:inanim:m:v_rod:bad">прийому</w>
       </w_>
       <g/>
-      <w_ id="2ekk">
+      <w_ id="2ekk" dep="2ejx-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2ekl"/>
