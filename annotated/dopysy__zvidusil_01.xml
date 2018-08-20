@@ -258,10 +258,10 @@
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="30rx"/>
-      <w_ id="30ry" n="80">
+      <w_ id="30ry" dep="30s3-discourse" n="80">
         <w lemma="а" ana="part">А</w>
       </w_>
-      <w_ id="30rz" n="81">
+      <w_ id="30rz" dep="30ry-fixed" n="81">
         <w lemma="то" ana="part">то</w>
       </w_>
       <w_ id="30s0" dep="30s1-case" n="82">
@@ -289,7 +289,7 @@
       <w_ id="30s7" dep="30s8-case" n="89">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="30s8" n="90">
+      <w_ id="30s8" dep="30sb-obl" n="90">
         <w lemma="інший" ana="adj:p:v_rod:&amp;pron:ind">інших</w>
       </w_>
       <w_ id="30s9" dep="30sa-det" n="91">
@@ -298,11 +298,11 @@
       <w_ id="30sa" dep="30sb-nsubj" n="92">
         <w lemma="обкладинка" ana="noun:inanim:p:f:v_naz">обкладинки</w>
       </w_>
-      <w_ id="30sb" n="93">
+      <w_ id="30sb" dep="30s3-conj:parataxis" n="93">
         <w lemma="великий" ana="adj:p:v_naz:compb">великі</w>
       </w_>
       <g/>
-      <w_ id="30sc" n="94">
+      <w_ id="30sc" dep="30s3-punct" n="94">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="30sd"/>
