@@ -3536,23 +3536,23 @@
         <w lemma="опади" ana="noun:inanim:p:v_naz:ns">опади</w>
       </w_>
       <g/>
-      <w_ id="1wir">
+      <w_ id="1wir" dep="1wiv-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1wis" dep="1wit-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="1wit">
+      <w_ id="1wit" dep="1wiv-obl">
         <w lemma="решта" ana="noun:inanim:f:v_mis">решті</w>
       </w_>
       <w_ id="1wiu" dep="1wit-nmod">
         <w lemma="територія" ana="noun:inanim:f:v_rod">території</w>
       </w_>
-      <w_ id="1wiv">
+      <w_ id="1wiv" tags="itsubj">
         <w lemma="сухо" ana="adv:compb">сухо</w>
       </w_>
       <g/>
-      <w_ id="1wiw">
+      <w_ id="1wiw" dep="1wi7-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1wix"/>
@@ -3829,16 +3829,16 @@
         <w lemma="дощ" ana="noun:inanim:m:v_naz">дощ</w>
       </w_>
       <g/>
-      <w_ id="1wlc">
+      <w_ id="1wlc" dep="1wlf-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1wld">
+      <w_ id="1wld" dep="1wlf-advmod">
         <w lemma="вдень" ana="adv:v-u">вдень</w>
       </w_>
       <w_ id="1wle" dep="1wlf-case">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
-      <w_ id="1wlf">
+      <w_ id="1wlf" tags="itsubj">
         <w lemma="опади" ana="noun:inanim:p:v_rod:ns">опадів</w>
       </w_>
       <g/>
@@ -3854,7 +3854,7 @@
       <w_ id="1wlj">
         <w lemma="вночі" ana="adv:v-u">вночі</w>
       </w_>
-      <w_ id="1wlk">
+      <w_ id="1wlk" dep="1wll-case">
         <w lemma="близько" ana="prep:rv_rod">близько</w>
       </w_>
       <w_ id="1wll" dep="1wlm-nummod">
@@ -3914,7 +3914,7 @@
       <w_ id="1wm3" dep="1wm4-case">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
-      <w_ id="1wm4">
+      <w_ id="1wm4" dep="1wm7-obl">
         <w lemma="неділя" ana="noun:inanim:f:v_zna">неділю</w>
       </w_>
       <w_ id="1wm5" dep="1wm7-advmod">
@@ -3923,7 +3923,7 @@
       <w_ id="1wm6" dep="1wm7-case">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
-      <w_ id="1wm7">
+      <w_ id="1wm7" tags="itsubj">
         <w lemma="опади" ana="noun:inanim:p:v_rod:ns">опадів</w>
       </w_>
       <g/>
@@ -4337,10 +4337,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1wpq"/>
-      <w_ id="1wpr">
+      <w_ id="1wpr" dep="1wpv-nsubj">
         <w lemma="температура" ana="noun:inanim:f:v_naz">Температура</w>
       </w_>
-      <w_ id="1wps" dep="1wpr-advmod">
+      <w_ id="1wps" dep="1wpr-acl:adv">
         <w lemma="вночі" ana="adv:v-u">вночі</w>
       </w_>
       <w_ id="1wpt" dep="1wpv-case">
@@ -4363,7 +4363,7 @@
         <w lemma="2" ana="numr:m:v_rod:nv">2</w>
       </w_>
       <g/>
-      <w_ id="1wpz">
+      <w_ id="1wpz" dep="1wpv-flat:range">
         <w lemma="°" ana="noun:inanim:p:m:v_rod:nv:symbol">°</w>
       </w_>
       <w_ id="1wq0" dep="1wpz-nmod">
@@ -6171,13 +6171,13 @@
       <w_ id="1x5s" dep="1x5t-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="1x5t" tags="promoted">
+      <w_ id="1x5t" dep="1x5n-dislocated" comment="~ ! чи прикладка">
         <w lemma="перший" ana="adj:n:v_rod:compb:&amp;numr">першого</w>
       </w_>
       <w_ id="1x5u" dep="1x5v-cc">
         <w lemma="чи" ana="conj:coord">чи</w>
       </w_>
-      <w_ id="1x5v" dep="1x5t-conj" tags="promoted">
+      <w_ id="1x5v" dep="1x5t-conj">
         <w lemma="другий" ana="adj:n:v_rod:&amp;numr">другого</w>
       </w_>
       <g/>
