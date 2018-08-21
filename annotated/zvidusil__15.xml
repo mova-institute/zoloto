@@ -452,15 +452,15 @@
       <w_ id="25v2" dep="25v3-det" coref="25uy-equality">
         <w lemma="його" ana="adj:p:v_naz:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ id="25v3" dep="25uw-advcl" comment="~">
+      <w_ id="25v3" dep="25uw-ccomp" comment="~">
         <w lemma="ініціал" ana="noun:inanim:p:m:v_naz">ініціали</w>
       </w_>
       <g/>
       <w_ id="25v4" dep="25v8-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25v5" dep="25v8-mark">
-        <w lemma="хоча" ana="conj:subord">хоча</w>
+      <w_ id="25v5" dep="25v8-cc">
+        <w lemma="хоча" ana="conj:coord">хоча</w>
       </w_>
       <w_ id="25v6" dep="25v8-nsubj" coref="25r6-equality">
         <w lemma="Волт" ana="noun:anim:m:v_naz:prop:fname">Волт</w>
@@ -468,7 +468,7 @@
       <w_ id="25v7" dep="25v8-advmod">
         <w lemma="швидко" ana="adv:compb">швидко</w>
       </w_>
-      <w_ id="25v8">
+      <w_ id="25v8" dep="25ub-conj:parataxis">
         <w lemma="приписувати" ana="verb:imperf:pres:s:3">приписує</w>
       </w_>
       <w_ id="25v9" dep="25v8-obj" coref="25v3-equality">

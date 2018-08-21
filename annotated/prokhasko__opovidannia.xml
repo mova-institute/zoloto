@@ -1844,7 +1844,7 @@
     <w_ id="0r85" dep="0r86-advmod">
       <w lemma="зовсім" ana="adv">зовсім</w>
     </w_>
-    <w_ id="0r86">
+    <w_ id="0r86" dep="0r82-amod" comment="зовсім відокремлене">
       <w lemma="чистий" ana="adj:f:v_naz:compb">чиста</w>
     </w_>
     <w_ id="0r87" dep="0r89-cc">
@@ -27728,13 +27728,13 @@
     <w_ id="0xv6" dep="0xv5-iobj">
       <w lemma="ми" ana="noun:anim:p:v_dav:&amp;pron:pers:1">нам</w>
     </w_>
-    <w_ id="0xv7" dep="0xv9-cc">
+    <w_ id="0xv7" dep="0xv8-cc">
       <w lemma="або" ana="conj:coord">або</w>
     </w_>
-    <w_ id="0xv8" mark="resolved">
+    <w_ id="0xv8" dep="0xv6-conj" mark="resolved">
       <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">сама</w>
     </w_>
-    <w_ id="0xv9" dep="0xv6-conj">
+    <w_ id="0xv9" dep="0xv8-flat:pack">
       <w lemma="себе" ana="noun:v_dav:&amp;pron:refl">собі</w>
     </w_>
     <w_ id="0xva" dep="0xvb-det">
@@ -42046,8 +42046,8 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="11j2"/>
-    <w_ id="11j3" dep="11j4-goeswith">
-      <w lemma="пів" ana="noun:inanim:f:v_naz:nv:np">Пів</w>
+    <w_ id="11j3" dep="11j4-nummod:gov">
+      <w lemma="пів" ana="numr:v_rod:nv:alt">Пів</w>
     </w_>
     <w_ id="11j4" dep="11j6-obj">
       <w lemma="пачка" ana="noun:inanim:f:v_rod">пачки</w>
