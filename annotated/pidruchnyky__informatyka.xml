@@ -1744,20 +1744,20 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0o4g"/>
-    <w_ id="0o4h">
+    <w_ id="0o4h" dep="0o4i-mark">
       <w lemma="як" ana="conj:subord">Як</w>
     </w_>
-    <w_ id="0o4i">
+    <w_ id="0o4i" dep="0o4p-parataxis:discourse">
       <w lemma="правило" ana="noun:inanim:n:v_naz">правило</w>
     </w_>
     <g/>
-    <w_ id="0o4j">
+    <w_ id="0o4j" dep="0o4i-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0o4k">
+    <w_ id="0o4k" dep="0o4p-nsubj">
       <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
     </w_>
-    <w_ id="0o4l">
+    <w_ id="0o4l" dep="0o4p-nummod:gov">
       <w lemma="1" ana="numr:m:v_naz:nv">1</w>
     </w_>
     <g/>
@@ -1775,7 +1775,7 @@
       <w lemma="диск" ana="noun:inanim:p:m:v_naz">диски</w>
     </w_>
     <g/>
-    <w_ id="0o4q">
+    <w_ id="0o4q" dep="0o4v-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0o4r" dep="0o4v-nsubj">
@@ -1809,7 +1809,7 @@
       <w lemma="об’єкт" ana="noun:inanim:p:m:v_naz">об’єкти</w>
     </w_>
     <g/>
-    <w_ id="0o51">
+    <w_ id="0o51" dep="0o4p-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0o52"/>
@@ -1841,22 +1841,28 @@
       <w lemma="система" ana="noun:inanim:f:v_rod">системи</w>
     </w_>
     <g/>
-    <w_ id="0o5c">
+    <w_ id="0o5c" dep="0o5e-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0o5d">
+    <w_ id="0o5d" dep="0o5e-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0o5e">
+    <w_ id="0o5e" dep="0o56-conj">
       <w lemma="інший" ana="adj:p:v_zna:rinanim:&amp;pron:ind">інші</w>
     </w_>
-    <w_ id="0o5f">
+    <w_ id="3cgb" ellipsis="predicate">
+      <w lemma="можна" ana="adv">можна</w>
+    </w_>
+    <w_ id="3cgc" ellipsis="predicate">
+      <w lemma="відвести" ana="verb:perf:inf">відвести</w>
+    </w_>
+    <w_ id="0o5f" dep="0o5h-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
     <w_ id="0o5g" dep="0o5h-case">
       <w lemma="для" ana="prep:rv_rod">для</w>
     </w_>
-    <w_ id="0o5h">
+    <w_ id="0o5h" dep="0o5e-orphan">
       <w lemma="збереження" ana="noun:inanim:n:v_rod">збереження</w>
     </w_>
     <w_ id="0o5i" dep="0o5h-nmod">
@@ -1992,7 +1998,7 @@
     <w_ id="0o6q" dep="0o6r-det">
       <w lemma="кожний" ana="adj:m:v_mis:&amp;pron:gen">кожному</w>
     </w_>
-    <w_ id="0o6r">
+    <w_ id="0o6r" dep="0o6t-obl">
       <w lemma="сектор" ana="noun:inanim:m:v_mis:xp1">секторі</w>
     </w_>
     <w_ id="0o6s">
@@ -2001,26 +2007,26 @@
     <w_ id="0o6t" dep="0o6s-xcomp">
       <w lemma="зберігатися" ana="verb:rev:imperf:inf">зберігатися</w>
     </w_>
-    <w_ id="0o6u">
+    <w_ id="0o6u" dep="0o6v-case">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
-    <w_ id="0o6v">
+    <w_ id="0o6v" comment="еліпс наперед">
       <w lemma="0" ana="numr:v_rod:nv">0</w>
     </w_>
-    <w_ id="0o6w">
+    <w_ id="0o6w" dep="0o6y-case">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ id="0o6x">
+    <w_ id="0o6x" dep="0o6y-nummod">
       <w lemma="512" ana="numr:v_rod:nv">512</w>
     </w_>
     <w_ id="0o6y">
       <w lemma="байт" ana="noun:inanim:p:m:v_rod">байтів</w>
     </w_>
-    <w_ id="0o6z">
+    <w_ id="0o6z" dep="0o6y-nmod">
       <w lemma="дані" ana="adj:p:v_rod:ns:&amp;adjp:perf:pasv:&amp;noun:inanim" lemma2="даний">даних</w>
     </w_>
     <g/>
-    <w_ id="0o70">
+    <w_ id="0o70" dep="0o6s-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0o71"/>
@@ -2099,17 +2105,17 @@
       <w lemma="кілька" ana="numr:v_rod:&amp;pron:ind">кількох</w>
     </w_>
     <g/>
-    <w_ id="0o7r">
+    <w_ id="0o7r" dep="0o7t-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0o7s">
+    <w_ id="0o7s" dep="0o7t-discourse">
       <w lemma="наприклад" ana="adv">наприклад</w>
     </w_>
-    <w_ id="0o7t">
+    <w_ id="0o7t" dep="0o7q-appos">
       <w lemma="чотири" ana="numr:v_rod">чотирьох</w>
     </w_>
     <g/>
-    <w_ id="0o7u">
+    <w_ id="0o7u" dep="0o7t-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0o7v" dep="0o7m-obl">
@@ -2305,6 +2311,9 @@
     <w_ id="0o9o">
       <w lemma="рідше" ana="adv:compr">рідше</w>
     </w_>
+    <w_ id="3cgd" ellipsis="predicate">
+      <w lemma="перекодовуватися" ana="verb:rev:imperf:pres:p:3">перекодовуються</w>
+    </w_>
     <w_ id="0o9p">
       <w lemma="—" ana="punct">—</w>
     </w_>
@@ -2316,18 +2325,18 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0o9s"/>
-    <w_ id="0o9t">
+    <w_ id="0o9t" dep="0oae-discourse">
       <w lemma="так" ana="adv:&amp;pron:dem">Так</w>
     </w_>
     <g/>
-    <w_ id="0o9u">
+    <w_ id="0o9u" dep="0o9v-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0o9v">
+    <w_ id="0o9v" dep="0oae-discourse">
       <w lemma="наприклад" ana="adv">наприклад</w>
     </w_>
     <g/>
-    <w_ id="0o9w">
+    <w_ id="0o9w" dep="0o9v-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0o9x" dep="0o9y-case">
@@ -2353,7 +2362,7 @@
     <w_ id="0oa3" dep="0oa4-amod">
       <w lemma="попередній" ana="adj:n:v_rod">попереднього</w>
     </w_>
-    <w_ id="0oa4">
+    <w_ id="0oa4" dep="0o9y-nmod:obj">
       <w lemma="речення" ana="noun:inanim:n:v_rod">речення</w>
     </w_>
     <g/>
@@ -2373,7 +2382,7 @@
       <w lemma="символ" ana="noun:inanim:p:m:v_rod">символів</w>
     </w_>
     <g/>
-    <w_ id="0oaa">
+    <w_ id="0oaa" dep="0oab-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0oab">
@@ -2383,7 +2392,7 @@
       <w lemma="пробіл" ana="noun:inanim:p:m:v_zna">пробіли</w>
     </w_>
     <g/>
-    <w_ id="0oad">
+    <w_ id="0oad" dep="0oa7-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0oae">
@@ -2415,7 +2424,7 @@
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0oan" dep="0oap-cc">
-      <w lemma="або" ana="conj:coord">або</w>
+      <w lemma="або" ana="conj:subord">або</w>
     </w_>
     <w_ id="0oao" dep="0oap-nummod:gov">
       <w lemma="114" ana="numr:v_zna:nv">114</w>

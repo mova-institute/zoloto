@@ -3711,7 +3711,7 @@
     <w_ id="1gpr" dep="1gpt-advmod" comment="exlamational">
       <w lemma="як" ana="adv:&amp;pron:rel">Як</w>
     </w_>
-    <w_ id="1gps" dep="1gpt-obl">
+    <w_ id="1gps" dep="1gpt-obj">
       <w lemma="степ" ana="noun:inanim:m:v_oru">степом</w>
     </w_>
     <w_ id="1gpt">
@@ -4128,8 +4128,8 @@
     <w_ id="1gtr" dep="1gtx-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1gts" mark="reviewed">
-      <w lemma="коли" ana="conj:subord">коли</w>
+    <w_ id="1gts" dep="1gtx-advmod" mark="reviewed">
+      <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
     </w_>
     <w_ id="1gtt" dep="1gtu-case">
       <w lemma="до" ana="prep:rv_rod">до</w>
@@ -4203,16 +4203,16 @@
     <w_ id="1gug" dep="1gux-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1guh">
+    <w_ id="1guh" dep="1gux-nsubj">
       <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
     </w_>
-    <w_ id="1gui">
+    <w_ id="1gui" dep="1guj-advmod">
       <w lemma="трохи" ana="adv">трохи</w>
     </w_>
     <w_ id="1guj">
       <w lemma="менше" ana="adv:compr">менше</w>
     </w_>
-    <w_ id="1guk">
+    <w_ id="1guk" dep="1guj-fixed">
       <w lemma="ніж" ana="conj:subord">ніж</w>
     </w_>
     <w_ id="1gul" dep="1gun-case">
@@ -4225,7 +4225,7 @@
       <w lemma="рік" ana="noun:inanim:p:m:v_zna">роки</w>
     </w_>
     <g/>
-    <w_ id="1guo">
+    <w_ id="1guo" dep="1gur-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="1gup" dep="1gur-case">
@@ -4240,17 +4240,17 @@
     <w_ id="1gus" dep="1gut-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="1gut">
+    <w_ id="1gut" dep="1gur-nmod">
       <w lemma="квітень" ana="noun:inanim:m:v_mis">квітні</w>
     </w_>
     <w_ id="1guu" dep="1guv-amod" mark="reviewed">
       <w lemma="2010" ana="adj:m:v_rod:nv:&amp;numr">2010</w>
     </w_>
-    <w_ id="1guv">
+    <w_ id="1guv" dep="1gut-nmod">
       <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
     </w_>
     <g/>
-    <w_ id="1guw">
+    <w_ id="1guw" dep="1gur-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="1gux" dep="1guf-acl">
@@ -4275,11 +4275,11 @@
   </p>
   <p id="1gv4">
     <sb id="1gv5"/>
-    <w_ id="1gv6">
+    <w_ id="1gv6" dep="1gve-discourse">
       <w lemma="безумовно" ana="adv">Безумовно</w>
     </w_>
     <g/>
-    <w_ id="1gv7">
+    <w_ id="1gv7" dep="1gv6-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="1gv8" mark="resolved">
@@ -4357,7 +4357,7 @@
       <w lemma="війна" ana="noun:inanim:f:v_naz">війна</w>
     </w_>
     <g/>
-    <w_ id="1gvw">
+    <w_ id="1gvw" dep="1gve-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1gvx"/>
@@ -4517,8 +4517,8 @@
     <w_ id="1gxe" dep="1gxi-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1gxf" mark="resolved" comment="питальний конж?">
-      <w lemma="чи" ana="part" author="30:Саморідна">чи</w>
+    <w_ id="1gxf" dep="1gxi-mark" mark="resolved">
+      <w lemma="чи" ana="conj:subord" author="30:Саморідна">чи</w>
     </w_>
     <w_ id="1gxg" dep="1gxi-nsubj">
       <w lemma="президент" ana="noun:anim:m:v_naz">президент</w>
@@ -4539,10 +4539,10 @@
     <w_ id="1gxl" dep="1gxn-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1gxm" mark="resolved">
-      <w lemma="чи" ana="part" author="30:Саморідна">чи</w>
+    <w_ id="1gxm" dep="1gxn-mark" mark="resolved">
+      <w lemma="чи" ana="conj:subord" author="30:Саморідна">чи</w>
     </w_>
-    <w_ id="1gxn">
+    <w_ id="1gxn" dep="1gxi-conj">
       <w lemma="ні" ana="part:neg">ні</w>
     </w_>
     <g/>

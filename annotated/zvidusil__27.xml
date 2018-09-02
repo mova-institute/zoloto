@@ -962,49 +962,49 @@
         <w lemma="артист" ana="noun:anim:m:v_naz">артист</w>
       </w_>
       <g/>
-      <w_ id="3342" n="284">
+      <w_ id="3342" dep="3345-punct" n="284">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3343" n="285">
+      <w_ id="3343" dep="3345-nsubj" n="285">
         <w lemma="дехто" ana="noun:anim:v_naz:&amp;pron:ind">дехто</w>
       </w_>
       <w_ id="3344" dep="3345-det" n="286">
         <w lemma="той" ana="adj:f:v_rod:&amp;pron:dem">тої</w>
       </w_>
-      <w_ id="3345" n="287">
+      <w_ id="3345" dep="333t-conj" comment="~" n="287">
         <w lemma="думка" ana="noun:inanim:f:v_rod">думки</w>
       </w_>
       <g/>
-      <w_ id="3346" n="288">
+      <w_ id="3346" dep="334f-punct" n="288">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3347" n="289">
+      <w_ id="3347" dep="334f-mark" n="289">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="3348" dep="3349-case" n="290">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="3349" n="291">
+      <w_ id="3349" dep="334d-nmod" n="291">
         <w lemma="він" ana="noun:m:v_rod:rprep:&amp;pron:pers:3">нього</w>
       </w_>
       <g/>
       <w_ id="334a" dep="334b-punct" n="292">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="334b" n="293">
+      <w_ id="334b" dep="334f-discourse" n="293">
         <w lemma="навпаки" ana="adv">навпаки</w>
       </w_>
       <g/>
       <w_ id="334c" dep="334b-punct" n="294">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="334d" n="295">
+      <w_ id="334d" dep="334f-nsubj" n="295">
         <w lemma="артист" ana="noun:anim:m:v_naz">артист</w>
       </w_>
       <w_ id="334e" dep="334f-advmod" n="296">
         <w lemma="далеко" ana="adv:compb">далеко</w>
       </w_>
-      <w_ id="334f" dep="334d-amod" n="297">
+      <w_ id="334f" dep="3345-acl" n="297">
         <w lemma="кращий" ana="adj:m:v_naz:compr">кращий</w>
       </w_>
       <g/>
@@ -1018,22 +1018,22 @@
         <w lemma="охотник" ana="noun:anim:m:v_naz">охотник</w>
       </w_>
       <g/>
-      <w_ id="334j" n="301">
+      <w_ id="334j" dep="334o-punct" n="301">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="334k" n="302">
+      <w_ id="334k" dep="334o-cc" n="302">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="334l" n="303">
+      <w_ id="334l" dep="334o-nsubj" n="303">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
       </w_>
-      <w_ id="334m" n="304">
+      <w_ id="334m" dep="334o-punct" n="304">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
       <w_ id="334n" dep="334o-det" n="305">
         <w lemma="такий" ana="adj:m:v_rod:&amp;pron:dem">такого</w>
       </w_>
-      <w_ id="334o" n="306">
+      <w_ id="334o" dep="333t-conj" n="306">
         <w lemma="погляд" ana="noun:inanim:m:v_rod">погляду</w>
       </w_>
       <g/>
@@ -3549,7 +3549,7 @@
       <w_ id="33rj" dep="33rk-amod" n="1066">
         <w lemma="чистокровний" ana="adj:m:v_oru">чистокровним</w>
       </w_>
-      <w_ id="33rk" dep="33ri-obl" comment="~" n="1067">
+      <w_ id="33rk" dep="33ri-obj" n="1067">
         <w lemma="ірландець" ana="noun:anim:m:v_oru">ірландцем</w>
       </w_>
       <g/>
@@ -3598,7 +3598,7 @@
       <w_ id="33rz" dep="33rq-conj" n="1081">
         <w lemma="мати" ana="verb:imperf:past:m">мав</w>
       </w_>
-      <w_ id="33s0" dep="33ry-amod" n="1082">
+      <w_ id="33s0" n="1082">
         <w lemma="позатиканий" ana="adj:p:v_zna:rinanim:&amp;adjp:perf:pasv">позатикані</w>
       </w_>
       <w_ id="33s1" dep="33s0-obl" n="1083">
@@ -5391,7 +5391,7 @@
         <w lemma="тяжко" ana="adv:compb">тяжко</w>
       </w_>
       <w_ id="348m" dep="348i-iobj" n="1618">
-        <w lemma="хворий" ana="adj:m:v_oru">хворим</w>
+        <w lemma="хворий" ana="adj:m:v_dav">хворим</w>
       </w_>
       <w_ id="348n" dep="348p-punct" n="1619">
         <w lemma="(" ana="punct:open">(</w>

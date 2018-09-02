@@ -5545,7 +5545,7 @@
       <w_ id="1dyh" dep="1dye-acl">
         <w lemma="пахнути" ana="verb:imperf:pres:s:3">пахне</w>
       </w_>
-      <w_ id="1dyi" dep="1dyh-obl">
+      <w_ id="1dyi" dep="1dyh-obj">
         <w lemma="фіалка" ana="noun:inanim:f:v_oru">фіалкою</w>
       </w_>
       <g/>
@@ -8657,10 +8657,10 @@
       </w_>
     </s>
     <s id="2sx0" parallel-id="uk:Wislocka-Ars_amandi:0:498:2">
-      <w_ id="1eor">
+      <w_ id="1eor" dep="1eos-mark">
         <w lemma="як" ana="conj:subord">Як</w>
       </w_>
-      <w_ id="1eos">
+      <w_ id="1eos" dep="1epe-parataxis" comment="~ :discourse?">
         <w lemma="бачити" ana="verb:imperf:pres:p:1">бачимо</w>
       </w_>
       <w_ id="1eot" dep="1eou-case">
@@ -8679,7 +8679,7 @@
       <w_ id="1eox" dep="1eoy-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="1eoy">
+      <w_ id="1eoy" dep="1eou-appos">
         <w lemma="розділ" ana="noun:inanim:m:v_mis">розділі</w>
       </w_>
       <g/>
@@ -9123,7 +9123,7 @@
         <w lemma="прутень" ana="noun:inanim:m:v_rod">прутня</w>
       </w_>
       <g/>
-      <w_ id="1eso">
+      <w_ id="1eso" dep="1esq-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1esp" dep="1esq-advmod">
@@ -9139,13 +9139,13 @@
         <w lemma="шов" ana="noun:inanim:m:v_naz">шов</w>
       </w_>
       <g/>
-      <w_ id="1est">
+      <w_ id="1est" dep="1esv-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1esu">
+      <w_ id="1esu" dep="1esv-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1esv">
+      <w_ id="1esv" dep="1ess-acl">
         <w lemma="йти" ana="verb:imperf:pres:s:3">йде</w>
       </w_>
       <w_ id="1esw" dep="1esx-case">
@@ -10374,29 +10374,29 @@
         <w lemma="подразник" ana="noun:inanim:p:m:v_rod">подразників</w>
       </w_>
       <g/>
-      <w_ id="1f3b">
+      <w_ id="1f3b" dep="1f3d-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1f3c">
+      <w_ id="1f3c" dep="1f3d-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ id="1f3d">
         <w lemma="правило" ana="noun:inanim:n:v_naz">правило</w>
       </w_>
       <g/>
-      <w_ id="1f3e">
+      <w_ id="1f3e" dep="1f3d-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1f3f">
+      <w_ id="1f3f" dep="1f3i-discourse">
         <w lemma="аж" ana="part">аж</w>
       </w_>
-      <w_ id="1f3g">
+      <w_ id="1f3g" dep="1f3i-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ id="1f3h">
         <w lemma="вона" ana="noun:f:v_rod:&amp;pron:pers:3">її</w>
       </w_>
-      <w_ id="1f3i">
+      <w_ id="1f3i" dep="1f38-obl">
         <w lemma="закінчення" ana="noun:inanim:n:v_rod">закінчення</w>
       </w_>
       <g/>
@@ -13006,32 +13006,32 @@
       <w_ id="1fpl" dep="1fpj-xcomp:sp">
         <w lemma="підхожість" ana="noun:inanim:f:v_oru">підхожістю</w>
       </w_>
-      <w_ id="1fpm">
+      <w_ id="1fpm" dep="1fps-cc">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
-      <w_ id="1fpn">
+      <w_ id="1fpn" dep="1fpq-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="1fpo">
+      <w_ id="1fpo" dep="1fpq-advmod">
         <w lemma="давніше" ana="adv:compr">давніше</w>
       </w_>
-      <w_ id="1fpp">
+      <w_ id="1fpp" dep="1fpq-obj">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="1fpq">
+      <w_ id="1fpq" dep="1fps-acl:parataxis" comment="~">
         <w lemma="називати" ana="verb:imperf:past:p">називали</w>
       </w_>
-      <w_ id="1fpr">
+      <w_ id="1fpr" dep="1fpq-punct">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="1fps">
+      <w_ id="1fps" dep="1fpl-conj">
         <w lemma="поклик" ana="noun:inanim:m:v_oru">покликом</w>
       </w_>
-      <w_ id="1fpt">
+      <w_ id="1fpt" dep="1fps-nmod">
         <w lemma="стать" ana="noun:inanim:f:v_rod">ста́ті</w>
       </w_>
       <g/>
-      <w_ id="1fpu">
+      <w_ id="1fpu" dep="1fpg-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </s>
@@ -13091,7 +13091,7 @@
       <w_ id="1fqb" dep="1fqc-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="1fqc">
+      <w_ id="1fqc" dep="1fq8-acl:parataxis">
         <w lemma="назвати" ana="verb:perf:past:f">назвала</w>
       </w_>
       <w_ id="1fqd" dep="1fqc-obj">
@@ -13110,7 +13110,7 @@
         <w lemma="відвідувачка" ana="noun:anim:p:f:v_rod">відвідувачок</w>
       </w_>
       <g/>
-      <w_ id="1fqi">
+      <w_ id="1fqi" dep="1fpx-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </s>

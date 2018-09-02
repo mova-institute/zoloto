@@ -914,7 +914,7 @@
     <w_ id="3axa" dep="3axf-obj" n="278">
       <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:int">Що</w>
     </w_>
-    <w_ id="3axb" n="279">
+    <w_ id="3axb" dep="3axc-advmod" comment="~" n="279">
       <w lemma="тоді" ana="adv:&amp;pron:dem">тоді</w>
     </w_>
     <w_ id="3axc" n="280">
@@ -923,7 +923,7 @@
     <w_ id="3axd" dep="3axe-amod" n="281">
       <w lemma="авторитарний" ana="adj:f:v_dav:compb">авторитарній</w>
     </w_>
-    <w_ id="3axe" n="282">
+    <w_ id="3axe" dep="3axc-iobj" n="282">
       <w lemma="влада" ana="noun:inanim:f:v_dav">владі</w>
     </w_>
     <w_ id="3axf" dep="3axc-csubj" n="283">
@@ -1996,13 +1996,13 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="3b73"/>
-    <w_ id="3b74" n="609">
+    <w_ id="3b74" dep="3b78-nsubj" tags="promoted" n="609">
       <w lemma="багато" ana="numr:v_naz:&amp;pron:ind">Багато</w>
     </w_>
     <w_ id="3b75" dep="3b76-case" n="610">
       <w lemma="з" ana="prep:rv_rod">з</w>
     </w_>
-    <w_ id="3b76" n="611">
+    <w_ id="3b76" dep="3b74-nmod" n="611">
       <w lemma="вони" ana="noun:p:v_rod:rprep:&amp;pron:pers:3">них</w>
     </w_>
     <w_ id="3b77" dep="3b78-discourse" n="612">
@@ -2042,16 +2042,16 @@
       <w lemma="»" ana="punct">»</w>
     </w_>
     <g/>
-    <w_ id="3b7i" n="623">
+    <w_ id="3b7i" dep="3b7l-punct" n="623">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="3b7j" n="624">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="3b7k" n="625">
+    <w_ id="3b7k" dep="3b7l-advmod" n="625">
       <w lemma="тому" ana="adv:&amp;pron:dem">тому</w>
     </w_>
-    <w_ id="3b7l" n="626">
+    <w_ id="3b7l" dep="3b78-advcl" n="626">
       <w lemma="вважати" ana="verb:imperf:pres:p:3">вважають</w>
     </w_>
     <w_ id="3b7m" dep="3b7l-obj" n="627">
@@ -2064,7 +2064,7 @@
       <w lemma="вишколений" ana="adj:p:v_oru:&amp;adjp:perf:pasv">вишколеними</w>
     </w_>
     <g/>
-    <w_ id="3b7p" n="630">
+    <w_ id="3b7p" dep="3b78-punct" n="630">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="3b7q"/>

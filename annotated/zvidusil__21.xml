@@ -15,13 +15,13 @@
       <w_ id="2gn1" dep="2gn2-case" n="3">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2gn2" dep="2gn0-nmod" n="4">
+      <w_ id="2gn2" n="4">
         <w lemma="чоловік" ana="noun:anim:p:m:v_rod">чоловіків</w>
       </w_>
-      <w_ id="2gn3" n="5">
+      <w_ id="2gn3" dep="2gn5-case" n="5">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="2gn4" n="6">
+      <w_ id="2gn4" dep="2gn5-punct" n="6">
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
@@ -29,7 +29,7 @@
         <w lemma="республіка" ana="noun:inanim:f:v_mis">республіці</w>
       </w_>
       <g/>
-      <w_ id="2gn6" n="8">
+      <w_ id="2gn6" dep="2gn5-punct" n="8">
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
       <w_ id="2gn7" n="9">
@@ -55,7 +55,7 @@
       <w_ id="2gne" dep="2gnd-obj" coref="2gmz-equality" n="15">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
-      <w_ id="2gnf" n="16">
+      <w_ id="2gnf" comment="~" n="16">
         <w lemma="увесь" ana="adj:p:v_zna:rinanim:&amp;pron:gen">усі</w>
       </w_>
       <g/>
@@ -90,7 +90,7 @@
       <w_ id="2gnp" dep="2gnn-nmod" n="26">
         <w lemma="політтехнолог" ana="noun:anim:p:m:v_rod">політтехнологів</w>
       </w_>
-      <w_ id="2gnq" n="27">
+      <w_ id="2gnq" dep="2gnr-punct" n="27">
         <w lemma="—" ana="punct">—</w>
       </w_>
       <w_ id="2gnr" n="28">
@@ -106,7 +106,7 @@
         <w lemma="місце" ana="noun:inanim:p:n:v_rod">місць</w>
       </w_>
       <g/>
-      <w_ id="2gnv" n="32">
+      <w_ id="2gnv" dep="2gnz-punct" n="32">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2gnw" dep="2gnz-case" n="33">
@@ -119,7 +119,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="2gnz" n="36">
+      <w_ id="2gnz" dep="2gnu-nmod" n="36">
         <w lemma="армія" ana="noun:inanim:f:v_rod">армії</w>
       </w_>
       <g/>
@@ -127,7 +127,7 @@
         <w lemma="»" ana="punct:quote:close">»</w>
       </w_>
       <g/>
-      <w_ id="2go1" n="38">
+      <w_ id="2go1" dep="2gni-punct" n="38">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2go2"/>
@@ -3558,13 +3558,13 @@
         <w lemma="плівка" ana="noun:inanim:f:v_oru">плівкою</w>
       </w_>
       <g/>
-      <w_ id="2hj8" n="1083">
+      <w_ id="2hj8" dep="2hja-punct" n="1083">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2hj9" dep="2hja-det" n="1084">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
-      <w_ id="2hja" n="1085">
+      <w_ id="2hja" dep="2hj3-appos" n="1085">
         <w lemma="процес" ana="noun:inanim:m:v_naz">процес</w>
       </w_>
       <w_ id="2hjb" dep="2hja-nmod" n="1086">
@@ -3587,7 +3587,7 @@
         <w lemma="говорити" ana="verb:imperf:pres:p:1">говоримо</w>
       </w_>
       <g/>
-      <w_ id="2hjh" n="1092">
+      <w_ id="2hjh" dep="2hj0-punct" n="1092">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2hji"/>

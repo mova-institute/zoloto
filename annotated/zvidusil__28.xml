@@ -647,13 +647,13 @@
       <w_ id="35dl" dep="35dj-obl|35dj-private" n="199">
         <w lemma="вода" ana="noun:inanim:f:v_oru">водою</w>
       </w_>
-      <w_ id="35dm" n="200">
+      <w_ id="35dm" dep="35dn-cc" n="200">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="35dn" n="201">
+      <w_ id="35dn" dep="35dj-conj" n="201">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
-      <w_ id="35do" n="202">
+      <w_ id="35do" dep="35dn-flat:pack" n="202">
         <w lemma="крутий" ana="adj:p:v_naz:compb">круті</w>
       </w_>
       <g/>
@@ -2200,7 +2200,7 @@
       <w_ id="35rn" n="667">
         <w lemma="себто" ana="conj:subord">Себто</w>
       </w_>
-      <w_ id="35ro" comment="!?" n="668">
+      <w_ id="35ro" comment="!? #цікаво" n="668">
         <w lemma="совєтчик" ana="noun:anim:p:m:v_rod">совєтчиків</w>
       </w_>
       <g/>
@@ -2240,7 +2240,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="35s0"/>
-      <w_ id="35s1" dep="35s2-amod" n="681">
+      <w_ id="35s1" dep="35s2-amod" comment="#unparseable" n="681">
         <w lemma="спільний" ana="adj:p:v_naz">Спільні</w>
       </w_>
       <w_ id="35s2" dep="35s5-nsubj" n="682">
@@ -2327,7 +2327,7 @@
       <w_ id="35ss" dep="35st-case" n="707">
         <w lemma="щодо" ana="prep:rv_rod">Щодо</w>
       </w_>
-      <w_ id="35st" n="708">
+      <w_ id="35st" dep="35t0-parataxis:discourse" n="708">
         <w lemma="писання" ana="noun:inanim:n:v_rod">писання</w>
       </w_>
       <w_ id="35su" dep="35sv-amod" n="709">
@@ -2337,10 +2337,10 @@
         <w lemma="комісія" ana="noun:inanim:f:v_rod">комісії</w>
       </w_>
       <g/>
-      <w_ id="35sw" n="711">
+      <w_ id="35sw" dep="35st-punct" n="711">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="35sx" n="712">
+      <w_ id="35sx" dep="35t0-discourse" n="712">
         <w lemma="то" ana="part:conseq">то</w>
       </w_>
       <w_ id="35sy" dep="35t0-nsubj" coref="35st-equality" n="713">
@@ -2359,7 +2359,7 @@
         <w lemma="голова" ana="noun:anim:m:v_rod">голови</w>
       </w_>
       <g/>
-      <w_ id="35t3" n="718">
+      <w_ id="35t3" dep="35t0-punct" n="718">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="35t4"/>
