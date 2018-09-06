@@ -1176,10 +1176,10 @@
     </p>
     <p id="2q94">
       <sb id="2q93"/>
-      <w_ id="2q95" dep="2q96-advmod" n="360">
+      <w_ id="2q95" n="360">
         <w lemma="треба" ana="adv">Треба</w>
       </w_>
-      <w_ id="2q96" n="361">
+      <w_ id="2q96" dep="2q95-csubj" n="361">
         <w lemma="зазначити" ana="verb:perf:inf">зазначити</w>
       </w_>
       <g/>
@@ -1221,7 +1221,7 @@
         <w lemma="підтримати" ana="verb:perf:inf">підтримати</w>
       </w_>
       <g/>
-      <w_ id="2q9j" dep="2q96-punct" n="374">
+      <w_ id="2q9j" dep="2q95-punct" n="374">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2q9k"/>
