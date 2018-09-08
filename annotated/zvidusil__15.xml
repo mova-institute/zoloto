@@ -536,7 +536,7 @@
       <w_ id="25vu" dep="25vv-nsubj" coref="25vo-equality">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="25vv" dep="25vr-acl" comment-equality="? чи вважати до піддерева?">
+      <w_ id="25vv" dep="25vr-acl:irrel" comment-equality="? чи вважати до піддерева?">
         <w lemma="палити" ana="verb:imperf:past:m">палив</w>
       </w_>
       <w_ id="25vw" dep="25vy-case">
@@ -976,7 +976,7 @@
       <w_ id="25zz" dep="2600-nsubj" coref="25zn-equality">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="2600" dep="25zv-acl">
+      <w_ id="2600" dep="25zv-acl:irrel">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
       <w_ id="2601" dep="2600-xcomp">
@@ -2260,7 +2260,7 @@
       <w_ id="26bh" dep="26bi-aux">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
-      <w_ id="26bi" dep="26bc-acl">
+      <w_ id="26bi" dep="26bc-acl:irrel">
         <w lemma="друкувати" ana="verb:imperf:inf">друкувати</w>
       </w_>
       <g/>
@@ -4027,13 +4027,13 @@
       <w_ id="26rz" dep="26s2-nsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="26s0" dep="26s2-obj" coref="26rw-equality">
+      <w_ id="26s0" dep="26s2-obj" coref="26rw-equality" edep="26rw-ref">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
       <w_ id="26s1" dep="26s2-advcl:sp" coref="26rz-equality">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
-      <w_ id="26s2" dep="26rw-acl">
+      <w_ id="26s2" dep="26rw-acl:relpers">
         <w lemma="переписати" ana="verb:perf:past:m">переписав</w>
       </w_>
       <g/>
@@ -4219,7 +4219,7 @@
       <w_ id="26tq" dep="26tr-cc">
         <w lemma="й" ana="conj:coord">й</w>
       </w_>
-      <w_ id="26tr" dep="26tp-conj">
+      <w_ id="26tr" dep="26tp-conj" comment="~чи shared?" edep="26tu-obj">
         <w lemma="стрічка" ana="noun:inanim:p:f:v_naz">стрічки</w>
       </w_>
       <g/>
@@ -4229,7 +4229,7 @@
       <w_ id="26tt" dep="26tu-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="26tu" dep="26tr-acl">
+      <w_ id="26tu" dep="26tr-acl:relless">
         <w lemma="повишивати" ana="verb:perf:past:p">повишивали</w>
       </w_>
       <w_ id="26tv" dep="26tu-nsubj">

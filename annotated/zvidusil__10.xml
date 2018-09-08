@@ -2801,7 +2801,7 @@
       <w_ id="1ze9" dep="1zea-obj">
         <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
       </w_>
-      <w_ id="1zea" dep="1ze5-acl">
+      <w_ id="1zea" dep="1ze5-acl:irrel">
         <w lemma="застати" ana="verb:perf:past:m">застав</w>
       </w_>
       <w_ id="1zeb">
@@ -5119,10 +5119,10 @@
       <w_ id="1zzr" dep="1zzs-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="1zzs" dep="1zzu-obl" coref="1zzo-equality">
+      <w_ id="1zzs" dep="1zzu-obl" coref="1zzo-equality" edep="1zzo-ref">
         <w lemma="він" ana="noun:m:v_mis:rprep:&amp;pron:pers:3">ньому</w>
       </w_>
-      <w_ id="1zzt" dep="1zzo-acl">
+      <w_ id="1zzt" dep="1zzo-acl:relpers">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
       <w_ id="1zzu" dep="1zzt-csubj">
@@ -5170,7 +5170,7 @@
       <w_ id="2009" dep="200a-case">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="200a" dep="200d-obl" coref="2006-equality">
+      <w_ id="200a" dep="200d-obl" coref="2006-equality" edep="2006-ref">
         <w lemma="вона" ana="noun:f:v_zna:rprep:&amp;pron:pers:3">неї</w>
       </w_>
       <w_ id="200b" dep="200d-advmod">
@@ -5179,7 +5179,7 @@
       <w_ id="200c" dep="200b-fixed">
         <w lemma="що" ana="part">що</w>
       </w_>
-      <w_ id="200d" dep="2006-acl">
+      <w_ id="200d" dep="2006-acl:relpers">
         <w lemma="бути" ana="verb:imperf:past:f">була</w>
       </w_>
       <w_ id="200e" dep="200d-nsubj">
