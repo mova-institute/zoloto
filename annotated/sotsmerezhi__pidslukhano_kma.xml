@@ -99,7 +99,7 @@
       <w_ id="130o" dep="130x-advcl">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
-      <w_ id="130p" dep="130o-nsubj">
+      <w_ id="130p" dep="130o-nsubj" edep="130v-obj">
         <w lemma="щось" ana="noun:inanim:n:v_naz:&amp;pron:ind">щось</w>
       </w_>
       <g/>
@@ -112,10 +112,10 @@
       <w_ id="130s" dep="130t-discourse">
         <w lemma="таки" ana="part">таки</w>
       </w_>
-      <w_ id="130t" dep="130p-acl">
+      <w_ id="130t" dep="130p-acl:relless">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
-      <w_ id="130u" dep="130v-advmod" coref="1307-equality|130c-equality">
+      <w_ id="130u" dep="130v-advmod" comment="~xcomp:sp?" coref="1307-equality|130c-equality">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <w_ id="130v" dep="130t-csubj">
@@ -655,7 +655,7 @@
       <w_ id="135n" dep="135o-discourse">
         <w lemma="і" ana="part">і</w>
       </w_>
-      <w_ id="135o" dep="135f-acl">
+      <w_ id="135o" dep="135f-acl:irrel">
         <w lemma="впливати" ana="verb:imperf:pres:s:3:v-u">впливає</w>
       </w_>
       <g/>
@@ -763,7 +763,7 @@
       <w_ id="136l" dep="136k-punct">
         <w lemma="”" ana="punct:quote:close">”</w>
       </w_>
-      <w_ id="136m" dep="136d-acl">
+      <w_ id="136m" dep="136d-acl:irrel">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
       <w_ id="136n" dep="136o-cop">
@@ -848,7 +848,7 @@
       <w_ id="137d" dep="137b-nmod">
         <w lemma="фактор" ana="noun:inanim:p:m:v_rod">факторів</w>
       </w_>
-      <w_ id="137e" dep="1378-acl">
+      <w_ id="137e" dep="1378-acl:irrel">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
       <w_ id="137f" dep="137h-cop">
@@ -1430,7 +1430,7 @@
       <w_ id="13cn" dep="13co-nsubj">
         <w lemma="гра" ana="noun:inanim:f:v_naz">гра</w>
       </w_>
-      <w_ id="13co" dep="13ck-acl">
+      <w_ id="13co" dep="13ck-acl:irrel">
         <w lemma="обіцяти" ana="verb:imperf:pres:s:3">обіцяє</w>
       </w_>
       <w_ id="13cp" dep="13cq-cop">
@@ -1978,7 +1978,7 @@
       <w_ id="13hv" dep="13hw-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="13hw" dep="13hu-obl">
+      <w_ id="13hw" dep="13hu-obl" edep="13i0-obj">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
       <g/>
@@ -1991,7 +1991,7 @@
       <w_ id="13hz" dep="13i0-nsubj">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="13i0" dep="13hw-acl">
+      <w_ id="13i0" dep="13hw-acl:relless">
         <w lemma="бачити" ana="verb:imperf:pres:s:1">бачу</w>
       </w_>
       <w_ id="13i1" dep="13i3-case">

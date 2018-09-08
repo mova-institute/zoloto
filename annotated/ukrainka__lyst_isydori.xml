@@ -258,7 +258,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <foreign lang="ru">
-        <w_ id="15ff" dep="15fc-nsubj">
+        <w_ id="15ff" dep="15fc-nsubj" edep="15fj-obj">
           <w lemma="утро" ana="x:foreign">утро</w>
         </w_>
       </foreign>
@@ -272,7 +272,7 @@
       <w_ id="15fi" dep="15fj-mark" mark="resolved">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="15fj" dep="15ff-acl">
+      <w_ id="15fj" dep="15ff-acl:relless">
         <w lemma="врядити" ana="verb:perf:past:p:v-u">врядили</w>
       </w_>
       <w_ id="15fk" dep="15fl-amod">
@@ -574,7 +574,7 @@
       <w_ id="15i5" dep="15i6-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="15i6" dep="15ho-acl">
+      <w_ id="15i6" dep="15ho-acl:irrel">
         <w lemma="піти" ana="verb:perf:futr:p:1">підемо</w>
       </w_>
       <g/>
@@ -2465,7 +2465,7 @@
       <w_ id="15yu" dep="15yv-det" mark="resolved">
         <w lemma="його" ana="adj:m:v_zna:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ id="15yv" dep="15yt-obj">
+      <w_ id="15yv" dep="15yt-obj" edep="15yz-obj">
         <w lemma="портрет" ana="noun:inanim:m:v_zna">портрет</w>
       </w_>
       <g/>
@@ -2478,7 +2478,7 @@
       <w_ id="15yy" dep="15yz-iobj">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
-      <w_ id="15yz" dep="15yv-acl">
+      <w_ id="15yz" dep="15yv-acl:relless">
         <w lemma="подарувати" ana="verb:perf:past:p">подарували</w>
       </w_>
       <w_ id="15z0" dep="15z1-case">
@@ -3399,7 +3399,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="1677" dep="1674-acl">
+      <w_ id="1677" dep="1674-acl:irrel">
         <w lemma="сьогодні" ana="adv">сьогодні</w>
       </w_>
       <w_ id="1678" dep="1677-nsubj">

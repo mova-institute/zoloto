@@ -279,7 +279,7 @@
       <w_ id="2bt5" dep="2btb-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="2bt6" dep="2btb-nsubj">
+      <w_ id="2bt6" dep="2btb-nsubj" edep="2bt1-ref">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="2bt7" dep="2bta-case">
@@ -294,7 +294,7 @@
       <w_ id="2bta" dep="2btb-obl">
         <w lemma="мова" ana="noun:inanim:f:v_mis">мові</w>
       </w_>
-      <w_ id="2btb" dep="2bt1-acl">
+      <w_ id="2btb" dep="2bt1-acl:relpers">
         <w lemma="незнаний" ana="adj:p:v_naz:&amp;adjp:imperf:pasv">незнані</w>
       </w_>
       <w_ id="2btc" dep="2bte-cc">
@@ -2121,7 +2121,7 @@
       <w_ id="2c9x" dep="2ca6-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="2c9y" dep="2ca6-iobj">
+      <w_ id="2c9y" dep="2ca6-iobj" edep="2c9r-ref">
         <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">їм</w>
       </w_>
       <w_ id="2c9z" dep="2ca6-advmod">
@@ -2146,7 +2146,7 @@
       <w_ id="2ca5" dep="2ca6-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2ca6" dep="2c9r-acl">
+      <w_ id="2ca6" dep="2c9r-acl:relpers">
         <w lemma="давати" ana="verb:imperf:pres:s:3">дає</w>
       </w_>
       <w_ id="2ca7" dep="2ca6-obj">
@@ -2943,7 +2943,7 @@
       <w_ id="2bgj" dep="2bgg-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2bgk" dep="2bg7-acl">
+      <w_ id="2bgk" dep="2bg7-acl:irrel">
         <w lemma="невеликий" ana="adj:f:v_naz">невелика</w>
       </w_>
       <g/>
@@ -3290,7 +3290,7 @@
       <w_ id="2bjm" dep="2bjs-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="2bjn" dep="2bjs-obj" coref="2bjk-equality">
+      <w_ id="2bjn" dep="2bjs-obj" coref="2bjk-equality" edep="2bjk-ref">
         <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="2bjo" dep="2bjs-nsubj" comment="#not-shchojiji">
@@ -3307,7 +3307,7 @@
       <w_ id="2bjr" dep="2bjq-punct">
         <w lemma=")" ana="punct:close">)</w>
       </w_>
-      <w_ id="2bjs" dep="2bjk-acl">
+      <w_ id="2bjs" dep="2bjk-acl:relpers">
         <w lemma="перетворювати" ana="verb:imperf:pres:s:3">перетворює</w>
       </w_>
       <w_ id="2bjt" dep="2bju-det">

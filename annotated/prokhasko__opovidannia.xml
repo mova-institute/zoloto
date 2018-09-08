@@ -791,7 +791,7 @@
     <w_ id="0qyl" dep="0qyu-nsubj">
       <w lemma="більшість" ana="noun:inanim:f:v_naz">більшість</w>
     </w_>
-    <w_ id="0qym" dep="0qyl-nmod">
+    <w_ id="0qym" dep="0qyl-nmod" edep="0qyq-obj">
       <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
     </w_>
     <g/>
@@ -804,7 +804,7 @@
     <w_ id="0qyp" dep="0qyq-nsubj" coref="0qy9-equality">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
-    <w_ id="0qyq" dep="0qym-acl">
+    <w_ id="0qyq" dep="0qym-acl:relless">
       <w lemma="говорити" ana="verb:imperf:past:m">говорив</w>
     </w_>
     <g/>
@@ -11486,7 +11486,7 @@
     <w_ id="0tpc" dep="0tpd-det" mark="resolved">
       <w lemma="весь" ana="adj:n:v_zna:&amp;pron:gen">все</w>
     </w_>
-    <w_ id="0tpd" dep="0tpa-obj">
+    <w_ id="0tpd" dep="0tpa-obj" edep="0tpk-obj">
       <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
     </w_>
     <g/>
@@ -11508,7 +11508,7 @@
     <w_ id="0tpj" dep="0tpk-obl">
       <w lemma="пательня" ana="noun:inanim:p:f:v_mis">пательнях</w>
     </w_>
-    <w_ id="0tpk" dep="0tpd-acl">
+    <w_ id="0tpk" dep="0tpd-acl:relless">
       <w lemma="підсмажити" ana="verb:perf:past:p">підсмажили</w>
     </w_>
     <w_ id="0tpl" dep="0tpm-cc">
@@ -28620,7 +28620,7 @@
     <w_ id="0y3b" dep="0y3c-nsubj">
       <w lemma="лікар" ana="noun:anim:p:m:v_naz">лікарі</w>
     </w_>
-    <w_ id="0y3c" dep="0y36-acl">
+    <w_ id="0y3c" dep="0y36-acl:irrel">
       <w lemma="заборонити" ana="verb:perf:past:p">заборонили</w>
     </w_>
     <w_ id="0y3d" dep="0y3c-xcomp">
@@ -33841,7 +33841,7 @@
     <w_ id="0zfi" dep="0zf5-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0zfj" dep="0zf0-acl">
+    <w_ id="0zfj" dep="0zf0-acl:irrel">
       <w lemma="відмовитися" ana="verb:rev:perf:past:p">відмовилися</w>
     </w_>
     <w_ id="0zfk" dep="0zfl-case">
@@ -34213,7 +34213,7 @@
     <w_ id="0zix" dep="0ziy-advmod">
       <w lemma="безперервно" ana="adv">безперервно</w>
     </w_>
-    <w_ id="0ziy" dep="0zit-acl">
+    <w_ id="0ziy" dep="0zit-acl:irrel" comment="#цікаво приклад на важливість relcl">
       <w lemma="курити" ana="verb:imperf:past:m">курив</w>
     </w_>
     <g/>
@@ -38571,7 +38571,7 @@
     <w_ id="10mz" dep="10n0-obl" mark="reviewed">
       <w lemma="стрих" ana="noun:inanim:m:v_zna:rare">стрих</w>
     </w_>
-    <w_ id="10n0" dep="10mu-acl">
+    <w_ id="10n0" dep="10mu-acl:irrel">
       <w lemma="підніматися" ana="verb:rev:imperf:past:f">піднімалася</w>
     </w_>
     <w_ id="10n1" dep="10n2-cc">
@@ -40845,7 +40845,7 @@
     <w_ id="117v" dep="117w-nsubj">
       <w lemma="сім’я" ana="noun:inanim:p:f:v_rod:xp1">сімей</w>
     </w_>
-    <w_ id="117w" dep="117p-acl">
+    <w_ id="117w" dep="117p-acl:irrel">
       <w lemma="влаштовувати" ana="verb:imperf:past:n:v-u">влаштовувало</w>
     </w_>
     <w_ id="117x" dep="117y-amod">
@@ -41867,7 +41867,7 @@
     <w_ id="11hd" dep="11he-nsubj">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
-    <w_ id="11he" dep="11ha-acl">
+    <w_ id="11he" dep="11ha-acl:irrel">
       <w lemma="залишати" ana="verb:imperf:past:m">залишав</w>
     </w_>
     <w_ id="11hf" dep="11hg-amod">
