@@ -9059,7 +9059,7 @@
       <w_ id="2wxr" n="2744">
         <w lemma="здитинитися" ana="verb:rev:perf:past:m">здитинився</w>
       </w_>
-      <w_ id="2wxs" dep="2wxr-nsubj" n="2745">
+      <w_ id="2wxs" dep="2wxr-nsubj|2wxr-distrib" n="2745">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
       </w_>
       <w_ id="2wxt" dep="2wxu-cc" n="2746">
@@ -9078,10 +9078,10 @@
       <w_ id="2wxx" dep="2wy0-punct" n="2750">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2wxy" dep="2wy0-obj" n="2751">
+      <w_ id="2wxy" dep="2wy0-obj|2wy0-private" n="2751">
         <w lemma="ніщо" ana="noun:inanim:v_rod:&amp;pron:neg">нічого</w>
       </w_>
-      <w_ id="2wxz" dep="2wy0-advmod" n="2752">
+      <w_ id="2wxz" dep="2wy0-advmod|2wy0-private" n="2752">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="2wy0" dep="2wxr-advcl" n="2753">
@@ -9127,7 +9127,7 @@
       <w_ id="2wyd" dep="2wye-advmod" n="2766">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2wye" dep="2wym-obj" n="2767">
+      <w_ id="2wye" dep="2wym-obj" edep="2wyh-obj" n="2767">
         <w lemma="все" ana="noun:inanim:n:v_zna:&amp;pron:gen:v-u">все</w>
       </w_>
       <g/>
@@ -9137,7 +9137,7 @@
       <w_ id="2wyg" dep="2wyh-mark" n="2769">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="2wyh" dep="2wye-acl" n="2770">
+      <w_ id="2wyh" dep="2wye-acl:relless" n="2770">
         <w lemma="думати" ana="verb:imperf:pres:s:2">думаєш</w>
       </w_>
       <g/>
