@@ -218,7 +218,7 @@
       <w_ id="2yki" dep="2ykj-amod" n="68">
         <w lemma="центральний" ana="adj:m:v_oru">центральним</w>
       </w_>
-      <w_ id="2ykj" dep="2ykh-obl:agent" n="69">
+      <w_ id="2ykj" dep="2ykh-obl:agent" edep="2yko-nsubj" n="69">
         <w lemma="орган" ana="noun:inanim:m:v_oru">органом</w>
       </w_>
       <w_ id="2ykk" dep="2ykl-amod" n="70">
@@ -324,7 +324,7 @@
       <w_ id="2ylh" dep="2ylg-xcomp:sp" n="101">
         <w lemma="доступний" ana="adj:f:v_oru:compb">доступною</w>
       </w_>
-      <w_ id="2yli" dep="2ylh-iobj" n="102">
+      <w_ id="2yli" dep="2ylh-iobj" edep="2yll-nsubj" n="102">
         <w lemma="орган" ana="noun:inanim:m:v_dav">органу</w>
       </w_>
       <g/>
@@ -413,7 +413,7 @@
       <w_ id="2yma" dep="2ylg-conj" n="130">
         <w lemma="перераховуватися" ana="verb:rev:imperf:pres:s:3">перераховується</w>
       </w_>
-      <w_ id="2ymb" dep="2yma-obl:agent" n="131">
+      <w_ id="2ymb" dep="2yma-obl:agent" edep="2yme-nsubj" n="131">
         <w lemma="орган" ana="noun:inanim:m:v_oru">органом</w>
       </w_>
       <g/>
@@ -574,7 +574,7 @@
       <w_ id="2ynn" dep="2yno-det" n="179">
         <w lemma="інший" ana="adj:p:v_rod:&amp;pron:ind">інших</w>
       </w_>
-      <w_ id="2yno" dep="2yng-nmod" n="180">
+      <w_ id="2yno" dep="2yng-nmod" edep="2ynr-nsubj" n="180">
         <w lemma="платіж" ana="noun:inanim:p:m:v_rod">платежів</w>
       </w_>
       <g/>
@@ -758,7 +758,7 @@
       <w_ id="2yp9" dep="2yp7-nmod" n="235">
         <w lemma="нарахування" ana="noun:inanim:n:v_rod">нарахування</w>
       </w_>
-      <w_ id="2ypa" dep="2yp9-nmod" n="236">
+      <w_ id="2ypa" dep="2yp9-nmod" edep="2ype-nsubj" n="236">
         <w lemma="сума" ana="noun:inanim:p:f:v_rod">сум</w>
       </w_>
       <w_ id="2ypb" dep="2ypa-nmod" n="237">
@@ -1232,7 +1232,7 @@
       <w_ id="2ytg" dep="2yte-nmod" n="382">
         <w lemma="особа" ana="noun:anim:p:f:v_rod">осіб</w>
       </w_>
-      <w_ id="2yth" dep="2yta-nsubj" n="383">
+      <w_ id="2yth" dep="2yta-nsubj" edep="2yty-nsubj" n="383">
         <w lemma="кошти" ana="noun:inanim:p:v_naz:ns">кошти</w>
       </w_>
       <g/>
@@ -1248,7 +1248,7 @@
       <w_ id="2ytl" dep="2ytm-case" n="387">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="2ytm" dep="2ytk-obl" n="388">
+      <w_ id="2ytm" dep="2ytk-obl" edep="2ytp-nsubj" n="388">
         <w lemma="закон" ana="noun:inanim:m:v_rod">закону</w>
       </w_>
       <g/>
@@ -1600,7 +1600,7 @@
       <w_ id="2ywq" dep="2ywr-amod" n="497">
         <w lemma="земельний" ana="adj:f:v_rod">земельної</w>
       </w_>
-      <w_ id="2ywr" dep="2ywp-nmod" n="498">
+      <w_ id="2ywr" dep="2ywp-nmod" edep="2yx6-nsubj" n="498">
         <w lemma="ділянка" ana="noun:inanim:f:v_rod">ділянки</w>
       </w_>
       <w_ id="2yws" dep="2ywr-nmod" n="499">
@@ -1900,7 +1900,7 @@
       <w_ id="2yzc" dep="2yzd-cc" n="589">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="2yzd" dep="2yz9-conj" n="590">
+      <w_ id="2yzd" dep="2yz9-conj" edep="2yzh-nsubj" n="590">
         <w lemma="збиток" ana="noun:inanim:p:m:v_rod">збитків</w>
       </w_>
       <g/>
@@ -4481,7 +4481,7 @@
       <w_ id="2zmy" n="1372">
         <w lemma="затвердити" ana="verb:perf:inf">Затвердити</w>
       </w_>
-      <w_ id="2zmz" dep="2zmy-obj" n="1373">
+      <w_ id="2zmz" dep="2zmy-obj" edep="2zn2-nsubj" n="1373">
         <w lemma="такий" ana="adj:p:v_zna:rinanim:&amp;pron:dem">такі</w>
       </w_>
       <g/>
@@ -5150,7 +5150,7 @@
       <w_ id="2zsy" dep="2zsz-amod" n="1576">
         <w lemma="порядковий" ana="adj:p:v_rod">порядкових</w>
       </w_>
-      <w_ id="2zsz" n="1577">
+      <w_ id="2zsz" edep="2zt2-nsubj" n="1577">
         <w lemma="номер" ana="noun:inanim:p:m:v_rod">номерів</w>
       </w_>
       <g/>
@@ -5511,7 +5511,7 @@
       <w_ id="2zw8" n="1685">
         <w lemma="визнати" ana="verb:perf:inf">Визнати</w>
       </w_>
-      <w_ id="2zw9" dep="2zw8-xcomp:sp" n="1686">
+      <w_ id="2zw9" dep="2zw8-xcomp:sp" edep="2zwc-nsubj" n="1686">
         <w lemma="такий" ana="adj:p:v_oru:&amp;pron:dem">такими</w>
       </w_>
       <g/>
