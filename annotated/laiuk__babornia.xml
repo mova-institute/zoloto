@@ -887,7 +887,7 @@
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="09xc"/>
-      <w_ id="09xd" dep="09xe-nsubj">
+      <w_ id="09xd" dep="09xe-nsubj" edep="09xp-nsubj:xsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
       <w_ id="09xe" comment="переробити">
@@ -1056,7 +1056,7 @@
       <w_ id="09yv" dep="09yw-det">
         <w lemma="цей" ana="adj:p:v_naz:&amp;pron:dem">Ці</w>
       </w_>
-      <w_ id="09yw" dep="09yx-nsubj" mark="reviewed">
+      <w_ id="09yw" dep="09yx-nsubj" mark="reviewed" edep="09yy-nsubj:xsubj">
         <w lemma="малолітка" ana="noun:anim:p:m:v_naz">малолітки</w>
       </w_>
       <w_ id="09yx">
@@ -1211,7 +1211,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="0a09"/>
-      <w_ id="0a0a" dep="0a0g-nsubj">
+      <w_ id="0a0a" dep="0a0g-nsubj" edep="0a0h-nsubj:xsubj">
         <w lemma="Марія" ana="noun:anim:f:v_naz:prop:fname">Марія</w>
       </w_>
       <w_ id="0a0b" dep="0a0a-flat:name">
@@ -1466,7 +1466,7 @@
       <w_ id="0a2k" dep="0a2m-obl">
         <w lemma="момент" ana="noun:inanim:m:v_zna">момент</w>
       </w_>
-      <w_ id="0a2l" dep="0a2m-obj" mark="resolved">
+      <w_ id="0a2l" dep="0a2m-iobj" mark="resolved" edep="0a2n-nsubj:xsubj">
         <w lemma="увесь" ana="adj:p:v_dav:ns:&amp;pron:gen">усім</w>
       </w_>
       <w_ id="0a2m">
@@ -1855,7 +1855,7 @@
       <w_ id="0a61" dep="0a5t-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="0a62" dep="0a63-nsubj">
+      <w_ id="0a62" dep="0a63-nsubj" edep="0a64-nsubj:xsubj">
         <w lemma="завучка" ana="noun:inanim:f:v_naz">завучка</w>
       </w_>
       <w_ id="0a63">
