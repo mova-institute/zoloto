@@ -387,7 +387,7 @@
     <w_ id="0qut" dep="0qux-mark">
       <w lemma="хоча" ana="conj:subord">хоча</w>
     </w_>
-    <w_ id="0quu" dep="0qux-obj" coref="0quj-equality">
+    <w_ id="0quu" dep="0qux-iobj" coref="0quj-equality" edep="0quy-nsubj:xsubj">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
     </w_>
     <w_ id="0quv" dep="0quw-advmod">
@@ -485,7 +485,7 @@
     <w_ id="0qvq" dep="0qvs-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0qvr" dep="0qvs-nsubj" coref="0qvn-equality">
+    <w_ id="0qvr" dep="0qvs-nsubj" coref="0qvn-equality" edep="0qvt-nsubj:xsubj">
       <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
     </w_>
     <w_ id="0qvs" dep="0qvp-acl">
@@ -970,7 +970,7 @@
     <w_ id="0r06" dep="0r07-amod">
       <w lemma="невагомий" ana="adj:m:v_zna:rinanim">невагомий</w>
     </w_>
-    <w_ id="0r07" dep="0r05-obj" coref="0qzq-equality">
+    <w_ id="0r07" dep="0r05-obj" coref="0qzq-equality" edep="0r09-nsubj:xsubj">
       <w lemma="шматок" ana="noun:inanim:m:v_zna">шматок</w>
     </w_>
     <w_ id="0r08" dep="0r07-nmod">
@@ -1060,7 +1060,7 @@
     <w_ id="0r10" dep="0r11-amod">
       <w lemma="колишній" ana="adj:m:v_naz">колишній</w>
     </w_>
-    <w_ id="0r11" dep="0r0x-nsubj" comment-equality="?">
+    <w_ id="0r11" dep="0r0x-nsubj" comment-equality="?" edep="0r0z-nsubj:xsubj">
       <w lemma="боєць" ana="noun:anim:m:v_naz">боєць</w>
     </w_>
     <w_ id="0r12" dep="0r11-nmod">
@@ -1322,7 +1322,7 @@
     <w_ id="0r3f" dep="0r3g-discourse" mark="resolved">
       <w lemma="тільки" ana="part">тільки</w>
     </w_>
-    <w_ id="0r3g" dep="0r3e-nsubj" tags="promoted" edep="0r3k-nsubj:rel">
+    <w_ id="0r3g" dep="0r3e-nsubj" tags="promoted" edep="0r3k-nsubj:rel|0r3b-nsubj:xsubj|0r3d-nsubj:xsubj">
       <w lemma="такий" ana="adj:m:v_naz:&amp;pron:dem">такий</w>
     </w_>
     <g/>
@@ -1583,7 +1583,7 @@
     <w_ id="0r5s" dep="0r5r-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0r5t" dep="0r5u-nsubj">
+    <w_ id="0r5t" dep="0r5u-nsubj" edep="0r5v-nsubj:xsubj">
       <w lemma="дзядзьо" ana="noun:anim:m:v_naz:odd">дзядзьо</w>
     </w_>
     <w_ id="0r5u">
@@ -1643,7 +1643,7 @@
     <w_ id="0r6c" dep="0r6d-amod">
       <w lemma="дільничний" ana="adj:m:v_naz">Дільничний</w>
     </w_>
-    <w_ id="0r6d" dep="0r6e-nsubj">
+    <w_ id="0r6d" dep="0r6e-nsubj" edep="0r6f-nsubj:xsubj">
       <w lemma="міліціянт" ana="noun:anim:m:v_naz:slang">міліціянт</w>
     </w_>
     <w_ id="0r6e">
@@ -2915,7 +2915,7 @@
     <w_ id="0ri1" dep="0ri4-obl">
       <w lemma="кімната" ana="noun:inanim:f:v_zna">кімнату</w>
     </w_>
-    <w_ id="0ri2" dep="0ri3-nsubj" coref="0rhm-equality">
+    <w_ id="0ri2" dep="0ri3-nsubj" coref="0rhm-equality" edep="0ri4-nsubj:xsubj">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
     <w_ id="0ri3">
@@ -3730,7 +3730,7 @@
     <w_ id="0rph" dep="0rpj-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0rpi" dep="0rpj-nsubj" coref="0rpd-equality">
+    <w_ id="0rpi" dep="0rpj-nsubj" coref="0rpd-equality" edep="0rpk-nsubj:xsubj">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
     <w_ id="0rpj" dep="0rpg-parataxis">
@@ -4049,7 +4049,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0rsg"/>
-    <w_ id="0rsh" dep="0rsm-nsubj" tags="promoted">
+    <w_ id="0rsh" dep="0rsm-nsubj" tags="promoted" edep="0rsn-nsubj:xsubj">
       <w lemma="той" ana="adj:m:v_naz:&amp;pron:dem">Той</w>
     </w_>
     <g/>
@@ -4111,7 +4111,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0rt0"/>
-    <w_ id="0rt1" dep="0rt2-nsubj" coref="0row-equality">
+    <w_ id="0rt1" dep="0rt2-nsubj" coref="0row-equality" edep="0rt3-nsubj:xsubj">
       <w lemma="дзядзьо" ana="noun:anim:m:v_naz:odd">Дзядзьо</w>
     </w_>
     <w_ id="0rt2">
@@ -4153,7 +4153,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0rte"/>
-    <w_ id="0rtf" dep="0rtg-nsubj" coref="0rt4-equality">
+    <w_ id="0rtf" dep="0rtg-nsubj" coref="0rt4-equality" edep="0rti-nsubj:xsubj">
       <w lemma="тато" ana="noun:anim:m:v_naz">Тато</w>
     </w_>
     <w_ id="0rtg">
