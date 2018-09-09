@@ -108,7 +108,7 @@
           <w_ id="03eo" dep="03ep-amod">
             <w lemma="панельний" ana="adj:m:v_rod">панельного</w>
           </w_>
-          <w_ id="03ep" dep="03em-nmod" edep="03er-nsubj:rel">
+          <w_ id="03ep" dep="03em-nmod" edep="03er-nsubj:rel|03et-nsubj:xsubj">
             <w lemma="будинок" ana="noun:inanim:m:v_rod">будинку</w>
           </w_>
           <w_ id="03eq" dep="03er-mark">
@@ -121,7 +121,7 @@
             <w lemma="“" ana="punct:quote:open">“</w>
           </w_>
           <g/>
-          <w_ id="03et" dep="03er-xcomp:sp">
+          <w_ id="03et" dep="03er-xcomp:sp" comment="~ ">
             <w lemma="Перемога" ana="noun:inanim:f:v_naz:prop">Перемога</w>
           </w_>
           <g/>
@@ -981,7 +981,7 @@
             <w lemma="(" ana="punct:open">(</w>
           </w_>
           <g/>
-          <w_ id="03ms" dep="03mt-nsubj">
+          <w_ id="03ms" dep="03mt-nsubj" edep="03mu-nsubj:xsubj">
             <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
           </w_>
           <w_ id="03mt" dep="03mq-acl">
@@ -1252,7 +1252,7 @@
           <w_ id="03p8" dep="03p5-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="03p9" dep="03pa-nsubj">
+          <w_ id="03p9" dep="03pa-nsubj" edep="03pb-nsubj:xsubj">
             <w lemma="світ" ana="noun:inanim:m:v_naz">світ</w>
           </w_>
           <w_ id="03pa">
@@ -1355,7 +1355,7 @@
           <w_ id="03q6" dep="03q8-advmod">
             <w lemma="там" ana="adv:&amp;pron:dem">там</w>
           </w_>
-          <w_ id="03q7" dep="03q8-nsubj">
+          <w_ id="03q7" dep="03q8-nsubj" edep="03q9-nsubj:xsubj">
             <w lemma="усе" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">усе</w>
           </w_>
           <w_ id="03q8" dep="03pl-conj:parataxis">
@@ -2142,7 +2142,7 @@
           <w_ id="03xg" dep="03xi-cc">
             <w lemma="але" ana="conj:coord">Але</w>
           </w_>
-          <w_ id="03xh" dep="03xi-nsubj">
+          <w_ id="03xh" dep="03xi-nsubj" edep="03xj-nsubj:xsubj">
             <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
           </w_>
           <w_ id="03xi">
@@ -2201,7 +2201,7 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="03y0"/>
-          <w_ id="03y1" dep="03y2-nsubj">
+          <w_ id="03y1" dep="03y2-nsubj" edep="03y3-nsubj:xsubj">
             <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">Ти</w>
           </w_>
           <w_ id="03y2">
@@ -2323,13 +2323,13 @@
         </p>
         <p id="03z4">
           <sb id="03z5"/>
-          <w_ id="03z6" dep="03z7-nsubj">
+          <w_ id="03z6" dep="03z7-nsubj" edep="03z8-nsubj:xsubj">
             <w lemma="Вінстон" ana="noun:anim:m:v_naz:prop:fname">Вінстон</w>
           </w_>
           <w_ id="03z7">
             <w lemma="залишатися" ana="verb:rev:imperf:past:m">залишався</w>
           </w_>
-          <w_ id="03z8" dep="03z7-xcomp">
+          <w_ id="03z8" dep="03z7-xcomp" comment="~">
             <w lemma="стояти" ana="verb:imperf:inf">стояти</w>
           </w_>
           <w_ id="03z9" dep="03z8-obl">
@@ -2560,7 +2560,7 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="041a"/>
-          <w_ id="041b" dep="041d-nsubj">
+          <w_ id="041b" dep="041d-nsubj" edep="041e-nsubj:xsubj">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
           </w_>
           <w_ id="041c" dep="041d-advmod">
@@ -3455,7 +3455,7 @@
           <w_ id="049k" dep="049j-punct">
             <w lemma="”" ana="punct:quote:close">”</w>
           </w_>
-          <w_ id="049l" dep="049m-nsubj">
+          <w_ id="049l" dep="049m-nsubj" edep="049n-nsubj:xsubj">
             <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">ти</w>
           </w_>
           <w_ id="049m" dep="049a-conj:parataxis">
@@ -3650,7 +3650,7 @@
           <w_ id="04be" dep="04bd-nmod">
             <w lemma="Новосурж" ana="noun:inanim:m:v_rod:prop">Новосуржу</w>
           </w_>
-          <w_ id="04bf" dep="04bg-obj">
+          <w_ id="04bf" dep="04bg-obj" edep="04bi-nsubj:xsubj">
             <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
           </w_>
           <w_ id="04bg">
@@ -4331,7 +4331,7 @@
           <w_ id="04hs" dep="04ht-det">
             <w lemma="його" ana="adj:n:v_naz:poss:nv:&amp;pron:pers:3">його</w>
           </w_>
-          <w_ id="04ht" dep="04hu-nsubj">
+          <w_ id="04ht" dep="04hu-nsubj" edep="04hx-nsubj:xsubj">
             <w lemma="обличчя" ana="noun:inanim:n:v_naz">обличчя</w>
           </w_>
           <w_ id="04hu">
@@ -4503,7 +4503,7 @@
           <w_ id="04jc" dep="04je-cc">
             <w lemma="і" ana="conj:coord">і</w>
           </w_>
-          <w_ id="04jd" dep="04je-nsubj">
+          <w_ id="04jd" dep="04je-nsubj" edep="04jf-nsubj:xsubj|04jh-nsubj:xsubj">
             <w lemma="світ" ana="noun:inanim:m:v_naz">світ</w>
           </w_>
           <w_ id="04je" dep="04jb-conj:parataxis">
@@ -5075,7 +5075,7 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="04ol"/>
-          <w_ id="04om" dep="04on-nsubj">
+          <w_ id="04om" dep="04on-nsubj" edep="04op-nsubj:xsubj">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
           </w_>
           <w_ id="04on">
@@ -5142,7 +5142,7 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="04p7"/>
-          <w_ id="04p8" dep="04p9-nsubj">
+          <w_ id="04p8" dep="04p9-nsubj" edep="04pa-nsubj:xsubj">
             <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
           </w_>
           <w_ id="04p9">
@@ -5178,7 +5178,7 @@
           <w_ id="04pj" dep="04pf-acl">
             <w lemma="пропонувати" ana="verb:imperf:past:f">пропонувала</w>
           </w_>
-          <w_ id="04pk" dep="04pj-iobj">
+          <w_ id="04pk" dep="04pj-iobj" edep="04pl-nsubj:xsubj">
             <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
           </w_>
           <w_ id="04pl" dep="04pj-xcomp">
@@ -6224,7 +6224,7 @@
           <w_ id="04z8" dep="04zb-advmod">
             <w lemma="насправді" ana="adv">Насправді</w>
           </w_>
-          <w_ id="04z9" dep="04zb-nsubj">
+          <w_ id="04z9" dep="04zb-nsubj" edep="04zc-nsubj:xsubj">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
           </w_>
           <w_ id="04za" dep="04zb-advmod">
@@ -10036,7 +10036,7 @@
           <w_ id="05yp" dep="05yr-mark">
             <w lemma="що" ana="conj:subord">що</w>
           </w_>
-          <w_ id="05yq" dep="05yr-nsubj" comment="#not-shchojiji">
+          <w_ id="05yq" dep="05yr-nsubj" comment="#not-shchojiji" edep="05yt-nsubj:xsubj">
             <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
           </w_>
           <w_ id="05yr" dep="05yo-acl:irrel">
@@ -11629,7 +11629,7 @@
           <w_ id="06dh" dep="06dm-ccomp" tags="promoted">
             <w lemma="давно" ana="adv:compb">давно</w>
           </w_>
-          <w_ id="06di" dep="06dk-nsubj">
+          <w_ id="06di" dep="06dk-nsubj" edep="06dm-nsubj:xsubj">
             <w lemma="ніхто" ana="noun:anim:v_naz:&amp;pron:neg">ніхто</w>
           </w_>
           <w_ id="06dj" dep="06dk-advmod">
@@ -12091,7 +12091,7 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="06hp"/>
-          <w_ id="06hq" dep="06ht-nsubj">
+          <w_ id="06hq" dep="06ht-nsubj" edep="06hu-nsubj:xsubj">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
           </w_>
           <w_ id="06hr" dep="06ht-advmod">
@@ -12704,7 +12704,7 @@
           <w_ id="06n7" dep="06n8-det">
             <w lemma="будь-який" ana="adj:m:v_naz:&amp;pron:ind">будь-який</w>
           </w_>
-          <w_ id="06n8" dep="06na-nsubj">
+          <w_ id="06n8" dep="06na-nsubj" edep="06nc-nsubj:xsubj">
             <w lemma="член" ana="noun:anim:m:v_naz:xp1">член</w>
           </w_>
           <w_ id="06n9" dep="06n8-nmod">
@@ -12993,7 +12993,7 @@
           <w_ id="06pw" dep="06px-amod">
             <w lemma="неконтрольований" ana="adj:p:v_naz:&amp;adjp:imperf:pasv">неконтрольовані</w>
           </w_>
-          <w_ id="06px" dep="06pz-nsubj">
+          <w_ id="06px" dep="06pz-nsubj" edep="06q0-nsubj:xsubj">
             <w lemma="вигук" ana="noun:inanim:p:m:v_naz">вигуки</w>
           </w_>
           <w_ id="06py" dep="06px-nmod">
@@ -13644,7 +13644,7 @@
           <w_ id="06vu" dep="06vw-mark">
             <w lemma="що" ana="conj:subord">що</w>
           </w_>
-          <w_ id="06vv" dep="06vw-nsubj">
+          <w_ id="06vv" dep="06vw-nsubj" edep="06vx-nsubj:xsubj">
             <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
           </w_>
           <w_ id="06vw" dep="06vs-ccomp">
@@ -14185,7 +14185,7 @@
           <w_ id="070w" dep="070x-amod">
             <w lemma="темноволосий" ana="adj:f:v_naz">Темноволоса</w>
           </w_>
-          <w_ id="070x" dep="0715-nsubj" edep="0710-nsubj:rel">
+          <w_ id="070x" dep="0715-nsubj" edep="0710-nsubj:rel|0716-nsubj:xsubj">
             <w lemma="дівчина" ana="noun:anim:f:v_naz">дівчина</w>
           </w_>
           <g/>
@@ -14483,7 +14483,7 @@
           <w_ id="073i" dep="073l-mark">
             <w lemma="що" ana="conj:subord">що</w>
           </w_>
-          <w_ id="073j" dep="073l-obj">
+          <w_ id="073j" dep="073l-obj" edep="073m-nsubj:xsubj">
             <w lemma="ніхто" ana="noun:anim:v_zna:&amp;pron:neg">нікого</w>
           </w_>
           <w_ id="073k" dep="073l-advmod">
@@ -14707,7 +14707,7 @@
           <w_ id="075j" dep="075o-advmod">
             <w lemma="зараз" ana="adv:&amp;pron:dem">зараз</w>
           </w_>
-          <w_ id="075k" dep="075o-nsubj">
+          <w_ id="075k" dep="075o-nsubj" edep="075t-nsubj:xsubj">
             <w lemma="лють" ana="noun:inanim:f:v_naz">лють</w>
           </w_>
           <w_ id="075l" dep="075m-obj">
@@ -15024,7 +15024,7 @@
           <w_ id="078e" dep="078l-cc">
             <w lemma="та" ana="conj:coord">та</w>
           </w_>
-          <w_ id="078f" dep="078l-nsubj" edep="078i-obj:rel">
+          <w_ id="078f" dep="078l-nsubj" edep="078i-obj:rel|078m-nsubj:xsubj">
             <w lemma="все" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">все</w>
           </w_>
           <w_ id="078g" dep="078i-mark">
@@ -15166,7 +15166,7 @@
           <w_ id="079o" dep="07a6-cc">
             <w lemma="та" ana="conj:coord">та</w>
           </w_>
-          <w_ id="079p" dep="07a6-nsubj">
+          <w_ id="079p" dep="07a6-nsubj" edep="07a9-nsubj:xsubj">
             <w lemma="Гольдштейн" ana="noun:anim:m:v_naz:prop:lname">Гольдштейн</w>
           </w_>
           <w_ id="079q" dep="079r-advmod">
@@ -15871,7 +15871,7 @@
           <w_ id="07g7" dep="07g8-det">
             <w lemma="його" ana="adj:n:v_naz:poss:nv:&amp;pron:pers:3">його</w>
           </w_>
-          <w_ id="07g8" dep="07g9-nsubj">
+          <w_ id="07g8" dep="07g9-nsubj" edep="07ga-nsubj:xsubj">
             <w lemma="обличчя" ana="noun:inanim:n:v_naz">обличчя</w>
           </w_>
           <w_ id="07g9" dep="07fz-conj:parataxis">
@@ -18565,7 +18565,7 @@
           <w_ id="084z" dep="0851-obl">
             <w lemma="який" ana="adj:f:v_mis:&amp;pron:rel">якій</w>
           </w_>
-          <w_ id="0850" dep="0851-nsubj">
+          <w_ id="0850" dep="0851-nsubj" edep="0852-nsubj:xsubj">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
           </w_>
           <w_ id="0851" dep="084x-acl">
@@ -18920,7 +18920,7 @@
         </p>
         <p id="088d">
           <sb id="088e"/>
-          <w_ id="088f" dep="088i-nsubj">
+          <w_ id="088f" dep="088i-nsubj" edep="088j-nsubj:xsubj">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
           </w_>
           <w_ id="088g" dep="088j-obj">
@@ -19407,7 +19407,7 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="08cx"/>
-          <w_ id="08cy" dep="08cz-nsubj">
+          <w_ id="08cy" dep="08cz-nsubj" edep="08d1-nsubj:xsubj">
             <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">Ти</w>
           </w_>
           <w_ id="08cz">
@@ -19854,7 +19854,7 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="08h3"/>
-          <w_ id="08h4" dep="08h5-nsubj">
+          <w_ id="08h4" dep="08h5-nsubj" edep="08h6-nsubj:xsubj">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
           </w_>
           <w_ id="08h5">
@@ -20176,7 +20176,7 @@
           <w_ id="08k8" dep="08k7-csubj">
             <w lemma="змушувати" ana="verb:imperf:inf">змушувати</w>
           </w_>
-          <w_ id="08k9" dep="08k8-obj">
+          <w_ id="08k9" dep="08k8-obj" edep="08ka-nsubj:xsubj">
             <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
           </w_>
           <w_ id="08ka" dep="08k8-xcomp">
