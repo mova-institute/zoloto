@@ -3745,7 +3745,7 @@
     <w_ id="0rpm" dep="0rpk-obj">
       <w lemma="мама" ana="noun:anim:f:v_oru">мамою</w>
     </w_>
-    <w_ id="0rpn" dep="0rpi-det" coref="0rpi-equality">
+    <w_ id="0rpn" dep="0rpk-obl" coref="0rpi-equality">
       <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
     </w_>
     <g/>
@@ -11303,7 +11303,7 @@
     <w_ id="0tnn" dep="0tnu-nsubj" mark="reviewed">
       <w lemma="Князь" ana="noun:anim:m:v_naz:prop:lname">Князь</w>
     </w_>
-    <w_ id="0tno" dep="0tnn-det">
+    <w_ id="0tno" dep="0tnv-obl">
       <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
     </w_>
     <g/>
@@ -11316,7 +11316,7 @@
     <w_ id="0tnr" dep="0tns-det">
       <w lemma="свій" ana="adj:p:v_rod:poss:&amp;pron:refl">своїх</w>
     </w_>
-    <w_ id="0tns" dep="0tnv-obl">
+    <w_ id="0tns" dep="0tno-appos">
       <w lemma="людина" ana="noun:anim:p:f:v_rod">людей</w>
     </w_>
     <g/>
@@ -14199,7 +14199,7 @@
     <w_ id="0uee" dep="0uec-obl">
       <w lemma="Делятин" ana="noun:inanim:m:v_rod:prop">Делятина</w>
     </w_>
-    <w_ id="0uef" dep="0uec-advcl:sp">
+    <w_ id="0uef" dep="0uec-obl">
       <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
     </w_>
     <w_ id="0ueg" dep="0uej-case">
@@ -17029,7 +17029,7 @@
     <w_ id="0v4k" dep="0v4j-obj">
       <w lemma="лук" ana="noun:inanim:p:m:v_zna">луки</w>
     </w_>
-    <w_ id="0v4l" dep="0v4j-advcl:sp">
+    <w_ id="0v4l" dep="0v4j-obl">
       <w lemma="сам" ana="adj:p:v_naz:&amp;pron:refl">самі</w>
     </w_>
     <g/>
@@ -22449,7 +22449,7 @@
     <w_ id="0wik" dep="0wij-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0wil" dep="0wim-iobj" mark="resolved">
+    <w_ id="0wil" dep="0wim-obl" mark="resolved">
       <w lemma="сам" ana="adj:m:v_dav:&amp;pron:refl">самому</w>
     </w_>
     <w_ id="0wim" dep="0wij-csubj">
@@ -22827,7 +22827,7 @@
     <w_ id="0wm1" dep="0wm5-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0wm2" dep="0wm5-nsubj">
+    <w_ id="0wm2" dep="0wm5-nsubj" edep="0wm6-nsubj:sp">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
     <w_ id="0wm3" dep="0wm4-det">
@@ -25031,7 +25031,7 @@
     <w_ id="0x6b" dep="0x6f-advmod">
       <w lemma="взимку" ana="adv:v-u">Взимку</w>
     </w_>
-    <w_ id="0x6c" dep="0x6f-nsubj">
+    <w_ id="0x6c" dep="0x6f-nsubj" edep="0x6h-nsubj:sp">
       <w lemma="пляшечка" ana="noun:inanim:p:f:v_naz">пляшечки</w>
     </w_>
     <w_ id="0x6d" dep="0x6e-amod">
@@ -25624,7 +25624,7 @@
     <w_ id="0xbp" dep="0xbr-obl">
       <w lemma="військо" ana="noun:inanim:n:v_mis">війську</w>
     </w_>
-    <w_ id="0xbq" dep="0xbr-nsubj">
+    <w_ id="0xbq" dep="0xbr-nsubj" edep="0xbt-nsubj:sp">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
     <w_ id="0xbr">
@@ -29416,7 +29416,7 @@
     <w_ id="0yao" dep="0yaq-nsubj">
       <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
     </w_>
-    <w_ id="0yap" dep="0yao-det" mark="reviewed">
+    <w_ id="0yap" dep="0yaq-obl" mark="reviewed">
       <w lemma="сам" ana="adj:p:v_naz:&amp;pron:refl">самі</w>
     </w_>
     <w_ id="0yaq" dep="0yal-ccomp">
@@ -37244,7 +37244,7 @@
     <w_ id="10as" dep="10au-nsubj">
       <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
     </w_>
-    <w_ id="10at" dep="10as-det">
+    <w_ id="10at" dep="10au-obl" comment="~">
       <w lemma="сам" ana="adj:p:v_naz:&amp;pron:refl">самі</w>
     </w_>
     <w_ id="10au">
@@ -43822,7 +43822,7 @@
     <w_ id="11zb" dep="11za-flat:title">
       <w lemma="Рудько" ana="noun:anim:m:v_naz:prop:nick">Рудько</w>
     </w_>
-    <w_ id="11zc" dep="11za-det">
+    <w_ id="11zc" dep="11zd-obl">
       <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
     </w_>
     <w_ id="11zd">
