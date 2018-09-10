@@ -1158,7 +1158,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="12nt"/>
-    <w_ id="12nu" dep="12nx-nsubj">
+    <w_ id="12nu" dep="12nx-nsubj" edep="12ny-nsubj:xsubj">
       <w lemma="Гнат" ana="noun:anim:m:v_naz:prop:fname">Гнат</w>
     </w_>
     <w_ id="12nv" dep="12nw-discourse">
@@ -1297,7 +1297,7 @@
     <w_ id="12p4" dep="12p2-iobj">
       <w lemma="веприк" ana="noun:anim:m:v_dav">веприкові</w>
     </w_>
-    <w_ id="12p5" dep="12p2-xcomp">
+    <w_ id="12p5" dep="12p2-ccomp" comment="~">
       <w lemma="їсти" ana="verb:imperf:inf">їсти</w>
     </w_>
     <g/>
@@ -1446,7 +1446,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="12ql"/>
-    <w_ id="12qm" dep="12qp-nsubj">
+    <w_ id="12qm" dep="12qp-nsubj" edep="12qo-nsubj:xsubj">
       <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">Ти</w>
     </w_>
     <w_ id="12qn" dep="12qo-discourse">

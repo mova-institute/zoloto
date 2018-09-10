@@ -205,7 +205,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="24ei"/>
-      <w_ id="24ej" dep="24ek-iobj" comment-equality="цікаво що з першої Вер" coref="24cq-equality">
+      <w_ id="24ej" dep="24ek-iobj" comment-equality="цікаво що з першої Вер" coref="24cq-equality" edep="24el-nsubj:xsubj|24em-nsubj:xsubj">
         <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">Їй</w>
       </w_>
       <w_ id="24ek">
@@ -253,7 +253,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="24ey"/>
-      <w_ id="24ez" dep="24f1-nsubj" coref="24ep-equality">
+      <w_ id="24ez" dep="24f1-nsubj" coref="24ep-equality" edep="24fh-nsubj:xsubj">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">Вони</w>
       </w_>
       <w_ id="24f0" dep="24f1-cc">
@@ -536,7 +536,7 @@
       <w_ id="24hk" dep="24hj-discourse">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="24hl" dep="24hs-nsubj">
+      <w_ id="24hl" dep="24hs-nsubj" edep="24hu-nsubj:xsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <g/>
@@ -654,7 +654,7 @@
   <doc id="24im" author="" date="2017-02-16 09:00" genre="новини" src="http://www.interbuh.com.ua/ua/documents/onenews/105511" title="Єдинник не застосовує РРО, але продає складні побутові товари: як проводити розрахунки">
     <p id="24in">
       <sb id="24io"/>
-      <w_ id="24ip" dep="24ji-nsubj" edep="24iv-nsubj:rel">
+      <w_ id="24ip" dep="24ji-nsubj" edep="24iv-nsubj:rel|24jj-nsubj:xsubj">
         <w lemma="ФОП" ana="noun:inanim:p:m:v_naz:nv:abbr">ФОП</w>
       </w_>
       <g/>
@@ -1570,7 +1570,7 @@
     <gap/>
     <p id="24qu">
       <sb id="24qv"/>
-      <w_ id="24qw" dep="24r1-nsubj">
+      <w_ id="24qw" dep="24r1-nsubj" edep="24r2-nsubj:xsubj">
         <w lemma="захист" ana="noun:inanim:m:v_naz">Захист</w>
       </w_>
       <w_ id="24qx" dep="24qy-case">
@@ -2451,7 +2451,7 @@
       <w_ id="24yy" dep="24yz-discourse" mark="reviewed">
         <w lemma="лише" ana="part">лише</w>
       </w_>
-      <w_ id="24yz" dep="24yw-nsubj" mark="reviewed">
+      <w_ id="24yz" dep="24yw-nsubj" mark="reviewed" edep="24yx-nsubj:xsubj">
         <w lemma="член" ana="noun:anim:p:m:v_naz">члени</w>
       </w_>
       <w_ id="24z0" dep="24yz-nmod">
@@ -2520,7 +2520,7 @@
       <w_ id="24zj" dep="24zk-discourse" mark="resolved">
         <w lemma="тільки" ana="part" author="30:Саморідна">тільки</w>
       </w_>
-      <w_ id="24zk" dep="24zh-nsubj">
+      <w_ id="24zk" dep="24zh-nsubj" edep="24zg-nsubj:xsubj">
         <w lemma="працівник" ana="noun:anim:p:m:v_naz">працівники</w>
       </w_>
       <w_ id="24zl" dep="24zn-amod">

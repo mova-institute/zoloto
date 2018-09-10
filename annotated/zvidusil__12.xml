@@ -564,7 +564,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="226q"/>
-        <w_ id="226r" dep="226u-nsubj">
+        <w_ id="226r" dep="226u-nsubj" edep="226v-nsubj:xsubj">
           <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
         </w_>
         <w_ id="226s" dep="226u-discourse">
@@ -1522,7 +1522,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="22fl"/>
-        <w_ id="22fm" dep="22g3-nsubj" edep="22fs-nsubj:rel">
+        <w_ id="22fm" dep="22g3-nsubj" edep="22fs-nsubj:rel|22g5-nsubj:xsubj">
           <w lemma="людина" ana="noun:anim:f:v_naz">Людина</w>
         </w_>
         <g/>
@@ -2918,7 +2918,7 @@
       <w_ id="22sm" dep="22sn-amod">
         <w lemma="фінансовий" ana="adj:p:v_naz">фінансові</w>
       </w_>
-      <w_ id="22sn" dep="22so-nsubj">
+      <w_ id="22sn" dep="22so-nsubj" edep="22sp-nsubj:xsubj">
         <w lemma="уряд" ana="noun:inanim:p:m:v_naz">уряди</w>
       </w_>
       <w_ id="22so">

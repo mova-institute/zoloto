@@ -2,7 +2,7 @@
   <p id="1hqa">
     <sb id="1hqb" set="test"/>
     <!--14. -->
-    <w_ id="1hqc" dep="1hql-nsubj">
+    <w_ id="1hqc" dep="1hql-nsubj" edep="1hqn-nsubj:xsubj">
       <w lemma="громадянин" ana="noun:anim:m:v_naz">Громадянин</w>
     </w_>
     <w_ id="1hqd" dep="1hqc-nmod">
@@ -184,7 +184,7 @@
     <w_ id="1hs0">
       <w lemma="могти" ana="verb:imperf:pres:p:3">можуть</w>
     </w_>
-    <w_ id="1hs1" dep="1hs0-nsubj">
+    <w_ id="1hs1" dep="1hs0-nsubj" edep="1hs4-nsubj:xsubj">
       <w lemma="орган" ana="noun:inanim:p:m:v_naz">органи</w>
     </w_>
     <w_ id="1hs2" dep="1hs3-amod">
@@ -227,7 +227,7 @@
     <w_ id="1hse" dep="1hsf-det">
       <w lemma="той" ana="adj:m:v_mis:&amp;pron:dem">тім</w>
     </w_>
-    <w_ id="1hsf">
+    <w_ id="1hsf" dep="1hsg-obl">
       <w lemma="випадок" ana="noun:inanim:m:v_mis">випадку</w>
     </w_>
     <w_ id="1hsg" dep="1hs0-conj:parataxis">
@@ -251,10 +251,10 @@
     <w_ id="1hsm" dep="1hsn-amod">
       <w lemma="судовий" ana="adj:m:v_naz">судовий</w>
     </w_>
-    <w_ id="1hsn" dep="1hsg-nsubj">
+    <w_ id="1hsn" dep="1hsg-nsubj" edep="1hsl-nsubj:xsubj">
       <w lemma="наказ" ana="noun:inanim:m:v_naz">наказ</w>
     </w_>
-    <w_ id="1hso">
+    <w_ id="1hso" dep="1hsp-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
     <w_ id="1hsp">
@@ -888,7 +888,7 @@
   <p id="1hyk">
     <sb id="1hyl"/>
     <!--28. -->
-    <w_ id="1hym" dep="1hyn-nsubj">
+    <w_ id="1hym" dep="1hyn-nsubj" edep="1hyp-nsubj:xsubj">
       <w lemma="вибори" ana="noun:inanim:p:v_naz:ns">Вибори</w>
     </w_>
     <w_ id="1hyn">
@@ -1391,7 +1391,7 @@
     <w_ id="1i3a" dep="1i3b-amod">
       <w lemma="всенародний" ana="adj:p:v_naz:v-u">Всенародні</w>
     </w_>
-    <w_ id="1i3b" dep="1i3c-nsubj">
+    <w_ id="1i3b" dep="1i3c-nsubj" edep="1i3d-nsubj:xsubj">
       <w lemma="збори" ana="noun:inanim:p:v_naz:ns">Збори</w>
     </w_>
     <w_ id="1i3c" dep="1i30-conj:parataxis">

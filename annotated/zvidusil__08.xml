@@ -539,7 +539,7 @@
         <w lemma="&quot;" ana="punct:quote:open">"</w>
       </w_>
       <g/>
-      <w_ id="1uhr" dep="1uhs-nsubj">
+      <w_ id="1uhr" dep="1uhs-nsubj" edep="1uht-nsubj:xsubj">
         <w lemma="таке" ana="noun:inanim:n:v_naz:&amp;pron:dem">Таке</w>
       </w_>
       <w_ id="1uhs">
@@ -705,7 +705,7 @@
       <w_ id="1uj8" dep="1uj9-amod">
         <w lemma="приватний" ana="adj:f:v_dav">Приватній</w>
       </w_>
-      <w_ id="1uj9" dep="1ujb-iobj">
+      <w_ id="1uj9" dep="1ujb-iobj" edep="1ujc-nsubj:xsubj">
         <w lemma="компанія" ana="noun:inanim:f:v_dav">компанії</w>
       </w_>
       <w_ id="1uja" dep="1ujb-advmod">
@@ -4427,7 +4427,7 @@
       <w_ id="1vgx">
         <w lemma="дозволити" ana="verb:perf:futr:s:3">дозволить</w>
       </w_>
-      <w_ id="1vgy" dep="1vgx-xcomp">
+      <w_ id="1vgy" dep="1vgx-ccomp">
         <w lemma="збільшити" ana="verb:perf:inf">збільшити</w>
       </w_>
       <w_ id="1vgz" dep="1vgy-obj" hdep="1vgy-private">

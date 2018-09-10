@@ -207,7 +207,7 @@
       <w lemma="«" ana="punct:quote:open">«</w>
     </w_>
     <g/>
-    <w_ id="2xsl" dep="2xsm-nsubj" n="62">
+    <w_ id="2xsl" dep="2xsm-nsubj" edep="2xsn-nsubj:xsubj" n="62">
       <w lemma="жінка" ana="noun:anim:f:v_naz">жінка</w>
     </w_>
     <w_ id="2xsm" n="63">
@@ -497,7 +497,7 @@
     <w_ id="2xv6" dep="2xum-cop" n="149">
       <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
     </w_>
-    <w_ id="2xv7" dep="2xv5-nsubj" n="150">
+    <w_ id="2xv7" dep="2xv5-nsubj" edep="2xum-nsubj:xsubj" n="150">
       <w lemma="смерть" ana="noun:inanim:f:v_naz">смерть</w>
     </w_>
     <g/>
@@ -1447,7 +1447,7 @@
     <w_ id="2y3i" n="435">
       <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
     </w_>
-    <w_ id="2y3j" dep="2y3i-nsubj" n="436">
+    <w_ id="2y3j" dep="2y3i-nsubj" edep="2y3v-nsubj:xsubj" n="436">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
     <w_ id="2y3k" dep="2y3n-case" n="437">
@@ -1685,7 +1685,7 @@
     <w_ id="2y5n" dep="2y5o-det" n="507">
       <w lemma="свій" ana="adj:m:v_zna:ranim:poss:&amp;pron:refl">свого</w>
     </w_>
-    <w_ id="2y5o" dep="2y5m-obj" n="508">
+    <w_ id="2y5o" dep="2y5m-obj" edep="2y5p-nsubj:xsubj" n="508">
       <w lemma="син" ana="noun:anim:m:v_zna">сина</w>
     </w_>
     <w_ id="2y5p" dep="2y5m-xcomp" n="509">
@@ -2704,7 +2704,7 @@
     <w_ id="2yex" dep="2yey-amod" n="822">
       <w lemma="український" ana="adj:f:v_naz">українська</w>
     </w_>
-    <w_ id="2yey" dep="2yf0-nsubj" n="823">
+    <w_ id="2yey" dep="2yf0-nsubj" edep="2yf1-nsubj:xsubj" n="823">
       <w lemma="жінка" ana="noun:anim:f:v_naz">жінка</w>
     </w_>
     <w_ id="2yez" dep="2yf0-advmod" n="824">
