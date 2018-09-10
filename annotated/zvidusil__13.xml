@@ -587,7 +587,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="234f"/>
-      <w_ id="234g" dep="234h-case|234h-distrib">
+      <w_ id="234g" dep="234h-case" hdep="234h-distrib">
         <w lemma="по" ana="prep:rv_zna">По</w>
       </w_>
       <w_ id="234h" dep="234k-obj" tags="promoted">
@@ -633,7 +633,7 @@
       <w_ id="234v" dep="234y-advmod">
         <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
-      <w_ id="234w" dep="234y-obl">
+      <w_ id="234w" dep="234y-iobj">
         <w lemma="сам" ana="adj:m:v_dav:&amp;pron:refl">самому</w>
       </w_>
       <w_ id="234x" dep="234y-obj">
@@ -839,13 +839,13 @@
       <w_ id="236u" dep="236y-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="236v" dep="236y-nsubj|236y-distrib">
+      <w_ id="236v" dep="236y-nsubj" hdep="236y-distrib">
         <w lemma="пір’я" ana="noun:inanim:n:v_naz">пір'я</w>
       </w_>
       <w_ id="236w" dep="236x-case">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="236x" dep="236y-obl|236y-private">
+      <w_ id="236x" dep="236y-obl" hdep="236y-private">
         <w lemma="вони" ana="noun:p:v_zna:rprep:&amp;pron:pers:3">них</w>
       </w_>
       <w_ id="236y" dep="236t-parataxis">
@@ -926,10 +926,10 @@
     </p>
     <p id="237m">
       <sb id="237n"/>
-      <w_ id="237o" dep="237q-nsubj|237q-distrib">
+      <w_ id="237o" dep="237q-nsubj" hdep="237q-distrib">
         <w lemma="електродвигун" ana="noun:inanim:m:v_naz">Електродвигун</w>
       </w_>
-      <w_ id="237p" dep="237q-det|237q-private">
+      <w_ id="237p" dep="237q-det" hdep="237q-private">
         <w lemma="мій" ana="adj:m:v_naz:poss:&amp;pron:pers:1">мій</w>
       </w_>
       <w_ id="237q">
@@ -1804,7 +1804,7 @@
       <w_ id="23fs" dep="23fr-nmod">
         <w lemma="храм" ana="noun:inanim:m:v_rod">храму</w>
       </w_>
-      <w_ id="23ft" dep="23fs-nmod|23fs-private">
+      <w_ id="23ft" dep="23fs-nmod" hdep="23fs-private">
         <w lemma="Святовит" ana="noun:anim:m:v_rod:prop:fname">Святовита</w>
       </w_>
       <w_ id="23fu" dep="23fx-cc">

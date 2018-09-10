@@ -909,10 +909,10 @@
       <w_ id="24l1" dep="24l2-amod">
         <w lemma="енергетичний" ana="adj:n:v_naz">Енергетичне</w>
       </w_>
-      <w_ id="24l2" dep="24l4-nsubj|24l4-distrib">
+      <w_ id="24l2" dep="24l4-nsubj" hdep="24l4-distrib">
         <w lemma="підприємство" ana="noun:inanim:n:v_naz">підприємство</w>
       </w_>
-      <w_ id="24l3" dep="24l4-advmod|24l4-private">
+      <w_ id="24l3" dep="24l4-advmod" hdep="24l4-private">
         <w lemma="офіційно" ana="adv">офіційно</w>
       </w_>
       <w_ id="24l4">
@@ -3748,7 +3748,7 @@
       <w_ id="25a7">
         <w lemma="знаходитися" ana="verb:rev:imperf:pres:p:3">знаходяться</w>
       </w_>
-      <w_ id="25a8" dep="25a9-case|25a9-private">
+      <w_ id="25a8" dep="25a9-case" hdep="25a9-private">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
       <w_ id="25a9" dep="25a7-obl">
@@ -4029,7 +4029,7 @@
       <w_ id="25cl">
         <w lemma="діяти" ana="verb:imperf:pres:p:3">діють</w>
       </w_>
-      <w_ id="25cm" dep="25cn-case|25cn-distrib">
+      <w_ id="25cm" dep="25cn-case" hdep="25cn-distrib">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
       <w_ id="25cn" dep="25cl-obl">
@@ -4638,13 +4638,13 @@
       <w_ id="25hx" dep="25hy-amod">
         <w lemma="перший" ana="adj:f:v_zna:compb:&amp;numr">першу</w>
       </w_>
-      <w_ id="25hy" dep="25hz-obj|25hz-private">
+      <w_ id="25hy" dep="25hz-obj" hdep="25hz-private">
         <w lemma="розтяжка" ana="noun:inanim:f:v_zna">розтяжку</w>
       </w_>
       <w_ id="25hz" dep="25hq-parataxis" comment="clausal прикладка?">
         <w lemma="помітити" ana="verb:perf:past:p">помітили</w>
       </w_>
-      <w_ id="25i0" dep="25hz-advmod|25hz-private">
+      <w_ id="25i0" dep="25hz-advmod" hdep="25hz-private">
         <w lemma="відразу" ana="adv">відразу</w>
       </w_>
       <g/>
@@ -4846,7 +4846,7 @@
       <w_ id="25js" dep="25ju-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="25jt" dep="25ju-nsubj|25ju-distrib">
+      <w_ id="25jt" dep="25ju-nsubj" hdep="25ju-distrib">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="25ju" dep="25jq-advcl" mark="resolved">

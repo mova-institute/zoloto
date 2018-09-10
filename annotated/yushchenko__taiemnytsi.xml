@@ -546,7 +546,7 @@
     <w_ id="1fwd" dep="1fwe-case">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ id="1fwe" dep="1fwc-obl|1fwc-private">
+    <w_ id="1fwe" dep="1fwc-obl" hdep="1fwc-private">
       <w lemma="платформа" ana="noun:inanim:f:v_zna">платформу</w>
     </w_>
     <w_ id="1fwf" dep="1fwe-nmod">
@@ -832,7 +832,7 @@
     <w_ id="1fz0" dep="1fz2-mark">
       <w lemma="коли" ana="conj:subord">коли</w>
     </w_>
-    <w_ id="1fz1" dep="1fz2-nsubj|1fz2-distrib">
+    <w_ id="1fz1" dep="1fz2-nsubj" hdep="1fz2-distrib">
       <w lemma="поїзд" ana="noun:inanim:m:v_naz">поїзд</w>
     </w_>
     <w_ id="1fz2" dep="1fyy-acl">
@@ -841,13 +841,13 @@
     <w_ id="1fz3" dep="1fz4-amod" mark="reviewed">
       <w lemma="цілий" ana="adj:m:v_zna:rinanim">цілий</w>
     </w_>
-    <w_ id="1fz4" dep="1fz2-obl|1fz2-private" mark="reviewed">
+    <w_ id="1fz4" dep="1fz2-obl" mark="reviewed" hdep="1fz2-private">
       <w lemma="день" ana="noun:inanim:m:v_zna">день</w>
     </w_>
     <w_ id="1fz5" dep="1fz6-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="1fz6" dep="1fz2-obl|1fz2-private">
+    <w_ id="1fz6" dep="1fz2-obl" hdep="1fz2-private">
       <w lemma="станція" ana="noun:inanim:f:v_mis">станції</w>
     </w_>
     <w_ id="1fz7" dep="1fza-cc">
@@ -2866,7 +2866,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1ghz"/>
-    <w_ id="1gi0" dep="1gi2-obj|1gi2-private" mark="resolved">
+    <w_ id="1gi0" dep="1gi2-obj" mark="resolved" hdep="1gi2-private">
       <w lemma="метр" ana="noun:inanim:p:m:v_rod">Метрів</w>
     </w_>
     <w_ id="1gi1" dep="1gi0-nummod:gov">
@@ -2881,7 +2881,7 @@
     <w_ id="1gi4" dep="1gi5-amod">
       <w lemma="вказаний" ana="adj:m:v_mis:&amp;adjp:perf:pasv:v-u">вказаному</w>
     </w_>
-    <w_ id="1gi5" dep="1gi2-obl|1gi2-private">
+    <w_ id="1gi5" dep="1gi2-obl" hdep="1gi2-private">
       <w lemma="напрямок" ana="noun:inanim:m:v_mis">напрямку</w>
     </w_>
     <g/>
@@ -2914,7 +2914,7 @@
     <w_ id="1gif">
       <w lemma="вештатися" ana="verb:rev:imperf:pres:s:3">Вештається</w>
     </w_>
-    <w_ id="1gig" dep="1gif-obl|1gif-private">
+    <w_ id="1gig" dep="1gif-obl" hdep="1gif-private">
       <w lemma="частина" ana="noun:inanim:f:v_oru">частиною</w>
     </w_>
     <g/>

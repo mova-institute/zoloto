@@ -130,7 +130,7 @@
       <w_ id="358t" dep="358u-det" n="39">
         <w lemma="цей" ana="adj:f:v_naz:&amp;pron:dem">Ця</w>
       </w_>
-      <w_ id="358u" dep="358v-nsubj|358v-distrib" coref="358n-equality" n="40">
+      <w_ id="358u" dep="358v-nsubj" coref="358n-equality" hdep="358v-distrib" n="40">
         <w lemma="руїна" ana="noun:inanim:f:v_naz">руїна</w>
       </w_>
       <w_ id="358v" n="41">
@@ -139,7 +139,7 @@
       <w_ id="358w" dep="358x-case" n="42">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
-      <w_ id="358x" dep="358v-obl|358v-private" n="43">
+      <w_ id="358x" dep="358v-obl" hdep="358v-private" n="43">
         <w lemma="город" ana="noun:inanim:m:v_oru">городом</w>
       </w_>
       <w_ id="358y" dep="3590-case" n="44">
@@ -148,7 +148,7 @@
       <w_ id="358z" dep="3590-amod" n="45">
         <w lemma="узький" ana="adj:f:v_mis">узькій</w>
       </w_>
-      <w_ id="3590" dep="358v-obl|358v-private" n="46">
+      <w_ id="3590" dep="358v-obl" hdep="358v-private" n="46">
         <w lemma="долинка" ana="noun:inanim:f:v_mis">долинці</w>
       </w_>
       <w_ id="3591" dep="3592-cc" n="47">
@@ -187,10 +187,10 @@
       <w_ id="359c" dep="359b-nsubj" n="57">
         <w lemma="костьол" ana="noun:inanim:m:v_naz">костьол</w>
       </w_>
-      <w_ id="359d" dep="359f-amod|359f-private" n="58">
+      <w_ id="359d" dep="359f-amod" hdep="359f-private" n="58">
         <w lemma="чудовий" ana="adj:f:v_rod:compb">чудової</w>
       </w_>
-      <w_ id="359e" dep="359f-amod|359f-private" n="59">
+      <w_ id="359e" dep="359f-amod" hdep="359f-private" n="59">
         <w lemma="напівготицький" ana="adj:f:v_rod:auto">напівготицької</w>
       </w_>
       <w_ id="359f" dep="359c-nmod" n="60">
@@ -294,7 +294,7 @@
       <w_ id="35ab" dep="35ac-case" n="90">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="35ac" dep="35ae-obl|35ae-distrib" coref="359w-equality" n="91">
+      <w_ id="35ac" dep="35ae-obl" coref="359w-equality" hdep="35ae-distrib" n="91">
         <w lemma="він" ana="noun:m:v_mis:rprep:&amp;pron:pers:3:rare">йому</w>
       </w_>
       <w_ id="35ad" dep="35ae-advmod" n="92">
@@ -303,7 +303,7 @@
       <w_ id="35ae" dep="35a9-ccomp" n="93">
         <w lemma="йти" ana="verb:imperf:pres:s:3">йде</w>
       </w_>
-      <w_ id="35af" dep="35ae-nsubj|35ae-private" n="94">
+      <w_ id="35af" dep="35ae-nsubj" hdep="35ae-private" n="94">
         <w lemma="служба" ana="noun:inanim:f:v_naz">служба</w>
       </w_>
       <w_ id="35ag" dep="35af-amod" n="95">
@@ -323,7 +323,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="35al"/>
-      <w_ id="35am" dep="35ao-nsubj|35ao-distrib" n="100">
+      <w_ id="35am" dep="35ao-nsubj" hdep="35ao-distrib" n="100">
         <w lemma="будівля" ana="noun:inanim:f:v_naz">Будівля</w>
       </w_>
       <w_ id="35an" dep="35am-nmod" n="101">
@@ -332,13 +332,13 @@
       <w_ id="35ao" n="102">
         <w lemma="іти" ana="verb:imperf:pres:s:3">іде</w>
       </w_>
-      <w_ id="35ap" dep="35ao-obl|35ao-private" n="103">
+      <w_ id="35ap" dep="35ao-obl" hdep="35ao-private" n="103">
         <w lemma="квадрат" ana="noun:inanim:m:v_oru">квадратом</w>
       </w_>
       <w_ id="35aq" dep="35ar-case" n="104">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
-      <w_ id="35ar" dep="35ao-obl|35ao-private" coref="359w-equality" n="105">
+      <w_ id="35ar" dep="35ao-obl" coref="359w-equality" hdep="35ao-private" n="105">
         <w lemma="костьол" ana="noun:inanim:m:v_oru">костьолом</w>
       </w_>
       <w_ id="35as" dep="35at-cc" n="106">
@@ -413,7 +413,7 @@
       <w_ id="35bf" dep="35bc-obj" coref="35an-equality" n="128">
         <w lemma="келія" ana="noun:inanim:p:f:v_zna">келії</w>
       </w_>
-      <w_ id="35bg" dep="35bh-case|35bh-private" n="129">
+      <w_ id="35bg" dep="35bh-case" hdep="35bh-private" n="129">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
       <w_ id="35bh" dep="35bf-nmod" n="130">
@@ -434,7 +434,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="35bm"/>
-      <w_ id="35bn" dep="35bp-nsubj|35bp-distrib" coref="35an-equality" n="135">
+      <w_ id="35bn" dep="35bp-nsubj" coref="35an-equality" hdep="35bp-distrib" n="135">
         <w lemma="келія" ana="noun:inanim:p:f:v_naz">Келії</w>
       </w_>
       <w_ id="35bo" dep="35bn-nmod" comment-equality="чорничні" n="136">
@@ -584,7 +584,7 @@
     </p>
     <p id="35d0">
       <sb id="35cz"/>
-      <w_ id="35d1" dep="35d2-nsubj|35d2-distrib" n="180">
+      <w_ id="35d1" dep="35d2-nsubj" hdep="35d2-distrib" n="180">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
       </w_>
       <w_ id="35d2" n="181">
@@ -593,7 +593,7 @@
       <w_ id="35d3" dep="35d4-case" n="182">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="35d4" dep="35d2-obl|35d2-private" coref="358x-equality" n="183">
+      <w_ id="35d4" dep="35d2-obl" coref="358x-equality" hdep="35d2-private" n="183">
         <w lemma="город" ana="noun:inanim:m:v_zna">город</w>
       </w_>
       <w_ id="35d5" dep="35d6-cc" n="184">
@@ -635,7 +635,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="35dh"/>
-      <w_ id="35di" dep="35dj-nsubj|35dj-distrib" coref="35d9-equality" n="196">
+      <w_ id="35di" dep="35dj-nsubj" coref="35d9-equality" hdep="35dj-distrib" n="196">
         <w lemma="гора" ana="noun:inanim:p:f:v_naz">Гори</w>
       </w_>
       <w_ id="35dj" n="197">
@@ -644,7 +644,7 @@
       <w_ id="35dk" dep="35dl-case" n="198">
         <w lemma="над" ana="prep:rv_oru">над</w>
       </w_>
-      <w_ id="35dl" dep="35dj-obl|35dj-private" n="199">
+      <w_ id="35dl" dep="35dj-obl" hdep="35dj-private" n="199">
         <w lemma="вода" ana="noun:inanim:f:v_oru">водою</w>
       </w_>
       <w_ id="35dm" dep="35dn-cc" n="200">
@@ -1094,7 +1094,7 @@
       <w_ id="35hm" dep="35hn-amod" n="330">
         <w lemma="справжній" ana="adj:p:v_naz">Справжні</w>
       </w_>
-      <w_ id="35hn" dep="35ht-nsubj|35ht-distrib" n="331">
+      <w_ id="35hn" dep="35ht-nsubj" hdep="35ht-distrib" n="331">
         <w lemma="митець" ana="noun:anim:p:m:v_naz">митці</w>
       </w_>
       <g/>
@@ -1111,7 +1111,7 @@
       <w_ id="35hr" dep="35hq-punct" n="335">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="35hs" dep="35ht-advmod|35ht-private" n="336">
+      <w_ id="35hs" dep="35ht-advmod" hdep="35ht-private" n="336">
         <w lemma="завжди" ana="adv:&amp;pron:gen">завжди</w>
       </w_>
       <w_ id="35ht" n="337">
@@ -1120,7 +1120,7 @@
       <w_ id="35hu" dep="35hv-det" n="338">
         <w lemma="свій" ana="adj:m:v_zna:rinanim:poss:&amp;pron:refl">свій</w>
       </w_>
-      <w_ id="35hv" dep="35ht-obj|35ht-private" n="339">
+      <w_ id="35hv" dep="35ht-obj" hdep="35ht-private" n="339">
         <w lemma="клас" ana="noun:inanim:m:v_zna">клас</w>
       </w_>
       <w_ id="35hw" dep="35hz-cc" n="340">
@@ -1169,7 +1169,7 @@
       <w_ id="35ia" dep="35i7-punct" n="353">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="35ib" dep="35ie-nsubj|35ie-distrib" n="354">
+      <w_ id="35ib" dep="35ie-nsubj" hdep="35ie-distrib" n="354">
         <w lemma="теорія" ana="noun:inanim:f:v_naz">теорія</w>
       </w_>
       <w_ id="35ic" dep="35ie-cc" n="355">
@@ -1184,7 +1184,7 @@
       <w_ id="35if" dep="35ig-amod" n="358">
         <w lemma="пролетарський" ana="adj:n:v_zna">пролетарське</w>
       </w_>
-      <w_ id="35ig" dep="35ie-obj|35ie-private" n="359">
+      <w_ id="35ig" dep="35ie-obj" hdep="35ie-private" n="359">
         <w lemma="мистецтво" ana="noun:inanim:n:v_zna">мистецтво</w>
       </w_>
       <g/>
@@ -1477,13 +1477,13 @@
       <w_ id="35l2" dep="35l6-punct" n="448">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="35l3" dep="35l6-nsubj|35l6-distrib" n="449">
+      <w_ id="35l3" dep="35l6-nsubj" hdep="35l6-distrib" n="449">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
-      <w_ id="35l4" dep="35l6-obj|35l6-distrib" n="450">
+      <w_ id="35l4" dep="35l6-obj" hdep="35l6-distrib" n="450">
         <w lemma="ніщо" ana="noun:inanim:v_zna:&amp;pron:neg">нічого</w>
       </w_>
-      <w_ id="35l5" dep="35l6-advmod|35l6-private" n="451">
+      <w_ id="35l5" dep="35l6-advmod" hdep="35l6-private" n="451">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="35l6" dep="35l1-acl" n="452">
@@ -1501,7 +1501,7 @@
       <w_ id="35la" dep="35lb-case" n="456">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="35lb" dep="35l6-obl|35l6-distrib" n="457">
+      <w_ id="35lb" dep="35l6-obl" hdep="35l6-distrib" n="457">
         <w lemma="пролетаріат" ana="noun:inanim:m:v_oru">пролетаріатом</w>
       </w_>
       <g/>
@@ -1518,7 +1518,7 @@
       <w_ id="35lg" dep="35lf-obj" n="461">
         <w lemma="роль" ana="noun:inanim:f:v_zna">роль</w>
       </w_>
-      <w_ id="35lh" dep="35li-advmod|35li-private" n="462">
+      <w_ id="35lh" dep="35li-advmod" hdep="35li-private" n="462">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="35li" dep="35lf-nsubj" n="463">
@@ -1761,7 +1761,7 @@
       <w_ id="35nm" dep="35nn-amod" n="534">
         <w lemma="пролетарський" ana="adj:n:v_naz">пролетарське</w>
       </w_>
-      <w_ id="35nn" dep="35nz-nsubj|35nz-distrib" n="535">
+      <w_ id="35nn" dep="35nz-nsubj" hdep="35nz-distrib" n="535">
         <w lemma="мистецтво" ana="noun:inanim:n:v_naz">мистецтво</w>
       </w_>
       <g/>
@@ -1793,16 +1793,16 @@
       <w_ id="35nw" dep="35nv-punct" n="544">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="35nx" dep="35nz-advmod|35nz-private" n="545">
+      <w_ id="35nx" dep="35nz-advmod" hdep="35nz-private" n="545">
         <w lemma="воістину" ana="adv">воістину</w>
       </w_>
-      <w_ id="35ny" dep="35nz-aux|35nz-private" n="546">
+      <w_ id="35ny" dep="35nz-aux" hdep="35nz-private" n="546">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
       <w_ id="35nz" n="547">
         <w lemma="творити" ana="verb:imperf:inf">творити</w>
       </w_>
-      <w_ id="35o0" dep="35nz-obj|35nz-private" n="548">
+      <w_ id="35o0" dep="35nz-obj" hdep="35nz-private" n="548">
         <w lemma="чудо" ana="noun:inanim:p:n:v_zna">чудеса</w>
       </w_>
       <g/>
@@ -2125,7 +2125,7 @@
       <w_ id="35qx" dep="35qw-iobj" coref="35qk-equality|35qm-equality" n="645">
         <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">їм</w>
       </w_>
-      <w_ id="35qy" dep="35qz-amod|35qz-private" comment="~" n="646">
+      <w_ id="35qy" dep="35qz-amod" comment="~" hdep="35qz-private" n="646">
         <w lemma="запізнений" ana="adj:p:v_zna:rinanim:&amp;adjp:perf:pasv">запізнені</w>
       </w_>
       <w_ id="35qz" dep="35qw-obj" n="647">
@@ -2595,16 +2595,16 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="35va"/>
-      <w_ id="35vb" dep="35vf-nsubj|35vf-distrib" coref="35un-equality" n="791">
+      <w_ id="35vb" dep="35vf-nsubj" coref="35un-equality" hdep="35vf-distrib" n="791">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
-      <w_ id="35vc" dep="35vf-obj|35vf-private" n="792">
+      <w_ id="35vc" dep="35vf-obj" hdep="35vf-private" n="792">
         <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
       </w_>
-      <w_ id="35vd" dep="35vf-advmod|35vf-private" n="793">
+      <w_ id="35vd" dep="35vf-advmod" hdep="35vf-private" n="793">
         <w lemma="нікуди" ana="adv:&amp;pron:neg">нікуди</w>
       </w_>
-      <w_ id="35ve" dep="35vf-advmod|35vf-private" n="794">
+      <w_ id="35ve" dep="35vf-advmod" hdep="35vf-private" n="794">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="35vf" n="795">
@@ -2771,10 +2771,10 @@
       <w_ id="35wv" dep="35wu-punct" n="845">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="35ww" dep="35wy-nsubj|35wy-distrib" coref="35un-equality" n="846">
+      <w_ id="35ww" dep="35wy-nsubj" coref="35un-equality" hdep="35wy-distrib" n="846">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="35wx" dep="35wy-advmod|35wy-private" n="847">
+      <w_ id="35wx" dep="35wy-advmod" hdep="35wy-private" n="847">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="35wy" n="848">
@@ -2872,7 +2872,7 @@
       <w_ id="35xt" dep="35xw-mark" n="873">
         <w lemma="ніби" ana="conj:subord">ніби</w>
       </w_>
-      <w_ id="35xu" dep="35xw-obj|35xw-distrib" coref="35xr-equality" n="874">
+      <w_ id="35xu" dep="35xw-obj" coref="35xr-equality" hdep="35xw-distrib" n="874">
         <w lemma="вона" ana="noun:f:v_rod:&amp;pron:pers:3">її</w>
       </w_>
       <w_ id="35xv" dep="35xw-cc" n="875">
@@ -2905,7 +2905,7 @@
       <w_ id="35y4" dep="35yc-mark" n="883">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="35y5" dep="35yc-nsubj|35yc-distrib" n="884">
+      <w_ id="35y5" dep="35yc-nsubj" hdep="35yc-distrib" n="884">
         <w lemma="розрив" ana="noun:inanim:m:v_naz">розрив</w>
       </w_>
       <w_ id="35y6" dep="35y7-amod" n="885">
@@ -2920,10 +2920,10 @@
       <w_ id="35y9" dep="35y5-nmod" tags="promoted" n="888">
         <w lemma="юнацький" ana="adj:m:v_oru">юнацьким</w>
       </w_>
-      <w_ id="35ya" dep="35yc-cop|35yc-distrib" n="889">
+      <w_ id="35ya" dep="35yc-cop" hdep="35yc-distrib" n="889">
         <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
       </w_>
-      <w_ id="35yb" dep="35yc-advmod|35yc-private" n="890">
+      <w_ id="35yb" dep="35yc-advmod" hdep="35yc-private" n="890">
         <w lemma="майже" ana="adv">майже</w>
       </w_>
       <w_ id="35yc" dep="35y2-ccomp" n="891">
@@ -3000,13 +3000,13 @@
       <w_ id="35yz" dep="35z3-mark" n="912">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="35z0" dep="35z3-nsubj|35z3-distrib" n="913">
+      <w_ id="35z0" dep="35z3-nsubj" hdep="35z3-distrib" n="913">
         <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">Ви</w>
       </w_>
       <w_ id="35z1" dep="35z2-advmod" n="914">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="35z2" dep="35z3-obl|35z3-private" n="915">
+      <w_ id="35z2" dep="35z3-obl" hdep="35z3-private" n="915">
         <w lemma="раз" ana="noun:inanim:m:v_zna">раз</w>
       </w_>
       <w_ id="35z3" dep="35yx-ccomp" n="916">
@@ -3021,7 +3021,7 @@
       <w_ id="35z6" dep="35z7-amod" n="919">
         <w lemma="пересічний" ana="adj:m:v_zna:ranim">пересічного</w>
       </w_>
-      <w_ id="35z7" dep="35z3-obj|35z3-private" n="920">
+      <w_ id="35z7" dep="35z3-obj" hdep="35z3-private" n="920">
         <w lemma="Мірчук" ana="noun:anim:m:v_zna:prop:lname">Мірчука</w>
       </w_>
       <g/>
@@ -3156,7 +3156,7 @@
       <w_ id="360e" dep="360f-nsubj" tags="promoted" n="961">
         <w lemma="двоє" ana="numr:v_naz">двоє</w>
       </w_>
-      <w_ id="360f" dep="360k-advcl|360k-collect" n="962">
+      <w_ id="360f" dep="360k-advcl" hdep="360k-collect" n="962">
         <w lemma="сказати" ana="verb:perf:futr:p:3">скажуть</w>
       </w_>
       <g/>
@@ -3360,7 +3360,7 @@
       <w_ id="362a" dep="3622-nmod" n="1023">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
-      <w_ id="362b" dep="362c-det|362c-distrib" coref="3622-equality" n="1024">
+      <w_ id="362b" dep="362c-det" coref="3622-equality" hdep="362c-distrib" n="1024">
         <w lemma="її" ana="adj:n:v_rod:poss:nv:&amp;pron:pers:3">її</w>
       </w_>
       <w_ id="362c" dep="362a-nmod" n="1025">
@@ -3408,7 +3408,7 @@
       <w_ id="362q" dep="362s-cc" n="1038">
         <w lemma="ні" ana="conj:coord:neg">ні</w>
       </w_>
-      <w_ id="362r" dep="362s-case|362s-private" n="1039">
+      <w_ id="362r" dep="362s-case" hdep="362s-private" n="1039">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
       <w_ id="362s" dep="362p-obl" n="1040">
@@ -3566,7 +3566,7 @@
       <w_ id="3646" n="1088">
         <w lemma="важливий" ana="adj:p:v_naz:compb">Важливі</w>
       </w_>
-      <w_ id="3647" dep="3648-advmod|3648-private" n="1089">
+      <w_ id="3647" dep="3648-advmod" hdep="3648-private" n="1089">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="3648" dep="3646-nsubj" n="1090">
@@ -3590,7 +3590,7 @@
       <w_ id="364e" dep="364f-amod" n="1095">
         <w lemma="вісниківський" ana="adj:f:v_naz">Вісниківська</w>
       </w_>
-      <w_ id="364f" dep="364k-nsubj|364k-distrib" n="1096">
+      <w_ id="364f" dep="364k-nsubj" hdep="364k-distrib" n="1096">
         <w lemma="концепція" ana="noun:inanim:f:v_naz">концепція</w>
       </w_>
       <w_ id="364g" dep="364i-case" n="1097">
@@ -3599,10 +3599,10 @@
       <w_ id="364h" dep="364i-det" n="1098">
         <w lemma="свій" ana="adj:m:v_zna:rinanim:poss:&amp;pron:refl">свій</w>
       </w_>
-      <w_ id="364i" dep="364k-obl|364k-distrib" n="1099">
+      <w_ id="364i" dep="364k-obl" hdep="364k-distrib" n="1099">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
-      <w_ id="364j" dep="364k-cop|364k-distrib" n="1100">
+      <w_ id="364j" dep="364k-cop" hdep="364k-distrib" n="1100">
         <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
       </w_>
       <w_ id="364k" n="1101">
@@ -3676,10 +3676,10 @@
         <w lemma="„" ana="punct:quote:open">„</w>
       </w_>
       <g/>
-      <w_ id="3657" dep="3659-nsubj|3659-distrib" n="1122">
+      <w_ id="3657" dep="3659-nsubj" hdep="3659-distrib" n="1122">
         <w lemma="Донцов" ana="noun:anim:m:v_naz:prop:lname:n2adj">Донцов</w>
       </w_>
-      <w_ id="3658" dep="3659-advmod|3659-private" n="1123">
+      <w_ id="3658" dep="3659-advmod" hdep="3659-private" n="1123">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="3659" dep="3653-ccomp" n="1124">
@@ -3701,7 +3701,7 @@
       <w_ id="365e" dep="3659-conj" n="1129">
         <w lemma="грати" ana="verb:imperf:past:m">грав</w>
       </w_>
-      <w_ id="365f" dep="365g-case|365g-distrib" n="1130">
+      <w_ id="365f" dep="365g-case" hdep="365g-distrib" n="1130">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
       <w_ id="365g" dep="365e-obl" n="1131">
@@ -3824,13 +3824,13 @@
       <w_ id="366i" dep="366m-cc" n="1166">
         <w lemma="чи" ana="conj:coord">Чи</w>
       </w_>
-      <w_ id="366j" dep="366m-cop|366m-distrib" n="1167">
+      <w_ id="366j" dep="366m-cop" hdep="366m-distrib" n="1167">
         <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
       </w_>
-      <w_ id="366k" dep="366m-nsubj|366m-distrib" n="1168">
+      <w_ id="366k" dep="366m-nsubj" hdep="366m-distrib" n="1168">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="366l" dep="366m-det|366m-distrib" n="1169">
+      <w_ id="366l" dep="366m-det" hdep="366m-distrib" n="1169">
         <w lemma="його" ana="adj:m:v_oru:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="366m" dep="366v-csubj" n="1170">
@@ -3882,7 +3882,7 @@
       <w_ id="3672" dep="367g-advcl" n="1182">
         <w lemma="говорити" ana="verb:imperf:pres:advp">Говорячи</w>
       </w_>
-      <w_ id="3673" dep="3674-case|3674-distrib" n="1183">
+      <w_ id="3673" dep="3674-case" hdep="3674-distrib" n="1183">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
       <w_ id="3674" dep="3672-obl" n="1184">
@@ -3894,7 +3894,7 @@
       <w_ id="3676" dep="3674-conj" n="1186">
         <w lemma="ідеалістичність" ana="noun:inanim:f:v_zna">ідеалістичність</w>
       </w_>
-      <w_ id="3677" dep="3674-nmod|3674-distrib" n="1187">
+      <w_ id="3677" dep="3674-nmod" hdep="3674-distrib" n="1187">
         <w lemma="підхід" ana="noun:inanim:m:v_rod">підходу</w>
       </w_>
       <w_ id="3678" dep="3679-case" n="1188">
@@ -3907,14 +3907,14 @@
       <w_ id="367a" dep="3672-punct" n="1190">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="367b" dep="367g-nsubj|367g-distrib" n="1191">
+      <w_ id="367b" dep="367g-nsubj" hdep="367g-distrib" n="1191">
         <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">Ви</w>
       </w_>
       <g/>
       <w_ id="367c" dep="367d-punct" n="1192">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="367d" dep="367g-vocative|367g-distrib" n="1193">
+      <w_ id="367d" dep="367g-vocative" hdep="367g-distrib" n="1193">
         <w lemma="Юрій" ana="noun:anim:m:v_kly:prop:fname">Юрію</w>
       </w_>
       <w_ id="367e" dep="367d-flat:name" n="1194">
@@ -4234,13 +4234,13 @@
       <w_ id="36a8" dep="36a6-obl" n="1293">
         <w lemma="він" ana="noun:m:v_rod:rprep:&amp;pron:pers:3">нього</w>
       </w_>
-      <w_ id="36a9" dep="36aa-advmod|36aa-private" n="1294">
+      <w_ id="36a9" dep="36aa-advmod" hdep="36aa-private" n="1294">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="36aa" dep="36a6-obj" n="1295">
         <w lemma="заперечення" ana="noun:inanim:n:v_zna">заперечення</w>
       </w_>
-      <w_ id="36ab" dep="36aa-nmod|36aa-private" n="1296">
+      <w_ id="36ab" dep="36aa-nmod" hdep="36aa-private" n="1296">
         <w lemma="ідеалізм" ana="noun:inanim:m:v_rod">ідеалізму</w>
       </w_>
       <g/>
@@ -4306,7 +4306,7 @@
       <w_ id="36av" dep="36aw-amod" n="1315">
         <w lemma="життєвий" ana="adj:p:v_rod">життєвих</w>
       </w_>
-      <w_ id="36aw" dep="36at-nmod|36at-private" n="1316">
+      <w_ id="36aw" dep="36at-nmod" hdep="36at-private" n="1316">
         <w lemma="погляд" ana="noun:inanim:p:m:v_rod">поглядів</w>
       </w_>
       <g/>
@@ -4328,7 +4328,7 @@
       <w_ id="36b2" dep="36b0-nmod" n="1322">
         <w lemma="коло" ana="noun:inanim:n:v_mis">колі</w>
       </w_>
-      <w_ id="36b3" dep="36b4-amod|36b4-distrib" n="1323">
+      <w_ id="36b3" dep="36b4-amod" hdep="36b4-distrib" n="1323">
         <w lemma="дотикальний" ana="adj:p:v_rod">дотикальних</w>
       </w_>
       <w_ id="36b4" dep="36b2-nmod" n="1324">
@@ -4717,7 +4717,7 @@
       <w_ id="36el" dep="36em-case" n="1442">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="36em" dep="36ek-obl|36ek-private" n="1443">
+      <w_ id="36em" dep="36ek-obl" hdep="36ek-private" n="1443">
         <w lemma="укладення" ana="noun:inanim:n:v_zna">укладення</w>
       </w_>
       <w_ id="36en" dep="36eo-amod" n="1444">
@@ -4863,7 +4863,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36fy"/>
-      <w_ id="36fz" dep="36g0-nsubj|36g0-distrib" coref="36ft-equality" n="1487">
+      <w_ id="36fz" dep="36g0-nsubj" coref="36ft-equality" hdep="36g0-distrib" n="1487">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
       <w_ id="36g0" n="1488">
@@ -4887,13 +4887,13 @@
       <w_ id="36g5" dep="36g9-punct" n="1493">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="36g6" dep="36g9-mark|36g9-private" n="1494">
+      <w_ id="36g6" dep="36g9-mark" hdep="36g9-private" n="1494">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="36g7" dep="36g9-nsubj|36g9-private" n="1495">
+      <w_ id="36g7" dep="36g9-nsubj" hdep="36g9-private" n="1495">
         <w lemma="генерал" ana="noun:anim:p:m:v_naz">генерали</w>
       </w_>
-      <w_ id="36g8" dep="36g9-obj|36g9-private" coref="36ft-equality" n="1496">
+      <w_ id="36g8" dep="36g9-obj" coref="36ft-equality" hdep="36g9-private" n="1496">
         <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="36g9" dep="36g4-ccomp" n="1497">
@@ -4963,7 +4963,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36gv"/>
-      <w_ id="36gw" dep="36gx-nsubj|36gx-distrib" n="1517">
+      <w_ id="36gw" dep="36gx-nsubj" hdep="36gx-distrib" n="1517">
         <w lemma="Радуєв" ana="noun:anim:m:v_naz:prop:lname">Радуєв</w>
       </w_>
       <w_ id="36gx" n="1518">
@@ -4975,7 +4975,7 @@
       <w_ id="36gz" dep="36h0-amod" n="1520">
         <w lemma="дагестанський" ana="adj:n:v_zna">дагестанське</w>
       </w_>
-      <w_ id="36h0" dep="36gx-obl|36gx-private" n="1521">
+      <w_ id="36h0" dep="36gx-obl" hdep="36gx-private" n="1521">
         <w lemma="місто" ana="noun:inanim:n:v_zna">місто</w>
       </w_>
       <w_ id="36h1" dep="36h0-flat:title" n="1522">
@@ -5159,10 +5159,10 @@
       <w_ id="36io" dep="36ip-nummod:gov" n="1577">
         <w lemma="двоє" ana="numr:v_naz">Двоє</w>
       </w_>
-      <w_ id="36ip" dep="36ir-nsubj|36ir-distrib" coref="36ht-bridge" n="1578">
+      <w_ id="36ip" dep="36ir-nsubj" coref="36ht-bridge" hdep="36ir-distrib" n="1578">
         <w lemma="агент" ana="noun:anim:p:m:v_rod">агентів</w>
       </w_>
-      <w_ id="36iq" dep="36ir-cop|36ir-distrib" n="1579">
+      <w_ id="36iq" dep="36ir-cop" hdep="36ir-distrib" n="1579">
         <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
       </w_>
       <w_ id="36ir" n="1580">
@@ -5453,10 +5453,10 @@
       <w_ id="36lf" dep="36li-cc" n="1668">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
-      <w_ id="36lg" dep="36li-case|36li-private" n="1669">
+      <w_ id="36lg" dep="36li-case" hdep="36li-private" n="1669">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="36lh" dep="36li-det|36li-private" coref="36lb-equality" n="1670">
+      <w_ id="36lh" dep="36li-det" coref="36lb-equality" hdep="36li-private" n="1670">
         <w lemma="його" ana="adj:m:v_zna:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="36li" dep="36ld-obl" n="1671">
@@ -5546,7 +5546,7 @@
       <w_ id="36m9" dep="36mb-punct" n="1696">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="36ma" dep="36mb-nsubj|36mb-distrib" coref="36m8-equality" n="1697">
+      <w_ id="36ma" dep="36mb-nsubj" coref="36m8-equality" hdep="36mb-distrib" n="1697">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="36mb" dep="36m8-acl" n="1698">
@@ -5555,7 +5555,7 @@
       <w_ id="36mc" dep="36mb-aux" n="1699">
         <w lemma="би" ana="part">би</w>
       </w_>
-      <w_ id="36md" dep="36mb-obj|36mb-private" edep="36mg-nsubj:rel" n="1700">
+      <w_ id="36md" dep="36mb-obj" edep="36mg-nsubj:rel" hdep="36mb-private" n="1700">
         <w lemma="промінь" ana="noun:inanim:m:v_zna">промінь</w>
       </w_>
       <g/>
@@ -6288,19 +6288,19 @@
       <w_ id="36sz" dep="36ss-punct" n="1922">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="36t0" dep="36t1-nsubj|36t1-distrib" n="1923">
+      <w_ id="36t0" dep="36t1-nsubj" hdep="36t1-distrib" n="1923">
         <w lemma="Дудаєв" ana="noun:anim:m:v_naz:prop:lname:n2adj">Дудаєв</w>
       </w_>
       <w_ id="36t1" n="1924">
         <w lemma="розвернути" ana="verb:perf:past:m">розвернув</w>
       </w_>
-      <w_ id="36t2" dep="36t1-obj|36t1-private" n="1925">
+      <w_ id="36t2" dep="36t1-obj" hdep="36t1-private" n="1925">
         <w lemma="телефон" ana="noun:inanim:m:v_zna">телефон</w>
       </w_>
       <w_ id="36t3" dep="36t4-case" n="1926">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="36t4" dep="36t1-obl|36t1-private" n="1927">
+      <w_ id="36t4" dep="36t1-obl" hdep="36t1-private" n="1927">
         <w lemma="капот" ana="noun:inanim:m:v_mis">капоті</w>
       </w_>
       <w_ id="36t5" dep="36t4-nmod" n="1928">
@@ -6374,7 +6374,7 @@
       <w_ id="36tr" dep="36tx-punct" n="1949">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="36ts" dep="36tt-case|36tt-private" n="1950">
+      <w_ id="36ts" dep="36tt-case" hdep="36tt-private" n="1950">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
       <w_ id="36tt" dep="36tx-obl" n="1951">
@@ -6447,7 +6447,7 @@
       <w_ id="36ug" dep="36uo-obl" n="1972">
         <w lemma="секунда" ana="noun:inanim:p:f:v_zna">секунди</w>
       </w_>
-      <w_ id="36uh" dep="36uo-nsubj|36uo-distrib" coref="36qh-equality" n="1973">
+      <w_ id="36uh" dep="36uo-nsubj" coref="36qh-equality" hdep="36uo-distrib" n="1973">
         <w lemma="прилад" ana="noun:inanim:m:v_naz">прилад</w>
       </w_>
       <w_ id="36ui" dep="36uk-case" n="1974">
@@ -6475,7 +6475,7 @@
       <w_ id="36uo" n="1980">
         <w lemma="зловити" ana="verb:perf:past:m">зловив</w>
       </w_>
-      <w_ id="36up" dep="36uo-obj|36uo-private" n="1981">
+      <w_ id="36up" dep="36uo-obj" hdep="36uo-private" n="1981">
         <w lemma="промінь" ana="noun:inanim:m:v_zna">промінь</w>
       </w_>
       <w_ id="36uq" dep="36ur-cc" n="1982">
@@ -6543,7 +6543,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="36va"/>
-      <w_ id="36vb" dep="36vc-nsubj|36vc-distrib" tags="promoted" comment-equality="#promoted" coref="36v5-equality" n="2001">
+      <w_ id="36vb" dep="36vc-nsubj" tags="promoted" comment-equality="#promoted" coref="36v5-equality" hdep="36vc-distrib" n="2001">
         <w lemma="перший" ana="adj:f:v_naz:compb:&amp;numr">Перша</w>
       </w_>
       <w_ id="36vc" n="2002">
@@ -6552,7 +6552,7 @@
       <w_ id="36vd" dep="36ve-case" n="2003">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="36ve" dep="36vc-obl|36vc-private" n="2004">
+      <w_ id="36ve" dep="36vc-obl" hdep="36vc-private" n="2004">
         <w lemma="земля" ana="noun:inanim:f:v_zna">землю</w>
       </w_>
       <w_ id="36vf" dep="36vh-cc" n="2005">

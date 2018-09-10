@@ -8,7 +8,7 @@
     <w_ id="2fpo" coref="2fq0-equality|2fq8-equality" n="1">
       <w lemma="йти" ana="verb:imperf:impr:p:1">Йдім</w>
     </w_>
-    <w_ id="2fpp" dep="2fpq-amod|2fpq-private" n="2">
+    <w_ id="2fpp" dep="2fpq-amod" hdep="2fpq-private" n="2">
       <w lemma="окремий" ana="adj:p:v_oru">окремими</w>
     </w_>
     <w_ id="2fpq" dep="2fpo-obl" n="3">
@@ -73,7 +73,7 @@
     <w_ id="3cbg" dep="2fq1-conj:parataxis" ellipsis="predicate">
       <w lemma="дійти" ana="verb:perf:futr:s:1">дійду</w>
     </w_>
-    <w_ id="2fq9" dep="2fqa-case|2fqa-private" n="21">
+    <w_ id="2fq9" dep="2fqa-case" hdep="2fqa-private" n="21">
       <w lemma="через" ana="prep:rv_zna">через</w>
     </w_>
     <w_ id="2fqa" dep="2fq8-orphan|3cbg-obl" n="22">
@@ -96,7 +96,7 @@
     <w_ id="2fqf" dep="2fqh-discourse" comment="~" n="27">
       <w lemma="й" ana="part">й</w>
     </w_>
-    <w_ id="2fqg" dep="2fqh-case|2fqh-distrib" n="28">
+    <w_ id="2fqg" dep="2fqh-case" hdep="2fqh-distrib" n="28">
       <w lemma="через" ana="prep:rv_zna">через</w>
     </w_>
     <w_ id="2fqh" dep="2fqa-conj" n="29">
@@ -179,7 +179,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2fr6"/>
-    <w_ id="2fr7" dep="2fr8-nsubj|2fr8-distrib" tags="promoted" coref="2fqx-equality" n="54">
+    <w_ id="2fr7" dep="2fr8-nsubj" tags="promoted" coref="2fqx-equality" hdep="2fr8-distrib" n="54">
       <w lemma="останній" ana="adj:m:v_naz:compb">Останній</w>
     </w_>
     <w_ id="2fr8" n="55">
@@ -194,14 +194,14 @@
     <w_ id="2frb" dep="2frc-case" n="58">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="2frc" dep="2fr8-obl|2fr8-distrib" n="59">
+    <w_ id="2frc" dep="2fr8-obl" hdep="2fr8-distrib" n="59">
       <w lemma="Варшава" ana="noun:inanim:f:v_mis:prop">Варшаві</w>
     </w_>
     <g/>
     <w_ id="2frd" dep="2fre-punct" n="60">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2fre" dep="2fr8-advcl|2fr8-distrib" n="61">
+    <w_ id="2fre" dep="2fr8-advcl" hdep="2fr8-distrib" n="61">
       <w lemma="перебувати" ana="verb:imperf:pres:advp">перебуваючи</w>
     </w_>
     <w_ id="2frf" dep="2frh-case" n="62">
@@ -285,13 +285,13 @@
     <w_ id="2fs5" dep="2fsc-mark" n="86">
       <w lemma="адже" ana="conj:subord">адже</w>
     </w_>
-    <w_ id="2fs6" dep="2fsc-nsubj|2fsc-distrib" n="87">
+    <w_ id="2fs6" dep="2fsc-nsubj" hdep="2fsc-distrib" n="87">
       <w lemma="організація" ana="noun:inanim:f:v_naz">Організація</w>
     </w_>
     <w_ id="2fs7" dep="2fs8-amod" n="88">
       <w lemma="український" ana="adj:p:v_rod">українських</w>
     </w_>
-    <w_ id="2fs8" dep="2fs6-nmod|2fs6-private" n="89">
+    <w_ id="2fs8" dep="2fs6-nmod" hdep="2fs6-private" n="89">
       <w lemma="націоналіст" ana="noun:anim:p:m:v_rod">націоналістів</w>
     </w_>
     <w_ id="2fs9" dep="2fsb-cc" n="90">
@@ -309,7 +309,7 @@
     <w_ id="2fsd" dep="2fse-amod" n="94">
       <w lemma="тісний" ana="adj:m:v_zna:rinanim:compb">тісний</w>
     </w_>
-    <w_ id="2fse" dep="2fsc-obj|2fsc-private" n="95">
+    <w_ id="2fse" dep="2fsc-obj" hdep="2fsc-private" n="95">
       <w lemma="контакт" ana="noun:inanim:m:v_zna">контакт</w>
     </w_>
     <w_ id="2fsf" dep="2fsi-case" n="96">
@@ -518,16 +518,16 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2fua"/>
-    <w_ id="2fub" dep="2fud-advmod|2fud-private" coref="2ftc-equality" n="160">
+    <w_ id="2fub" dep="2fud-advmod" coref="2ftc-equality" hdep="2fud-private" n="160">
       <w lemma="відтоді" ana="adv:&amp;pron:dem">Відтоді</w>
     </w_>
-    <w_ id="2fuc" dep="2fud-nsubj|2fud-distrib" coref="2ft3-equality" edep="2fuo-nsubj:xsubj" n="161">
+    <w_ id="2fuc" dep="2fud-nsubj" coref="2ft3-equality" edep="2fuo-nsubj:xsubj" hdep="2fud-distrib" n="161">
       <w lemma="націоналіст" ana="noun:anim:p:m:v_naz">націоналісти</w>
     </w_>
     <w_ id="2fud" n="162">
       <w lemma="мати" ana="verb:imperf:futr:p:3">матимуть</w>
     </w_>
-    <w_ id="2fue" dep="2fud-obj|2fud-private" n="163">
+    <w_ id="2fue" dep="2fud-obj" hdep="2fud-private" n="163">
       <w lemma="доступ" ana="noun:inanim:m:v_zna">доступ</w>
     </w_>
     <w_ id="2fuf" dep="2fuh-case" n="164">
@@ -591,7 +591,7 @@
     <w_ id="2fuy" dep="2fux-punct" n="181">
       <w lemma="." ana="punct">.</w>
     </w_>
-    <w_ id="2fuz" dep="2fv0-aux|2fv0-distrib" n="182">
+    <w_ id="2fuz" dep="2fv0-aux" hdep="2fv0-distrib" n="182">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
     <w_ id="2fv0" n="183">
@@ -901,13 +901,13 @@
     <w_ id="2fxs" dep="2fxt-amod" n="278">
       <w lemma="китайський" ana="adj:f:v_zna">китайську</w>
     </w_>
-    <w_ id="2fxt" dep="2fxw-obj|2fxw-private" coref="2fxo-equality" n="279">
+    <w_ id="2fxt" dep="2fxw-obj" coref="2fxo-equality" hdep="2fxw-private" n="279">
       <w lemma="територія" ana="noun:inanim:f:v_zna">територію</w>
     </w_>
     <w_ id="2fxu" dep="2fxv-amod" n="280">
       <w lemma="японський" ana="adj:p:v_naz">японські</w>
     </w_>
-    <w_ id="2fxv" dep="2fxw-nsubj|2fxw-distrib" n="281">
+    <w_ id="2fxv" dep="2fxw-nsubj" hdep="2fxw-distrib" n="281">
       <w lemma="військо" ana="noun:inanim:p:n:v_naz">війська</w>
     </w_>
     <w_ id="2fxw" n="282">
@@ -1008,10 +1008,10 @@
     <w_ id="2fyt" dep="2fyr-nmod" n="314">
       <w lemma="вплив" ana="noun:inanim:m:v_rod">впливу</w>
     </w_>
-    <w_ id="2fyu" dep="2fyw-case|2fyw-distrib" n="315">
+    <w_ id="2fyu" dep="2fyw-case" hdep="2fyw-distrib" n="315">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ id="2fyv" dep="2fyw-amod|2fyw-private" n="316">
+    <w_ id="2fyv" dep="2fyw-amod" hdep="2fyw-private" n="316">
       <w lemma="червоний" ana="adj:f:v_zna:compb">Червону</w>
     </w_>
     <w_ id="2fyw" dep="2fyt-nmod" n="317">
@@ -1581,7 +1581,7 @@
     <w_ id="2g3z" dep="2g42-punct" n="491">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2g40" dep="2g42-nsubj|2g42-distrib" edep="2g4l-nsubj:xsubj" n="492">
+    <w_ id="2g40" dep="2g42-nsubj" edep="2g4l-nsubj:xsubj" hdep="2g42-distrib" n="492">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
     </w_>
     <w_ id="2g41" dep="2g42-advmod" n="493">
@@ -1593,7 +1593,7 @@
     <w_ id="2g43" dep="2g44-amod" n="495">
       <w lemma="помітний" ana="adj:p:v_zna:rinanim:compb">помітні</w>
     </w_>
-    <w_ id="2g44" dep="2g42-obj|2g42-private" n="496">
+    <w_ id="2g44" dep="2g42-obj" hdep="2g42-private" n="496">
       <w lemma="роль" ana="noun:inanim:p:f:v_zna">ролі</w>
     </w_>
     <w_ id="2g45" dep="2g48-case" n="497">
@@ -1946,13 +1946,13 @@
     <w_ id="2g7c" dep="2g7b-flat:name" n="606">
       <w lemma="Гнатів" ana="noun:anim:m:v_naz:prop:lname:n2adj">Гнатів</w>
     </w_>
-    <w_ id="2g7d" dep="2g7e-advmod|2g7e-private" n="607">
+    <w_ id="2g7d" dep="2g7e-advmod" hdep="2g7e-private" n="607">
       <w lemma="нелегально" ana="adv">нелегально</w>
     </w_>
     <w_ id="2g7e" n="608">
       <w lemma="покинути" ana="verb:perf:futr:p:3">покинуть</w>
     </w_>
-    <w_ id="2g7f" dep="2g7e-obj|2g7e-private" n="609">
+    <w_ id="2g7f" dep="2g7e-obj" hdep="2g7e-private" n="609">
       <w lemma="межа" ana="noun:inanim:p:f:v_zna">межі</w>
     </w_>
     <w_ id="2g7g" dep="2g7f-nmod" n="610">
@@ -1975,7 +1975,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2g7m"/>
-    <w_ id="2g7n" dep="2g84-advcl:sp|2g84-distrib" n="616">
+    <w_ id="2g7n" dep="2g84-advcl:sp" hdep="2g84-distrib" n="616">
       <w lemma="долучений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">Долучені</w>
     </w_>
     <w_ id="2g7o" dep="2g7q-case" n="617">
@@ -2016,13 +2016,13 @@
     <w_ id="2g7z" dep="2g80-nummod:gov" n="628">
       <w lemma="троє" ana="numr:v_naz">троє</w>
     </w_>
-    <w_ id="2g80" dep="2g84-nsubj|2g84-distrib" n="629">
+    <w_ id="2g80" dep="2g84-nsubj" hdep="2g84-distrib" n="629">
       <w lemma="націоналіст" ana="noun:anim:p:m:v_rod">націоналістів</w>
     </w_>
     <w_ id="2g81" dep="2g82-case" n="630">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="2g82" dep="2g84-obl|2g84-private" n="631">
+    <w_ id="2g82" dep="2g84-obl" hdep="2g84-private" n="631">
       <w lemma="середина" ana="noun:inanim:f:v_mis">середині</w>
     </w_>
     <w_ id="2g83" dep="2g82-nmod" n="632">
@@ -2121,7 +2121,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2g8x"/>
-    <w_ id="2g8y" dep="2g8z-aux|2g8z-private" n="660">
+    <w_ id="2g8y" dep="2g8z-aux" hdep="2g8z-private" n="660">
       <w lemma="бути" ana="verb:aux:imperf:futr:p:2">Будете</w>
     </w_>
     <w_ id="2g8z" n="661">
@@ -2133,7 +2133,7 @@
     <w_ id="2g91" dep="2g92-amod" n="663">
       <w lemma="російський" ana="adj:p:v_oru">російськими</w>
     </w_>
-    <w_ id="2g92" dep="2g8z-obl|2g8z-private" n="664">
+    <w_ id="2g92" dep="2g8z-obl" hdep="2g8z-private" n="664">
       <w lemma="прізвище" ana="noun:inanim:p:n:v_oru">прізвищами</w>
     </w_>
     <w_ id="2g93" dep="2g96-cc" n="665">
@@ -2227,7 +2227,7 @@
     <w_ id="2g9w" dep="2g9v-iobj" n="692">
       <w lemma="себе" ana="noun:v_dav:&amp;pron:refl">собі</w>
     </w_>
-    <w_ id="2g9x" dep="2g9y-amod|2g9y-private" n="693">
+    <w_ id="2g9x" dep="2g9y-amod" hdep="2g9y-private" n="693">
       <w lemma="життєвий" ana="adj:p:v_zna:rinanim">життєві</w>
     </w_>
     <w_ id="2g9y" dep="2g9v-obj" n="694">
@@ -2306,7 +2306,7 @@
     <w_ id="2gam" dep="2gag-appos" n="717">
       <w lemma="прослуховування" ana="noun:inanim:n:v_naz">прослуховування</w>
     </w_>
-    <w_ id="2gan" dep="2gam-nmod|2gam-private" n="718">
+    <w_ id="2gan" dep="2gam-nmod" hdep="2gam-private" n="718">
       <w lemma="лекція" ana="noun:inanim:p:f:v_rod">лекцій</w>
     </w_>
     <g/>
@@ -2408,7 +2408,7 @@
     <w_ id="2gbj" dep="2gbd-appos" n="748">
       <w lemma="організація" ana="noun:inanim:f:v_naz">організація</w>
     </w_>
-    <w_ id="2gbk" dep="2gbj-nmod|2gbj-private" n="749">
+    <w_ id="2gbk" dep="2gbj-nmod" hdep="2gbj-private" n="749">
       <w lemma="військо" ana="noun:inanim:p:n:v_rod">військ</w>
     </w_>
     <w_ id="2gbl" dep="2gbm-amod" n="750">
@@ -2455,25 +2455,25 @@
     <w_ id="2gbx" dep="2gbj-conj" n="762">
       <w lemma="біографія" ana="noun:inanim:p:f:v_naz">біографії</w>
     </w_>
-    <w_ id="2gby" dep="2gbz-det|2gbz-private" n="763">
+    <w_ id="2gby" dep="2gbz-det" hdep="2gbz-private" n="763">
       <w lemma="увесь" ana="adj:p:v_rod:&amp;pron:gen">усіх</w>
     </w_>
     <w_ id="2gbz" dep="2gbx-nmod" n="764">
       <w lemma="член" ana="noun:anim:p:m:v_rod">членів</w>
     </w_>
-    <w_ id="2gc0" dep="2gbz-nmod|2gbz-private" n="765">
+    <w_ id="2gc0" dep="2gbz-nmod" hdep="2gbz-private" n="765">
       <w lemma="політбюро" ana="noun:inanim:n:v_rod:nv">Політбюро</w>
     </w_>
     <w_ id="2gc1" dep="2gc5-cc" n="766">
       <w lemma="й" ana="conj:coord">й</w>
     </w_>
-    <w_ id="2gc2" dep="2gc5-det|2gc5-distrib" n="767">
+    <w_ id="2gc2" dep="2gc5-det" hdep="2gc5-distrib" n="767">
       <w lemma="весь" ana="adj:p:v_rod:&amp;pron:gen">всіх</w>
     </w_>
-    <w_ id="2gc3" dep="2gc5-amod|2gc5-distrib" n="768">
+    <w_ id="2gc3" dep="2gc5-amod" hdep="2gc5-distrib" n="768">
       <w lemma="визначний" ana="adj:p:v_rod:compb">визначних</w>
     </w_>
-    <w_ id="2gc4" dep="2gc5-amod|2gc5-distrib" n="769">
+    <w_ id="2gc4" dep="2gc5-amod" hdep="2gc5-distrib" n="769">
       <w lemma="сучасний" ana="adj:p:v_rod:compb">сучасних</w>
     </w_>
     <w_ id="2gc5" dep="2gbz-conj" n="770">
@@ -2830,7 +2830,7 @@
     <w_ id="2gf9" dep="2gfa-amod" n="879">
       <w lemma="проукраїнський" ana="adj:p:v_zna:rinanim">проукраїнські</w>
     </w_>
-    <w_ id="2gfa" dep="2gf8-obj|2gf8-private" n="880">
+    <w_ id="2gfa" dep="2gf8-obj" hdep="2gf8-private" n="880">
       <w lemma="гасло" ana="noun:inanim:p:n:v_zna">гасла</w>
     </w_>
     <g/>
@@ -3572,7 +3572,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2glz"/>
-    <w_ id="2gm0" dep="2gmg-nsubj|2gmg-distrib" n="1105">
+    <w_ id="2gm0" dep="2gmg-nsubj" hdep="2gmg-distrib" n="1105">
       <w lemma="розмова" ana="noun:inanim:p:f:v_naz">Розмови</w>
     </w_>
     <w_ id="2gm1" dep="2gm3-case" n="1106">
@@ -3581,7 +3581,7 @@
     <w_ id="2gm2" dep="2gm3-amod" n="1107">
       <w lemma="національний" ana="adj:p:v_zna:rinanim">національні</w>
     </w_>
-    <w_ id="2gm3" dep="2gm0-nmod|2gm0-private" n="1108">
+    <w_ id="2gm3" dep="2gm0-nmod" hdep="2gm0-private" n="1108">
       <w lemma="тема" ana="noun:inanim:p:f:v_zna">теми</w>
     </w_>
     <g/>
@@ -3627,7 +3627,7 @@
     <w_ id="2gmh" dep="2gmi-det" n="1122">
       <w lemma="цей" ana="adj:f:v_zna:&amp;pron:dem">цю</w>
     </w_>
-    <w_ id="2gmi" dep="2gmg-obj|2gmg-private" n="1123">
+    <w_ id="2gmi" dep="2gmg-obj" hdep="2gmg-private" n="1123">
       <w lemma="група" ana="noun:inanim:f:v_zna">групу</w>
     </w_>
     <g/>

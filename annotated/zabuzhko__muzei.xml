@@ -326,7 +326,7 @@
     <w_ id="1h7d" dep="1h7g-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="1h7e" dep="1h7g-nsubj|1h7g-private">
+    <w_ id="1h7e" dep="1h7g-nsubj" hdep="1h7g-private">
       <w lemma="щось" ana="noun:inanim:n:v_naz:&amp;pron:ind">щось</w>
     </w_>
     <w_ id="1h7f" dep="1h7e-amod">
@@ -630,10 +630,10 @@
     <w_ id="1ha3" dep="1ha1-xcomp">
       <w lemma="вбраний" ana="adj:f:v_oru:&amp;adjp:perf:pasv:v-u">вбраною</w>
     </w_>
-    <w_ id="1ha4" dep="1ha6-advmod|1ha6-private">
+    <w_ id="1ha4" dep="1ha6-advmod" hdep="1ha6-private">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="1ha5" dep="1ha6-case|1ha6-private">
+    <w_ id="1ha5" dep="1ha6-case" hdep="1ha6-private">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
     <w_ id="1ha6" dep="1ha3-obl">
@@ -924,10 +924,10 @@
       <w lemma="," ana="punct">,</w>
     </w_>
     <g/>
-    <w_ id="1hcq" dep="1hcs-advmod|1hcs-private">
+    <w_ id="1hcq" dep="1hcs-advmod" hdep="1hcs-private">
       <w lemma="теж" ana="adv">теж</w>
     </w_>
-    <w_ id="1hcr" dep="1hcs-cop|1hcs-private">
+    <w_ id="1hcr" dep="1hcs-cop" hdep="1hcs-private">
       <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
     </w_>
     <w_ id="1hcs">
@@ -1263,7 +1263,7 @@
     <w_ id="1hfu" dep="1hfp-parataxis">
       <w lemma="подумати" ana="verb:perf:past:m">подумав</w>
     </w_>
-    <w_ id="1hfv" dep="1hfu-nsubj|1hfu-distrib">
+    <w_ id="1hfv" dep="1hfu-nsubj" hdep="1hfu-distrib">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
     <g/>
@@ -1345,7 +1345,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1hgl"/>
-    <w_ id="1hgm" dep="1hgn-advmod|1hgn-private">
+    <w_ id="1hgm" dep="1hgn-advmod" hdep="1hgn-private">
       <w lemma="не" ana="part:neg">Не</w>
     </w_>
     <w_ id="1hgn">
@@ -1549,7 +1549,7 @@
     <w_ id="1hih" dep="1hii-case">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ id="1hii" dep="1hig-obl|1hig-private">
+    <w_ id="1hii" dep="1hig-obl" hdep="1hig-private">
       <w lemma="непізнання" ana="noun:inanim:n:v_rod">непізнання</w>
     </w_>
     <g/>
@@ -2176,7 +2176,7 @@
     <w_ id="1hoa" dep="1hoc-mark">
       <w lemma="якби" ana="conj:subord">якби</w>
     </w_>
-    <w_ id="1hob" dep="1hoc-nsubj|1hoc-distrib">
+    <w_ id="1hob" dep="1hoc-nsubj" hdep="1hoc-distrib">
       <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">ви</w>
     </w_>
     <w_ id="1hoc" dep="1ho7-advcl">
@@ -2185,7 +2185,7 @@
     <w_ id="1hod" dep="1hoc-advmod">
       <w lemma="зараз" ana="adv:&amp;pron:dem">зараз</w>
     </w_>
-    <w_ id="1hoe" dep="1hof-advmod|1hof-private">
+    <w_ id="1hoe" dep="1hof-advmod" hdep="1hof-private">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
     <w_ id="1hof" dep="1hoc-obj">

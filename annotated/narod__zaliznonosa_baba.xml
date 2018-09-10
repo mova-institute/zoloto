@@ -530,7 +530,7 @@
     <w_ id="0guy" dep="0guz-det">
       <w lemma="весь" ana="adj:p:v_zna:rinanim:&amp;pron:gen">всі</w>
     </w_>
-    <w_ id="0guz" dep="0guu-obl|0guu-distrib">
+    <w_ id="0guz" dep="0guu-obl" hdep="0guu-distrib">
       <w lemma="бік" ana="noun:inanim:p:m:v_zna">боки</w>
     </w_>
     <g/>
@@ -2684,19 +2684,19 @@
     <w_ id="0hez" dep="0hf0-case">
       <w lemma="у" ana="prep:rv_mis:v-u">У</w>
     </w_>
-    <w_ id="0hf0" dep="0hf5-obl|0hf5-collect">
+    <w_ id="0hf0" dep="0hf5-obl" hdep="0hf5-collect">
       <w lemma="пекло" ana="noun:inanim:n:v_mis">пеклі</w>
     </w_>
-    <w_ id="0hf1" dep="0hf5-nsubj|0hf5-distrib">
+    <w_ id="0hf1" dep="0hf5-nsubj" hdep="0hf5-distrib">
       <w lemma="чорт" ana="noun:anim:p:m:v_naz">чорти</w>
     </w_>
-    <w_ id="0hf2" dep="0hf5-obl|0hf5-private">
+    <w_ id="0hf2" dep="0hf5-obl" hdep="0hf5-private">
       <w lemma="вила" ana="noun:inanim:p:v_oru:ns">вилами</w>
     </w_>
-    <w_ id="0hf3" dep="0hf5-aux|0hf5-distrib">
+    <w_ id="0hf3" dep="0hf5-aux" hdep="0hf5-distrib">
       <w lemma="бути" ana="verb:aux:imperf:futr:p:3">будуть</w>
     </w_>
-    <w_ id="0hf4" dep="0hf5-obj|0hf5-distrib">
+    <w_ id="0hf4" dep="0hf5-obj" hdep="0hf5-distrib">
       <w lemma="ти" ana="noun:anim:s:v_zna:&amp;pron:pers:2">тебе</w>
     </w_>
     <w_ id="0hf5">
@@ -3138,7 +3138,7 @@
     <w_ id="0hje" dep="0hjg-advmod">
       <w lemma="тоді" ana="adv:&amp;pron:dem">Тоді</w>
     </w_>
-    <w_ id="0hjf" dep="0hjg-obj|0hjg-distrib">
+    <w_ id="0hjf" dep="0hjg-obj" hdep="0hjg-distrib">
       <w lemma="ти" ana="noun:anim:s:v_zna:&amp;pron:pers:2">тебе</w>
     </w_>
     <w_ id="0hjg">
@@ -3147,7 +3147,7 @@
     <w_ id="0hjh" dep="0hji-case">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
-    <w_ id="0hji" dep="0hjg-obl|0hjg-private">
+    <w_ id="0hji" dep="0hjg-obl" hdep="0hjg-private">
       <w lemma="пекло" ana="noun:inanim:n:v_rod">пекла</w>
     </w_>
     <g/>
@@ -4271,7 +4271,7 @@
     <w_ id="0hu9" dep="0hua-case">
       <w lemma="з" ana="prep:rv_rod">з</w>
     </w_>
-    <w_ id="0hua" dep="0hu8-obl|0hu8-private">
+    <w_ id="0hua" dep="0hu8-obl" hdep="0hu8-private">
       <w lemma="возик" ana="noun:inanim:m:v_rod">возика</w>
     </w_>
     <g/>
@@ -4519,7 +4519,7 @@
     <w_ id="0hwq" dep="0hwr-case">
       <w lemma="у" ana="prep:rv_zna:v-u">у</w>
     </w_>
-    <w_ id="0hwr" dep="0hwp-obl|0hwp-private">
+    <w_ id="0hwr" dep="0hwp-obl" hdep="0hwp-private">
       <w lemma="рука" ana="noun:inanim:p:f:v_zna">руки</w>
     </w_>
     <g/>
@@ -4571,7 +4571,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0hx7"/>
-    <w_ id="0hx8" dep="0hx9-nsubj|0hx9-distrib">
+    <w_ id="0hx8" dep="0hx9-nsubj" hdep="0hx9-distrib">
       <w lemma="баба" ana="noun:anim:f:v_naz">Баба</w>
     </w_>
     <w_ id="0hx9">
@@ -4837,7 +4837,7 @@
     <w_ id="0hzq" dep="0hzr-case">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ id="0hzr" dep="0hzp-obl|0hzp-private">
+    <w_ id="0hzr" dep="0hzp-obl" hdep="0hzp-private">
       <w lemma="віз" ana="noun:inanim:m:v_zna:animish">воза</w>
     </w_>
     <w_ id="0hzs" dep="0hzu-cc">
@@ -5329,7 +5329,7 @@
     <w_ id="0i4e">
       <w lemma="обдерти" ana="verb:perf:futr:p:1">Обдеремо</w>
     </w_>
-    <w_ id="0i4f" dep="0i4e-obj|0i4e-private">
+    <w_ id="0i4f" dep="0i4e-obj" hdep="0i4e-private">
       <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
     </w_>
     <w_ id="0i4g" dep="0i4j-cc">
@@ -5407,7 +5407,7 @@
   </p>
   <p id="0i58">
     <sb id="0i59"/>
-    <w_ id="0i5a" dep="0i5b-nsubj|0i5b-distrib" edep="0i5e-nsubj:xsubj">
+    <w_ id="0i5a" dep="0i5b-nsubj" edep="0i5e-nsubj:xsubj" hdep="0i5b-distrib">
       <w lemma="чорт" ana="noun:anim:m:v_naz">Чорт</w>
     </w_>
     <w_ id="0i5b">
@@ -5567,7 +5567,7 @@
     <w_ id="0i6v" dep="0i6w-det">
       <w lemma="свій" ana="adj:f:v_zna:poss:&amp;pron:refl">свою</w>
     </w_>
-    <w_ id="0i6w" dep="0i6u-obj|0i6u-private">
+    <w_ id="0i6w" dep="0i6u-obj" hdep="0i6u-private">
       <w lemma="мати" ana="noun:anim:f:v_zna">матір</w>
     </w_>
     <w_ id="0i6x" dep="0i6y-cc">

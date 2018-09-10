@@ -1149,10 +1149,10 @@
       <w_ id="2c18" dep="2c1f-mark">
         <w lemma="коли" ana="conj:subord">коли</w>
       </w_>
-      <w_ id="2c19" dep="2c1b-amod|2c1b-distrib">
+      <w_ id="2c19" dep="2c1b-amod" hdep="2c1b-distrib">
         <w lemma="авторів" ana="adj:m:v_naz">авторів</w>
       </w_>
-      <w_ id="2c1a" dep="2c1b-amod|2c1b-private">
+      <w_ id="2c1a" dep="2c1b-amod" hdep="2c1b-private">
         <w lemma="лінгвістичний" ana="adj:m:v_naz">лінгвістичний</w>
       </w_>
       <w_ id="2c1b" dep="2c1f-nsubj" edep="2c1h-nsubj:xsubj">
@@ -1249,13 +1249,13 @@
       <w_ id="2c24" dep="2c26-cc">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="2c25" dep="2c26-case|2c26-private">
+      <w_ id="2c25" dep="2c26-case" hdep="2c26-private">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
       <w_ id="2c26" dep="2c2f-obl">
         <w lemma="вимога" ana="noun:inanim:p:f:v_rod">вимог</w>
       </w_>
-      <w_ id="2c27" dep="2c26-nmod|2c26-private">
+      <w_ id="2c27" dep="2c26-nmod" hdep="2c26-private">
         <w lemma="стиль" ana="noun:inanim:m:v_rod">стилю</w>
       </w_>
       <g/>

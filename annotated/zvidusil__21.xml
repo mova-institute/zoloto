@@ -993,7 +993,7 @@
       <w_ id="2gvy" dep="2gw0-punct" n="302">
         <w lemma="—" ana="punct">—</w>
       </w_>
-      <w_ id="2gvz" dep="2gw0-case|2gw0-private" n="303">
+      <w_ id="2gvz" dep="2gw0-case" hdep="2gw0-private" n="303">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
       <w_ id="2gw0" dep="2gvx-appos:nonnom" n="304">
@@ -1694,10 +1694,10 @@
       <w_ id="2h2b" dep="2h2a-nmod" n="516">
         <w lemma="пристрій" ana="noun:inanim:p:m:v_rod">пристроїв</w>
       </w_>
-      <w_ id="2h2c" dep="2h2e-case|2h2e-distrib" n="517">
+      <w_ id="2h2c" dep="2h2e-case" hdep="2h2e-distrib" n="517">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2h2d" dep="2h2e-amod|2h2e-distrib" n="518">
+      <w_ id="2h2d" dep="2h2e-amod" hdep="2h2e-distrib" n="518">
         <w lemma="автоматичний" ana="adj:n:v_rod">автоматичного</w>
       </w_>
       <w_ id="2h2e" dep="2h2b-nmod" n="519">
@@ -1727,7 +1727,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2h2m"/>
-      <w_ id="2h2n" dep="2h2o-amod|2h2o-private" n="527">
+      <w_ id="2h2n" dep="2h2o-amod" hdep="2h2o-private" n="527">
         <w lemma="інфрачервоний" ana="adj:p:v_naz">Інфрачервоні</w>
       </w_>
       <w_ id="2h2o" n="528">
@@ -1760,7 +1760,7 @@
       <w_ id="2h2w" dep="2h2y-mark" n="536">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="2h2x" dep="2h2y-advmod|2h2y-distrib" n="537">
+      <w_ id="2h2x" dep="2h2y-advmod" hdep="2h2y-distrib" n="537">
         <w lemma="автоматично" ana="adv">автоматично</w>
       </w_>
       <w_ id="2h2y" dep="2h2u-acl:relless" n="538">
@@ -3719,13 +3719,13 @@
       <w_ id="2hkn" dep="2hkp-advmod" n="1132">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
-      <w_ id="2hko" dep="2hkp-nsubj|2hkp-distrib" n="1133">
+      <w_ id="2hko" dep="2hkp-nsubj" hdep="2hkp-distrib" n="1133">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="2hkp" n="1134">
         <w lemma="відтворювати" ana="verb:imperf:pres:s:1">відтворюю</w>
       </w_>
-      <w_ id="2hkq" dep="2hkp-obj|2hkp-private" n="1135">
+      <w_ id="2hkq" dep="2hkp-obj" hdep="2hkp-private" n="1135">
         <w lemma="побачене" ana="adj:n:v_zna:&amp;adjp:perf:pasv:&amp;noun:inanim" lemma2="побачений">побачене</w>
       </w_>
       <w_ id="2hkr" dep="2hks-cc" n="1136">
@@ -3816,7 +3816,7 @@
       <w_ id="2hli" dep="2hlc-conj" n="1162">
         <w lemma="нотувати" ana="verb:imperf:pres:s:1">нотую</w>
       </w_>
-      <w_ id="2hlj" dep="2hlk-amod|2hlk-private" n="1163">
+      <w_ id="2hlj" dep="2hlk-amod" hdep="2hlk-private" n="1163">
         <w lemma="найдрібніший" ana="adj:p:v_zna:rinanim:super">найдрібніші</w>
       </w_>
       <w_ id="2hlk" dep="2hli-obj" n="1164">
