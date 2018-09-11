@@ -447,7 +447,7 @@
       <w_ id="2q2c" dep="2q2h-parataxis:discourse" n="136">
         <w lemma="черга" ana="noun:inanim:f:v_zna">чергу</w>
       </w_>
-      <w_ id="2q2d" dep="2q2h-nsubj" n="137">
+      <w_ id="2q2d" dep="2q2h-nsubj" edep="2q2i-nsubj:xsubj" n="137">
         <w lemma="речник" ana="noun:anim:m:v_naz">речник</w>
       </w_>
       <w_ id="2q2e" dep="2q2d-nmod" n="138">
@@ -646,7 +646,7 @@
       <w_ id="2q48" dep="2q49-amod" n="196">
         <w lemma="американський" ana="adj:p:v_naz">Американські</w>
       </w_>
-      <w_ id="2q49" dep="2q4a-nsubj" n="197">
+      <w_ id="2q49" dep="2q4a-nsubj" edep="2q4b-nsubj:xsubj" n="197">
         <w lemma="слідчий" ana="adj:m:p:v_naz:&amp;noun:anim" lemma2="слідчий">слідчі</w>
       </w_>
       <w_ id="2q4a" n="198">
@@ -1850,7 +1850,7 @@
     </p>
     <p id="2qf7">
       <sb id="2qf6"/>
-      <w_ id="2qf8" dep="2qf9-nsubj" n="564">
+      <w_ id="2qf8" dep="2qf9-nsubj" edep="2qfb-nsubj:xsubj" n="564">
         <w lemma="влада" ana="noun:inanim:f:v_naz">Влада</w>
       </w_>
       <w_ id="2qf9" n="565">
@@ -2276,7 +2276,7 @@
       <w_ id="2qj2" dep="2qj3-amod" n="694">
         <w lemma="простий" ana="adj:p:v_naz:compb">прості</w>
       </w_>
-      <w_ id="2qj3" dep="2qj4-nsubj" n="695">
+      <w_ id="2qj3" dep="2qj4-nsubj" edep="2qj5-nsubj:xsubj" n="695">
         <w lemma="людина" ana="noun:anim:p:f:v_naz">люди</w>
       </w_>
       <w_ id="2qj4" n="696">
@@ -2310,7 +2310,7 @@
       <w_ id="2qjd" dep="2qje-amod" n="705">
         <w lemma="знатний" ana="adj:p:v_naz:compb">знатні</w>
       </w_>
-      <w_ id="2qje" dep="2qjf-nsubj" n="706">
+      <w_ id="2qje" dep="2qjf-nsubj" edep="2qjh-nsubj:xsubj" n="706">
         <w lemma="жінка" ana="noun:anim:p:f:v_naz">жінки</w>
       </w_>
       <w_ id="2qjf" n="707">
@@ -2572,7 +2572,7 @@
       <w_ id="2qlr" dep="2qls-amod" n="787">
         <w lemma="полотняний" ana="adj:m:v_naz">полотняний</w>
       </w_>
-      <w_ id="2qls" dep="2qlo-nsubj" edep="2qlv-nsubj:rel" n="788">
+      <w_ id="2qls" dep="2qlo-nsubj" edep="2qlv-nsubj:rel|2qlp-nsubj:xsubj" n="788">
         <w lemma="халат" ana="noun:inanim:m:v_naz">халат</w>
       </w_>
       <g/>
@@ -2618,7 +2618,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2qm6"/>
-      <w_ id="2qm7" dep="2qm8-nsubj" tags="promoted" n="802">
+      <w_ id="2qm7" dep="2qm8-nsubj" tags="promoted" edep="2qm9-nsubj:xsubj" n="802">
         <w lemma="сміливіший" ana="adj:p:v_naz:compr">Сміливіші</w>
       </w_>
       <w_ id="2qm8" n="803">
@@ -4270,7 +4270,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2r1c"/>
-      <w_ id="2r1d" dep="2r1e-nsubj" n="1304">
+      <w_ id="2r1d" dep="2r1e-nsubj" edep="2r1g-nsubj:xsubj" n="1304">
         <w lemma="чумарка" ana="noun:inanim:f:v_naz">Чумарка</w>
       </w_>
       <w_ id="2r1e" n="1305">
@@ -4291,10 +4291,10 @@
       <w_ id="2r1j" dep="2r1l-cc" n="1310">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
-      <w_ id="2r1k" n="1311">
+      <w_ id="2r1k" dep="2r1l-advmod" n="1311">
         <w lemma="інколи" ana="adv:&amp;pron:ind">інколи</w>
       </w_>
-      <w_ id="2r1l" n="1312">
+      <w_ id="2r1l" dep="2r1g-conj" comment="~ пропущене бути, зарита предикація" n="1312">
         <w lemma="довжина" ana="noun:inanim:f:v_oru">довжиною</w>
       </w_>
       <w_ id="2r1m" dep="2r1n-case" n="1313">

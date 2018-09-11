@@ -600,7 +600,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0oon"/>
-    <w_ id="0ooo" dep="0ooy-obj">
+    <w_ id="0ooo" dep="0ooy-obj" edep="0ooz-nsubj:xsubj">
       <w lemma="руйнування" ana="noun:inanim:n:v_zna">Руйнування</w>
     </w_>
     <w_ id="0oop" dep="0ooo-nmod">
@@ -2270,7 +2270,7 @@
     <w_ id="0p46">
       <w lemma="називати" ana="verb:imperf:pres:p:3">називають</w>
     </w_>
-    <w_ id="0p47" dep="0p46-obj">
+    <w_ id="0p47" dep="0p46-obj" edep="0p45-nsubj:xsubj">
       <w lemma="галузь" ana="noun:inanim:f:v_zna">галузь</w>
     </w_>
     <w_ id="0p48" dep="0p47-nmod">
@@ -2561,7 +2561,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0p6u"/>
-    <w_ id="0p6v" dep="0p6z-nsubj">
+    <w_ id="0p6v" dep="0p6z-nsubj" edep="0p70-nsubj:xsubj">
       <w lemma="спосіб" ana="noun:inanim:m:v_naz">Спосіб</w>
     </w_>
     <w_ id="0p6w" dep="0p6x-amod">
@@ -2991,7 +2991,7 @@
     <w_ id="0pay" dep="0paw-xcomp:sp" comment="~ xcomp:2 в ADV?">
       <w lemma="популярно" ana="adv:compb">популярно</w>
     </w_>
-    <w_ id="0paz" dep="0paw-csubj">
+    <w_ id="0paz" dep="0paw-csubj|0pay-csubj:xsubj">
       <w lemma="декорувати" ana="verb:imperf:inf">декорувати</w>
     </w_>
     <w_ id="0pb0" dep="0paz-obj">

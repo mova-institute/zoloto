@@ -344,7 +344,7 @@
       <w_ id="29f7" dep="29f8-amod">
         <w lemma="модифікований" ana="adj:p:v_naz:&amp;adjp:imperf:pasv">модифіковані</w>
       </w_>
-      <w_ id="29f8" dep="29fa-nsubj">
+      <w_ id="29f8" dep="29fa-nsubj" edep="29fb-nsubj:xsubj">
         <w lemma="версія" ana="noun:inanim:p:f:v_naz">версії</w>
       </w_>
       <w_ id="29f9" dep="29f8-nmod">
@@ -3934,7 +3934,7 @@
     <gap/>
     <p id="2abe">
       <sb id="2abf" set="dev"/>
-      <w_ id="2abg" dep="2abo-nsubj">
+      <w_ id="2abg" dep="2abo-nsubj" edep="2abv-nsubj:xsubj">
         <w lemma="особа" ana="noun:anim:f:v_naz">Особа</w>
       </w_>
       <g/>
@@ -5446,7 +5446,7 @@
     </p>
     <p id="2ap6">
       <sb id="2ap7"/>
-      <w_ id="2ap8" dep="2apc-nsubj">
+      <w_ id="2ap8" dep="2apc-nsubj" edep="2apd-nsubj:xsubj">
         <w lemma="Ан" ana="noun:inanim:m:v_naz:nv:prop:abbr">Ан</w>
       </w_>
       <g/>

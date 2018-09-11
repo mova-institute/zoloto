@@ -1464,7 +1464,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="338l"/>
-      <w_ id="338m" comment="#&gt;цікаво" n="436">
+      <w_ id="338m" n="436">
         <w lemma="зиркнути" ana="verb:perf:instant">Зирк</w>
       </w_>
       <w_ id="338n" dep="338o-case" n="437">
@@ -1831,7 +1831,7 @@
     <gap/>
     <p id="33bw">
       <sb id="33bx"/>
-      <w_ id="33by" dep="33c2-nsubj" n="541">
+      <w_ id="33by" dep="33c2-nsubj" edep="33c3-nsubj:xsubj" n="541">
         <w lemma="Олександра" ana="noun:anim:f:v_naz:prop:fname">Олександра</w>
       </w_>
       <w_ id="33bz" dep="33c0-case" n="542">
@@ -1953,7 +1953,7 @@
       <w_ id="33d2" dep="33d5-advmod" n="578">
         <w lemma="вже" ana="adv:v-u">вже</w>
       </w_>
-      <w_ id="33d3" dep="33d5-nsubj" n="579">
+      <w_ id="33d3" dep="33d5-nsubj" edep="33d6-nsubj:xsubj" n="579">
         <w lemma="ніщо" ana="noun:inanim:v_naz:&amp;pron:neg">ніщо</w>
       </w_>
       <w_ id="33d4" dep="33d5-advmod" n="580">
@@ -2608,10 +2608,10 @@
       <w_ id="33j0" dep="33j5-cc" n="777">
         <w lemma="та" ana="conj:coord">Та</w>
       </w_>
-      <w_ id="33j1" dep="33j5-nsubj" n="778">
+      <w_ id="33j1" dep="33j5-nsubj" edep="33j6-nsubj:xsubj" n="778">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
-      <w_ id="33j2" dep="33j1-nummod" comment="чи advcl:sp?" n="779">
+      <w_ id="33j2" dep="33j1-nummod" comment="~ чи advcl:sp?" n="779">
         <w lemma="оба" ana="numr:m:v_naz:rare">оба</w>
       </w_>
       <w_ id="33j3" dep="33j5-discourse" n="780">
@@ -4089,7 +4089,7 @@
       <w_ id="33wi" dep="33wh-xcomp" n="1231">
         <w lemma="бути" ana="verb:imperf:inf">бути</w>
       </w_>
-      <w_ id="33wj" dep="33wh-nsubj" n="1232">
+      <w_ id="33wj" dep="33wh-nsubj" edep="33wi-nsubj:xsubj" n="1232">
         <w lemma="гуси" ana="noun:anim:p:v_naz:ns">гуси</w>
       </w_>
       <g/>
@@ -4662,7 +4662,7 @@
       <w_ id="3421" n="1398">
         <w lemma="допомагати" ana="verb:imperf:pres:p:3">допомагають</w>
       </w_>
-      <w_ id="3422" dep="3421-iobj" n="1399">
+      <w_ id="3422" dep="3421-iobj" edep="3423-nsubj:xsubj" n="1399">
         <w lemma="ми" ana="noun:anim:p:v_dav:&amp;pron:pers:1">нам</w>
       </w_>
       <w_ id="3423" dep="3421-xcomp" n="1400">
@@ -5260,7 +5260,7 @@
       <w_ id="347e" n="1578">
         <w lemma="довестися" ana="verb:rev:perf:past:n">Довелося</w>
       </w_>
-      <w_ id="347f" dep="347e-iobj" n="1579">
+      <w_ id="347f" dep="347e-iobj" edep="347g-nsubj:xsubj" n="1579">
         <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
       </w_>
       <w_ id="347g" dep="347e-xcomp" n="1580">
