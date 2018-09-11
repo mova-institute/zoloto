@@ -121,7 +121,7 @@
       <w_ id="1qhw" dep="1qhx-amod">
         <w lemma="бойовий" ana="adj:m:v_naz">Бойовий</w>
       </w_>
-      <w_ id="1qhx" dep="1qi0-nsubj" correct="досвід">
+      <w_ id="1qhx" dep="1qi0-nsubj" correct="досвід" edep="1qi2-nsubj:xsp">
         <w lemma="досвід" ana="noun:inanim:m:v_naz">досвіт</w>
       </w_>
       <w_ id="1qhy" dep="1qhx-nmod">
@@ -1303,7 +1303,7 @@
       <w_ id="1qt7" dep="1qt8-amod">
         <w lemma="авіакосмічний" ana="adj:f:v_naz">авіакосмічна</w>
       </w_>
-      <w_ id="1qt8" dep="1qta-nsubj" hdep="1qta-distrib">
+      <w_ id="1qt8" dep="1qta-nsubj" edep="1qtl-nsubj:xsp" hdep="1qta-distrib">
         <w lemma="виставка" ana="noun:inanim:f:v_naz">виставка</w>
       </w_>
       <w_ id="1qt9" dep="1qt8-flat:title">
@@ -3535,7 +3535,7 @@
         <w lemma="«" ana="punct:quote:open">«</w>
       </w_>
       <g/>
-      <w_ id="1rdw" dep="1rdy-nsubj">
+      <w_ id="1rdw" dep="1rdy-nsubj" edep="1rdz-nsubj:xsp">
         <w lemma="Парціфаль" ana="noun:inanim:m:v_naz:prop">Парціфаль</w>
       </w_>
       <g/>
@@ -3897,7 +3897,7 @@
       <w_ id="1rh7" dep="1rh8-amod">
         <w lemma="французький" ana="adj:f:v_naz">Французька</w>
       </w_>
-      <w_ id="1rh8" dep="1rhd-nsubj">
+      <w_ id="1rh8" dep="1rhd-nsubj" edep="1rhe-nsubj:xsp">
         <w lemma="актриса" ana="noun:anim:f:v_naz">актриса</w>
       </w_>
       <w_ id="1rh9" dep="1rha-amod">
@@ -4281,7 +4281,7 @@
       <w_ id="1rkv" dep="1rkw-amod">
         <w lemma="жіночий" ana="adj:p:v_zna:rinanim">жіночі</w>
       </w_>
-      <w_ id="1rkw" dep="1rky-obj">
+      <w_ id="1rkw" dep="1rky-obj" edep="1rkz-nsubj:xsp">
         <w lemma="циця" ana="noun:inanim:p:f:v_zna">циці</w>
       </w_>
       <w_ id="1rkx" dep="1rky-advmod">
