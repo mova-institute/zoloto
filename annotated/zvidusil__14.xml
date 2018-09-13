@@ -909,7 +909,7 @@
       <w_ id="24l1" dep="24l2-amod">
         <w lemma="енергетичний" ana="adj:n:v_naz">Енергетичне</w>
       </w_>
-      <w_ id="24l2" dep="24l4-nsubj" hdep="24l4-distrib">
+      <w_ id="24l2" dep="24l4-nsubj" edep="24l5-nsubj:xsp" hdep="24l4-distrib">
         <w lemma="підприємство" ana="noun:inanim:n:v_naz">підприємство</w>
       </w_>
       <w_ id="24l3" dep="24l4-advmod" hdep="24l4-private">
@@ -5405,7 +5405,7 @@
       <w_ id="25p1" dep="25ow-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25p2" dep="25p3-nsubj" coref="25ol-equality">
+      <w_ id="25p2" dep="25p3-nsubj" coref="25ol-equality" edep="25p5-nsubj:xsp">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="25p3">
@@ -5537,7 +5537,7 @@
       <w_ id="25q7" dep="25pw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25q8" dep="25qc-nsubj" mark="reviewed">
+      <w_ id="25q8" dep="25qc-nsubj" mark="reviewed" edep="25qe-nsubj:xsp">
         <w lemma="запрошення" ana="noun:inanim:n:v_naz">запрошення</w>
       </w_>
       <w_ id="25q9" dep="25qa-case">
