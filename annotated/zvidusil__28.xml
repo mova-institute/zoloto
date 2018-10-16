@@ -443,13 +443,13 @@
       <w_ id="35bp" n="137">
         <w lemma="маленький" ana="adj:p:v_naz">маленькі</w>
       </w_>
-      <w_ id="35bq" dep="35br-cc" n="138">
+      <w_ id="35bq" dep="35bs-cc" n="138">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="35br" dep="35bp-conj" n="139">
+      <w_ id="35br" dep="35bs-advmod:det" n="139">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
-      <w_ id="35bs" dep="35br-flat:pack" n="140">
+      <w_ id="35bs" dep="35bp-conj" n="140">
         <w lemma="низенький" ana="adj:p:v_naz">низенькі</w>
       </w_>
       <g/>
@@ -465,7 +465,7 @@
       <w_ id="35bw" dep="35bx-nsubj" n="144">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
       </w_>
-      <w_ id="35bx" dep="35br-advcl" comment="~" n="145">
+      <w_ id="35bx" dep="35bs-advcl" comment="~" n="145">
         <w lemma="дістати" ana="verb:perf:futr:s:3">дістане</w>
       </w_>
       <w_ id="35by" dep="35bx-obl" n="146">
@@ -647,13 +647,13 @@
       <w_ id="35dl" dep="35dj-obl" hdep="35dj-private" n="199">
         <w lemma="вода" ana="noun:inanim:f:v_oru">водою</w>
       </w_>
-      <w_ id="35dm" dep="35dn-cc" n="200">
+      <w_ id="35dm" dep="35do-cc" n="200">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="35dn" dep="35dj-conj" n="201">
+      <w_ id="35dn" dep="35do-advmod:det" n="201">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
-      <w_ id="35do" dep="35dn-flat:pack" n="202">
+      <w_ id="35do" dep="35dj-conj" n="202">
         <w lemma="крутий" ana="adj:p:v_naz:compb">круті</w>
       </w_>
       <g/>
@@ -672,7 +672,7 @@
       <w_ id="35dt" dep="35du-advmod" n="207">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="35du" n="208">
+      <w_ id="35du" dep="35do-advcl" n="208">
         <w lemma="можна" ana="adv">можна</w>
       </w_>
       <w_ id="35dv" dep="35du-csubj" n="209">
@@ -682,10 +682,10 @@
         <w lemma="нога" ana="noun:inanim:p:f:v_oru">ногами</w>
       </w_>
       <g/>
-      <w_ id="35dx" n="211">
+      <w_ id="35dx" dep="35dy-punct" n="211">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="35dy" n="212">
+      <w_ id="35dy" dep="35dj-conj" comment="~" n="212">
         <w lemma="стояти" ana="verb:imperf:pres:p:3">стоять</w>
       </w_>
       <g/>
@@ -702,13 +702,13 @@
         <w lemma="голова" ana="noun:inanim:p:f:v_naz">голови</w>
       </w_>
       <g/>
-      <w_ id="35e3" n="217">
+      <w_ id="35e3" dep="35e2-punct" n="217">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="35e4" dep="35e5-cc" n="218">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="35e5" n="219">
+      <w_ id="35e5" dep="35dy-conj" n="219">
         <w lemma="обрости" ana="verb:perf:past:p">обросли</w>
       </w_>
       <w_ id="35e6" dep="35e7-amod" n="220">
@@ -718,7 +718,7 @@
         <w lemma="трава" ana="noun:inanim:f:v_oru">травою</w>
       </w_>
       <g/>
-      <w_ id="35e8" n="222">
+      <w_ id="35e8" dep="35dj-punct" n="222">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
