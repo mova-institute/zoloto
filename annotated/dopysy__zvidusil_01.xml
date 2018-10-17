@@ -2328,19 +2328,19 @@
       <w_ id="31b4" dep="31b3-nmod" n="701">
         <w lemma="мрія" ana="noun:inanim:f:v_rod">мрії</w>
       </w_>
-      <w_ id="31b5" n="702">
+      <w_ id="31b5" dep="31b7-det" n="702">
         <w lemma="той" ana="adj:f:v_rod:&amp;pron:dem">тієї</w>
       </w_>
-      <w_ id="31b6" n="703">
+      <w_ id="31b6" dep="31b5-discourse" n="703">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="31b7" dep="31b4-nmod" n="704">
+      <w_ id="31b7" dep="31b4-nmod" comment="#&gt;:v_rod:nv" n="704">
         <w lemma="Дейнеріс" ana="noun:anim:f:v_naz:nv:np:prop:fname">Дейнеріс</w>
       </w_>
       <w_ id="31b8" dep="31b9-punct" n="705">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="31b9" n="706">
+      <w_ id="31b9" dep="31b4-appos" comment="~" n="706">
         <w lemma="зламати" ana="verb:perf:inf">зламати</w>
       </w_>
       <w_ id="31ba" dep="31b9-obj" n="707">
@@ -7271,7 +7271,7 @@
       <w_ id="32ld" dep="32le-case" n="2186">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="32le" dep="32lc-nsubj" n="2187">
+      <w_ id="32le" dep="32lc-nsubj" comment="#ok-nonnom-subj" n="2187">
         <w lemma="то" ana="noun:inanim:n:v_zna:&amp;pron:dem">то</w>
       </w_>
       <w_ id="32lf" dep="32lp-mark" n="2188">
