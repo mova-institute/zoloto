@@ -7782,8 +7782,8 @@
     <w_ id="1bn8" dep="1bnc-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1bn9" dep="1bnc-cc" comment="#&gt;:coord">
-      <w lemma="хоча" ana="conj:subord">хоча</w>
+    <w_ id="1bn9" dep="1bnc-cc">
+      <w lemma="хоча" ana="conj:coord">хоча</w>
     </w_>
     <w_ id="1bna" dep="1bnc-nsubj" tags="promoted">
       <w lemma="перший" ana="adj:m:v_naz:compb:&amp;numr">перший</w>
@@ -10834,16 +10834,16 @@
       <w lemma="(" ana="punct">(</w>
     </w_>
     <g/>
-    <w_ id="1cel">
-      <w lemma="хоч" ana="conj:subord">хоч</w>
+    <w_ id="1cel" dep="1ceo-discourse">
+      <w lemma="хоч" ana="part">хоч</w>
     </w_>
-    <w_ id="1cem">
+    <w_ id="1cem" dep="1cel-fixed" comment="~">
       <w lemma="би" ana="part">би</w>
     </w_>
-    <w_ id="1cen">
-      <w lemma="тільки" ana="adv">тільки</w>
+    <w_ id="1cen" dep="1ceo-discourse">
+      <w lemma="тільки" ana="part">тільки</w>
     </w_>
-    <w_ id="1ceo">
+    <w_ id="1ceo" dep="1ceh-advmod">
       <w lemma="потенційно" ana="adv">потенційно</w>
     </w_>
     <g/>
@@ -10940,8 +10940,11 @@
     <w_ id="1cfi" dep="1cfl-punct">
       <w lemma=";" ana="punct">;</w>
     </w_>
-    <w_ id="1cfj">
+    <w_ id="1cfj" dep="1cfl-orphan">
       <w lemma="нарешті" ana="adv">нарешті</w>
+    </w_>
+    <w_ id="3cgm" ellipsis="predicate">
+      <w lemma="слід" ana="adv">слід</w>
     </w_>
     <w_ id="1cfk" dep="1cfl-punct">
       <w lemma="—" ana="punct">—</w>
