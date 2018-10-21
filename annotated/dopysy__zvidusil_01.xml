@@ -2238,11 +2238,11 @@
       <w_ id="31a9" dep="31a8-nmod" n="675">
         <w lemma="швидкість" ana="noun:inanim:f:v_rod">швидкості</w>
       </w_>
-      <w_ id="31aa" n="676">
+      <w_ id="31aa" dep="31af-advcl" n="676">
         <w lemma="сталий" ana="adj:m:v_naz">сталий</w>
       </w_>
       <g/>
-      <w_ id="31ab" n="677">
+      <w_ id="31ab" dep="31aa-punct" n="677">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="31ac" dep="31ad-amod" n="678">
@@ -2264,7 +2264,7 @@
       <w_ id="31ah" n="683">
         <w lemma="отож" ana="conj:subord">отож</w>
       </w_>
-      <w_ id="31ai" n="684">
+      <w_ id="31ai" dep="31aj-discourse" n="684">
         <w lemma="і" ana="part">і</w>
       </w_>
       <w_ id="31aj" dep="31ak-nsubj" n="685">
@@ -2425,7 +2425,7 @@
       <w_ id="31c1" dep="31c2-nsubj" n="730">
         <w lemma="Дейнеріс" ana="noun:anim:f:v_naz:nv:np:prop:fname">Дейнеріс</w>
       </w_>
-      <w_ id="31c2" n="731">
+      <w_ id="31c2" dep="31by-advcl" n="731">
         <w lemma="влаштувати" ana="verb:perf:futr:s:3:v-u">влаштує</w>
       </w_>
       <w_ id="31c3" dep="31c2-obj" n="732">
@@ -2879,7 +2879,7 @@
     </p>
     <p id="31gd">
       <sb id="31gc"/>
-      <w_ id="31ge" n="866">
+      <w_ id="31ge" dep="31gj-parataxis:discourse" n="866">
         <w lemma="знову" ana="adv">Знову</w>
       </w_>
       <w_ id="31gf" dep="31ge-discourse" n="867">
@@ -2938,19 +2938,19 @@
         <w lemma="північ" ana="noun:inanim:f:v_rod">півночі</w>
       </w_>
       <g/>
-      <w_ id="31gx" n="885">
+      <w_ id="31gx" dep="31gz-punct" n="885">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="31gy" n="886">
+      <w_ id="31gy" dep="31gz-cc" n="886">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="31gz" n="887">
+      <w_ id="31gz" dep="31gq-conj" n="887">
         <w lemma="тому" ana="adv:&amp;pron:dem">тому</w>
       </w_>
-      <w_ id="31h0" n="888">
+      <w_ id="31h0" dep="31h1-mark" comment="#&gt;conj:subord ~" n="888">
         <w lemma="що" ana="part">що</w>
       </w_>
-      <w_ id="31h1" n="889">
+      <w_ id="31h1" dep="31gz-advcl" n="889">
         <w lemma="нести" ana="verb:imperf:past:m">ніс</w>
       </w_>
       <w_ id="31h2" dep="31h1-obj" n="890">
@@ -2962,20 +2962,20 @@
       <w_ id="31h4" dep="31h5-det" n="892">
         <w lemma="свій" ana="adj:p:v_oru:poss:&amp;pron:refl">своїми</w>
       </w_>
-      <w_ id="31h5" n="893">
+      <w_ id="31h5" dep="31h1-obl" comment="~ чи з відповідальності?" n="893">
         <w lemma="васал" ana="noun:anim:p:m:v_oru">васалами</w>
       </w_>
       <g/>
-      <w_ id="31h6" n="894">
+      <w_ id="31h6" dep="31h9-punct" n="894">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="31h7" n="895">
+      <w_ id="31h7" dep="31h9-cc" n="895">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
       <w_ id="31h8" dep="31h9-advmod" n="896">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="31h9" n="897">
+      <w_ id="31h9" dep="31h1-conj" n="897">
         <w lemma="хотіти" ana="verb:imperf:past:m">хотів</w>
       </w_>
       <w_ id="31ha" dep="31h9-xcomp" n="898">
@@ -2984,7 +2984,7 @@
       <w_ id="31hb" dep="31hc-case" n="899">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="31hc" n="900">
+      <w_ id="31hc" dep="31ha-obl" n="900">
         <w lemma="вірність" ana="noun:inanim:f:v_zna">вірність</w>
       </w_>
       <w_ id="31hd" dep="31hf-amod" n="901">
@@ -2997,7 +2997,7 @@
         <w lemma="людина" ana="noun:anim:f:v_dav">людині</w>
       </w_>
       <g/>
-      <w_ id="31hg" n="904">
+      <w_ id="31hg" dep="31gj-punct" n="904">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="31hh"/>
@@ -4565,13 +4565,13 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="31w9"/>
-      <w_ id="31wa" n="1379">
+      <w_ id="31wa" dep="31wd-discourse" n="1379">
         <w lemma="тобто" ana="part">Тобто</w>
       </w_>
       <w_ id="31wb" dep="31wc-amod" n="1380">
         <w lemma="попередній" ana="adj:p:v_zna:rinanim">попередні</w>
       </w_>
-      <w_ id="31wc" dep="31wd-obj" n="1381">
+      <w_ id="31wc" dep="31wd-obj" edep="31wg-nsubj:asp" n="1381">
         <w lemma="квартира" ana="noun:inanim:p:f:v_zna">квартири</w>
       </w_>
       <w_ id="31wd" n="1382">
@@ -4583,7 +4583,7 @@
       <w_ id="31wf" dep="31wg-amod" n="1384">
         <w lemma="хороший" ana="adj:m:v_mis:compb">хорошому</w>
       </w_>
-      <w_ id="31wg" comment="#цікаво" n="1385">
+      <w_ id="31wg" dep="31wd-advcl:sp" comment="#цікаво ~" n="1385">
         <w lemma="стан" ana="noun:inanim:m:v_mis">стані</w>
       </w_>
       <g/>
@@ -4969,19 +4969,19 @@
         <w lemma="гарантія" ana="noun:inanim:f:v_rod">гарантії</w>
       </w_>
       <g/>
-      <w_ id="31zy" n="1500">
+      <w_ id="31zy" dep="3201-punct" n="1500">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="31zz" n="1501">
+      <w_ id="31zz" dep="3201-mark" n="1501">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="3200" dep="3201-discourse" n="1502">
         <w lemma="саме" ana="part">саме</w>
       </w_>
-      <w_ id="3201" n="1503">
+      <w_ id="3201" dep="31zx-acl" n="1503">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
-      <w_ id="3202" n="1504">
+      <w_ id="3202" dep="3201-cop" n="1504">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
       <g/>

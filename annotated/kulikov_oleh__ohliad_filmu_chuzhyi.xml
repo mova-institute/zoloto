@@ -2960,10 +2960,10 @@
     <w_ id="09bz">
       <w lemma="вийти" ana="verb:perf:past:n">вийшло</w>
     </w_>
-    <w_ id="09c0">
+    <w_ id="09c0" dep="09c7-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="09c1">
+    <w_ id="09c1" dep="09c7-cc" comment="#&gt;conj:coord">
       <w lemma="і" ana="part">і</w>
     </w_>
     <w_ id="09c2" dep="09c7-nsubj" hdep="09c7-distrib">
@@ -2981,7 +2981,7 @@
     <w_ id="09c6" dep="09c7-amod" hdep="09c7-private">
       <w lemma="непоказний" ana="adj:f:v_mis">непоказній</w>
     </w_>
-    <w_ id="09c7">
+    <w_ id="09c7" dep="09bz-conj:parataxis">
       <w lemma="зовнішність" ana="noun:inanim:f:v_mis">зовнішності</w>
     </w_>
     <w_ id="09c8" dep="09c7-nmod" hdep="09c7-private">
@@ -2990,10 +2990,10 @@
     <w_ id="09c9" dep="09cd-case">
       <w lemma="з" ana="prep:rv_oru">з</w>
     </w_>
-    <w_ id="09ca">
+    <w_ id="09ca" dep="09cc-advmod">
       <w lemma="ледь" ana="adv">ледь</w>
     </w_>
-    <w_ id="09cb">
+    <w_ id="09cb" dep="09ca-fixed">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
     <w_ id="09cc" dep="09cd-amod">
@@ -3006,7 +3006,7 @@
       <w lemma="магнетизм" ana="noun:inanim:m:v_rod">магнетизму</w>
     </w_>
     <g/>
-    <w_ id="09cf">
+    <w_ id="09cf" dep="09ci-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="09cg" dep="09ci-cc">
@@ -3018,67 +3018,67 @@
     <w_ id="09ci" dep="09c7-conj">
       <w lemma="відсутність" ana="noun:inanim:f:v_mis">відсутності</w>
     </w_>
-    <w_ id="09cj" dep="09ci-nmod">
-      <w lemma="ситуація" ana="noun:inanim:f:v_rod">ситуації</w>
+    <w_ id="09cj" dep="09ci-nmod" correct="ситуацій">
+      <w lemma="ситуація" ana="noun:inanim:f:p:v_rod">ситуації</w>
     </w_>
     <g/>
-    <w_ id="09ck">
+    <w_ id="09ck" dep="09cn-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="09cl">
+    <w_ id="09cl" dep="09cn-nsubj">
       <w lemma="котрий" ana="adj:p:v_naz:&amp;pron:rel">котрі</w>
     </w_>
-    <w_ id="09cm">
+    <w_ id="09cm" dep="09cn-aux">
       <w lemma="би" ana="part">би</w>
     </w_>
-    <w_ id="09cn">
+    <w_ id="09cn" dep="09cj-acl">
       <w lemma="дозволити" ana="verb:perf:past:p">дозволили</w>
     </w_>
-    <w_ id="09co">
+    <w_ id="09co" dep="09cn-iobj" edep="09cp-nsubj:x">
       <w lemma="ми" ana="noun:anim:p:v_dav:&amp;pron:pers:1">нам</w>
     </w_>
-    <w_ id="09cp">
+    <w_ id="09cp" dep="09cn-xcomp">
       <w lemma="зрозуміти" ana="verb:perf:inf">зрозуміти</w>
     </w_>
     <g/>
-    <w_ id="09cq">
+    <w_ id="09cq" dep="09cr-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="09cr">
+    <w_ id="09cr" dep="09cp-ccomp" comment="~ і #цікаво">
       <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:int">що</w>
     </w_>
-    <w_ id="09cs">
+    <w_ id="09cs" dep="09cr-expl">
       <w lemma="це" ana="part">це</w>
     </w_>
-    <w_ id="09ct">
+    <w_ id="09ct" dep="09cu-discourse" comment="~ і #цікаво">
       <w lemma="за" ana="part">за</w>
     </w_>
-    <w_ id="09cu">
+    <w_ id="09cu" dep="09cr-nsubj">
       <w lemma="людина" ana="noun:anim:f:v_naz">людина</w>
     </w_>
-    <w_ id="09cv">
+    <w_ id="09cv" dep="09cy-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="09cw">
+    <w_ id="09cw" dep="09cy-advmod">
       <w lemma="чому" ana="adv:&amp;pron:int">чому</w>
     </w_>
-    <w_ id="09cx">
+    <w_ id="09cx" dep="09cy-nsubj">
       <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
     </w_>
-    <w_ id="09cy">
+    <w_ id="09cy" dep="09cr-conj">
       <w lemma="повинний" ana="adj:p:v_naz">повинні</w>
     </w_>
-    <w_ id="09cz">
+    <w_ id="09cz" dep="09d0-case">
       <w lemma="за" ana="prep:rv_zna">за</w>
     </w_>
-    <w_ id="09d0">
+    <w_ id="09d0" dep="09d1-obl">
       <w lemma="вона" ana="noun:f:v_zna:rprep:&amp;pron:pers:3">неї</w>
     </w_>
-    <w_ id="09d1">
+    <w_ id="09d1" dep="09cy-ccomp">
       <w lemma="переживати" ana="verb:imperf:inf">переживати</w>
     </w_>
     <g/>
-    <w_ id="09d2">
+    <w_ id="09d2" dep="09bz-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="09d3"/>
