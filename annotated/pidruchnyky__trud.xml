@@ -366,16 +366,16 @@
       <w lemma="стіна" ana="noun:inanim:p:f:v_rod">стін</w>
     </w_>
     <g/>
-    <w_ id="0omg" dep="0omi-punct">
+    <w_ id="0omg" dep="0omi-punct|3cge-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0omh" dep="0omi-cc">
+    <w_ id="0omh" dep="0omi-cc|3cge-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0omi" dep="0om8-conj:parataxis">
+    <w_ id="0omi" dep="0om8-conj:parataxis|3cge-obj" tags="promoted">
       <w lemma="пружний" ana="adj:p:v_zna:rinanim:compb">пружні</w>
     </w_>
-    <w_ id="3cge" ellipsis="predicate">
+    <w_ id="3cge" dep="0om8-conj:parataxis" ellipsis="predicate">
       <w lemma="використовувати" ana="verb:imperf:pres:p:3">використовують</w>
     </w_>
     <w_ id="0omj" dep="0oml-punct">
@@ -384,7 +384,7 @@
     <w_ id="0omk" dep="0oml-case">
       <w lemma="для" ana="prep:rv_rod">для</w>
     </w_>
-    <w_ id="0oml" dep="0omi-orphan">
+    <w_ id="0oml" dep="0omi-orphan|3cge-obl">
       <w lemma="виготовлення" ana="noun:inanim:n:v_rod">виготовлення</w>
     </w_>
     <w_ id="0omm" dep="0oml-nmod">
@@ -415,7 +415,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0omu"/>
-    <w_ id="0omv">
+    <w_ id="0omv" dep="0omx-advmod">
       <w lemma="як" ana="adv:&amp;pron:int">Як</w>
     </w_>
     <w_ id="0omw" dep="0omx-nsubj">
@@ -425,14 +425,14 @@
       <w lemma="вважати" ana="verb:imperf:pres:s:2">вважаєш</w>
     </w_>
     <g/>
-    <w_ id="0omy">
+    <w_ id="0omy" dep="0omz-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0omz">
+    <w_ id="0omz" dep="0omx-parataxis" comment="~">
       <w lemma="чому" ana="adv:&amp;pron:int">чому</w>
     </w_>
     <g/>
-    <w_ id="0on0">
+    <w_ id="0on0" dep="0omz-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
   </p>

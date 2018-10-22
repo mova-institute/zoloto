@@ -1460,13 +1460,13 @@
       <w_ id="1z22" dep="1z29-nmod">
         <w lemma="лайкар" ana="noun:anim:p:m:v_rod">лайкарів</w>
       </w_>
-      <w_ id="1z23" dep="1z29-punct">
+      <w_ id="1z23" dep="1z29-punct|3cdj-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
       <w_ id="1z24" dep="1z25-case">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="1z25" dep="1z29-orphan">
+      <w_ id="1z25" dep="1z29-orphan|3cdj-obl">
         <w lemma="я" ana="noun:anim:s:v_rod:&amp;pron:pers:1">мене</w>
       </w_>
       <w_ id="1z26" dep="1z27-case">
@@ -1481,7 +1481,7 @@
       <w_ id="1z28" dep="1z29-discourse">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
-      <w_ id="1z29" tags="promoted">
+      <w_ id="1z29" dep="3cdj-nsubj" tags="promoted">
         <w lemma="7" ana="numr:v_naz:nv">7</w>
       </w_>
       <g/>
@@ -1494,11 +1494,11 @@
       <w_ id="1z2c" dep="1z2d-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="1z2d" dep="1z29-parataxis">
+      <w_ id="1z2d" dep="1z29-parataxis|3cdj-parataxis">
         <w lemma="тішити" ana="verb:imperf:pres:s:3">тішить</w>
       </w_>
       <g/>
-      <w_ id="1z2e" dep="1z29-punct">
+      <w_ id="1z2e" dep="1z29-punct|3cdj-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

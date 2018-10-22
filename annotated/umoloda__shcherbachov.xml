@@ -691,16 +691,16 @@
       <w_ id="17f8" dep="17f9-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="17f9" dep="17fb-orphan">
+      <w_ id="17f9" dep="17fa-orphan|3cgk-obl">
         <w lemma="людина" ana="noun:anim:p:f:v_oru">людьми</w>
       </w_>
       <w_ id="17fa" dep="17f6-parataxis" comment="#legal_alien ccomp?">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="3cgk" ellipsis="predicate">
+      <w_ id="3cgk" dep="17fa-csubj" ellipsis="predicate">
         <w lemma="поводитися" ana="verb:rev:imperf:inf">поводитися</w>
       </w_>
-      <w_ id="17fb" dep="17fa-csubj" comment="як засвідчити, що конж не з промотованого?">
+      <w_ id="17fb" dep="17f9-advmod|3cgk-advmod" comment="як засвідчити, що конж не з промотованого? ~">
         <w lemma="по-людськи" ana="adv">по-людськи</w>
       </w_>
       <g/>

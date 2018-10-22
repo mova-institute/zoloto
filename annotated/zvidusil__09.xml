@@ -3475,13 +3475,13 @@
         <w lemma="повідомлятися" ana="verb:rev:imperf:pres:s:3">Повідмляється</w>
       </w_>
       <g/>
-      <w_ id="1wi8" dep="1wiq-punct">
+      <w_ id="1wi8" dep="1wiq-punct|3cgl-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1wi9" dep="1wiq-mark">
+      <w_ id="1wi9" dep="1wiq-mark|3cgl-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1wia" dep="1wiq-orphan">
+      <w_ id="1wia" dep="1wiq-orphan|3cgl-advmod">
         <w lemma="вночі" ana="adv:v-u">вночі</w>
       </w_>
       <w_ id="1wib" dep="1wih-case">
@@ -3526,16 +3526,16 @@
       <w_ id="1win" dep="1wij-punct" comment="~">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1wio" dep="1wiq-orphan">
+      <w_ id="1wio" dep="1wiq-orphan|3cgl-advmod">
         <w lemma="місцями" ana="adv">місцями</w>
       </w_>
-      <w_ id="3cgl" ellipsis="predicate">
+      <w_ id="3cgl" dep="1wi7-ccomp" ellipsis="predicate">
         <w lemma="існувати" ana="verb:imperf:futr:p:3">існуватимуть</w>
       </w_>
       <w_ id="1wip" dep="1wiq-amod">
         <w lemma="невеликий" ana="adj:p:v_naz">невеликі</w>
       </w_>
-      <w_ id="1wiq" dep="1wi7-ccomp">
+      <w_ id="1wiq" dep="1wi7-ccomp|3cgl-nsubj">
         <w lemma="опади" ana="noun:inanim:p:v_naz:ns">опади</w>
       </w_>
       <g/>
@@ -3551,7 +3551,7 @@
       <w_ id="1wiu" dep="1wit-nmod">
         <w lemma="територія" ana="noun:inanim:f:v_rod">території</w>
       </w_>
-      <w_ id="1wiv" dep="1wiq-conj" tags="itsubj">
+      <w_ id="1wiv" dep="1wiq-conj:parataxis|3cgl-conj:parataxis" tags="itsubj">
         <w lemma="сухо" ana="adv:compb">сухо</w>
       </w_>
       <g/>
@@ -3930,11 +3930,11 @@
         <w lemma="опади" ana="noun:inanim:p:v_rod:ns">опадів</w>
       </w_>
       <g/>
-      <w_ id="1wm8" dep="1wmi-punct">
+      <w_ id="1wm8" dep="1wmi-punct|3cgf-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1wm9" dep="1wmi-mark" comment="~ cconj?">
-        <w lemma="хоча" ana="conj:subord">хоча</w>
+      <w_ id="1wm9" dep="1wmi-cc|3cgf-cc">
+        <w lemma="хоча" ana="conj:coord">хоча</w>
       </w_>
       <w_ id="1wma" dep="1wme-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
@@ -3948,22 +3948,22 @@
       <w_ id="1wmd" dep="1wmb-conj">
         <w lemma="північний" ana="adj:p:v_mis:compb">північних</w>
       </w_>
-      <w_ id="1wme" dep="1wmi-orphan">
+      <w_ id="1wme" dep="1wmi-orphan|3cgf-obl">
         <w lemma="область" ana="noun:inanim:p:f:v_mis">областях</w>
       </w_>
-      <w_ id="1wmf" dep="1wmi-orphan">
+      <w_ id="1wmf" dep="1wmi-orphan|3cgf-advmod">
         <w lemma="вдень" ana="adv:v-u">вдень</w>
       </w_>
-      <w_ id="1wmg" dep="1wmi-orphan">
+      <w_ id="1wmg" dep="1wmi-orphan|3cgf-advmod">
         <w lemma="місцями" ana="adv">місцями</w>
       </w_>
-      <w_ id="3cgf" ellipsis="predicate">
+      <w_ id="3cgf" dep="1wm7-conj:parataxis" ellipsis="predicate">
         <w lemma="існувати" ana="verb:imperf:futr:p:3">існуватимуть</w>
       </w_>
       <w_ id="1wmh" dep="1wmi-amod">
         <w lemma="невеликий" ana="adj:p:v_naz">невеликі</w>
       </w_>
-      <w_ id="1wmi" dep="1wm7-advcl">
+      <w_ id="1wmi" dep="1wm7-conj:parataxis|3cgf-nsubj">
         <w lemma="опади" ana="noun:inanim:p:v_naz:ns">опади</w>
       </w_>
       <g/>

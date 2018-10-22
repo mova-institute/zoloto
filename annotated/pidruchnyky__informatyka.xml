@@ -1841,19 +1841,16 @@
       <w lemma="система" ana="noun:inanim:f:v_rod">системи</w>
     </w_>
     <g/>
-    <w_ id="0o5c" dep="0o5e-punct">
+    <w_ id="0o5c" dep="0o5e-punct|3cgc-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0o5d" dep="0o5e-cc">
+    <w_ id="0o5d" dep="0o5e-cc|3cgc-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0o5e" dep="0o56-conj">
+    <w_ id="0o5e" dep="0o57-conj|3cgc-obj">
       <w lemma="інший" ana="adj:p:v_zna:rinanim:&amp;pron:ind">інші</w>
     </w_>
-    <w_ id="3cgb" ellipsis="predicate">
-      <w lemma="можна" ana="adv">можна</w>
-    </w_>
-    <w_ id="3cgc" ellipsis="predicate">
+    <w_ id="3cgc" dep="0o57-conj" ellipsis="predicate">
       <w lemma="відвести" ana="verb:perf:inf">відвести</w>
     </w_>
     <w_ id="0o5f" dep="0o5h-punct">
@@ -1862,7 +1859,7 @@
     <w_ id="0o5g" dep="0o5h-case">
       <w lemma="для" ana="prep:rv_rod">для</w>
     </w_>
-    <w_ id="0o5h" dep="0o5e-orphan">
+    <w_ id="0o5h" dep="0o5e-orphan|3cgc-obl">
       <w lemma="збереження" ana="noun:inanim:n:v_rod">збереження</w>
     </w_>
     <w_ id="0o5i" dep="0o5h-nmod">
@@ -2299,25 +2296,28 @@
       <w lemma="символ" ana="noun:inanim:p:m:v_rod">символів</w>
     </w_>
     <g/>
-    <w_ id="0o9l">
+    <w_ id="0o9l" dep="0o9n-punct|3cgd-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0o9m">
+    <w_ id="0o9m" dep="0o9n-cc|3cgd-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0o9n">
+    <w_ id="0o9n" dep="0o9h-conj:parataxis|3cgd-nsubj" tags="promoted" comment="промотимо промотоване">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
     </w_>
-    <w_ id="0o9o">
+    <w_ id="3cgo" ellipsis="predicate">
+      <w lemma="зустрічатися" ana="verb:rev:imperf:pres:p:3">зустрічаються</w>
+    </w_>
+    <w_ id="0o9o" dep="0o9n-orphan">
       <w lemma="рідше" ana="adv:compr">рідше</w>
     </w_>
-    <w_ id="3cgd" ellipsis="predicate">
+    <w_ id="3cgd" dep="0o9h-conj:parataxis" ellipsis="predicate">
       <w lemma="перекодовуватися" ana="verb:rev:imperf:pres:p:3">перекодовуються</w>
     </w_>
-    <w_ id="0o9p">
+    <w_ id="0o9p" dep="0o9q-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0o9q">
+    <w_ id="0o9q" dep="0o9n-orphan">
       <w lemma="більший" ana="adj:f:v_oru:compr">більшою</w>
     </w_>
     <g/>
@@ -2342,7 +2342,7 @@
     <w_ id="0o9x" dep="0o9y-case">
       <w lemma="для" ana="prep:rv_rod">для</w>
     </w_>
-    <w_ id="0o9y">
+    <w_ id="0o9y" dep="0oae-obl">
       <w lemma="кодування" ana="noun:inanim:n:v_rod">кодування</w>
     </w_>
     <w_ id="0o9z" dep="0oa0-case">
@@ -2385,7 +2385,7 @@
     <w_ id="0oaa" dep="0oab-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0oab">
+    <w_ id="0oab" dep="0oa7-advcl" comment="~ чи від символів?">
       <w lemma="включати" ana="verb:imperf:pres:advp:v-u">включаючи</w>
     </w_>
     <w_ id="0oac" dep="0oab-obj">
@@ -2404,7 +2404,7 @@
     <w_ id="0oag" dep="0oah-nummod">
       <w lemma="1" ana="numr:m:v_zna:nv">1</w>
     </w_>
-    <w_ id="0oah" dep="0oaf-obj">
+    <w_ id="0oah" dep="0oaf-obj" comment="#цікаво: може таки nmod?">
       <w lemma="байт" ana="noun:inanim:m:v_zna">байт</w>
     </w_>
     <w_ id="0oai" dep="0oah-nmod">
@@ -2416,7 +2416,7 @@
     <w_ id="0oak" dep="0oal-det">
       <w lemma="кожний" ana="adj:m:v_zna:rinanim:short:&amp;pron:gen">кожен</w>
     </w_>
-    <w_ id="0oal">
+    <w_ id="0oal" dep="0oah-flat:sibl">
       <w lemma="символ" ana="noun:inanim:m:v_zna">символ</w>
     </w_>
     <g/>
@@ -2429,7 +2429,7 @@
     <w_ id="0oao" dep="0oap-nummod:gov">
       <w lemma="114" ana="numr:v_zna:nv">114</w>
     </w_>
-    <w_ id="0oap">
+    <w_ id="0oap" dep="0oah-appos">
       <w lemma="байт" ana="noun:inanim:p:m:v_rod">байтів</w>
     </w_>
     <g/>

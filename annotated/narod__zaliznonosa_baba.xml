@@ -1955,23 +1955,23 @@
       <w lemma="позирати" ana="verb:imperf:pres:s:3">позирає</w>
     </w_>
     <g/>
-    <w_ id="0h8a" dep="0h8h-punct">
+    <w_ id="0h8a" dep="0h8h-punct|3cek-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0h8b" dep="0h8h-cc">
+    <w_ id="0h8b" dep="0h8h-cc|3cek-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0h8c" dep="0h8h-orphan" comment="~">
+    <w_ id="0h8c" dep="0h8h-orphan|3cek-advmod" comment="~">
       <w lemma="поряд" ana="adv">поряд</w>
     </w_>
     <w_ id="0h8d" dep="0h8e-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="0h8e" dep="0h8h-orphan">
+    <w_ id="0h8e" dep="0h8h-orphan|3cek-obl">
       <w lemma="лавка" ana="noun:inanim:f:v_mis">лавці</w>
     </w_>
-    <w_ id="3cek" ellipsis="predicate">
-      <w lemma="міститися" ana="verb:rev:imperf:pres:s:3">міститься</w>
+    <w_ id="3cek" dep="0h89-conj:parataxis" ellipsis="predicate">
+      <w lemma="сидіти" ana="verb:rev:imperf:pres:s:3">сидить</w>
     </w_>
     <w_ id="0h8f" dep="0h8h-amod">
       <w lemma="паскудний" ana="adj:f:v_naz:compb">паскудна</w>
@@ -1979,7 +1979,7 @@
     <w_ id="0h8g" dep="0h8h-amod">
       <w lemma="чорний" ana="adj:f:v_naz:compb">чорна</w>
     </w_>
-    <w_ id="0h8h" dep="0h89-conj:parataxis">
+    <w_ id="0h8h" dep="0h89-conj:parataxis|3cek-nsubj">
       <w lemma="кішка" ana="noun:anim:f:v_naz">кішка</w>
     </w_>
     <g/>
@@ -1998,7 +1998,7 @@
     <w_ id="0h8m" dep="0h8n-obj">
       <w lemma="око" ana="noun:inanim:p:n:v_zna">очі</w>
     </w_>
-    <w_ id="0h8n" dep="0h8h-conj">
+    <w_ id="0h8n" dep="0h8h-conj|3cek-conj">
       <w lemma="витріщити" ana="verb:perf:past:f">витріщила</w>
     </w_>
     <g/>
