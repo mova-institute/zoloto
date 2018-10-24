@@ -1542,7 +1542,7 @@
       <w_ id="2u7o" dep="2u7m-discourse" n="474">
         <w lemma="от" ana="part">от</w>
       </w_>
-      <w_ id="2u7p" dep="2u7k-appos" edep="2u7s-nsubj:rel" n="475">
+      <w_ id="2u7p" dep="2u7k-appos" edep="2u7s-nsubj:rel|2u7t-nsubj:x" n="475">
         <w lemma="шкарлупка" ana="noun:inanim:f:v_naz">шкарлупка</w>
       </w_>
       <g/>
@@ -1726,7 +1726,7 @@
       <w_ id="2u9b" dep="2u8w-conj" n="530">
         <w lemma="навчитися" ana="verb:rev:perf:past:p">навчились</w>
       </w_>
-      <w_ id="2u9c" dep="2u9b-xcomp" n="531">
+      <w_ id="2u9c" dep="2u9b-xcomp" comment="#xsubj-from-head" n="531">
         <w lemma="підводитися" ana="verb:rev:imperf:inf">підводитись</w>
       </w_>
       <w_ id="2u9d" dep="2u9e-case" n="532">
@@ -2420,7 +2420,7 @@
       <w_ id="2ufp" dep="2ufm-nmod" n="743">
         <w lemma="шматочок" ana="noun:inanim:p:m:v_rod">шматочків</w>
       </w_>
-      <w_ id="2ufq" dep="2ufk-nsubj" n="744">
+      <w_ id="2ufq" dep="2ufk-nsubj" edep="2ufl-nsubj:x" n="744">
         <w lemma="мати" ana="noun:anim:f:v_naz">мати</w>
       </w_>
       <g/>
@@ -2592,7 +2592,7 @@
       <w_ id="2uh7" dep="2uh8-advmod" n="795">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2uh8" dep="2uh4-xcomp" comment="#ok-no-xsubj" n="796">
+      <w_ id="2uh8" dep="2uh4-xcomp" n="796">
         <w lemma="проковтнути" ana="verb:perf:inf">проковтнути</w>
       </w_>
       <w_ id="2uh9" dep="2uh8-advmod" n="797">

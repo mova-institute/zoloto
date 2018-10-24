@@ -1349,7 +1349,7 @@
       <w_ id="2ouy" dep="2ouz-advmod" n="395">
         <w lemma="більш" ana="adv:compr">більш</w>
       </w_>
-      <w_ id="2ouz" dep="2ouw-xcomp" n="396">
+      <w_ id="2ouz" dep="2ouw-xcomp" comment="#xsubj-from-head" n="396">
         <w lemma="талановитий" ana="adj:m:v_oru:compb">талановитим</w>
       </w_>
       <g/>
@@ -1846,7 +1846,7 @@
       <w_ id="2ozi" dep="2oze-parataxis" n="538">
         <w lemma="хотітися" ana="verb:rev:imperf:pres:s:3">хочеться</w>
       </w_>
-      <w_ id="2ozj" dep="2ozi-xcomp" n="539">
+      <w_ id="2ozj" dep="2ozi-xcomp" comment="#xsubj-is-phantom-iobj" n="539">
         <w lemma="лишити" ana="verb:perf:inf">лишити</w>
       </w_>
       <w_ id="2ozk" dep="2ozj-obj" hdep="2ozj-private" n="540">
@@ -2042,7 +2042,7 @@
       <w_ id="2p1b" dep="2p1d-punct" n="598">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2p1c" dep="2p1d-nsubj" n="599">
+      <w_ id="2p1c" dep="2p1d-nsubj" edep="2p1h-nsubj:x" n="599">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="2p1d" dep="2p1a-parataxis" n="600">
@@ -3446,7 +3446,7 @@
       <w_ id="2pee" dep="2pef-obj" n="1007">
         <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ id="2pef" dep="2ped-xcomp" n="1008">
+      <w_ id="2pef" dep="2ped-xcomp" comment="#xsubj-from-head" n="1008">
         <w lemma="спокушати" ana="verb:imperf:inf">спокушати</w>
       </w_>
       <g/>
@@ -4018,7 +4018,7 @@
       <w_ id="2pjs" n="1170">
         <w lemma="хотіти" ana="verb:imperf:pres:p:3">хочуть</w>
       </w_>
-      <w_ id="2pjt" dep="2pjs-xcomp" n="1171">
+      <w_ id="2pjt" dep="2pjs-xcomp" comment="#xsubj-from-head" n="1171">
         <w lemma="перетворити" ana="verb:perf:inf">перетворити</w>
       </w_>
       <w_ id="2pju" dep="2pjw-case" hdep="2pjw-distrib" n="1172">
@@ -4890,7 +4890,7 @@
       <w_ id="2prp" dep="2prr-advmod" n="1430">
         <w lemma="поки" ana="adv:&amp;pron:dem">Поки</w>
       </w_>
-      <w_ id="2prq" dep="2prr-nsubj" hdep="2prr-distrib" n="1431">
+      <w_ id="2prq" dep="2prr-nsubj" edep="2prx-nsubj:x" hdep="2prr-distrib" n="1431">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="2prr" dep="2psq-advcl" n="1432">

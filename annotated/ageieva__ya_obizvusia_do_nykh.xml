@@ -104,7 +104,7 @@
     <w_ id="0010">
       <w lemma="узятися" ana="verb:rev:perf:past:p">узялися</w>
     </w_>
-    <w_ id="0011" dep="0010-xcomp">
+    <w_ id="0011" dep="0010-xcomp" comment="#xsubj-from-head">
       <w lemma="замазувати" ana="verb:imperf:inf">замазувати</w>
     </w_>
     <w_ id="0012" dep="0011-obj">
@@ -981,7 +981,7 @@
     <w_ id="008y" dep="008o-parataxis">
       <w lemma="переставати" ana="verb:imperf:pres:s:2">перестаєш</w>
     </w_>
-    <w_ id="008z" dep="008y-xcomp">
+    <w_ id="008z" dep="008y-xcomp" comment="#xsubj-from-head">
       <w lemma="розуміти" ana="verb:imperf:inf">розуміти</w>
     </w_>
     <g/>
@@ -2851,7 +2851,7 @@
     <w_ id="00p9" dep="00pa-obl">
       <w lemma="диво" ana="noun:inanim:n:v_oru">дивом</w>
     </w_>
-    <w_ id="00pa" dep="00p7-xcomp">
+    <w_ id="00pa" dep="00p7-xcomp" comment="#xsubj-is-phantom-iobj">
       <w lemma="дивуватися" ana="verb:rev:imperf:inf">дивуватися</w>
     </w_>
     <g/>
@@ -3200,7 +3200,7 @@
     <w_ id="00s9" dep="00s2-ccomp">
       <w lemma="хотіти" ana="verb:imperf:pres:p:3">хочуть</w>
     </w_>
-    <w_ id="00sa" dep="00s9-xcomp">
+    <w_ id="00sa" dep="00s9-xcomp" comment="#xsubj-from-head">
       <w lemma="оприлюднювати" ana="verb:imperf:inf">оприлюднювати</w>
     </w_>
     <w_ id="00sb" dep="00sa-advmod">
@@ -5278,7 +5278,7 @@
     <w_ id="01al" dep="01aj-amod">
       <w lemma="готовий" ana="adj:f:v_rod">готової</w>
     </w_>
-    <w_ id="01am" dep="01al-xcomp">
+    <w_ id="01am" dep="01al-xcomp" comment="#xsubj-from-head">
       <w lemma="взяти" ana="verb:perf:inf">взяти</w>
     </w_>
     <w_ id="01an" dep="01ao-case">
@@ -5785,7 +5785,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="01f0"/>
-    <w_ id="01f1" dep="01f8-xcomp">
+    <w_ id="01f1" dep="01f8-xcomp" comment="#xsubj-from-head">
       <w lemma="миритися" ana="verb:rev:imperf:inf">Миритися</w>
     </w_>
     <w_ id="01f2" dep="01f4-case">
@@ -6229,7 +6229,7 @@
     <w_ id="01iv" dep="01is-amod">
       <w lemma="здатний" ana="adj:m:v_rod">здатного</w>
     </w_>
-    <w_ id="01iw" dep="01iv-xcomp">
+    <w_ id="01iw" dep="01iv-xcomp" comment="#xsubj-from-head">
       <w lemma="оцінити" ana="verb:perf:inf">оцінити</w>
     </w_>
     <w_ id="01ix" dep="01iy-amod">
@@ -6769,7 +6769,7 @@
     <w_ id="01nr" dep="01np-amod">
       <w lemma="готовий" ana="adj:m:v_rod">готового</w>
     </w_>
-    <w_ id="01ns" dep="01nr-xcomp">
+    <w_ id="01ns" dep="01nr-xcomp" comment="#xsubj-from-head">
       <w lemma="повісити" ana="verb:perf:inf">повісити</w>
     </w_>
     <w_ id="01nt" dep="01ns-obj" hdep="01ns-private">
@@ -7404,7 +7404,7 @@
     <w_ id="01tg" dep="01th-discourse">
       <w lemma="і" ana="part">і</w>
     </w_>
-    <w_ id="01th" dep="01te-xcomp">
+    <w_ id="01th" dep="01te-ccomp">
       <w lemma="втратити" ana="verb:perf:inf:v-u">втратити</w>
     </w_>
     <w_ id="01ti" dep="01th-obj">
@@ -7701,7 +7701,7 @@
     <w_ id="01w2">
       <w lemma="готовий" ana="adj:f:v_naz">готова</w>
     </w_>
-    <w_ id="01w3" dep="01w2-xcomp">
+    <w_ id="01w3" dep="01w2-xcomp" comment="#xsubj-from-head">
       <w lemma="зважитися" ana="verb:rev:perf:inf">зважитися</w>
     </w_>
     <w_ id="01w4" dep="01w6-punct">
@@ -7711,7 +7711,7 @@
     <w_ id="01w5" dep="01w6-advmod" hdep="01w6-private">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="01w6" dep="01w3-xcomp">
+    <w_ id="01w6" dep="01w3-xcomp" comment="#xsubj-from-head">
       <w lemma="давати" ana="verb:imperf:inf">давати</w>
     </w_>
     <w_ id="01w7" dep="01w6-iobj" hdep="01w6-private">

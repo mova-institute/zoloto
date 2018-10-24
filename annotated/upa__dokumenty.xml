@@ -2579,7 +2579,7 @@
       <w_ id="18bf" dep="18bi-obl">
         <w lemma="який" ana="adj:f:v_mis:&amp;pron:rel">якій</w>
       </w_>
-      <w_ id="18bg" dep="18bh-iobj">
+      <w_ id="18bg" dep="18bh-iobj" edep="18bi-nsubj:x">
         <w lemma="ви" ana="noun:anim:p:v_dav:&amp;pron:pers:2">Вам</w>
       </w_>
       <w_ id="18bh" dep="18bc-acl:relfull">
@@ -3271,7 +3271,7 @@
       <w_ id="18hr" dep="18hs-obl">
         <w lemma="сам" ana="adj:p:v_dav:&amp;pron:refl">самим</w>
       </w_>
-      <w_ id="18hs" dep="18hq-xcomp">
+      <w_ id="18hs" dep="18hq-ccomp">
         <w lemma="зібрати" ana="verb:perf:inf">зібрати</w>
       </w_>
       <g/>
@@ -3302,7 +3302,7 @@
       <w_ id="18i1">
         <w lemma="належати" ana="verb:imperf:pres:s:3">належить</w>
       </w_>
-      <w_ id="18i2" dep="18i1-xcomp">
+      <w_ id="18i2" dep="18i1-ccomp">
         <w lemma="вияснити" ana="verb:perf:inf">вияснити</w>
       </w_>
       <w_ id="18i3" dep="18i2-obj">
@@ -3344,7 +3344,7 @@
       <w_ id="18if">
         <w lemma="сміти" ana="verb:imperf:pres:p:3">сміють</w>
       </w_>
-      <w_ id="18ig" dep="18if-xcomp">
+      <w_ id="18ig" dep="18if-xcomp" comment="#xsubj-from-head">
         <w lemma="жебрати" ana="verb:imperf:inf">жебрати</w>
       </w_>
       <g/>
@@ -3581,7 +3581,7 @@
       <w_ id="18kl" dep="18km-det">
         <w lemma="її" ana="adj:p:v_naz:poss:nv:&amp;pron:pers:3">її</w>
       </w_>
-      <w_ id="18km" dep="18kw-nsubj">
+      <w_ id="18km" dep="18kw-nsubj" edep="18ky-nsubj:x">
         <w lemma="власть" ana="noun:inanim:p:f:v_naz:bad">власті</w>
       </w_>
       <g/>
@@ -3970,7 +3970,7 @@
       <w_ id="18o4" dep="18o0-advcl">
         <w lemma="могти" ana="verb:imperf:pres:p:1">можемо</w>
       </w_>
-      <w_ id="18o5" dep="18o4-xcomp">
+      <w_ id="18o5" dep="18o4-xcomp" comment="#xsubj-from-head">
         <w lemma="зробити" ana="verb:perf:inf">зробити</w>
       </w_>
       <w_ id="18o6" dep="18o5-advmod">
@@ -3989,7 +3989,7 @@
       <w_ id="18oa" dep="18ob-det">
         <w lemma="цей" ana="adj:p:v_naz:&amp;pron:dem">ці</w>
       </w_>
-      <w_ id="18ob" dep="18oc-nsubj">
+      <w_ id="18ob" dep="18oc-nsubj" edep="18od-nsubj:x">
         <w lemma="людина" ana="noun:anim:p:f:v_naz">люди</w>
       </w_>
       <w_ id="18oc" dep="18o4-parataxis">
@@ -4466,7 +4466,7 @@
       <w_ id="18sl" dep="18sc-conj">
         <w lemma="спосіб" ana="noun:inanim:m:v_oru">способом</w>
       </w_>
-      <w_ id="18sm" dep="18sb-xcomp">
+      <w_ id="18sm" dep="18sb-xcomp" comment="#xsubj-from-head">
         <w lemma="дати" ana="verb:perf:inf">дати</w>
       </w_>
       <w_ id="18sn" dep="18sm-iobj">
@@ -4718,7 +4718,7 @@
       <w_ id="18uw" dep="18us-acl">
         <w lemma="вдатися" ana="verb:rev:perf:futr:s:3">вдасться</w>
       </w_>
-      <w_ id="18ux" dep="18uw-xcomp">
+      <w_ id="18ux" dep="18uw-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="уникнути" ana="verb:perf:inf">уникнути</w>
       </w_>
       <w_ id="18uy" dep="18ux-obl">
@@ -4972,7 +4972,7 @@
       <w_ id="18x8">
         <w lemma="мусити" ana="verb:imperf:pres:p:1">мусимо</w>
       </w_>
-      <w_ id="18x9" dep="18x8-xcomp">
+      <w_ id="18x9" dep="18x8-xcomp" comment="#xsubj-from-head">
         <w lemma="вийти" ana="verb:perf:inf">вийти</w>
       </w_>
       <w_ id="18xa" dep="18xb-case">
@@ -5667,7 +5667,7 @@
       <w_ id="193k" dep="193j-discourse">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="193l" dep="193m-nsubj">
+      <w_ id="193l" dep="193m-nsubj" edep="193n-nsubj:x|1941-nsubj:x">
         <w lemma="стрілець" ana="noun:anim:m:v_naz">стрілець</w>
       </w_>
       <w_ id="193m" dep="1948-advcl">
@@ -5743,7 +5743,7 @@
       <w_ id="1948">
         <w lemma="повинний" ana="adj:m:v_naz:short">повинен</w>
       </w_>
-      <w_ id="1949" dep="1948-xcomp">
+      <w_ id="1949" dep="1948-xcomp" comment="#xsubj-from-head">
         <w lemma="розповідати" ana="verb:imperf:inf">розповідати</w>
       </w_>
       <w_ id="194a" dep="194d-case">
@@ -6123,7 +6123,7 @@
       <w_ id="197m" dep="197i-ccomp">
         <w lemma="хотіти" ana="verb:imperf:pres:p:1">хочемо</w>
       </w_>
-      <w_ id="197n" dep="197m-xcomp">
+      <w_ id="197n" dep="197m-xcomp" comment="#xsubj-from-head">
         <w lemma="співпрацювати" ana="verb:imperf:inf">співпрацювати</w>
       </w_>
       <w_ id="197o" dep="197q-cc">
@@ -7337,7 +7337,7 @@
       <w_ id="19ij" dep="19in-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="19ik" dep="19in-nsubj">
+      <w_ id="19ik" dep="19in-nsubj" edep="19io-nsubj:x">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
       <w_ id="19il" dep="19im-case">
@@ -8074,7 +8074,7 @@
       <w_ id="19p8" dep="19pk-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="19p9" dep="19pk-nsubj">
+      <w_ id="19p9" dep="19pk-nsubj" edep="19pl-nsubj:x">
         <w lemma="ідея" ana="noun:inanim:f:v_naz">ідея</w>
       </w_>
       <!-- <w_ id="19pa" dep="19pc-goeswith"><w lemma="загальний" ana="adj:beforeadj">загально</w></w_><g/><w_ id="19pb" dep="19pc-punct" comment="~"><w lemma="-" ana="punct">-</w></w_><g/> -->

@@ -475,7 +475,7 @@
       <w_ id="2gr9" n="145">
         <w lemma="починати" ana="verb:imperf:past:p">починали</w>
       </w_>
-      <w_ id="2gra" dep="2gr9-xcomp" n="146">
+      <w_ id="2gra" dep="2gr9-xcomp" comment="#xsubj-from-head" n="146">
         <w lemma="видавати" ana="verb:imperf:inf">видавати</w>
       </w_>
       <w_ id="2grb" dep="2grc-case" n="147">
@@ -544,7 +544,7 @@
       <w_ id="2grv" dep="2grz-punct" n="166">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2grw" dep="2grz-nsubj" coref="2gru-equality" n="167">
+      <w_ id="2grw" dep="2grz-nsubj" coref="2gru-equality" edep="2gs4-nsubj:x" n="167">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="2grx" dep="2grz-advmod" n="168">
@@ -677,7 +677,7 @@
       <w_ id="2gt3" dep="2gsx-conj" n="207">
         <w lemma="починати" ana="verb:imperf:past:p">починали</w>
       </w_>
-      <w_ id="2gt4" dep="2gt3-xcomp" n="208">
+      <w_ id="2gt4" dep="2gt3-xcomp" comment="#xsubj-from-head" n="208">
         <w lemma="пити" ana="verb:imperf:inf">пити</w>
       </w_>
       <w_ id="2gt5" dep="2gt6-cc" n="209">
@@ -1179,7 +1179,7 @@
       <w_ id="2gxm" n="356">
         <w lemma="радити" ana="verb:imperf:pres:s:1">раджу</w>
       </w_>
-      <w_ id="2gxn" dep="2gxm-xcomp" n="357">
+      <w_ id="2gxn" dep="2gxm-xcomp" comment="#xsubj-is-phantom-iobj" n="357">
         <w lemma="придивитися" ana="verb:rev:perf:inf">придивитися</w>
       </w_>
       <w_ id="2gxo" dep="2gxs-case" n="358">
@@ -1275,7 +1275,7 @@
       <w_ id="2gyj" dep="2gyl-punct" n="387">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2gyk" dep="2gyl-nsubj" n="388">
+      <w_ id="2gyk" dep="2gyl-nsubj" edep="2gym-nsubj:x" n="388">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="2gyl" dep="2gyi-acl:relfull" n="389">
@@ -1477,7 +1477,7 @@
       <w_ id="2h0c" dep="2h05-acl" n="449">
         <w lemma="вдатися" ana="verb:rev:perf:past:n">вдалося</w>
       </w_>
-      <w_ id="2h0d" dep="2h0c-xcomp" n="450">
+      <w_ id="2h0d" dep="2h0c-xcomp" comment="#xsubj-is-phantom-iobj" n="450">
         <w lemma="розгадати" ana="verb:perf:inf">розгадати</w>
       </w_>
       <w_ id="2h0e" dep="2h0f-amod" n="451">
@@ -2729,10 +2729,10 @@
       <w_ id="2hbo" dep="2hbw-discourse" n="828">
         <w lemma="то" ana="part">то</w>
       </w_>
-      <w_ id="2hbp" n="829">
+      <w_ id="2hbp" dep="2hbq-det:nummod" n="829">
         <w lemma="багато" ana="numr:v_naz:&amp;pron:ind">багато</w>
       </w_>
-      <w_ id="2hbq" n="830">
+      <w_ id="2hbq" dep="2hbw-nsubj" comment="~ #цікаво" edep="2hbx-nsubj:x" n="830">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
       <w_ id="2hbr" dep="2hbv-case" n="831">
@@ -2768,7 +2768,7 @@
         <w lemma="стрічка" ana="noun:inanim:f:v_mis">стрічці</w>
       </w_>
       <g/>
-      <w_ id="2hc1" n="841">
+      <w_ id="2hc1" dep="2hbw-punct" n="841">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2hc2"/>
@@ -2803,7 +2803,7 @@
       <w_ id="2hcc" dep="2hc9-acl:relfull" n="851">
         <w lemma="планувати" ana="verb:imperf:past:f">планувала</w>
       </w_>
-      <w_ id="2hcd" dep="2hcc-xcomp" n="852">
+      <w_ id="2hcd" dep="2hcc-xcomp" comment="#xsubj-from-head" n="852">
         <w lemma="фільмувати" ana="verb:imperf:inf">фільмувати</w>
       </w_>
       <g/>
@@ -2893,7 +2893,7 @@
       <w_ id="2hd5" dep="2hd6-discourse" n="878">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="2hd6" dep="2hd4-nsubj" edep="2hd9-nsubj:rel" n="879">
+      <w_ id="2hd6" dep="2hd4-nsubj" edep="2hd9-nsubj:rel|2hda-nsubj:x" n="879">
         <w lemma="той" ana="adj:p:v_naz:&amp;pron:dem">ті</w>
       </w_>
       <g/>

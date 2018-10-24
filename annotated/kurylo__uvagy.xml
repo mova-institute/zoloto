@@ -481,7 +481,7 @@
       <w_ id="2bv1" dep="2bv2-advmod:amtgov">
         <w lemma="багато" ana="adv:compb">Багато</w>
       </w_>
-      <w_ id="2bv2" dep="2bvd-nsubj" edep="2bv5-nsubj:rel">
+      <w_ id="2bv2" dep="2bvd-nsubj" edep="2bv5-nsubj:rel|2bv7-nsubj:x">
         <w lemma="матеріял" ana="noun:inanim:m:v_rod:alt">матеріялу</w>
       </w_>
       <g/>
@@ -798,7 +798,7 @@
       <w_ id="2bxz" dep="2by5-advcl">
         <w lemma="допомогти" ana="verb:perf:inf">допомогти</w>
       </w_>
-      <w_ id="2by0" dep="2bxz-xcomp">
+      <w_ id="2by0" dep="2bxz-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="користуватися" ana="verb:rev:imperf:inf">користуватися</w>
       </w_>
       <w_ id="2by1" dep="2by2-case">
@@ -1474,7 +1474,7 @@
       <w_ id="2c41" dep="2c42-discourse">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="2c42" dep="2c3z-xcomp">
+      <w_ id="2c42" dep="2c3z-xcomp" comment="#xsubj-from-head">
         <w lemma="зв’язати" ana="verb:perf:inf">зв’язати</w>
       </w_>
       <w_ id="2c43" dep="2c44-advmod">
@@ -2419,13 +2419,13 @@
       <w_ id="2ccp" dep="2cc9-conj">
         <w lemma="намагатися" ana="verb:rev:imperf:pres:s:1">намагаюся</w>
       </w_>
-      <w_ id="2ccq" dep="2ccp-xcomp">
+      <w_ id="2ccq" dep="2ccp-xcomp" comment="#xsubj-from-head">
         <w lemma="обминути" ana="verb:perf:inf">обминути</w>
       </w_>
       <w_ id="2ccr" dep="2ccs-det">
         <w lemma="весь" ana="adj:n:v_zna:&amp;pron:gen">все</w>
       </w_>
-      <w_ id="2ccs" dep="2ccq-obj" edep="2ccv-nsubj:rel">
+      <w_ id="2ccs" dep="2ccq-obj" edep="2ccv-nsubj:rel|2ccx-nsubj:x">
         <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
       </w_>
       <g/>
@@ -2785,7 +2785,7 @@
       <w_ id="2bf4" dep="2bf5-det">
         <w lemma="цей" ana="adj:f:v_mis:&amp;pron:dem">цій</w>
       </w_>
-      <w_ id="2bf5">
+      <w_ id="2bf5" dep="2bf9-obl" comment="~">
         <w lemma="творчість" ana="noun:inanim:f:v_mis">творчості</w>
       </w_>
       <w_ id="2bf6" dep="2bf9-obj">
@@ -2797,11 +2797,11 @@
       <w_ id="2bf8">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
-      <w_ id="2bf9" dep="2bf8-xcomp">
+      <w_ id="2bf9" dep="2bf8-ccomp">
         <w lemma="бути" ana="verb:imperf:inf">бути</w>
       </w_>
       <g/>
-      <w_ id="2bfa">
+      <w_ id="2bfa" dep="2bfg-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2bfb" dep="2bfc-cc">
@@ -2817,10 +2817,10 @@
       <w_ id="2bfe" dep="2bfc-conj">
         <w lemma="індивідуальний" ana="adj:n:v_zna">індивідуальне</w>
       </w_>
-      <w_ id="2bff" dep="2bfg-nsubj">
+      <w_ id="2bff" dep="2bfg-nsubj" edep="2bfh-nsubj:x">
         <w lemma="кожний" ana="adj:n:v_naz:&amp;pron:gen">кожне</w>
       </w_>
-      <w_ id="2bfg">
+      <w_ id="2bfg" dep="2bf8-conj:parataxis">
         <w lemma="мусити" ana="verb:imperf:pres:s:3">мусить</w>
       </w_>
       <w_ id="2bfh" dep="2bfg-xcomp">
@@ -2858,7 +2858,7 @@
         <w lemma="народ" ana="noun:inanim:m:v_dav">народові</w>
       </w_>
       <g/>
-      <w_ id="2bfs">
+      <w_ id="2bfs" dep="2bf8-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2bft"/>
@@ -3809,7 +3809,7 @@
       <w_ id="2bod" dep="2bo7-advcl">
         <w lemma="доводитися" ana="verb:rev:imperf:pres:s:3">доводиться</w>
       </w_>
-      <w_ id="2boe" dep="2bod-xcomp">
+      <w_ id="2boe" dep="2bod-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="творити" ana="verb:imperf:inf">творити</w>
       </w_>
       <w_ id="2bof" dep="2boh-amod">
@@ -3891,7 +3891,7 @@
       <w_ id="2bp6">
         <w lemma="даватися" ana="verb:rev:imperf:pres:s:3">дається</w>
       </w_>
-      <w_ id="2bp7" dep="2bp6-xcomp">
+      <w_ id="2bp7" dep="2bp6-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="зробити" ana="verb:perf:inf">зробити</w>
       </w_>
       <g/>

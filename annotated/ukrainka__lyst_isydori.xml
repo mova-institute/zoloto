@@ -2198,7 +2198,7 @@
       <w_ id="15wk" dep="15wl-advmod">
         <w lemma="довго" ana="adv:compb">довго</w>
       </w_>
-      <w_ id="15wl" dep="15wi-xcomp">
+      <w_ id="15wl" dep="15wi-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="ждати" ana="verb:imperf:inf:coll">ждать</w>
       </w_>
       <g/>
@@ -2628,7 +2628,7 @@
       <w_ id="1609" dep="160b-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="160a" dep="160b-nsubj">
+      <w_ id="160a" dep="160b-nsubj" edep="160c-nsubj:x">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="160b" dep="1600-advcl">
@@ -3675,7 +3675,7 @@
       <w_ id="169k" dep="169m-discourse">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="169l" dep="169m-advcl:sp">
+      <w_ id="169l" dep="169m-nsubj" comment="~" edep="169p-nsubj:x">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
       <w_ id="169m" dep="169h-advcl">
@@ -3714,7 +3714,7 @@
       <w_ id="169y" dep="169z-det" mark="reviewed">
         <w lemma="один" ana="adj:m:v_zna:ranim:&amp;pron:ind">одного</w>
       </w_>
-      <w_ id="169z" dep="169x-obj" edep="16a3-nsubj:rel">
+      <w_ id="169z" dep="169x-obj" edep="16a3-nsubj:rel|16a5-nsubj:x">
         <w lemma="ученик" ana="noun:anim:m:v_zna:odd">ученика</w>
       </w_>
       <g/>
@@ -4012,7 +4012,7 @@
       <w_ id="16ck" dep="16cr-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="16cl" dep="16cr-nsubj">
+      <w_ id="16cl" dep="16cr-nsubj" edep="16cs-nsubj:x">
         <w lemma="Путя" ana="noun:anim:f:v_naz:prop:fname">Путя</w>
       </w_>
       <w_ id="16cm" dep="16cr-advmod">
@@ -4152,7 +4152,7 @@
       <w_ id="16dv" dep="16du-amod" mark="resolved">
         <w lemma="новий" ana="adj:n:v_rod:compb">нового</w>
       </w_>
-      <w_ id="16dw" dep="16dt-xcomp">
+      <w_ id="16dw" dep="16dt-xcomp" comment="#xsubj-from-head">
         <w lemma="писати" ana="verb:imperf:inf">писати</w>
       </w_>
       <g/>

@@ -373,7 +373,7 @@
       <w_ id="390f" dep="3908-advcl" n="113">
         <w lemma="почати" ana="verb:perf:past:m">почав</w>
       </w_>
-      <w_ id="390g" dep="390f-xcomp" n="114">
+      <w_ id="390g" dep="390f-xcomp" comment="#xsubj-from-head" n="114">
         <w lemma="шукати" ana="verb:imperf:inf">шукати</w>
       </w_>
       <w_ id="390h" dep="390i-amod" n="115">
@@ -494,7 +494,7 @@
       <w_ id="391h" dep="391a-acl:irrel" n="150">
         <w lemma="запропонувати" ana="verb:perf:past:m">запропонував</w>
       </w_>
-      <w_ id="391i" dep="391h-xcomp" n="151">
+      <w_ id="391i" dep="391h-ccomp" n="151">
         <w lemma="звести" ana="verb:perf:inf">звести</w>
       </w_>
       <w_ id="391j" dep="391k-amod" n="152">
@@ -1017,7 +1017,7 @@
       <w_ id="396e" dep="396c-amod" n="305">
         <w lemma="змушений" ana="adj:f:v_mis:&amp;adjp:perf:pasv">змушеній</w>
       </w_>
-      <w_ id="396f" dep="396e-xcomp" n="306">
+      <w_ id="396f" dep="396e-xcomp" comment="#xsubj-from-head" n="306">
         <w lemma="приховувати" ana="verb:imperf:inf">приховувати</w>
       </w_>
       <w_ id="396g" dep="396h-det" coref="396c-equality" n="307">
@@ -1077,7 +1077,7 @@
       <w_ id="3c9l" ellipsis="predicate">
         <w lemma="змушений" ana="adj:f:v_mis:&amp;adjp:perf:pasv">Змушеній</w>
       </w_>
-      <w_ id="3c9m" dep="3c9l-xcomp" ellipsis="predicate">
+      <w_ id="3c9m" dep="3c9l-xcomp" comment="#xsubj-from-head" ellipsis="predicate">
         <w lemma="приховувати" ana="verb:imperf:inf">приховувати</w>
       </w_>
       <w_ id="396x" dep="3c9m-obj" coref="3967-bridge" n="323">
@@ -1097,7 +1097,7 @@
       <w_ id="3c9n" ellipsis="predicate">
         <w lemma="змушений" ana="adj:f:v_mis:&amp;adjp:perf:pasv">Змушеній</w>
       </w_>
-      <w_ id="3c9o" dep="3c9n-xcomp" ellipsis="predicate">
+      <w_ id="3c9o" dep="3c9n-xcomp" comment="#xsubj-from-head" ellipsis="predicate">
         <w lemma="приховувати" ana="verb:imperf:inf">приховувати</w>
       </w_>
       <w_ id="3972" dep="3c9o-obj" coref="3967-bridge" n="327">
@@ -1796,7 +1796,7 @@
       <w_ id="39df" n="530">
         <w lemma="хотітися" ana="verb:rev:imperf:pres:s:3">Хочеться</w>
       </w_>
-      <w_ id="39dg" dep="39df-xcomp" n="531">
+      <w_ id="39dg" dep="39df-xcomp" comment="#xsubj-is-phantom-iobj" n="531">
         <w lemma="відзначити" ana="verb:perf:inf">відзначити</w>
       </w_>
       <w_ id="39dh" dep="39dj-det" hdep="39dj-distrib" n="532">

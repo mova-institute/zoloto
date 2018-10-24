@@ -899,7 +899,7 @@
         <w_ id="229u" dep="229r-acl:relless">
           <w lemma="застановити" ana="verb:perf:past:f">застановила</w>
         </w_>
-        <w_ id="229v" dep="229u-obj">
+        <w_ id="229v" dep="229u-obj" edep="229z-nsubj:x">
           <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
         </w_>
         <w_ id="229w" dep="229x-advmod">
@@ -1261,7 +1261,7 @@
         <w_ id="22d8" dep="22d3-ccomp">
           <w lemma="доводитися" ana="verb:rev:imperf:past:n">доводилось</w>
         </w_>
-        <w_ id="22d9" dep="22d8-xcomp">
+        <w_ id="22d9" dep="22d8-xcomp" comment="#xsubj-is-phantom-iobj">
           <w lemma="бачити" ana="verb:imperf:inf">бачити</w>
         </w_>
         <w_ id="22da" dep="22db-det">
@@ -1522,7 +1522,7 @@
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="22fl"/>
-        <w_ id="22fm" dep="22g3-nsubj" edep="22fs-nsubj:rel|22g5-nsubj:x">
+        <w_ id="22fm" dep="22g3-nsubj" edep="22fs-nsubj:rel|22g5-nsubj:x|22ft-nsubj:x">
           <w lemma="людина" ana="noun:anim:f:v_naz">Людина</w>
         </w_>
         <g/>
@@ -2816,7 +2816,7 @@
       <w_ id="22rn" dep="22rt-obl">
         <w lemma="Португалія" ana="noun:inanim:f:v_oru:prop">Португалією</w>
       </w_>
-      <w_ id="22ro" dep="22rt-nsubj">
+      <w_ id="22ro" dep="22rt-nsubj" edep="22ry-nsubj:x">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="22rp" dep="22rq-advmod">

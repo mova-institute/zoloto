@@ -973,7 +973,7 @@
       <w_ id="25zy" dep="25zz-det">
         <w lemma="весь" ana="adj:n:v_naz:&amp;pron:gen">все</w>
       </w_>
-      <w_ id="25zz" dep="2600-nsubj" coref="25zn-equality">
+      <w_ id="25zz" dep="2600-nsubj" coref="25zn-equality" edep="2601-nsubj:x">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="2600" dep="25zv-acl:irrel">
@@ -1855,7 +1855,7 @@
       <w_ id="267t" dep="267q-parataxis">
         <w lemma="вважати" ana="verb:imperf:past:m">вважав</w>
       </w_>
-      <w_ id="267u" dep="267t-nsubj">
+      <w_ id="267u" dep="267t-nsubj" edep="2680-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <g/>
@@ -2232,10 +2232,10 @@
       <w_ id="26b8" dep="26ba-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26b9" dep="26ba-nsubj">
+      <w_ id="26b9" dep="26ba-nsubj" edep="26bb-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="26ba" dep="26b7-parataxis">
+      <w_ id="26ba" dep="26ax-conj:parataxis">
         <w lemma="воліти" ana="verb:imperf:past:m">волів</w>
       </w_>
       <w_ id="26bb" dep="26ba-xcomp">
@@ -2276,7 +2276,7 @@
       <w_ id="26bm" dep="26bu-advcl" comment-equality="чи реферити на Я?">
         <w lemma="починати" ana="verb:imperf:past:m">починав</w>
       </w_>
-      <w_ id="26bn" dep="26bm-xcomp">
+      <w_ id="26bn" dep="26bm-xcomp" comment="#xsubj-from-head">
         <w lemma="писати" ana="verb:imperf:inf">писати</w>
       </w_>
       <g/>
@@ -2752,7 +2752,7 @@
       <w_ id="26gb">
         <w lemma="довестися" ana="verb:rev:perf:futr:s:3">доведеться</w>
       </w_>
-      <w_ id="26gc" dep="26gb-xcomp">
+      <w_ id="26gc" dep="26gb-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="виконати" ana="verb:perf:inf">виконати</w>
       </w_>
       <w_ id="26gd" dep="26ge-det:numgov">
@@ -2902,7 +2902,7 @@
       <w_ id="26hq" dep="26hn-csubj">
         <w lemma="спробувати" ana="verb:perf:inf">спробувати</w>
       </w_>
-      <w_ id="26hr" dep="26hq-xcomp">
+      <w_ id="26hr" dep="26hq-xcomp" comment="#xsubj-from-head">
         <w lemma="проінтерпретувати" ana="verb:perf:inf:auto">проінтерпретувати</w>
       </w_>
       <w_ id="26hs" dep="26ht-det">

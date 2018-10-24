@@ -14,7 +14,7 @@
     <w_ id="2xqs" dep="2xqv-mark" n="3">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="2xqt" dep="2xqv-nsubj" n="4">
+    <w_ id="2xqt" dep="2xqv-nsubj" edep="2xqx-nsubj:x" n="4">
       <w lemma="жінка" ana="noun:anim:f:v_naz">жінка</w>
     </w_>
     <w_ id="2xqu" dep="2xqv-advmod" n="5">
@@ -92,7 +92,7 @@
     <w_ id="2xrh" dep="2xrj-mark" n="27">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="2xri" dep="2xrj-nsubj" n="28">
+    <w_ id="2xri" dep="2xrj-nsubj" edep="2xrk-nsubj:x" n="28">
       <w lemma="жінка" ana="noun:anim:f:v_naz">жінка</w>
     </w_>
     <w_ id="2xrj" dep="2xrf-ccomp" n="29">
@@ -245,32 +245,32 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2xsx"/>
-    <w_ id="2xsy" n="73">
+    <w_ id="2xsy" dep="2xtj-cc" n="73">
       <w lemma="але" ana="conj:coord">Але</w>
     </w_>
-    <w_ id="2xsz" n="74">
+    <w_ id="2xsz" dep="2xt1-discourse" n="74">
       <w lemma="навіть" ana="part">навіть</w>
     </w_>
     <w_ id="2xt0" dep="2xt1-advmod" n="75">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="2xt1" n="76">
+    <w_ id="2xt1" dep="2xtj-nsubj" edep="2xtk-nsubj:x" n="76">
       <w lemma="феміністка" ana="noun:anim:f:v_naz">феміністка</w>
     </w_>
     <g/>
-    <w_ id="2xt2" n="77">
+    <w_ id="2xt2" dep="2xt6-punct" n="77">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2xt3" n="78">
+    <w_ id="2xt3" dep="2xt6-cc" n="78">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="2xt4" n="79">
+    <w_ id="2xt4" dep="2xt6-discourse" n="79">
       <w lemma="якраз" ana="part">якраз</w>
     </w_>
     <w_ id="2xt5" dep="2xt6-det" n="80">
       <w lemma="такий" ana="adj:f:v_naz:&amp;pron:dem">така</w>
     </w_>
-    <w_ id="2xt6" edep="2xt9-nsubj:rel" n="81">
+    <w_ id="2xt6" dep="2xt1-conj" edep="2xt9-nsubj:rel" n="81">
       <w lemma="жінка" ana="noun:anim:f:v_naz">жінка</w>
     </w_>
     <g/>
@@ -292,7 +292,7 @@
     <w_ id="2xtc" dep="2xtb-nmod" n="87">
       <w lemma="родина" ana="noun:inanim:f:v_rod">родини</w>
     </w_>
-    <w_ id="2xtd" n="88">
+    <w_ id="2xtd" dep="2xth-punct" n="88">
       <w lemma="—" ana="punct">—</w>
     </w_>
     <w_ id="2xte" dep="2xth-mark" n="89">
@@ -362,7 +362,7 @@
       <w lemma="дбати" ana="verb:imperf:pres:s:3">дбає</w>
     </w_>
     <g/>
-    <w_ id="2xtz" n="110">
+    <w_ id="2xtz" dep="2xtj-punct" n="110">
       <w lemma="." ana="punct">.</w>
     </w_>
   </p>
@@ -1106,7 +1106,7 @@
     <w_ id="2y0e" dep="2y06-parataxis" n="331">
       <w lemma="мусити" ana="verb:imperf:pres:p:2">мусите</w>
     </w_>
-    <w_ id="2y0f" dep="2y0e-xcomp" n="332">
+    <w_ id="2y0f" dep="2y0e-xcomp" comment="#xsubj-from-head" n="332">
       <w lemma="вибирати" ana="verb:imperf:inf">вибирати</w>
     </w_>
     <g/>
@@ -1297,7 +1297,7 @@
     <w_ id="2y25" dep="2y26-amod" n="390">
       <w lemma="єдиний" ana="adj:n:v_oru">єдиним</w>
     </w_>
-    <w_ id="2y26" dep="2y1w-xcomp" n="391">
+    <w_ id="2y26" n="391">
       <w lemma="завдання" ana="noun:inanim:n:v_oru">завданням</w>
     </w_>
     <w_ id="2y27" dep="2y26-nmod" n="392">
@@ -2539,7 +2539,7 @@
     <w_ id="2ydf" dep="2ydg-det" n="770">
       <w lemma="кожний" ana="adj:f:v_naz:&amp;pron:gen">кожна</w>
     </w_>
-    <w_ id="2ydg" dep="2ydi-nsubj" n="771">
+    <w_ id="2ydg" dep="2ydi-nsubj" edep="2ydj-nsubj:x" n="771">
       <w lemma="українка" ana="noun:anim:f:v_naz">українка</w>
     </w_>
     <w_ id="2ydh" dep="2ydi-advmod" n="772">

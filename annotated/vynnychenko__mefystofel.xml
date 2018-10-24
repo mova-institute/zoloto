@@ -336,7 +336,7 @@
     <w_ id="2mgu" n="101">
       <w lemma="могти" ana="verb:imperf:pres:s:2">можеш</w>
     </w_>
-    <w_ id="2mgv" dep="2mgu-xcomp" n="102">
+    <w_ id="2mgv" dep="2mgu-xcomp" comment="#xsubj-from-head" n="102">
       <w lemma="пізнати" ana="verb:perf:inf">пізнати</w>
     </w_>
     <w_ id="2mgw" dep="2mgx-det" n="103">
@@ -374,7 +374,7 @@
     <w_ id="2mh7" dep="2mh9-punct" n="112">
       <w lemma=":" ana="punct">:</w>
     </w_>
-    <w_ id="2mh8" dep="2mh9-nsubj" n="113">
+    <w_ id="2mh8" dep="2mh9-nsubj" edep="2mha-nsubj:x" n="113">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
     <w_ id="2mh9" dep="2mh6-parataxis" n="114">
@@ -641,7 +641,7 @@
     <w_ id="2mjm" n="193">
       <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
     </w_>
-    <w_ id="2mjn" dep="2mjm-xcomp" n="194">
+    <w_ id="2mjn" dep="2mjm-xcomp" comment="#xsubj-from-head" n="194">
       <w lemma="кинутися" ana="verb:rev:perf:inf">кинутись</w>
     </w_>
     <w_ id="2mjo" dep="2mjp-case" n="195">
@@ -700,7 +700,7 @@
     <w_ id="2mk5" n="211">
       <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
     </w_>
-    <w_ id="2mk6" dep="2mk5-xcomp" n="212">
+    <w_ id="2mk6" dep="2mk5-xcomp" comment="#xsubj-from-head" n="212">
       <w lemma="підставити" ana="verb:perf:inf">підставити</w>
     </w_>
     <w_ id="2mk7" dep="2mk6-obj" n="213">
@@ -1354,14 +1354,14 @@
   </p>
   <p id="2mq6">
     <sb id="2mq5"/>
-    <w_ id="2mq7" n="408">
+    <w_ id="2mq7" dep="2mqa-punct" n="408">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="2mq8" n="409">
+    <w_ id="2mq8" dep="2mqa-discourse" comment="#&gt;part" n="409">
       <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:int">Що</w>
     </w_>
     <g/>
-    <w_ id="2mq9" n="410">
+    <w_ id="2mq9" dep="2mq8-punct" n="410">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="2mqa" n="411">
@@ -1373,11 +1373,11 @@
     <w_ id="2mqc" dep="2mqd-obl" n="413">
       <w lemma="гривеничок" ana="noun:inanim:m:v_mis">гривеничку</w>
     </w_>
-    <w_ id="2mqd" dep="2mqa-xcomp" n="414">
+    <w_ id="2mqd" dep="2mqa-xcomp" comment="#xsubj-from-head" n="414">
       <w lemma="заробляти" ana="verb:imperf:inf:coll">зароблять</w>
     </w_>
     <g/>
-    <w_ id="2mqe" n="415">
+    <w_ id="2mqe" dep="2mqa-punct" n="415">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="2mqf"/>
@@ -2861,7 +2861,7 @@
     <w_ id="2n42" dep="2n3z-ccomp" n="856">
       <w lemma="могти" ana="verb:imperf:pres:s:1">можу</w>
     </w_>
-    <w_ id="2n43" dep="2n42-xcomp" n="857">
+    <w_ id="2n43" dep="2n42-xcomp" comment="#xsubj-from-head" n="857">
       <w lemma="добути" ana="verb:perf:inf">добути</w>
     </w_>
     <w_ id="2n44" dep="2n43-iobj" n="858">

@@ -618,7 +618,7 @@
     <w_ id="1h9z" dep="1ha1-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1ha0" dep="1ha1-nsubj">
+    <w_ id="1ha0" dep="1ha1-nsubj" edep="1ha3-nsubj:x">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
     </w_>
     <w_ id="1ha1" dep="1h9u-parataxis">
@@ -1097,7 +1097,7 @@
     <w_ id="1hea" dep="1hec-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
-    <w_ id="1heb" dep="1hec-nsubj">
+    <w_ id="1heb" dep="1hec-nsubj" edep="1hed-nsubj:x">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
     <w_ id="1hec" dep="1he9-parataxis">
@@ -1324,7 +1324,7 @@
     <w_ id="1hge" dep="1hgf-obj">
       <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="1hgf" dep="1hgd-xcomp">
+    <w_ id="1hgf" dep="1hgd-xcomp" comment="#xsubj-from-head">
       <w lemma="передоручити" ana="verb:perf:inf">передоручити</w>
     </w_>
     <g/>
@@ -1334,7 +1334,7 @@
     <w_ id="1hgh" dep="1hgd-parataxis">
       <w lemma="мати" ana="verb:imperf:past:m">мав</w>
     </w_>
-    <w_ id="1hgi" dep="1hgh-xcomp">
+    <w_ id="1hgi" dep="1hgh-xcomp" comment="#xsubj-from-head">
       <w lemma="убити" ana="verb:perf:inf:v-u">убити</w>
     </w_>
     <w_ id="1hgj" dep="1hgi-obj">
@@ -1357,7 +1357,7 @@
     <w_ id="1hgp" dep="1hgq-obl">
       <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
     </w_>
-    <w_ id="1hgq" dep="1hgn-xcomp">
+    <w_ id="1hgq" dep="1hgn-xcomp" comment="#xsubj-from-head">
       <w lemma="згинути" ana="verb:perf:inf">згинути</w>
     </w_>
     <g/>
@@ -1466,7 +1466,7 @@
     <w_ id="1hho" dep="1hhq-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1hhp" dep="1hhq-nsubj">
+    <w_ id="1hhp" dep="1hhq-nsubj" edep="1hhr-nsubj:x">
       <w lemma="Гельця" ana="noun:anim:f:v_naz:prop:fname">Гельця</w>
     </w_>
     <w_ id="1hhq" dep="1hhi-parataxis">

@@ -444,7 +444,7 @@
       <w_ id="1crt" dep="1crw-mark">
         <w lemma="бо" ana="conj:subord">бо</w>
       </w_>
-      <w_ id="1cru" dep="1crw-nsubj">
+      <w_ id="1cru" dep="1crw-nsubj" edep="1crx-nsubj:x">
         <w lemma="гра" ana="noun:inanim:f:v_naz">гра</w>
       </w_>
       <w_ id="1crv" dep="1crw-advmod">
@@ -710,7 +710,7 @@
       <w_ id="1cu3">
         <w lemma="пощастити" ana="verb:perf:futr:s:3">пощастить</w>
       </w_>
-      <w_ id="1cu4" dep="1cu3-xcomp">
+      <w_ id="1cu4" dep="1cu3-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="викорінити" ana="verb:perf:inf">викорінити</w>
       </w_>
       <g/>
@@ -890,7 +890,7 @@
       <w_ id="1cvk" dep="1cvl-advmod">
         <w lemma="болісно" ana="adv:compb">болісно</w>
       </w_>
-      <w_ id="1cvl" dep="1cvj-xcomp">
+      <w_ id="1cvl" dep="1cvj-xcomp" comment="#xsubj-from-head">
         <w lemma="вдарити" ana="verb:perf:inf:v-u">вдарити</w>
       </w_>
       <w_ id="1cvm" dep="1cvl-obj">
@@ -1346,7 +1346,7 @@
       <w_ id="1cze" dep="1czg-mark">
         <w lemma="якщо" ana="conj:subord">якщо</w>
       </w_>
-      <w_ id="1czf" dep="1czg-nsubj">
+      <w_ id="1czf" dep="1czg-nsubj" edep="1czh-nsubj:x">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="1czg" dep="1czs-advcl">
@@ -2172,7 +2172,7 @@
       <w_ id="1d6a" dep="1d69-csubj">
         <w lemma="заохотити" ana="verb:perf:inf">заохотити</w>
       </w_>
-      <w_ id="1d6b" dep="1d6a-obj">
+      <w_ id="1d6b" dep="1d6a-obj" edep="1d6c-nsubj:x">
         <w lemma="чоловік" ana="noun:anim:m:v_zna">чоловіка</w>
       </w_>
       <w_ id="1d6c" dep="1d6a-xcomp">
@@ -2917,7 +2917,7 @@
       <w_ id="1dck" dep="1dc8-conj:parataxis">
         <w lemma="довестися" ana="verb:rev:perf:futr:s:3">доведеться</w>
       </w_>
-      <w_ id="1dcl" dep="1dck-xcomp">
+      <w_ id="1dcl" dep="1dck-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="платити" ana="verb:imperf:inf">платити</w>
       </w_>
       <g/>
@@ -3114,7 +3114,7 @@
       <w_ id="1de8" dep="1de3-conj:parataxis">
         <w lemma="годитися" ana="verb:rev:imperf:pres:s:3">годиться</w>
       </w_>
-      <w_ id="1de9" dep="1de8-xcomp">
+      <w_ id="1de9" dep="1de8-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="заводити" ana="verb:imperf:inf">заводити</w>
       </w_>
       <w_ id="1dea" dep="1deb-case">
@@ -3539,7 +3539,7 @@
       <w_ id="1dhu" dep="1dht-advmod" comment="~">
         <w lemma="здебільшого" ana="adv">здебільшого</w>
       </w_>
-      <w_ id="1dhv" dep="1dht-iobj">
+      <w_ id="1dhv" dep="1dht-iobj" edep="1dhs-nsubj:x">
         <w lemma="дружина" ana="noun:anim:f:v_dav">дружині</w>
       </w_>
       <g/>
@@ -3563,7 +3563,7 @@
       <w_ id="1di0">
         <w lemma="годитися" ana="verb:rev:imperf:pres:s:3">годиться</w>
       </w_>
-      <w_ id="1di1" dep="1di0-xcomp">
+      <w_ id="1di1" dep="1di0-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="перепивати" ana="verb:imperf:inf">перепивати</w>
       </w_>
       <g/>
@@ -3614,7 +3614,7 @@
       <w_ id="1dig" dep="1di0-advcl">
         <w lemma="довестися" ana="verb:rev:perf:futr:s:3">доведеться</w>
       </w_>
-      <w_ id="1dih" dep="1dig-xcomp">
+      <w_ id="1dih" dep="1dig-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="каратися" ana="verb:rev:imperf:inf">каратись</w>
       </w_>
       <g/>
@@ -4290,7 +4290,7 @@
       <w_ id="1do0" dep="1dnu-advcl">
         <w lemma="стати" ana="verb:perf:past:f">стала</w>
       </w_>
-      <w_ id="1do1" dep="1do0-xcomp">
+      <w_ id="1do1" dep="1do0-xcomp" comment="#xsubj-from-head">
         <w lemma="мити" ana="verb:imperf:inf">мити</w>
       </w_>
       <w_ id="1do2" dep="1do1-obj">
@@ -5286,7 +5286,7 @@
       <w_ id="1dwb" dep="1dwe-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1dwc" dep="1dwe-nsubj">
+      <w_ id="1dwc" dep="1dwe-nsubj" edep="1dwg-nsubj:x">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="1dwd" dep="1dwe-advmod">
@@ -5586,7 +5586,7 @@
       <w_ id="1dyt" dep="1dyv-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1dyu" dep="1dyv-nsubj">
+      <w_ id="1dyu" dep="1dyv-nsubj" edep="1dyw-nsubj:x">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="1dyv" dep="1dyp-acl:relfull">
@@ -5685,7 +5685,7 @@
       <w_ id="1dzo" dep="1dzl-acl:relless">
         <w lemma="дозволяти" ana="verb:imperf:pres:s:3">дозволяє</w>
       </w_>
-      <w_ id="1dzp" dep="1dzo-iobj">
+      <w_ id="1dzp" dep="1dzo-iobj" edep="1dzq-nsubj:x">
         <w lemma="дружина" ana="noun:anim:f:v_dav">дружині</w>
       </w_>
       <w_ id="1dzq" dep="1dzo-xcomp">
@@ -6271,7 +6271,7 @@
       <w_ id="1e4k" dep="1e4l-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1e4l" dep="1e4j-xcomp">
+      <w_ id="1e4l" dep="1e4j-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="плескати" ana="verb:imperf:inf">плескати</w>
       </w_>
       <g/>
@@ -6281,7 +6281,7 @@
       <w_ id="1e4n" dep="1e4o-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1e4o" dep="1e4l-conj">
+      <w_ id="1e4o" dep="1e4l-conj" comment="#xsubj-is-phantom-iobj">
         <w lemma="скубти" ana="verb:imperf:inf">скубти</w>
       </w_>
       <g/>
@@ -6492,7 +6492,7 @@
       <w_ id="1e6e">
         <w lemma="мати" ana="verb:imperf:pres:s:1">маю</w>
       </w_>
-      <w_ id="1e6f" dep="1e6e-xcomp">
+      <w_ id="1e6f" dep="1e6e-xcomp" comment="#xsubj-from-head">
         <w lemma="зазначити" ana="verb:perf:inf">зазначити</w>
       </w_>
       <g/>
@@ -9020,7 +9020,7 @@
       <w_ id="1err" dep="1erz-advcl">
         <w lemma="хотіти" ana="verb:imperf:pres:p:1">хочемо</w>
       </w_>
-      <w_ id="1ers" dep="1err-xcomp">
+      <w_ id="1ers" dep="1err-xcomp" comment="#xsubj-from-head">
         <w lemma="прискорити" ana="verb:perf:inf">прискорити</w>
       </w_>
       <w_ id="1ert" dep="1eru-det">
@@ -9590,7 +9590,7 @@
       <w_ id="1ewm" dep="1ewo-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1ewn" dep="1ewo-nsubj">
+      <w_ id="1ewn" dep="1ewo-nsubj" edep="1ewp-nsubj:x">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
       </w_>
       <w_ id="1ewo" dep="1ewk-acl:irrel">
@@ -10109,7 +10109,7 @@
       <w_ id="1f11" dep="1f0z-conj">
         <w lemma="нездатний" ana="adj:m:v_naz">нездатний</w>
       </w_>
-      <w_ id="1f12" dep="1f11-xcomp">
+      <w_ id="1f12" dep="1f11-xcomp" comment="#xsubj-from-head">
         <w lemma="приймати" ana="verb:imperf:inf">приймати</w>
       </w_>
       <w_ id="1f13" dep="1f14-amod">
@@ -11356,7 +11356,7 @@
       <w_ id="1fbj" dep="1fbl-advmod">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
-      <w_ id="1fbk" dep="1fbl-nsubj">
+      <w_ id="1fbk" dep="1fbl-nsubj" edep="1fbn-nsubj:x">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
       </w_>
       <w_ id="1fbl" dep="1fbh-acl">
@@ -11915,7 +11915,7 @@
       <w_ id="1fga" dep="1fgi-advmod">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
-      <w_ id="1fgb" dep="1fgi-nsubj">
+      <w_ id="1fgb" dep="1fgi-nsubj" edep="1fgj-nsubj:x">
         <w lemma="жінка" ana="noun:anim:f:v_naz">жінка</w>
       </w_>
       <w_ id="1fgc" dep="1fgd-amod">
@@ -12468,7 +12468,7 @@
       <w_ id="1fl1" dep="1fjz-parataxis">
         <w lemma="починати" ana="verb:imperf:pres:s:3">починає</w>
       </w_>
-      <w_ id="1fl2" dep="1fl1-xcomp">
+      <w_ id="1fl2" dep="1fl1-xcomp" comment="#xsubj-from-head">
         <w lemma="спадати" ana="verb:imperf:inf">спадати</w>
       </w_>
       <w_ id="1fl3" dep="1fl4-cc">
@@ -12493,7 +12493,7 @@
       <w_ id="1fl9" dep="1flb-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1fla" dep="1flb-nsubj">
+      <w_ id="1fla" dep="1flb-nsubj" edep="1flc-nsubj:x">
         <w lemma="котрий" ana="adj:f:v_naz:&amp;pron:rel">котра́</w>
       </w_>
       <w_ id="1flb" dep="1fl7-acl:relfull">
@@ -13131,7 +13131,7 @@
       <w_ id="1fqn" dep="1fqj-ccomp">
         <w lemma="зуміти" ana="verb:perf:futr:s:3">зуміє</w>
       </w_>
-      <w_ id="1fqo" dep="1fqn-xcomp">
+      <w_ id="1fqo" dep="1fqn-xcomp" comment="#xsubj-from-head">
         <w lemma="звернути" ana="verb:perf:inf">звернути</w>
       </w_>
       <w_ id="1fqp" dep="1fqq-case">

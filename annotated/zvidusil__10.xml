@@ -591,7 +591,7 @@
       <w_ id="1yty" dep="1yu0-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1ytz" dep="1yu0-nsubj">
+      <w_ id="1ytz" dep="1yu0-nsubj" edep="1yu1-nsubj:x">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="1yu0" dep="1ytx-acl:relfull">
@@ -2322,7 +2322,7 @@
       <w_ id="1z9y" dep="1z9z-discourse">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
-      <w_ id="1z9z" dep="1z9x-xcomp">
+      <w_ id="1z9z" dep="1z9x-ccomp">
         <w lemma="шукати" ana="verb:imperf:inf">шукати</w>
       </w_>
       <w_ id="1za0" dep="1z9z-obj">
@@ -2335,7 +2335,7 @@
       <w_ id="1za2" dep="1za3-amod">
         <w lemma="міський" ana="adj:f:v_naz">міська</w>
       </w_>
-      <w_ id="1za3" dep="1za4-nsubj" hdep="1za4-distrib">
+      <w_ id="1za3" dep="1za4-nsubj" edep="1za5-nsubj:x" hdep="1za4-distrib">
         <w lemma="рада" ana="noun:inanim:f:v_naz">рада</w>
       </w_>
       <w_ id="1za4" dep="1z9x-parataxis">
@@ -2344,7 +2344,7 @@
       <w_ id="1za5" dep="1za4-xcomp">
         <w lemma="запропонувати" ana="verb:perf:inf">запропонувати</w>
       </w_>
-      <w_ id="1za6" dep="1za5-xcomp">
+      <w_ id="1za6" dep="1za5-ccomp">
         <w lemma="будувати" ana="verb:imperf:inf">будувати</w>
       </w_>
       <w_ id="1za7" dep="1za8-advmod" hdep="1za8-private">
@@ -2447,7 +2447,7 @@
       <w_ id="1zb2" dep="1zb0-obl">
         <w lemma="влада" ana="noun:inanim:f:v_rod">влади</w>
       </w_>
-      <w_ id="1zb3" dep="1zb0-xcomp">
+      <w_ id="1zb3" dep="1zb0-ccomp" comment="#цікаво #xsubj-is-obl">
         <w lemma="обміняти" ana="verb:perf:inf">обміняти</w>
       </w_>
       <w_ id="1zb4" dep="1zb3-obj">
@@ -3487,7 +3487,7 @@
       <w_ id="1zkl" dep="1zk9-parataxis">
         <w lemma="умовляти" ana="verb:imperf:pres:s:3:v-u">умовляє</w>
       </w_>
-      <w_ id="1zkm" dep="1zkl-obj">
+      <w_ id="1zkm" dep="1zkl-obj" edep="1zko-nsubj:x">
         <w lemma="вівчар" ana="noun:anim:m:v_zna">вівчара</w>
       </w_>
       <w_ id="1zkn" dep="1zko-advmod">
@@ -3627,7 +3627,7 @@
       <w_ id="1zlx" dep="1zlr-parataxis">
         <w lemma="кортіти" ana="verb:imperf:past:n">кортіло</w>
       </w_>
-      <w_ id="1zly" dep="1zlx-xcomp">
+      <w_ id="1zly" dep="1zlx-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="зупинитися" ana="verb:rev:perf:inf">зупинитись</w>
       </w_>
       <w_ id="1zlz" dep="1zm0-cc">
@@ -4793,7 +4793,7 @@
       <w_ id="1zwq">
         <w lemma="мусити" ana="verb:imperf:pres:s:3">Мусить</w>
       </w_>
-      <w_ id="1zwr" dep="1zwq-xcomp">
+      <w_ id="1zwr" dep="1zwq-xcomp" comment="#xsubj-from-head">
         <w lemma="мати" ana="verb:imperf:inf">мати</w>
       </w_>
       <w_ id="1zws" dep="1zwr-obj">
@@ -4806,7 +4806,7 @@
       <w_ id="1zwu" dep="1zwq-conj">
         <w lemma="мусити" ana="verb:imperf:pres:s:3">мусить</w>
       </w_>
-      <w_ id="1zwv" dep="1zwu-xcomp">
+      <w_ id="1zwv" dep="1zwu-xcomp" comment="#xsubj-from-head">
         <w lemma="годуватися" ana="verb:rev:imperf:inf">годуватись</w>
       </w_>
       <w_ id="1zww" dep="1zwz-amod">
@@ -5068,7 +5068,7 @@
         <w lemma="погубний" ana="adj:p:v_rod">погубних</w>
       </w_>
       <w_ id="1zzb" dep="1zz8-conj">
-        <w lemma="висновок" ana="noun:inanim:p:m:rod">висновків</w>
+        <w lemma="висновок" ana="noun:inanim:p:m:v_rod">висновків</w>
       </w_>
       <g/>
       <w_ id="1zzc" dep="1zz5-punct">

@@ -342,7 +342,7 @@
       <w_ id="1l5w" dep="1l5y-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1l5x" dep="1l5y-nsubj" coref="1l5v-equality">
+      <w_ id="1l5x" dep="1l5y-nsubj" coref="1l5v-equality" edep="1l5z-nsubj:x">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="1l5y" dep="1l5v-acl:relfull">
@@ -1889,7 +1889,7 @@
       <w_ id="1lkm" dep="1lkj-ccomp">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
-      <w_ id="1lkn" dep="1lkm-xcomp">
+      <w_ id="1lkn" dep="1lkm-xcomp" comment="#xsubj-from-head">
         <w lemma="вибачитися" ana="verb:rev:perf:inf">вибачитися</w>
       </w_>
       <w_ id="1lko" dep="1lkq-case">
@@ -2134,7 +2134,7 @@
       <w_ id="1lmx" dep="1lmz-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1lmy" dep="1lmz-nsubj" hdep="1lmz-distrib">
+      <w_ id="1lmy" dep="1lmz-nsubj" edep="1lnb-nsubj:x" hdep="1lmz-distrib">
         <w lemma="кремль" ana="noun:inanim:m:v_naz">Кремль</w>
       </w_>
       <w_ id="1lmz" dep="1lmv-acl:irrel">
@@ -2674,7 +2674,7 @@
       <w_ id="1lru" dep="1ls2-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1lrv" dep="1ls2-nsubj" coref="1lrs-equality" hdep="1ls2-distrib">
+      <w_ id="1lrv" dep="1ls2-nsubj" coref="1lrs-equality" edep="1ls3-nsubj:x" hdep="1ls2-distrib">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="1lrw" dep="1lrx-case" hdep="1lrx-distrib">
@@ -3015,7 +3015,7 @@
       <w_ id="1lux" dep="1luz-mark">
         <w lemma="тож" ana="conj:subord">тож</w>
       </w_>
-      <w_ id="1luy" dep="1luz-nsubj">
+      <w_ id="1luy" dep="1luz-nsubj" edep="1lv0-nsubj:x">
         <w lemma="ворог" ana="noun:anim:m:v_naz">ворог</w>
       </w_>
       <w_ id="1luz" dep="1luv-advcl">
@@ -3326,7 +3326,7 @@
       <w_ id="1lxs" dep="1lxt-amod">
         <w lemma="західний" ana="adj:p:v_dav:compb">західним</w>
       </w_>
-      <w_ id="1lxt" dep="1lxr-iobj" edep="1lxu-nsubj:x">
+      <w_ id="1lxt" dep="1lxr-iobj" edep="1lxu-nsubj:x|1lxv-nsubj:x">
         <w lemma="країна" ana="noun:inanim:p:f:v_dav">країнам</w>
       </w_>
       <w_ id="1lxu" dep="1lxr-xcomp">
@@ -4241,10 +4241,10 @@
       <w_ id="1h0j" dep="1h0k-discourse">
         <w lemma="всього-навсього" ana="part:odd">всього-навсього</w>
       </w_>
-      <w_ id="1h0k" dep="1h0i-csubj">
+      <w_ id="1h0k" dep="1h0i-csubj" comment="~">
         <w lemma="перестати" ana="verb:perf:inf">перестати</w>
       </w_>
-      <w_ id="1h0l" dep="1h0k-xcomp">
+      <w_ id="1h0l" dep="1h0k-xcomp" comment="#xsubj-from-head">
         <w lemma="потурати" ana="verb:imperf:inf">потурати</w>
       </w_>
       <w_ id="1h0m" dep="1h0l-iobj">
@@ -4344,7 +4344,7 @@
       <w_ id="1h1i" dep="1h1j-amod">
         <w lemma="обласний" ana="adj:m:v_oru">обласним</w>
       </w_>
-      <w_ id="1h1j" dep="1h1f-xcomp">
+      <w_ id="1h1j" dep="1h1f-xcomp" comment="#xsubj-from-head">
         <w lemma="філіал" ana="noun:inanim:m:v_oru">філіалом</w>
       </w_>
       <w_ id="1h1k" dep="1h1j-punct">

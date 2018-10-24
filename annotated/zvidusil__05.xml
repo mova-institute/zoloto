@@ -1148,7 +1148,7 @@
       <w_ id="1poi" dep="1pom-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1poj" dep="1pom-nsubj">
+      <w_ id="1poj" dep="1pom-nsubj" edep="1por-nsubj:x">
         <w lemma="все" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">все</w>
       </w_>
       <w_ id="1pok" dep="1pol-case">
@@ -3007,7 +3007,7 @@
       <w_ id="1q5c" dep="1q5f-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1q5d" dep="1q5f-nsubj">
+      <w_ id="1q5d" dep="1q5f-nsubj" edep="1q5g-nsubj:x|1q5k-nsubj:x">
         <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">ви</w>
       </w_>
       <w_ id="1q5e" dep="1q5f-punct">
@@ -3797,7 +3797,7 @@
       <w_ id="1qcs" dep="1qcu-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1qct" dep="1qcu-nsubj" coref="1qcr-equality">
+      <w_ id="1qct" dep="1qcu-nsubj" coref="1qcr-equality" edep="1qcv-nsubj:x">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="1qcu" dep="1qcr-acl:relfull">

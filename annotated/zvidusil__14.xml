@@ -621,7 +621,7 @@
       <w_ id="24ib" dep="24ic-discourse" mark="reviewed">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="24ic" dep="24id-nsubj" comment-equality="!" coref="24hl-equality">
+      <w_ id="24ic" dep="24id-nsubj" comment-equality="!" coref="24hl-equality" edep="24if-nsubj:x">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="24id" dep="24hs-parataxis">
@@ -2404,7 +2404,7 @@
       <w_ id="24yh" dep="24yg-nmod" mark="reviewed">
         <w lemma="який" ana="adj:m:v_rod:&amp;pron:rel">якого</w>
       </w_>
-      <w_ id="24yi" dep="24yj-nsubj">
+      <w_ id="24yi" dep="24yj-nsubj" edep="24yk-nsubj:x">
         <w lemma="вода" ana="noun:inanim:f:v_naz">вода</w>
       </w_>
       <w_ id="24yj" dep="24ya-acl:relfull">
@@ -5605,7 +5605,7 @@
       <w_ id="25qt" dep="25qr-obj">
         <w lemma="кава" ana="noun:inanim:f:v_rod">кави</w>
       </w_>
-      <w_ id="25qu" dep="25qv-iobj" coref="25pt-equality">
+      <w_ id="25qu" dep="25qv-iobj" coref="25pt-equality" edep="25qr-nsubj:x">
         <w lemma="Анна" ana="noun:anim:f:v_dav:prop:fname">Анні</w>
       </w_>
       <w_ id="25qv" dep="25qc-parataxis">

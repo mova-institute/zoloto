@@ -37,7 +37,7 @@
       <w_ id="30pw" n="10">
         <w lemma="могти" ana="verb:imperf:pres:s:1">можу</w>
       </w_>
-      <w_ id="30px" dep="30pw-xcomp" n="11">
+      <w_ id="30px" dep="30pw-xcomp" comment="#xsubj-from-head" n="11">
         <w lemma="збагнути" ana="verb:perf:inf">збагнути</w>
       </w_>
       <g/>
@@ -164,7 +164,7 @@
       <w_ id="30r1" dep="30qv-parataxis" n="50">
         <w lemma="перестати" ana="verb:perf:past:m">перестав</w>
       </w_>
-      <w_ id="30r2" dep="30r1-xcomp" n="51">
+      <w_ id="30r2" dep="30r1-xcomp" comment="#xsubj-from-head" n="51">
         <w lemma="купувати" ana="verb:imperf:inf">купувати</w>
       </w_>
       <w_ id="30r3" dep="30r4-det" coref="30q0-equality" n="52">
@@ -2762,7 +2762,7 @@
       <w_ id="31fa" dep="31fc-cc" n="829">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="31fb" dep="31fc-nsubj" n="830">
+      <w_ id="31fb" dep="31fc-nsubj" edep="31fk-nsubj:x" hdep="31fc-distrib" n="830">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="31fc" dep="31f8-conj:parataxis" n="831">
@@ -2790,7 +2790,7 @@
       <w_ id="31fj" dep="31fc-conj" n="838">
         <w lemma="хотіти" ana="verb:imperf:pres:s:3">хоче</w>
       </w_>
-      <w_ id="31fk" dep="31fj-xcomp" comment="#ok-no-xsubj" n="839">
+      <w_ id="31fk" dep="31fj-xcomp" n="839">
         <w lemma="дивитися" ana="verb:rev:imperf:inf">дивитися</w>
       </w_>
       <g/>
@@ -2978,7 +2978,7 @@
       <w_ id="31h9" dep="31h1-conj" n="897">
         <w lemma="хотіти" ana="verb:imperf:past:m">хотів</w>
       </w_>
-      <w_ id="31ha" dep="31h9-xcomp" n="898">
+      <w_ id="31ha" dep="31h9-xcomp" comment="#xsubj-from-head" n="898">
         <w lemma="присягати" ana="verb:imperf:inf">присягати</w>
       </w_>
       <w_ id="31hb" dep="31hc-case" n="899">
@@ -4093,7 +4093,7 @@
       <w_ id="31rt" dep="31rx-punct" n="1231">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="31ru" dep="31rx-xcomp" n="1232">
+      <w_ id="31ru" dep="31rx-xcomp" comment="#xsubj-is-phantom-iobj" n="1232">
         <w lemma="знімати" ana="verb:imperf:inf">знімати</w>
       </w_>
       <w_ id="31rv" dep="31ru-obj" n="1233">
@@ -4792,7 +4792,7 @@
       <w_ id="31yc" dep="31yd-obj" n="1448">
         <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
       </w_>
-      <w_ id="31yd" dep="31yb-xcomp" comment="#ok-no-xsubj" n="1449">
+      <w_ id="31yd" dep="31yb-xcomp" comment="#xsubj-from-head" n="1449">
         <w lemma="забрати" ana="verb:perf:inf">забрати</w>
       </w_>
       <w_ id="31ye" dep="31yf-case" n="1450">
@@ -5300,7 +5300,7 @@
   <doc id="322y" author="Крихітка @ tereveni.org" date="2008-11-22" genre="коментар" src="http://tereveni.org/topic/10529/page__view__findpost__p__361766" title="повідомлення #39">
     <p id="322z">
       <sb id="3230"/>
-      <w_ id="3231" dep="3232-xcomp" n="1600">
+      <w_ id="3231" dep="3232-xcomp" comment="#xsubj-from-head" n="1600">
         <w lemma="смажити" ana="verb:imperf:inf">Смажити</w>
       </w_>
       <w_ id="3232" n="1601">
@@ -5761,7 +5761,7 @@
       <w_ id="327g" dep="3277-conj:parataxis" n="1737">
         <w lemma="могти" ana="verb:imperf:pres:s:2">можеш</w>
       </w_>
-      <w_ id="327h" dep="327g-xcomp" n="1738">
+      <w_ id="327h" dep="327g-xcomp" comment="#xsubj-from-head" n="1738">
         <w lemma="відповісти" ana="verb:perf:inf">відповісти</w>
       </w_>
       <g/>
@@ -6611,7 +6611,7 @@
       <w_ id="32f9" dep="32fa-cc" n="1995">
         <w lemma="ні" ana="conj:coord:neg">ні</w>
       </w_>
-      <w_ id="32fa" dep="32fg-nsubj" n="1996">
+      <w_ id="32fa" dep="32fg-nsubj" edep="32fh-nsubj:x" n="1996">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <g/>
@@ -7566,7 +7566,7 @@
       <w_ id="32o7" dep="32o3-conj" n="2277">
         <w lemma="хотіти" ana="verb:imperf:pres:s:1">хочу</w>
       </w_>
-      <w_ id="32o8" dep="32o7-xcomp" comment="#ok-no-xsubj" n="2278">
+      <w_ id="32o8" dep="32o7-xcomp" comment="#xsubj-from-head" n="2278">
         <w lemma="знати" ana="verb:imperf:inf">знати</w>
       </w_>
       <g/>

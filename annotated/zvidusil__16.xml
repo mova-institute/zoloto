@@ -1010,7 +1010,7 @@
         <w lemma="66" ana="numr:v_naz:nv">66</w>
       </w_>
       <g/>
-      <w_ id="274x" dep="274z-nsubj">
+      <w_ id="274x" dep="274z-nsubj" edep="2750-nsubj:x">
         <w lemma="%" ana="noun:inanim:p:m:v_rod:nv:symbol">%</w>
       </w_>
       <w_ id="274y" dep="274x-nmod">
@@ -4213,7 +4213,7 @@
       <w_ id="27yt" dep="27yo-acl:relfull">
         <w lemma="почати" ana="verb:perf:past:p">почали</w>
       </w_>
-      <w_ id="27yu" dep="27yt-xcomp">
+      <w_ id="27yu" dep="27yt-xcomp" comment="#xsubj-from-head">
         <w lemma="використовувати" ana="verb:imperf:inf">використовувати</w>
       </w_>
       <w_ id="27yv" dep="27yx-case">
@@ -4543,7 +4543,7 @@
       <w_ id="281p">
         <w lemma="мати" ana="verb:imperf:pres:s:1">маю</w>
       </w_>
-      <w_ id="281q" dep="281p-xcomp">
+      <w_ id="281q" dep="281p-xcomp" comment="#xsubj-from-head">
         <w lemma="сказати" ana="verb:perf:inf">сказати</w>
       </w_>
       <g/>
@@ -6471,7 +6471,7 @@
       <w_ id="28iz" dep="28j0-advmod" comment=":amntmod?">
         <w lemma="багато" ana="adv:compb">багато</w>
       </w_>
-      <w_ id="28j0" dep="28j1-nsubj">
+      <w_ id="28j0" dep="28j1-nsubj" edep="28j3-nsubj:x">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
       <w_ id="28j1" dep="28iw-ccomp">
@@ -6529,7 +6529,7 @@
       <w_ id="28ji" dep="28jk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="28jj" dep="28jk-nsubj">
+      <w_ id="28jj" dep="28jk-nsubj" edep="28jl-nsubj:x">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="28jk" dep="28j9-parataxis:rel">
@@ -6838,7 +6838,7 @@
       <w_ id="28me" dep="28mf-obj">
         <w lemma="все" ana="noun:inanim:n:v_zna:&amp;pron:gen:v-u">все</w>
       </w_>
-      <w_ id="28mf" dep="28md-xcomp">
+      <w_ id="28mf" dep="28md-xcomp" comment="#xsubj-from-head">
         <w lemma="закарбувати" ana="verb:perf:inf">закарбувати</w>
       </w_>
       <w_ id="28mg" dep="28mh-case">
@@ -7572,7 +7572,7 @@
       <w_ id="28sy">
         <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
       </w_>
-      <w_ id="28sz" dep="28sy-obj" edep="28t2-nsubj:rel">
+      <w_ id="28sz" dep="28sy-obj" edep="28t2-nsubj:rel|28t5-nsubj:x">
         <w lemma="ніщо" ana="noun:inanim:v_rod:&amp;pron:neg">нічого</w>
       </w_>
       <g/>
@@ -8161,7 +8161,7 @@
       <w_ id="28y9" dep="28xw-acl:relfull">
         <w lemma="вдаватися" ana="verb:rev:imperf:pres:s:3">вдається</w>
       </w_>
-      <w_ id="28ya" dep="28y9-xcomp">
+      <w_ id="28ya" dep="28y9-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="витиснути" ana="verb:perf:inf">витиснути</w>
       </w_>
       <g/>
@@ -8502,7 +8502,7 @@
       <w_ id="291g" dep="291i-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="291h" dep="291i-nsubj">
+      <w_ id="291h" dep="291i-nsubj" edep="291p-nsubj:x">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="291i" dep="291f-acl:relfull">
@@ -9217,7 +9217,7 @@
       <w_ id="297y">
         <w lemma="хотітися" ana="verb:rev:imperf:pres:s:3">хочеться</w>
       </w_>
-      <w_ id="297z" dep="297y-xcomp">
+      <w_ id="297z" dep="297y-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="брати" ana="verb:imperf:inf">брати</w>
       </w_>
       <w_ id="2980" dep="297z-obj">

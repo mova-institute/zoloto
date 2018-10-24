@@ -3776,7 +3776,7 @@
       <w_ id="2a9y" dep="2aa0-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2a9z" dep="2aa0-nsubj">
+      <w_ id="2a9z" dep="2aa0-nsubj" edep="2aa1-nsubj:x">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="2aa0" dep="2a9x-acl:relfull">
@@ -4495,7 +4495,7 @@
       <w_ id="2agf" dep="2agg-det">
         <w lemma="цей" ana="adj:m:v_naz:&amp;pron:dem">цей</w>
       </w_>
-      <w_ id="2agg" dep="2agh-nsubj">
+      <w_ id="2agg" dep="2agh-nsubj" edep="2agp-nsubj:x">
         <w lemma="комплекс" ana="noun:inanim:m:v_naz">комплекс</w>
       </w_>
       <w_ id="2agh" dep="2agb-parataxis">
@@ -4551,7 +4551,7 @@
       <w_ id="2agz">
         <w lemma="передбачатися" ana="verb:rev:imperf:pres:s:3">передбачається</w>
       </w_>
-      <w_ id="2ah0" dep="2agz-xcomp">
+      <w_ id="2ah0" dep="2agz-csubj">
         <w lemma="встановити" ana="verb:perf:inf">встановити</w>
       </w_>
       <w_ id="2ah1" dep="2ah2-cc">
@@ -4993,7 +4993,7 @@
       <w_ id="2al0">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
-      <w_ id="2al1" dep="2al0-xcomp">
+      <w_ id="2al1" dep="2al0-xcomp" comment="#xsubj-from-head">
         <w lemma="виявитися" ana="verb:rev:perf:inf">виявитися</w>
       </w_>
       <g/>
@@ -5764,7 +5764,7 @@
       <w_ id="2as0" dep="2arm-parataxis:rel">
         <w lemma="дозволити" ana="verb:perf:futr:s:3">дозволить</w>
       </w_>
-      <w_ id="2as1" dep="2as0-iobj">
+      <w_ id="2as1" dep="2as0-iobj" edep="2as2-nsubj:x">
         <w lemma="екіпаж" ana="noun:inanim:m:v_dav">екіпажу</w>
       </w_>
       <w_ id="2as2" dep="2as0-xcomp">

@@ -591,7 +591,7 @@
       <w_ id="1sc0">
         <w lemma="могти" ana="verb:imperf:past:m">міг</w>
       </w_>
-      <w_ id="1sc1" dep="1sc0-xcomp">
+      <w_ id="1sc1" dep="1sc0-xcomp" comment="#xsubj-from-head">
         <w lemma="бачити" ana="verb:imperf:inf">бачити</w>
       </w_>
       <w_ id="1sc2" dep="1sc5-advmod">
@@ -2063,7 +2063,7 @@
       <w_ id="1spe">
         <w lemma="схотіти" ana="verb:perf:past:m">схотів</w>
       </w_>
-      <w_ id="1spf" dep="1spe-xcomp">
+      <w_ id="1spf" dep="1spe-xcomp" comment="#xsubj-from-head">
         <w lemma="чекати" ana="verb:imperf:inf">чекати</w>
       </w_>
       <w_ id="1spg" dep="1spi-punct">
@@ -2183,7 +2183,7 @@
       <w_ id="1sqj">
         <w lemma="оскіке" ana="conj:subord:odd">оскіке</w>
       </w_>
-      <w_ id="1sqk">
+      <w_ id="1sqk" dep="1sqr-nsubj" edep="1sqs-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="1sql">
@@ -2680,7 +2680,7 @@
       <w_ id="1sv6">
         <w lemma="мати" ana="verb:imperf:pres:s:1">Маю</w>
       </w_>
-      <w_ id="1sv7" dep="1sv6-xcomp">
+      <w_ id="1sv7" dep="1sv6-xcomp" comment="#xsubj-from-head">
         <w lemma="зізнатися" ana="verb:rev:perf:inf">зізнатися</w>
       </w_>
       <g/>
@@ -2813,7 +2813,7 @@
       <w_ id="1swe">
         <w lemma="хотіти" ana="verb:imperf:past:f">хотіла</w>
       </w_>
-      <w_ id="1swf" dep="1swe-xcomp">
+      <w_ id="1swf" dep="1swe-xcomp" comment="#xsubj-from-head">
         <w lemma="натиснути" ana="verb:perf:inf">натиснути</w>
       </w_>
       <w_ id="1swg" dep="1swf-obj">
@@ -2848,7 +2848,7 @@
       <w_ id="1swq">
         <w lemma="хотіти" ana="verb:imperf:past:f">Хотіла</w>
       </w_>
-      <w_ id="1swr" dep="1swq-xcomp">
+      <w_ id="1swr" dep="1swq-xcomp" comment="#xsubj-from-head">
         <w lemma="написати" ana="verb:perf:inf">написати</w>
       </w_>
       <g/>
@@ -3048,7 +3048,7 @@
       <w_ id="1syw" dep="1syy-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1syx" dep="1syy-nsubj">
+      <w_ id="1syx" dep="1syy-nsubj" edep="1syz-nsubj:x">
         <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">ви</w>
       </w_>
       <w_ id="1syy" dep="1syt-parataxis">
@@ -4473,7 +4473,7 @@
       <w_ id="1tc2">
         <w lemma="планувати" ana="verb:imperf:pres:p:2">плануєте</w>
       </w_>
-      <w_ id="1tc3" dep="1tc2-xcomp">
+      <w_ id="1tc3" dep="1tc2-xcomp" comment="#xsubj-from-head">
         <w lemma="випустити" ana="verb:perf:inf">випустити</w>
       </w_>
       <w_ id="1tc4" dep="1tc5-amod">
@@ -4703,7 +4703,7 @@
       <w_ id="1te9">
         <w lemma="хотіти" ana="verb:imperf:past:f">хотіла</w>
       </w_>
-      <w_ id="1tea" dep="1te9-xcomp">
+      <w_ id="1tea" dep="1te9-xcomp" comment="#xsubj-from-head">
         <w lemma="придбати" ana="verb:perf:inf">придбати</w>
       </w_>
       <w_ id="1teb" dep="1tec-punct">
@@ -5286,7 +5286,7 @@
       <w_ id="1tjk">
         <w lemma="хотіти" ana="verb:imperf:past:m">Хотів</w>
       </w_>
-      <w_ id="1tjl" dep="1tjk-xcomp">
+      <w_ id="1tjl" dep="1tjk-xcomp" comment="#xsubj-from-head">
         <w lemma="подякувати" ana="verb:perf:inf">подякувати</w>
       </w_>
       <w_ id="1tjm" dep="1tjo-case">
@@ -5741,7 +5741,7 @@
       <w_ id="1tnn" dep="1tnq-obj">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">що</w>
       </w_>
-      <w_ id="1tno" dep="1tnp-nsubj">
+      <w_ id="1tno" dep="1tnp-nsubj" edep="1tnq-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="1tnp" dep="1tnl-ccomp">

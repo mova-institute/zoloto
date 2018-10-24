@@ -413,7 +413,7 @@
     <w_ id="16j2">
       <w lemma="мати" ana="verb:imperf:pres:s:1">маю</w>
     </w_>
-    <w_ id="16j3" dep="16j2-nsubj" edep="16j4-nsubj:x">
+    <w_ id="16j3" dep="16j2-nsubj" edep="16j4-nsubj:x|16jc-nsubj:x">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
     <w_ id="16j4" dep="16j2-xcomp">
@@ -438,7 +438,7 @@
     <w_ id="16ja" dep="16jb-discourse">
       <w lemma="чи" ana="part">чи</w>
     </w_>
-    <w_ id="16jb" dep="16j2-parataxis">
+    <w_ id="16jb" dep="16j2-conj">
       <w lemma="мати" ana="verb:imperf:pres:s:1">маю</w>
     </w_>
     <w_ id="16jc" dep="16jb-xcomp">
@@ -2600,7 +2600,7 @@
     <w_ id="1735" dep="1737-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1736" dep="1737-nsubj" mark="reviewed">
+    <w_ id="1736" dep="1737-nsubj" mark="reviewed" edep="1738-nsubj:x">
       <w lemma="весь" ana="adj:p:v_naz:&amp;pron:gen">всі</w>
     </w_>
     <w_ id="1737" dep="172x-parataxis">
@@ -2920,7 +2920,7 @@
     <w_ id="1764" dep="1766-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1765" dep="1766-nsubj" mark="reviewed">
+    <w_ id="1765" dep="1766-nsubj" mark="reviewed" edep="1767-nsubj:x">
       <w lemma="весь" ana="adj:p:v_naz:&amp;pron:gen">всі</w>
     </w_>
     <w_ id="1766" dep="1762-parataxis">

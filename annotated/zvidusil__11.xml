@@ -667,7 +667,7 @@
       <w_ id="20ai" dep="20ag-xcomp">
         <w lemma="зобов’язати" ana="verb:perf:inf">зобов'язати</w>
       </w_>
-      <w_ id="20aj" dep="20ai-obj">
+      <w_ id="20aj" dep="20ai-obj" edep="20ak-nsubj:x">
         <w lemma="Росія" ana="noun:inanim:f:v_zna:prop">Росію</w>
       </w_>
       <w_ id="20ak" dep="20ai-xcomp">
@@ -683,7 +683,7 @@
       <w_ id="20an" dep="20ap-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="20ao" dep="20ap-nsubj">
+      <w_ id="20ao" dep="20ap-nsubj" edep="20aq-nsubj:x">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="20ap" dep="20am-acl:relfull">
@@ -1757,7 +1757,7 @@
       <w_ id="20kn">
         <w lemma="почати" ana="verb:perf:past:m">почав</w>
       </w_>
-      <w_ id="20ko" dep="20kn-xcomp">
+      <w_ id="20ko" dep="20kn-xcomp" comment="#xsubj-from-head">
         <w lemma="грати" ana="verb:imperf:inf">грати</w>
       </w_>
       <w_ id="20kp" dep="20kr-det">
@@ -1854,7 +1854,7 @@
       <w_ id="20li" dep="20ln-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="20lj" dep="20ln-xcomp">
+      <w_ id="20lj" dep="20ln-xcomp" comment="#xsubj-from-head">
         <w lemma="жити" ana="verb:imperf:inf">жити</w>
       </w_>
       <w_ id="20lk" dep="20ll-case">
@@ -2297,7 +2297,7 @@
       <w_ id="20pm" dep="20pk-conj">
         <w lemma="весь" ana="adj:p:v_dav:&amp;pron:gen">всім</w>
       </w_>
-      <w_ id="20pn" dep="20pj-xcomp" comment="#ok-no-xsubj">
+      <w_ id="20pn" dep="20pj-xcomp" comment="#xsubj-from-head">
         <w lemma="допомагати" ana="verb:imperf:inf">допомагати</w>
       </w_>
       <g/>
@@ -2634,7 +2634,7 @@
       <w_ id="20sy" dep="20sz-advmod">
         <w lemma="правильно" ana="adv:compb">правильно</w>
       </w_>
-      <w_ id="20sz" dep="20sx-xcomp">
+      <w_ id="20sz" dep="20sx-xcomp" comment="#цікаво: у нього як підмет #xsubj-is-obl">
         <w lemma="вимовляти" ana="verb:imperf:inf">вимовляти</w>
       </w_>
       <w_ id="20t0" dep="20sz-obj">
@@ -2695,7 +2695,7 @@
       <w_ id="20tk">
         <w lemma="вирішувати" ana="verb:imperf:pres:p:3">Вирішують</w>
       </w_>
-      <w_ id="20tl" dep="20tk-xcomp">
+      <w_ id="20tl" dep="20tk-xcomp" comment="#xsubj-from-head">
         <w lemma="здати" ana="verb:perf:inf">здати</w>
       </w_>
       <w_ id="20tm" dep="20tl-obj">
@@ -3442,7 +3442,7 @@
       <w_ id="210i" dep="210k-aux">
         <w lemma="б" ana="part">б</w>
       </w_>
-      <w_ id="210j" dep="210k-nsubj">
+      <w_ id="210j" dep="210k-nsubj" edep="210l-nsubj:x">
         <w lemma="театр" ana="noun:inanim:m:v_naz">театр</w>
       </w_>
       <w_ id="210k" dep="210f-acl">
@@ -3521,7 +3521,7 @@
       <w_ id="2118" dep="2114-conj">
         <w lemma="почати" ana="verb:perf:past:p">почали</w>
       </w_>
-      <w_ id="2119" dep="2118-xcomp">
+      <w_ id="2119" dep="2118-xcomp" comment="#xsubj-from-head">
         <w lemma="розповідати" ana="verb:imperf:inf">розповідати</w>
       </w_>
       <w_ id="211a" dep="2119-iobj" comment="перевірити">
@@ -4424,7 +4424,7 @@
       <w_ id="219y" dep="219x-obj">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="219z" dep="219w-nsubj">
+      <w_ id="219z" dep="219w-nsubj" edep="219x-nsubj:x">
         <w lemma="Жан" ana="noun:anim:m:v_naz:prop:fname">Жан</w>
       </w_>
       <g/>
@@ -5148,7 +5148,7 @@
       <w_ id="21gj">
         <w lemma="почати" ana="verb:perf:past:p">почали</w>
       </w_>
-      <w_ id="21gk" dep="21gj-xcomp">
+      <w_ id="21gk" dep="21gj-xcomp" comment="#xsubj-from-head">
         <w lemma="використовувати" ana="verb:imperf:inf">використовувати</w>
       </w_>
       <w_ id="21gl" dep="21gk-obj">
@@ -5701,7 +5701,7 @@
       <w_ id="21lq">
         <w lemma="могти" ana="verb:imperf:past:p">могли</w>
       </w_>
-      <w_ id="21lr" dep="21lq-xcomp">
+      <w_ id="21lr" dep="21lq-xcomp" comment="#xsubj-from-head">
         <w lemma="полетіти" ana="verb:perf:inf">полетіти</w>
       </w_>
       <w_ id="21ls" dep="21lr-advmod">
@@ -6204,7 +6204,7 @@
       <w_ id="21qf">
         <w lemma="планувати" ana="verb:imperf:past:p">планували</w>
       </w_>
-      <w_ id="21qg" dep="21qf-xcomp">
+      <w_ id="21qg" dep="21qf-xcomp" comment="#xsubj-from-head">
         <w lemma="зустрітися" ana="verb:rev:perf:inf">зустрітися</w>
       </w_>
       <w_ id="21qh" dep="21qi-case">
@@ -6247,7 +6247,7 @@
       <w_ id="21qt" dep="21qp-ccomp">
         <w lemma="хотіти" ana="verb:imperf:pres:s:3">хоче</w>
       </w_>
-      <w_ id="21qu" dep="21qt-xcomp">
+      <w_ id="21qu" dep="21qt-xcomp" comment="#xsubj-from-head">
         <w lemma="бачити" ana="verb:imperf:inf">бачити</w>
       </w_>
       <w_ id="21qv" dep="21qu-obj">
@@ -6967,7 +6967,7 @@
       <w_ id="21xn" dep="21xo-amod">
         <w lemma="юний" ana="adj:p:v_naz">юні</w>
       </w_>
-      <w_ id="21xo" dep="21xp-nsubj">
+      <w_ id="21xo" dep="21xp-nsubj" edep="21xr-nsubj:x">
         <w lemma="читач" ana="noun:anim:p:m:v_naz">читачі</w>
       </w_>
       <w_ id="21xp" dep="21xk-acl:irrel">
@@ -7012,7 +7012,7 @@
       <w_ id="21y2" dep="21y5-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="21y3" dep="21y5-nsubj">
+      <w_ id="21y3" dep="21y5-nsubj" edep="21yb-nsubj:x">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="21y4" dep="21y5-advmod">

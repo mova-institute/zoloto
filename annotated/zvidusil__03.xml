@@ -1369,7 +1369,7 @@
       <w_ id="1no2" dep="1no0-ccomp">
         <w lemma="спромогтися" ana="verb:rev:perf:past:m">спромігся</w>
       </w_>
-      <w_ id="1no3" dep="1no2-nsubj">
+      <w_ id="1no3" dep="1no2-nsubj" edep="1no4-nsubj:x">
         <w lemma="кабмін" ana="noun:inanim:m:v_naz">Кабмін</w>
       </w_>
       <w_ id="1no4" dep="1no2-xcomp">
@@ -1651,7 +1651,7 @@
       <w_ id="1nqq" dep="1nqt-xcomp">
         <w lemma="викладати" ana="verb:imperf:inf">викладати</w>
       </w_>
-      <w_ id="1nqr" dep="1nqt-nsubj">
+      <w_ id="1nqr" dep="1nqt-nsubj" edep="1nqq-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="1nqs" dep="1nqt-advmod">
@@ -1994,10 +1994,10 @@
       <w_ id="1ntx" dep="1nu1-cc">
         <w lemma="а" ana="conj:coord">А</w>
       </w_>
-      <w_ id="1nty" dep="1nu1-xcomp">
+      <w_ id="1nty" dep="1nu1-xcomp" comment="#xsubj-from-head">
         <w lemma="перестати" ana="verb:perf:inf">перестати</w>
       </w_>
-      <w_ id="1ntz" dep="1nty-xcomp">
+      <w_ id="1ntz" dep="1nty-xcomp" comment="#xsubj-from-head">
         <w lemma="грати" ana="verb:imperf:inf">грати</w>
       </w_>
       <w_ id="1nu0" dep="1nu1-advmod">

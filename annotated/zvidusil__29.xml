@@ -133,7 +133,7 @@
       <w_ id="36x1" dep="36x5-mark" n="39">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="36x2" dep="36x5-nsubj" n="40">
+      <w_ id="36x2" dep="36x5-nsubj" edep="36x6-nsubj:x" n="40">
         <w lemma="ціна" ana="noun:inanim:f:v_naz">ціна</w>
       </w_>
       <w_ id="36x3" dep="36x4-case" n="41">
@@ -681,7 +681,7 @@
       <w_ id="371z" dep="371w-punct" n="205">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3720" dep="3721-nsubj" n="206">
+      <w_ id="3720" dep="3721-nsubj" edep="3722-nsubj:x" n="206">
         <w lemma="Україна" ana="noun:inanim:f:v_naz:prop">Україна</w>
       </w_>
       <w_ id="3721" dep="371s-ccomp" n="207">
@@ -747,7 +747,7 @@
       <w_ id="372l" dep="372n-advmod" n="226">
         <w lemma="поки" ana="adv:&amp;pron:rel">поки</w>
       </w_>
-      <w_ id="372m" dep="372n-nsubj" n="227">
+      <w_ id="372m" dep="372n-nsubj" edep="372o-nsubj:x" n="227">
         <w lemma="Путін" ana="noun:anim:m:v_naz:prop:lname:n2adj">Путін</w>
       </w_>
       <w_ id="372n" dep="372k-ccomp" n="228">
@@ -1006,7 +1006,7 @@
       <w_ id="374w" dep="374y-punct" n="304">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="374x" dep="374y-nsubj" coref="374j-equality" n="305">
+      <w_ id="374x" dep="374y-nsubj" coref="374j-equality" edep="3750-nsubj:x" n="305">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="374y" dep="374v-csubj" n="306">
@@ -1074,7 +1074,7 @@
       <w_ id="375i" dep="375k-mark" n="325">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="375j" dep="375k-nsubj" n="326">
+      <w_ id="375j" dep="375k-nsubj" edep="375m-nsubj:x" n="326">
         <w lemma="миротворець" ana="noun:anim:p:m:v_naz">миротворці</w>
       </w_>
       <w_ id="375k" dep="375e-ccomp" n="327">
@@ -2497,7 +2497,7 @@
       <w_ id="37if" dep="37ig-amod" n="761">
         <w lemma="наступний" ana="adj:p:v_naz">наступні</w>
       </w_>
-      <w_ id="37ig" dep="37ir-nsubj" hdep="37ir-distrib" n="762">
+      <w_ id="37ig" dep="37ir-nsubj" edep="37ix-nsubj:x" hdep="37ir-distrib" n="762">
         <w lemma="зустріч" ana="noun:inanim:p:f:v_naz">зустрічі</w>
       </w_>
       <w_ id="37ih" dep="37ij-case" n="763">
@@ -3058,7 +3058,7 @@
       <w_ id="37nm" dep="37nl-nmod" n="937">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
-      <w_ id="37nn" dep="37no-nsubj" n="938">
+      <w_ id="37nn" dep="37no-nsubj" edep="37ns-nsubj:x" n="938">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
       </w_>
       <w_ id="37no" dep="37ni-acl:relfull" n="939">
@@ -3286,7 +3286,7 @@
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
-      <w_ id="37pq" dep="37pr-nsubj" n="1009">
+      <w_ id="37pq" dep="37pr-nsubj" edep="37pt-nsubj:x" n="1009">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
       </w_>
       <w_ id="37pr" dep="37pg-parataxis" n="1010">
@@ -5588,7 +5588,7 @@
       <w_ id="389z" dep="389t-conj:parataxis" n="1694">
         <w lemma="почати" ana="verb:perf:futr:p:3">почнуть</w>
       </w_>
-      <w_ id="38a0" dep="389z-xcomp" comment="#ok-no-xsubj" n="1695">
+      <w_ id="38a0" dep="389z-xcomp" comment="#xsubj-from-head" n="1695">
         <w lemma="інвестувати" ana="verb:imperf:inf">інвестувати</w>
       </w_>
       <g/>
@@ -5693,7 +5693,7 @@
       <w_ id="38au" dep="38aw-punct" n="1724">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38av" dep="38aw-nsubj" n="1725">
+      <w_ id="38av" dep="38aw-nsubj" edep="38ax-nsubj:x" n="1725">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="38aw" dep="38am-acl:relfull" n="1726">
@@ -6240,7 +6240,7 @@
       <w_ id="38fs" dep="38fu-punct" n="1893">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38ft" dep="38fu-nsubj" n="1894">
+      <w_ id="38ft" dep="38fu-nsubj" edep="38fw-nsubj:x" n="1894">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
       <w_ id="38fu" dep="38fr-acl:relfull" n="1895">
@@ -6967,7 +6967,7 @@
       <w_ id="38mf" dep="38mm-punct" n="2119">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38mg" dep="38mm-nsubj" n="2120">
+      <w_ id="38mg" dep="38mm-nsubj" edep="38mo-nsubj:x" n="2120">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <g/>
@@ -7072,7 +7072,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="38nc"/>
-      <w_ id="38nd" dep="38ne-nsubj" n="2152">
+      <w_ id="38nd" dep="38ne-nsubj" edep="38nm-nsubj:x" n="2152">
         <w lemma="мечеть" ana="noun:inanim:f:v_naz">Мечеть</w>
       </w_>
       <w_ id="38ne" n="2153">
@@ -7094,13 +7094,13 @@
       <w_ id="38nj" dep="38nl-punct" n="2158">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38nk" dep="38nl-mark" n="2159">
+      <w_ id="38nk" dep="38nl-cc" comment="#&gt;conj:coord" n="2159">
         <w lemma="хоча" ana="conj:subord">хоча</w>
       </w_>
-      <w_ id="38nl" dep="38ne-advcl" n="2160">
+      <w_ id="38nl" dep="38ne-conj" n="2160">
         <w lemma="покликаний" ana="adj:f:v_naz:&amp;adjp:perf:pasv">покликана</w>
       </w_>
-      <w_ id="38nm" dep="38nl-xcomp" comment="~" n="2161">
+      <w_ id="38nm" dep="38nl-xcomp" comment="~ advcl" n="2161">
         <w lemma="задовольняти" ana="verb:imperf:inf">задовольняти</w>
       </w_>
       <w_ id="38nn" dep="38nm-obj" n="2162">

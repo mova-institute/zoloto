@@ -767,7 +767,7 @@
       <w_ id="1qo3" dep="1qo4-advmod">
         <w lemma="вкотре" ana="adv:v-u">вкотре</w>
       </w_>
-      <w_ id="1qo4" dep="1qo2-xcomp">
+      <w_ id="1qo4" dep="1qo2-xcomp" comment="#xsubj-from-head">
         <w lemma="сказати" ana="verb:perf:inf">сказати</w>
       </w_>
       <g/>
@@ -2060,7 +2060,7 @@
       <w_ id="1r0d">
         <w lemma="мріяти" ana="verb:imperf:pres:s:1">Мрію</w>
       </w_>
-      <w_ id="1r0e" dep="1r0d-xcomp">
+      <w_ id="1r0e" dep="1r0d-xcomp" comment="#xsubj-from-head">
         <w lemma="працювати" ana="verb:imperf:inf">працювати</w>
       </w_>
       <w_ id="1r0f" dep="1r0g-case">
@@ -2404,7 +2404,7 @@
       <w_ id="1r3l" dep="1r3n-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1r3m">
+      <w_ id="1r3m" dep="1r3n-nsubj" edep="1r3o-nsubj:x">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
       <w_ id="1r3n" dep="1r3k-acl">
@@ -2476,7 +2476,7 @@
       <w_ id="1r48" dep="1r4b-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1r49" dep="1r4b-nsubj">
+      <w_ id="1r49" dep="1r4b-nsubj" edep="1r4d-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="1r4a" dep="1r4b-advmod">
@@ -2595,7 +2595,7 @@
       <w_ id="1r5c" dep="1r5a-conj">
         <w lemma="починати" ana="verb:imperf:pres:s:2">починаєш</w>
       </w_>
-      <w_ id="1r5d" dep="1r5c-xcomp">
+      <w_ id="1r5d" dep="1r5c-xcomp" comment="#xsubj-from-head">
         <w lemma="розбиратися" ana="verb:rev:imperf:inf">розбиратися</w>
       </w_>
       <w_ id="1r5e" dep="1r5g-case">
@@ -3030,7 +3030,7 @@
       <w_ id="1r9c" dep="1r9e-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="1r9d" dep="1r9e-iobj">
+      <w_ id="1r9d" dep="1r9e-iobj" edep="1r9g-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <w_ id="1r9e" dep="1r95-parataxis" comment="subord clause?">

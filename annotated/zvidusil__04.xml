@@ -825,7 +825,7 @@
       <w_ id="1osr" dep="1ost-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1oss" dep="1ost-obj" coref="1oso-equality">
+      <w_ id="1oss" dep="1ost-iobj" coref="1oso-equality" edep="1osu-nsubj:x">
         <w lemma="який" ana="adj:f:v_dav:&amp;pron:rel">якій</w>
       </w_>
       <w_ id="1ost" dep="1oso-acl:relfull">
@@ -859,7 +859,7 @@
       <w_ id="1ot2" dep="1osz-acl:relless">
         <w lemma="зобов’язувати" ana="verb:imperf:pres:p:3">зобов’язують</w>
       </w_>
-      <w_ id="1ot3" dep="1ot2-obj">
+      <w_ id="1ot3" dep="1ot2-obj" edep="1ot5-nsubj:x">
         <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
       </w_>
       <w_ id="1ot4" dep="1ot2-advmod">
@@ -966,7 +966,7 @@
       <w_ id="1ou1" dep="1ou2-det">
         <w lemma="той" ana="adj:p:v_zna:rinanim:&amp;pron:dem">ті</w>
       </w_>
-      <w_ id="1ou2" dep="1oty-obj" edep="1ou6-nsubj:rel">
+      <w_ id="1ou2" dep="1oty-obj" edep="1ou6-nsubj:rel|1ou7-nsubj:x">
         <w lemma="сила" ana="noun:inanim:p:f:v_zna">сили</w>
       </w_>
       <w_ id="1ou3" dep="1ou2-nmod">
@@ -1860,7 +1860,7 @@
       <w_ id="1p24" dep="1p26-mark">
         <w lemma="оскільки" ana="conj:subord">оскільки</w>
       </w_>
-      <w_ id="1p25" dep="1p26-nsubj">
+      <w_ id="1p25" dep="1p26-nsubj" edep="1p27-nsubj:x">
         <w lemma="кремль" ana="noun:inanim:m:v_naz">Кремль</w>
       </w_>
       <w_ id="1p26" dep="1p1t-advcl">
@@ -1984,7 +1984,7 @@
       <w_ id="1p39" dep="1p3b-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1p3a" dep="1p3b-nsubj">
+      <w_ id="1p3a" dep="1p3b-nsubj" edep="1p3c-nsubj:x">
         <w lemma="санкція" ana="noun:inanim:p:f:v_naz">санкції</w>
       </w_>
       <w_ id="1p3b" dep="1p2v-acl:irrel">
@@ -3097,7 +3097,7 @@
       <w_ id="1pdl" dep="1pdp-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="1pdm" dep="1pdp-nsubj">
+      <w_ id="1pdm" dep="1pdp-nsubj" edep="1pdq-nsubj:x">
         <w lemma="репер" ana="noun:anim:m:v_naz">репер</w>
       </w_>
       <w_ id="1pdn" dep="1pdo-cc">

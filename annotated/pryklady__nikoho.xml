@@ -179,7 +179,7 @@
       <w_ id="39vf" dep="39vc-xcomp" n="49">
         <w lemma="вести" ana="verb:imperf:inf">вести</w>
       </w_>
-      <w_ id="39vg" dep="39vc-nsubj" n="50">
+      <w_ id="39vg" dep="39vc-nsubj" edep="39vf-nsubj:x" n="50">
         <w lemma="ДБР" ana="noun:inanim:n:v_naz:nv:np:prop:abbr">ДБР</w>
       </w_>
       <g/>
@@ -2248,7 +2248,7 @@
       <w_ id="3ae9" n="581">
         <w lemma="поки" ana="adv:&amp;pron:rel">поки</w>
       </w_>
-      <w_ id="3aea" dep="3aeg-nsubj" n="582">
+      <w_ id="3aea" dep="3aeg-nsubj" edep="3aei-nsubj:x" n="582">
         <w lemma="кролик" ana="noun:anim:p:m:v_naz">кролики</w>
       </w_>
       <g/>
@@ -2411,7 +2411,7 @@
       <w_ id="3afp" dep="3aft-punct" n="633">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="3afq" dep="3aft-nsubj" n="634">
+      <w_ id="3afq" dep="3aft-nsubj" edep="3afu-nsubj:x" n="634">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="3afr" dep="3afs-discourse" n="635">
@@ -3087,7 +3087,7 @@
       <w_ id="3alr" dep="3aln-parataxis" n="816">
         <w lemma="вирішувати" ana="verb:imperf:pres:p:1">вирішуємо</w>
       </w_>
-      <w_ id="3als" dep="3alr-xcomp" n="817">
+      <w_ id="3als" dep="3alr-xcomp" comment="#xsubj-from-head" n="817">
         <w lemma="їхати" ana="verb:imperf:inf">їхати</w>
       </w_>
       <w_ id="3alt" dep="3als-advmod" n="818">

@@ -223,7 +223,7 @@
       <w_ id="2314" dep="2318-punct">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="2315" dep="2318-xcomp">
+      <w_ id="2315" dep="2318-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="зробити" ana="verb:perf:inf">Зробити</w>
       </w_>
       <w_ id="2316" dep="2317-det">
@@ -623,7 +623,7 @@
       <w_ id="234s">
         <w lemma="почати" ana="verb:perf:past:m">Почав</w>
       </w_>
-      <w_ id="234t" dep="234s-xcomp">
+      <w_ id="234t" dep="234s-xcomp" comment="#xsubj-from-head">
         <w lemma="думати" ana="verb:imperf:inf">думати</w>
       </w_>
       <g/>
@@ -2938,7 +2938,7 @@
       <w_ id="23q0" dep="23q1-advmod">
         <w lemma="повністю" ana="adv">повністю</w>
       </w_>
-      <w_ id="23q1" dep="23py-xcomp">
+      <w_ id="23q1" dep="23py-xcomp" comment="~ #xsubj-is-obl">
         <w lemma="компенсувати" ana="verb:perf:inf">компенсувати</w>
       </w_>
       <g/>
@@ -4982,7 +4982,7 @@
       <w_ id="248g">
         <w lemma="старатися" ana="verb:rev:imperf:pres:p:1">стараємося</w>
       </w_>
-      <w_ id="248h" dep="248g-xcomp">
+      <w_ id="248h" dep="248g-xcomp" comment="#xsubj-from-head">
         <w lemma="дотримуватися" ana="verb:rev:imperf:inf">дотримуватися</w>
       </w_>
       <w_ id="248i" dep="248j-discourse">

@@ -2282,7 +2282,7 @@
       <w_ id="2cdz" dep="2ce7-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="2ce0" dep="2ce7-nsubj" edep="2ce3-nsubj:rel">
+      <w_ id="2ce0" dep="2ce7-nsubj" edep="2ce3-nsubj:rel|2ce4-nsubj:x">
         <w lemma="той" ana="adj:p:v_naz:&amp;pron:dem">ті</w>
       </w_>
       <g/>
@@ -3290,7 +3290,7 @@
       <w_ id="2cnb" dep="2cn6-punct|2cnf-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2cnc" dep="2cnf-xcomp">
+      <w_ id="2cnc" dep="2cnf-xcomp" comment="#xsubj-from-head">
         <w lemma="воювати" ana="verb:imperf:inf">воювати</w>
       </w_>
       <w_ id="2cnd" dep="2cnf-advmod">
@@ -4003,7 +4003,7 @@
       <w_ id="2cu2">
         <w lemma="довестися" ana="verb:rev:perf:past:n">довелось</w>
       </w_>
-      <w_ id="2cu3" dep="2cu2-xcomp">
+      <w_ id="2cu3" dep="2cu2-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="викликати" ana="verb:imperf:inf">викликати</w>
       </w_>
       <w_ id="2cu4" dep="2cu3-obj">
@@ -4263,7 +4263,7 @@
       <w_ id="2cwi" dep="2cwk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2cwj" dep="2cwk-nsubj" coref="2cwg-equality">
+      <w_ id="2cwj" dep="2cwk-nsubj" coref="2cwg-equality" edep="2cwl-nsubj:x">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
       <w_ id="2cwk" dep="2cwg-acl:relfull">

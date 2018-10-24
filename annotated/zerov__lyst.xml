@@ -27,7 +27,7 @@
       <w_ id="1kez">
         <w lemma="могти" ana="verb:imperf:pres:s:1">можу</w>
       </w_>
-      <w_ id="1kf0" dep="1kez-xcomp">
+      <w_ id="1kf0" dep="1kez-xcomp" comment="#xsubj-from-head">
         <w lemma="виповісти" ana="verb:perf:inf">виповісти</w>
       </w_>
       <w_ id="1kf1" dep="1kf0-iobj">
@@ -176,7 +176,7 @@
       <w_ id="1kgc" dep="1kg7-conj:parataxis">
         <w lemma="мати" ana="verb:imperf:pres:s:1">маю</w>
       </w_>
-      <w_ id="1kgd" dep="1kgc-xcomp" comment="#ok-no-xsubj">
+      <w_ id="1kgd" dep="1kgc-xcomp" comment="#xsubj-from-head">
         <w lemma="писати" ana="verb:imperf:inf">писати</w>
       </w_>
       <w_ id="1kge" dep="1kgd-obj">
@@ -413,7 +413,7 @@
       <w_ id="1kih">
         <w lemma="рішити" ana="verb:perf:impers">рішено</w>
       </w_>
-      <w_ id="1kii" dep="1kih-xcomp">
+      <w_ id="1kii" dep="1kih-ccomp">
         <w lemma="викинути" ana="verb:perf:inf">викинути</w>
       </w_>
       <w_ id="1kij" dep="1kik-cc">
@@ -577,7 +577,7 @@
       <w_ id="1kk0" dep="1kk2-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1kk1" dep="1kk2-nsubj">
+      <w_ id="1kk1" dep="1kk2-nsubj" edep="1kk3-nsubj:x">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="1kk2" dep="1kjz-acl:relfull">
@@ -1012,7 +1012,7 @@
       <w_ id="1kno" dep="1kns-obl">
         <w lemma="раз" ana="noun:inanim:m:v_zna">раз</w>
       </w_>
-      <w_ id="1knp" dep="1knr-nsubj">
+      <w_ id="1knp" dep="1knr-nsubj" edep="1kns-nsubj:x">
         <w lemma="видавництво" ana="noun:inanim:n:v_naz">видавництво</w>
       </w_>
       <w_ id="1knq" dep="1knr-advmod">
@@ -1195,7 +1195,7 @@
       <w_ id="1kpb">
         <w lemma="ласкавий" ana="adj:p:v_naz:compb">ласкаві</w>
       </w_>
-      <w_ id="1kpc" dep="1kpb-xcomp">
+      <w_ id="1kpc" dep="1kpb-xcomp" comment="#xsubj-from-head">
         <w lemma="повідомити" ana="verb:perf:inf">повідомити</w>
       </w_>
       <g/>
@@ -1608,7 +1608,7 @@
       <w_ id="1kt3" dep="1kt9-obj">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">Що</w>
       </w_>
-      <w_ id="1kt4" dep="1kt8-nsubj">
+      <w_ id="1kt4" dep="1kt8-nsubj" edep="1kt9-nsubj:x">
         <w lemma="видавництво" ana="noun:inanim:n:v_naz">видавництво</w>
       </w_>
       <w_ id="1kt5" dep="1kt6-punct">
@@ -2206,7 +2206,7 @@
       <w_ id="1kyj" dep="1kyi-aux">
         <w lemma="би" ana="part">би</w>
       </w_>
-      <w_ id="1kyk" dep="1kyh-xcomp">
+      <w_ id="1kyk" dep="1kyh-xcomp" comment="#xsubj-from-head">
         <w lemma="дістати" ana="verb:perf:inf">дістати</w>
       </w_>
       <w_ id="1kyl" dep="1kym-case">

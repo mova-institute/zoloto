@@ -207,7 +207,7 @@
       <w_ id="3bar" dep="3bat-mark" n="57">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="3bas" dep="3bat-nsubj" n="58">
+      <w_ id="3bas" dep="3bat-nsubj" edep="3bau-nsubj:x" n="58">
         <w lemma="водоканал" ana="noun:inanim:m:v_naz">водоканал</w>
       </w_>
       <w_ id="3bat" dep="3bap-csubj" n="59">
@@ -1080,7 +1080,7 @@
       <w_ id="3bin" n="306">
         <w lemma="почати" ana="verb:perf:past:p">почали</w>
       </w_>
-      <w_ id="3bio" dep="3bin-xcomp" n="307">
+      <w_ id="3bio" dep="3bin-xcomp" comment="#xsubj-from-head" n="307">
         <w lemma="вирощувати" ana="verb:imperf:inf">вирощувати</w>
       </w_>
       <w_ id="3bip" dep="3bir-advmod" n="308">
@@ -1687,7 +1687,7 @@
       <w_ id="3bo5" dep="3bo6-discourse" n="486">
         <w lemma="ще" ana="part">ще</w>
       </w_>
-      <w_ id="3bo6" dep="3bo3-xcomp" n="487">
+      <w_ id="3bo6" dep="3bo3-xcomp" comment="#xsubj-from-head" n="487">
         <w lemma="знайти" ana="verb:perf:inf">знайти</w>
       </w_>
       <g/>
@@ -2252,7 +2252,7 @@
       <w_ id="3bta" n="652">
         <w lemma="встигнути" ana="verb:perf:futr:s:2:v-u">встигнеш</w>
       </w_>
-      <w_ id="3btb" dep="3bta-xcomp" n="653">
+      <w_ id="3btb" dep="3bta-xcomp" comment="#xsubj-from-head" n="653">
         <w lemma="доторкнутися" ana="verb:rev:perf:inf">доторкнутись</w>
       </w_>
       <g/>

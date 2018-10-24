@@ -3081,7 +3081,7 @@
       <w_ id="2vgg" dep="2vge-obl" n="932">
         <w lemma="вона" ana="noun:f:v_oru:&amp;pron:pers:3">нею</w>
       </w_>
-      <w_ id="2vgh" dep="2vgi-nsubj" n="933">
+      <w_ id="2vgh" dep="2vgi-nsubj" edep="2vgj-nsubj:x" n="933">
         <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">ти</w>
       </w_>
       <w_ id="2vgi" dep="2vg3-acl" n="934">
@@ -4715,7 +4715,7 @@
       <w_ id="2vuz" dep="2vtp-parataxis" n="1439">
         <w lemma="вдатися" ana="verb:rev:perf:past:n">вдалося</w>
       </w_>
-      <w_ id="2vv0" dep="2vuz-xcomp" n="1440">
+      <w_ id="2vv0" dep="2vuz-ccomp" n="1440">
         <w lemma="знайти" ana="verb:perf:inf">знайти</w>
       </w_>
       <g/>
@@ -6574,7 +6574,7 @@
       <w_ id="2wbb" dep="2wbd-punct" n="2007">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2wbc" dep="2wbd-nsubj" n="2008">
+      <w_ id="2wbc" dep="2wbd-nsubj" edep="2wbe-nsubj:x" n="2008">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="2wbd" dep="2wba-parataxis:rel" n="2009">
@@ -7861,7 +7861,7 @@
       <w_ id="2wms" dep="2wmt-advmod" n="2392">
         <w lemma="заміж" ana="adv">заміж</w>
       </w_>
-      <w_ id="2wmt" dep="2wmq-xcomp" comment="#ok-no-xsubj" n="2393">
+      <w_ id="2wmt" dep="2wmq-xcomp" comment="#xsubj-from-head" n="2393">
         <w lemma="віддати" ana="verb:perf:inf:coll">віддать</w>
       </w_>
       <w_ id="2wmu" dep="2wmt-obj" n="2394">
@@ -8315,7 +8315,7 @@
       <w_ id="2wqx" n="2524">
         <w lemma="знати" ana="verb:imperf:pres:s:2">знаєш</w>
       </w_>
-      <w_ id="2wqy" dep="2wqx-xcomp" comment="~" n="2525">
+      <w_ id="2wqy" dep="2wqx-xcomp" comment="~ #xsubj-from-head" n="2525">
         <w lemma="хлипати" ana="verb:imperf:inf:coll">хлипать</w>
       </w_>
       <g/>
@@ -9520,7 +9520,7 @@
       <w_ id="2x1v" dep="2x1w-amod" n="2886">
         <w lemma="загальний" ana="adj:p:v_zna:rinanim:compb">загальні</w>
       </w_>
-      <w_ id="2x1w" dep="2x23-obj" n="2887">
+      <w_ id="2x1w" dep="2x23-obj" edep="2x24-nsubj:sp" n="2887">
         <w lemma="збори" ana="noun:inanim:p:v_zna:ns">збори</w>
       </w_>
       <w_ id="2x1x" dep="2x1w-nmod" n="2888">
@@ -9543,7 +9543,7 @@
       <w_ id="2x22" dep="2x21-punct" n="2893">
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
-      <w_ id="2x23" dep="2x1u-xcomp" n="2894">
+      <w_ id="2x23" dep="2x1u-xcomp" comment="#xsubj-is-phantom-iobj" n="2894">
         <w lemma="вважати" ana="verb:imperf:inf">вважати</w>
       </w_>
       <w_ id="2x24" dep="2x23-xcomp:sp" n="2895">
@@ -9603,10 +9603,10 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="2x2m" tags="graft" n="2912">
+      <w_ id="2x2m" tags="graft" comment="#xsubj-is-phantom-iobj" n="2912">
         <w lemma="дозволити" ana="verb:perf:impr:p:2">дозвольте</w>
       </w_>
-      <w_ id="2x2n" dep="2x2m-xcomp" n="2913">
+      <w_ id="2x2n" dep="2x2m-ccomp" n="2913">
         <w lemma="вважати" ana="verb:imperf:inf">вважати</w>
       </w_>
       <g/>
@@ -9838,7 +9838,7 @@
       <w_ id="2x4m" dep="2x4n-amod" n="2982">
         <w lemma="тонкий" ana="adj:p:v_naz:compb">тонкі</w>
       </w_>
-      <w_ id="2x4n" dep="2x4o-nsubj" n="2983">
+      <w_ id="2x4n" dep="2x4o-nsubj" edep="2x4p-nsubj:x" n="2983">
         <w lemma="губа" ana="noun:inanim:p:f:v_naz">губи</w>
       </w_>
       <w_ id="2x4o" dep="2x4j-acl" n="2984">
@@ -10281,7 +10281,7 @@
       <w_ id="2x8l" dep="2x8i-advcl" n="3118">
         <w lemma="боятися" ana="verb:rev:imperf:past:p">боялись</w>
       </w_>
-      <w_ id="2x8m" dep="2x8l-xcomp" n="3119">
+      <w_ id="2x8m" dep="2x8l-xcomp" comment="#xsubj-from-head" n="3119">
         <w lemma="відвідати" ana="verb:perf:inf">відвідати</w>
       </w_>
       <w_ id="2x8n" dep="2x8m-obj" n="3120">
@@ -10858,7 +10858,7 @@
       <w_ id="2xdo" dep="2xdq-punct" n="3294">
         <w lemma=";" ana="punct">;</w>
       </w_>
-      <w_ id="2xdp" dep="2xdq-nsubj" n="3295">
+      <w_ id="2xdp" dep="2xdq-nsubj" edep="2xdu-nsubj:x|2xdz-nsubj:x" n="3295">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="2xdq" dep="2xdc-parataxis" n="3296">

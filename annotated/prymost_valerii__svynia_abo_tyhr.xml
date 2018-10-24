@@ -36,7 +36,7 @@
     <w_ id="2lli" dep="2llf-advcl" n="10">
       <w lemma="вдатися" ana="verb:rev:perf:past:n">вдалося</w>
     </w_>
-    <w_ id="2llj" dep="2lli-xcomp" n="11">
+    <w_ id="2llj" dep="2lli-xcomp" comment="#xsubj-is-phantom-iobj" n="11">
       <w lemma="подолати" ana="verb:perf:inf">подолати</w>
     </w_>
     <w_ id="2llk" dep="2llj-obj" n="12">
@@ -1941,7 +1941,7 @@
     <w_ id="2m2r" dep="2m2z-mark" n="600">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="2m2s" dep="2m2z-nsubj" n="601">
+    <w_ id="2m2s" dep="2m2z-nsubj" edep="2m30-nsubj:x" n="601">
       <w lemma="ПНД" ana="noun:inanim:f:v_naz:nv:prop:abbr">ПНД</w>
     </w_>
     <w_ id="2m2t" dep="2m2u-punct" n="602">
@@ -2388,7 +2388,7 @@
     <w_ id="2m6q" dep="2m6r-advmod" n="735">
       <w lemma="ввечері" ana="adv:v-u">ввечері</w>
     </w_>
-    <w_ id="2m6r" dep="2m6p-xcomp" n="736">
+    <w_ id="2m6r" dep="2m6p-xcomp" comment="#xsubj-from-head" n="736">
       <w lemma="подзвонити" ana="verb:perf:inf">подзвонити</w>
     </w_>
     <w_ id="2m6s" dep="2m6t-case" n="737">
@@ -2435,7 +2435,7 @@
     <w_ id="2m76" n="750">
       <w lemma="заборонити" ana="verb:perf:impers">заборонено</w>
     </w_>
-    <w_ id="2m77" dep="2m76-xcomp" n="751">
+    <w_ id="2m77" dep="2m76-xcomp" comment="#xsubj-is-phantom-iobj" n="751">
       <w lemma="писати" ana="verb:imperf:inf">писати</w>
     </w_>
     <w_ id="2m78" dep="2m79-case" n="752">
@@ -2842,7 +2842,7 @@
     <w_ id="2mau" dep="2max-mark" n="874">
       <w lemma="оскільки" ana="conj:subord">Оскільки</w>
     </w_>
-    <w_ id="2mav" dep="2max-nsubj" n="875">
+    <w_ id="2mav" dep="2max-nsubj" edep="2may-nsubj:x" n="875">
       <w lemma="Чан" ana="noun:anim:m:v_naz:prop:lname">Чан</w>
     </w_>
     <w_ id="2maw" dep="2mav-flat:name" n="876">
@@ -2936,7 +2936,7 @@
     <w_ id="2mbo" dep="2mbq-mark" n="904">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ id="2mbp" dep="2mbq-nsubj" n="905">
+    <w_ id="2mbp" dep="2mbq-nsubj" edep="2mbr-nsubj:x" n="905">
       <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
     </w_>
     <w_ id="2mbq" dep="2mbm-advcl" n="906">

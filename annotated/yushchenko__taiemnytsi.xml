@@ -1311,7 +1311,7 @@
     <w_ id="1g3f" dep="1g3e-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1g3g" dep="1g3j-nsubj">
+    <w_ id="1g3g" dep="1g3j-nsubj" edep="1g3m-nsubj:x">
       <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
     </w_>
     <w_ id="1g3h" dep="1g3i-det" mark="resolved">
@@ -2665,7 +2665,7 @@
     <w_ id="1gg5">
       <w lemma="допомогти" ana="verb:perf:past:p">допомогли</w>
     </w_>
-    <w_ id="1gg6" dep="1gg5-xcomp">
+    <w_ id="1gg6" dep="1gg5-xcomp" comment="#xsubj-is-phantom-iobj">
       <w lemma="злізти" ana="verb:perf:inf">злізти</w>
     </w_>
     <w_ id="1gg7" dep="1gg8-case">
@@ -3067,7 +3067,7 @@
     <w_ id="1gju">
       <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
     </w_>
-    <w_ id="1gjv" dep="1gju-xcomp">
+    <w_ id="1gjv" dep="1gju-xcomp" comment="#xsubj-from-head">
       <w lemma="взяти" ana="verb:perf:inf">взяти</w>
     </w_>
     <g/>
@@ -4406,7 +4406,7 @@
     <w_ id="1gwb" dep="1gwd-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1gwc" dep="1gwd-nsubj">
+    <w_ id="1gwc" dep="1gwd-nsubj" edep="1gwe-nsubj:x">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
     </w_>
     <w_ id="1gwd" dep="1gw7-acl:relfull">

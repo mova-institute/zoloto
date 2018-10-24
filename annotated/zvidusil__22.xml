@@ -1925,13 +1925,13 @@
       <w_ id="2j2e" dep="2j2g-mark" n="576">
         <w lemma="ніж" ana="conj:subord">ніж</w>
       </w_>
-      <w_ id="2j2f" dep="2j2g-iobj" n="577">
+      <w_ id="2j2f" dep="2j2h-iobj" n="577">
         <w lemma="ви" ana="noun:anim:p:v_dav:&amp;pron:pers:2">вам</w>
       </w_>
       <w_ id="2j2g" dep="2j2c-advcl" n="578">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
-      <w_ id="2j2h" dep="2j2g-xcomp" n="579">
+      <w_ id="2j2h" dep="2j2g-xcomp" comment="#xsubj-from-head" n="579">
         <w lemma="здаватися" ana="verb:rev:imperf:inf">здаватися</w>
       </w_>
       <g/>
@@ -2192,7 +2192,7 @@
       <w_ id="2j4v" n="661">
         <w lemma="боятися" ana="verb:rev:imperf:impr:p:2">бійтеся</w>
       </w_>
-      <w_ id="2j4w" dep="2j4v-xcomp" n="662">
+      <w_ id="2j4w" dep="2j4v-xcomp" comment="#xsubj-from-head" n="662">
         <w lemma="адресувати" ana="verb:imperf:inf">адресувати</w>
       </w_>
       <w_ id="2j4x" dep="2j4w-obj" coref="2j46-equality" n="663">
@@ -2208,7 +2208,7 @@
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="2j51" dep="2j5d-nsubj" n="667">
+      <w_ id="2j51" dep="2j5d-nsubj" edep="2j5e-nsubj:x" n="667">
         <w lemma="група" ana="noun:inanim:f:v_naz">група</w>
       </w_>
       <w_ id="2j52" dep="2j51-nmod" n="668">
@@ -2700,7 +2700,7 @@
       <w_ id="2j9d" dep="2j9c-xcomp" n="818">
         <w lemma="запалюватися" ana="verb:rev:imperf:inf">запалюватися</w>
       </w_>
-      <w_ id="2j9e" dep="2j9c-nsubj" n="819">
+      <w_ id="2j9e" dep="2j9c-nsubj" edep="2j9d-nsubj:x" n="819">
         <w lemma="ліхтар" ana="noun:inanim:p:m:v_naz">ліхтарі</w>
       </w_>
       <w_ id="2j9f" dep="2j9g-cc" n="820">
@@ -2766,7 +2766,7 @@
       <w_ id="2j9y" n="838">
         <w lemma="любити" ana="verb:imperf:pres:p:2">любите</w>
       </w_>
-      <w_ id="2j9z" dep="2j9y-xcomp" n="839">
+      <w_ id="2j9z" dep="2j9y-xcomp" comment="#xsubj-from-head" n="839">
         <w lemma="гуляти" ana="verb:imperf:inf">гуляти</w>
       </w_>
       <w_ id="2ja0" dep="2ja3-punct" n="840">
@@ -3405,7 +3405,7 @@
       <w_ id="2jfm" dep="2jfl-punct" n="1035">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2jfn" dep="2jfo-nsubj" coref="2jew-equality:cl" n="1036">
+      <w_ id="2jfn" dep="2jfo-nsubj" coref="2jew-equality:cl" edep="2jfp-nsubj:x" n="1036">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="2jfo" dep="2jew-parataxis" comment="щось хитріше ніж parataxis?" n="1037">
@@ -3747,7 +3747,7 @@
       <w_ id="2jis" dep="2jir-nmod" n="1142">
         <w lemma="вересень" ana="noun:inanim:m:v_rod">вересня</w>
       </w_>
-      <w_ id="2jit" dep="2jiu-nsubj" n="1143">
+      <w_ id="2jit" dep="2jiu-nsubj" edep="2jiv-nsubj:x" n="1143">
         <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">ви</w>
       </w_>
       <w_ id="2jiu" dep="2jij-parataxis" n="1144">
@@ -4076,7 +4076,7 @@
       <w_ id="2jls" dep="2jlo-conj" n="1244">
         <w lemma="готуватися" ana="verb:rev:imperf:impr:p:2">готуйтесь</w>
       </w_>
-      <w_ id="2jlt" dep="2jls-xcomp" n="1245">
+      <w_ id="2jlt" dep="2jls-xcomp" comment="#xsubj-from-head" n="1245">
         <w lemma="заливати" ana="verb:imperf:inf">заливати</w>
       </w_>
       <w_ id="2jlu" dep="2jlt-obj" n="1246">
@@ -4177,7 +4177,7 @@
       <w_ id="2jmp" dep="2jmo-advmod" n="1274">
         <w lemma="також" ana="adv">також</w>
       </w_>
-      <w_ id="2jmq" dep="2jmo-xcomp" n="1275">
+      <w_ id="2jmq" dep="2jmo-xcomp" comment="#xsubj-from-head" n="1275">
         <w lemma="подякувати" ana="verb:perf:inf">подякувати</w>
       </w_>
       <w_ id="2jmr" dep="2jmq-iobj" n="1276">

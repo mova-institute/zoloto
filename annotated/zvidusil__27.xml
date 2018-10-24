@@ -869,7 +869,7 @@
       <w_ id="3338" dep="3339-obj" n="256">
         <w lemma="коза" ana="noun:anim:f:v_zna">козу</w>
       </w_>
-      <w_ id="3339" dep="333a-xcomp" n="257">
+      <w_ id="3339" dep="333a-xcomp" comment="#xsubj-is-phantom-iobj" n="257">
         <w lemma="полювати" ana="verb:imperf:inf">полювати</w>
       </w_>
       <w_ id="333a" n="258">
@@ -2411,7 +2411,7 @@
       <w_ id="33h8" dep="33h7-xcomp" n="715">
         <w lemma="падати" ana="verb:imperf:inf">падати</w>
       </w_>
-      <w_ id="33h9" dep="33h7-nsubj" n="716">
+      <w_ id="33h9" dep="33h7-nsubj" edep="33h8-nsubj:x" n="716">
         <w lemma="дощ" ana="noun:inanim:m:v_naz">дощ</w>
       </w_>
       <g/>
@@ -2498,7 +2498,7 @@
       <w_ id="33hz" dep="33i3-mark" n="741">
         <w lemma="заки" ana="conj:subord:rare">заки</w>
       </w_>
-      <w_ id="33i0" dep="33i3-nsubj" n="742">
+      <w_ id="33i0" dep="33i3-nsubj" edep="33i4-nsubj:x" n="742">
         <w lemma="мр." ana="noun:anim:m:v_naz:nv:abbr">мр</w>
       </w_>
       <g/>
@@ -2911,7 +2911,7 @@
       <w_ id="33lr" dep="33lq-nmod" n="873">
         <w lemma="неділя" ana="noun:inanim:f:v_rod">неділі</w>
       </w_>
-      <w_ id="33ls" dep="33ll-ccomp" n="874">
+      <w_ id="33ls" dep="33ll-ccomp" comment="#xsubj-is-phantom-iobj" n="874">
         <w lemma="здатися" ana="verb:rev:perf:past:n">здалося</w>
       </w_>
       <w_ id="33lt" dep="33ls-aux" n="875">
@@ -5063,7 +5063,7 @@
       <w_ id="345o" dep="345p-amod" n="1517">
         <w lemma="стрьомний" ana="adj:m:v_naz">стрьомний</w>
       </w_>
-      <w_ id="345p" dep="346a-nsubj" n="1518">
+      <w_ id="345p" dep="346a-nsubj" edep="346m-nsubj:x" n="1518">
         <w lemma="персонаж" ana="noun:anim:m:v_naz">персонаж</w>
       </w_>
       <w_ id="345q" dep="345r-advmod" n="1519">
@@ -5618,7 +5618,7 @@
       <w_ id="34am" dep="34ap-obj" n="1683">
         <w lemma="котрий" ana="adj:p:v_zna:rinanim:&amp;pron:rel">котрі</w>
       </w_>
-      <w_ id="34an" dep="34ao-nsubj" n="1684">
+      <w_ id="34an" dep="34ao-nsubj" edep="34ap-nsubj:x" n="1684">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="34ao" dep="34ak-acl:relfull" n="1685">
@@ -5741,7 +5741,7 @@
       <w_ id="34bp" dep="34bo-fixed" n="1721">
         <w lemma="як" ana="part">як</w>
       </w_>
-      <w_ id="34bq" dep="34bx-nsubj" n="1722">
+      <w_ id="34bq" dep="34bx-nsubj" edep="34cc-nsubj:x" n="1722">
         <w lemma="культурологиня" ana="noun:anim:p:f:v_naz">культурологині</w>
       </w_>
       <w_ id="34br" dep="34bs-case" n="1723">
@@ -6618,7 +6618,7 @@
       <w_ id="34jt" n="1986">
         <w lemma="починати" ana="verb:imperf:pres:p:3">починають</w>
       </w_>
-      <w_ id="34ju" dep="34jt-xcomp" n="1987">
+      <w_ id="34ju" dep="34jt-xcomp" comment="#xsubj-from-head" n="1987">
         <w lemma="називати" ana="verb:imperf:inf">називати</w>
       </w_>
       <w_ id="34jv" dep="34ju-xcomp:sp" n="1988">
