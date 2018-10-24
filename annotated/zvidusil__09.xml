@@ -3291,8 +3291,8 @@
       <w_ id="1wgh" dep="1wgi-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1wgi" dep="1wgg-amod">
-        <w lemma="пов’язаний" ana="adj:f:v_rod:&amp;adjp:perf:pasv">пов'язаної</w>
+      <w_ id="1wgi" dep="1wgg-amod" correct="пов’язаній">
+        <w lemma="пов’язаний" ana="adj:f:v_mis:&amp;adjp:perf:pasv">пов'язаної</w>
       </w_>
       <w_ id="1wgj" dep="1wgl-case">
         <w lemma="із" ana="prep:rv_oru">із</w>
@@ -5906,7 +5906,7 @@
         <w lemma=":" ana="punct">:</w>
       </w_>
       <w_ id="1x3e" dep="1x3c-appos">
-        <w lemma="паста" ana="noun:inanim:p:f:v_rod">Паст</w>
+        <w lemma="Паст" ana="noun:anim:m:v_naz:prop:lname">Паст</w>
       </w_>
       <g/>
       <w_ id="1x3f" dep="1x3g-punct">

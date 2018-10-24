@@ -37,7 +37,7 @@
       <w_ id="1kf2" dep="1kf5-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1kf3" dep="1kf4-det">
+      <w_ id="1kf3" dep="1kf5-advmod:det">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="1kf4" dep="1kf5-nsubj">
@@ -176,7 +176,7 @@
       <w_ id="1kgc" dep="1kg7-conj:parataxis">
         <w lemma="мати" ana="verb:imperf:pres:s:1">маю</w>
       </w_>
-      <w_ id="1kgd" dep="1kgc-xcomp">
+      <w_ id="1kgd" dep="1kgc-xcomp" comment="#ok-no-xsubj">
         <w lemma="писати" ana="verb:imperf:inf">писати</w>
       </w_>
       <w_ id="1kge" dep="1kgd-obj">
@@ -799,7 +799,7 @@
       <w_ id="1kly" dep="1klx-obj">
         <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
       </w_>
-      <w_ id="1klz" dep="1km1-nsubj">
+      <w_ id="1klz" dep="1km1-nsubj" edep="1klx-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="1km0" dep="1km1-aux">
@@ -2398,7 +2398,7 @@
       <w_ id="1l0a" dep="1l0b-obl">
         <w lemma="випадок" ana="noun:inanim:m:v_zna">випадок</w>
       </w_>
-      <w_ id="1l0b" dep="1l06-xcomp">
+      <w_ id="1l0b" dep="1l06-ccomp">
         <w lemma="скористатися" ana="verb:rev:perf:inf">скористатися</w>
       </w_>
       <w_ id="1l0c" dep="1l0b-obl" tags="promoted">

@@ -2592,7 +2592,7 @@
       <w_ id="2uh7" dep="2uh8-advmod" n="795">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2uh8" dep="2uh4-xcomp" n="796">
+      <w_ id="2uh8" dep="2uh4-xcomp" comment="#ok-no-xsubj" n="796">
         <w lemma="проковтнути" ana="verb:perf:inf">проковтнути</w>
       </w_>
       <w_ id="2uh9" dep="2uh8-advmod" n="797">
@@ -2936,7 +2936,7 @@
         <w lemma="воно" ana="noun:n:v_rod:rprep:&amp;pron:pers:3">нього</w>
       </w_>
       <w_ id="2uke" dep="2ukd-amod" n="901">
-        <w lemma="один" ana="adj:m:v_rod">одного</w>
+        <w lemma="один" ana="adj:n:v_rod">одного</w>
       </w_>
       <w_ id="2ukf" dep="2ukg-nsubj" n="902">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
@@ -3118,14 +3118,14 @@
     </p>
     <p id="2um2">
       <sb id="2um1"/>
-      <w_ id="2um3" dep="2um5-amod" comment="amod vs advcl:2" n="958">
+      <w_ id="2um3" dep="2um6-advcl:sp" n="958">
         <w lemma="мокрий" ana="adj:m:v_naz">Мокрий</w>
       </w_>
       <g/>
       <w_ id="2um4" dep="2um3-punct" n="959">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2um5" dep="2um6-nsubj" edep="2umf-nsubj:x" n="960">
+      <w_ id="2um5" dep="2um6-nsubj" edep="2umf-nsubj:x|2um3-nsubj:sp" n="960">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="2um6" n="961">

@@ -729,18 +729,18 @@
     <w_ id="2xx8" dep="2xx9-punct" n="219">
       <w lemma="«" ana="punct:quote">«</w>
     </w_>
-    <w_ id="2xx9" dep="2xxm-nsubj" n="220">
+    <w_ id="2xx9" dep="2xxm-nsubj" edep="2xxn-nsubj:x" n="220">
       <w lemma="перемога" ana="noun:inanim:f:v_naz">Перемога</w>
     </w_>
     <w_ id="2xxa" dep="2xx9-punct" n="221">
       <w lemma="»" ana="punct:quote">»</w>
     </w_>
     <g/>
-    <w_ id="2xxb" n="222">
+    <w_ id="2xxb" dep="2xxf-punct" n="222">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2xxc" n="223">
-      <w lemma="хоч" ana="conj:subord">хоч</w>
+    <w_ id="2xxc" dep="2xxf-cc" n="223">
+      <w lemma="хоч" ana="conj:coord">хоч</w>
     </w_>
     <w_ id="2xxd" dep="2xxe-advmod" n="224">
       <w lemma="не" ana="part:neg">не</w>
@@ -748,27 +748,27 @@
     <w_ id="2xxe" dep="2xxf-advmod" n="225">
       <w lemma="зовсім" ana="adv">зовсім</w>
     </w_>
-    <w_ id="2xxf" n="226">
+    <w_ id="2xxf" dep="2xxm-advmod" n="226">
       <w lemma="ясно" ana="adv:compb">ясно</w>
     </w_>
     <g/>
-    <w_ id="2xxg" n="227">
+    <w_ id="2xxg" dep="2xxk-punct" n="227">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2xxh" n="228">
+    <w_ id="2xxh" dep="2xxk-discourse" comment="~ not conseq?" n="228">
       <w lemma="то" ana="part:conseq">то</w>
     </w_>
-    <w_ id="2xxi" n="229">
+    <w_ id="2xxi" dep="2xxk-advmod" n="229">
       <w lemma="принаймні" ana="adv">принаймні</w>
     </w_>
     <w_ id="2xxj" dep="2xxk-advmod" n="230">
       <w lemma="цілком" ana="adv">цілком</w>
     </w_>
-    <w_ id="2xxk" n="231">
+    <w_ id="2xxk" dep="2xxf-conj" n="231">
       <w lemma="поважно" ana="adv:compb">поважно</w>
     </w_>
     <g/>
-    <w_ id="2xxl" n="232">
+    <w_ id="2xxl" dep="2xxf-punct" n="232">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="2xxm" dep="2xxy-advcl" n="233">

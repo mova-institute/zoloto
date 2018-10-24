@@ -3107,13 +3107,13 @@
   <doc id="1o44" author="bohdan09 @ tereveni.org" date="2015-11-09 00:08" genre="коментар" src="http://tereveni.org/topic/30010/page__p__864899#entry864899" title="[Який телефон/планшет до 2 тисяч взяти для Skype?]">
     <p id="1o45">
       <sb id="1o46"/>
-      <w_ id="1o47" dep="1o48-det">
+      <w_ id="1o47" comment="#цікаво">
         <w lemma="якийсь" ana="adj:m:v_naz:&amp;pron:ind">Якийсь</w>
       </w_>
-      <w_ id="1o48" dep="1o49-nsubj">
+      <w_ id="1o48" dep="1o47-nsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="1o49">
+      <w_ id="1o49" dep="1o47-flat:sibl">
         <w lemma="стрьомноватий" ana="adj:m:v_naz:odd">стрьомноватий</w>
       </w_>
       <g/>
@@ -3126,7 +3126,7 @@
       <w_ id="1o4c" dep="1o4d-advmod">
         <w lemma="дуже" ana="adv:compb">дуже</w>
       </w_>
-      <w_ id="1o4d" dep="1o49-conj:parataxis">
+      <w_ id="1o4d" dep="1o47-conj">
         <w lemma="пахнути" ana="verb:imperf:pres:s:3">пахне</w>
       </w_>
       <w_ id="1o4e" dep="1o4f-case">
@@ -3148,11 +3148,11 @@
       <w_ id="1o4j" dep="1o4k-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1o4k" dep="1o49-parataxis">
+      <w_ id="1o4k" dep="1o47-parataxis">
         <w lemma="відхилити" ana="verb:perf:impers">відхилено</w>
       </w_>
       <g/>
-      <w_ id="1o4l" dep="1o49-punct">
+      <w_ id="1o4l" dep="1o47-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3198,16 +3198,16 @@
         <w lemma="...." ana="punct:ellipsis">....</w>
       </w_>
       <sb id="1o52"/>
-      <w_ id="1o53">
+      <w_ id="1o53" dep="1o5a-cc">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
-      <w_ id="1o54">
+      <w_ id="1o54" dep="1o5a-advmod">
         <w lemma="всеодно" ana="adv:odd">всеодно</w>
       </w_>
       <w_ id="1o55" dep="1o56-case">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="1o56">
+      <w_ id="1o56" dep="1o5a-obl">
         <w lemma="Інтертелеком" ana="noun:inanim:m:v_rod:prop:auto">інтертелекома</w>
       </w_>
       <w_ id="1o57" dep="1o5a-cc">
@@ -3223,16 +3223,16 @@
         <w lemma="кращий" ana="adj:n:v_naz:compr">краще</w>
       </w_>
       <g/>
-      <w_ id="1o5b" dep="1o5e-punct">
+      <w_ id="1o5b" dep="1o5d-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1o5c" dep="1o5e-cc">
+      <w_ id="1o5c" dep="1o5d-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1o5d" dep="1o5e-amod">
+      <w_ id="1o5d" dep="1o5a-conj" comment="~ #цікаво">
         <w lemma="кращий" ana="adj:p:v_naz:compr">кращі</w>
       </w_>
-      <w_ id="1o5e" dep="1o5a-conj">
+      <w_ id="1o5e" dep="1o5d-nsubj">
         <w lemma="тариф" ana="noun:inanim:p:m:v_naz">тарифи</w>
       </w_>
       <g/>
@@ -3245,7 +3245,7 @@
       <w_ id="1o5h" dep="1o5i-obl">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">що</w>
       </w_>
-      <w_ id="1o5i">
+      <w_ id="1o5i" dep="1o5a-parataxis:rel">
         <w lemma="писати" ana="verb:imperf:past:m">писав</w>
       </w_>
       <w_ id="1o5j" dep="1o5i-nsubj">

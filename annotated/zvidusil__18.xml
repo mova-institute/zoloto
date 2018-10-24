@@ -987,7 +987,7 @@
       <w_ id="2b2a" dep="2b2b-aux">
         <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
-      <w_ id="2b2b" dep="2b29-amod">
+      <w_ id="2b2b" dep="2b29-acl">
         <w lemma="перебитий" ana="adj:m:v_oru:&amp;adjp:perf:pasv">перебитим</w>
       </w_>
       <w_ id="2b2c" dep="2b2d-case">
@@ -2485,8 +2485,8 @@
       <w_ id="2cfy" dep="2cfz-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2cfz" dep="2cfx-amod">
-        <w lemma="помережаний" ana="adj:m:v_naz:&amp;adjp:perf:pasv">помережаний</w>
+      <w_ id="2cfz" dep="2cfw-amod">
+        <w lemma="помережаний" ana="adj:m:v_zna:rinanim:&amp;adjp:perf:pasv">помережаний</w>
       </w_>
       <w_ id="2cg0" dep="2cfz-obl">
         <w lemma="рядок" ana="noun:inanim:p:m:v_oru">рядками</w>
@@ -4588,13 +4588,13 @@
       <w_ id="2czi" dep="2czj-case">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="2czj" dep="2czh-obl">
+      <w_ id="2czj" dep="2czh-obl" tags="promoted">
         <w lemma="попередній" ana="adj:p:v_zna:rinanim">попередні</w>
       </w_>
       <w_ id="2czk" dep="2czl-cc">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="2czl" dep="2czj-conj">
+      <w_ id="2czl" dep="2czj-conj" tags="promoted">
         <w lemma="наступний" ana="adj:p:v_zna:rinanim">наступні</w>
       </w_>
       <g/>
@@ -6256,7 +6256,7 @@
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2dec" dep="2de4-amod">
-        <w lemma="затверджений" ana="adj:p:v_rod:&amp;adjp:perf:pasv">затверджених</w>
+        <w lemma="затверджений" ana="adj:p:v_mis:&amp;adjp:perf:pasv">затверджених</w>
       </w_>
       <w_ id="2ded" dep="2dec-obl">
         <w lemma="наказ" ana="noun:inanim:m:v_oru">наказом</w>
@@ -6299,7 +6299,7 @@
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2deq" dep="2dec-conj">
-        <w lemma="зареєстрований" ana="adj:p:v_rod:&amp;adjp:perf:pasv">зареєстрованих</w>
+        <w lemma="зареєстрований" ana="adj:p:v_mis:&amp;adjp:perf:pasv">зареєстрованих</w>
       </w_>
       <w_ id="2der" dep="2des-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>

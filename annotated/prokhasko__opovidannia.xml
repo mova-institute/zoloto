@@ -5032,7 +5032,7 @@
     <w_ id="0s1l" dep="0s1g-conj">
       <w lemma="заборонити" ana="verb:perf:past:m">заборонив</w>
     </w_>
-    <w_ id="0s1m" dep="0s1l-xcomp" comment="ccomp?">
+    <w_ id="0s1m" dep="0s1l-ccomp" comment="ccomp?">
       <w lemma="користуватися" ana="verb:rev:imperf:inf">користуватися</w>
     </w_>
     <w_ id="0s1n" dep="0s1m-obl">
@@ -11477,7 +11477,7 @@
     <w_ id="0tp9">
       <w lemma="переконувати" ana="verb:imperf:past:p">переконували</w>
     </w_>
-    <w_ id="0tpa" dep="0tp9-xcomp">
+    <w_ id="0tpa" dep="0tp9-ccomp">
       <w lemma="взяти" ana="verb:perf:inf">взяти</w>
     </w_>
     <w_ id="0tpb" dep="0tpa-iobj">
@@ -18397,7 +18397,7 @@
     <w_ id="0vh8" dep="0vh9-case">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
-    <w_ id="0vh9" dep="0vh7-obl">
+    <w_ id="0vh9" dep="0vh7-obl" tags="promoted">
       <w lemma="наш" ana="adj:f:v_rod:poss:&amp;pron:pers:1">нашої</w>
     </w_>
     <g/>
@@ -21088,13 +21088,13 @@
     <w_ id="0w62" dep="0w60-obl">
       <w lemma="хвилина" ana="noun:inanim:p:f:v_rod">хвилин</w>
     </w_>
-    <w_ id="0w63" dep="0w65-amod">
+    <w_ id="0w63" dep="0w60-advcl:sp" comment="xcomp:sp?">
       <w lemma="піднятий" ana="adj:f:v_oru:&amp;adjp:perf:pasv">піднятою</w>
     </w_>
     <w_ id="0w64" dep="0w65-nummod">
       <w lemma="один" ana="numr:f:v_zna">одну</w>
     </w_>
-    <w_ id="0w65" dep="0w60-obj">
+    <w_ id="0w65" dep="0w60-obj" edep="0w63-nsubj:sp">
       <w lemma="нога" ana="noun:inanim:f:v_zna">ногу</w>
     </w_>
     <g/>
@@ -22407,7 +22407,7 @@
     <w_ id="0wi6" dep="0wi7-case">
       <w lemma="крім" ana="prep:rv_rod">Крім</w>
     </w_>
-    <w_ id="0wi7" dep="0wib-obl">
+    <w_ id="0wi7" dep="0wia-obl">
       <w lemma="світлина" ana="noun:inanim:p:f:v_rod">світлин</w>
     </w_>
     <g/>
@@ -22679,7 +22679,7 @@
     <w_ id="0wko" dep="0wkp-discourse">
       <w lemma="ще" ana="part">ще</w>
     </w_>
-    <w_ id="0wkp" dep="0wkm-nsubj">
+    <w_ id="0wkp" dep="0wkm-nsubj" edep="0wkn-nsubj:x">
       <w lemma="третій" ana="adj:m:v_naz:&amp;numr:&amp;noun:anim" lemma2="третій">третій</w>
     </w_>
     <w_ id="0wkq" dep="0wkr-cc">
@@ -27995,7 +27995,7 @@
     <w_ id="0xxm">
       <w lemma="пропонувати" ana="verb:imperf:past:m">пропонував</w>
     </w_>
-    <w_ id="0xxn" dep="0xxm-xcomp">
+    <w_ id="0xxn" dep="0xxm-ccomp">
       <w lemma="одружитися" ana="verb:rev:perf:inf">одружитися</w>
     </w_>
     <g/>
@@ -28369,7 +28369,7 @@
     <w_ id="0y0z" dep="0y10-case">
       <w lemma="в" ana="prep:rv_mis:v-u">В</w>
     </w_>
-    <w_ id="0y10" dep="0y12-obl" mark="resolved">
+    <w_ id="0y10" dep="0y12-nmod" mark="resolved" comment="~ пропущене _купувала_?">
       <w lemma="основне" ana="adj:n:v_mis:&amp;noun:inanim" lemma2="основний">основному</w>
     </w_>
     <w_ id="0y11" dep="0y12-amod">

@@ -1849,7 +1849,7 @@
         <w lemma="сила" ana="noun:inanim:p:f:v_naz">сили</w>
       </w_>
       <w_ id="316n" dep="316i-ccomp" n="558">
-        <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
+        <w lemma="бути" ana="verb:imperf:pres:p:3">є</w>
       </w_>
       <w_ id="316o" dep="316q-discourse" n="559">
         <w lemma="лиш" ana="part">лиш</w>
@@ -2790,7 +2790,7 @@
       <w_ id="31fj" dep="31fc-conj" n="838">
         <w lemma="хотіти" ana="verb:imperf:pres:s:3">хоче</w>
       </w_>
-      <w_ id="31fk" dep="31fj-xcomp" n="839">
+      <w_ id="31fk" dep="31fj-xcomp" comment="#ok-no-xsubj" n="839">
         <w lemma="дивитися" ana="verb:rev:imperf:inf">дивитися</w>
       </w_>
       <g/>
@@ -3017,7 +3017,7 @@
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="31hn" dep="31ho-nsubj" n="910">
-        <w lemma="Дені" ana="noun:anim:m:v_naz:nv:np:prop:fname">Дені</w>
+        <w lemma="Дені" ana="noun:anim:f:v_naz:nv:prop:fname">Дені</w>
       </w_>
       <w_ id="31ho" dep="31hl-ccomp" n="911">
         <w lemma="чудовий" ana="adj:f:v_naz:compb">чудова</w>
@@ -3796,7 +3796,7 @@
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
       <w_ id="31oz" dep="31ox-conj" n="1143">
-        <w lemma="ціна" ana="noun:inanim:p:f:v_naz">ціни</w>
+        <w lemma="ціна" ana="noun:inanim:p:f:v_zna">ціни</w>
       </w_>
       <w_ id="31p0" dep="31ov-advmod" n="1144">
         <w lemma="напам’ять" ana="adv">напам'ять</w>
@@ -3983,7 +3983,7 @@
         <w lemma="чоловік" ana="noun:anim:m:v_dav">чоловікові</w>
       </w_>
       <w_ id="31qs" dep="31qt-amod" n="1199">
-        <w lemma="новий" ana="adj:m:v_zna:ranim:compb">нового</w>
+        <w lemma="новий" ana="adj:m:v_rod:compb">нового</w>
       </w_>
       <w_ id="31qt" dep="31qu-obj" n="1200">
         <w lemma="светр" ana="noun:inanim:m:v_rod">светра</w>
@@ -4016,7 +4016,7 @@
         <w lemma="новий" ana="adj:m:v_zna:rinanim:compb">Новий</w>
       </w_>
       <w_ id="31r3" dep="31r4-obj" n="1209">
-        <w lemma="рік" ana="noun:inanim:m:v_naz">рік</w>
+        <w lemma="рік" ana="noun:inanim:m:v_zna">рік</w>
       </w_>
       <w_ id="31r4" n="1210">
         <w lemma="зустріти" ana="verb:perf:past:p">зустріли</w>
@@ -4792,7 +4792,7 @@
       <w_ id="31yc" dep="31yd-obj" n="1448">
         <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
       </w_>
-      <w_ id="31yd" dep="31yb-xcomp" n="1449">
+      <w_ id="31yd" dep="31yb-xcomp" comment="#ok-no-xsubj" n="1449">
         <w lemma="забрати" ana="verb:perf:inf">забрати</w>
       </w_>
       <w_ id="31ye" dep="31yf-case" n="1450">
@@ -6892,7 +6892,7 @@
     </p>
     <p id="32hv">
       <sb id="32hu"/>
-      <w_ id="32hw" dep="32hx-nsubj" n="2077">
+      <w_ id="32hw" dep="32hx-nsubj" edep="32hy-nsubj:x" n="2077">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
       </w_>
       <w_ id="32hx" n="2078">
@@ -7566,7 +7566,7 @@
       <w_ id="32o7" dep="32o3-conj" n="2277">
         <w lemma="хотіти" ana="verb:imperf:pres:s:1">хочу</w>
       </w_>
-      <w_ id="32o8" dep="32o7-xcomp" n="2278">
+      <w_ id="32o8" dep="32o7-xcomp" comment="#ok-no-xsubj" n="2278">
         <w lemma="знати" ana="verb:imperf:inf">знати</w>
       </w_>
       <g/>
