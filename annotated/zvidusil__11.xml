@@ -448,7 +448,7 @@
       <w_ id="208i" dep="208g-xcomp:sp">
         <w lemma="назва" ana="noun:inanim:f:v_oru">назвою</w>
       </w_>
-      <w_ id="208j" dep="208g-obj" coref="2087-equality">
+      <w_ id="208j" dep="208g-obj" coref="2087-equality" edep="208i-nsubj:sp">
         <w lemma="Centaurea" ana="x:foreign">Centaurea</w>
       </w_>
       <w_ id="208k" dep="208j-flat:foreign">
@@ -5878,7 +5878,7 @@
       <w_ id="21nf" dep="21nc-obl">
         <w lemma="війна" ana="noun:inanim:f:v_mis">війні</w>
       </w_>
-      <w_ id="21ng" dep="21nc-obj">
+      <w_ id="21ng" dep="21nc-obj" edep="21nh-nsubj:sp">
         <w lemma="перемога" ana="noun:inanim:f:v_zna">перемогу</w>
       </w_>
       <w_ id="21nh" dep="21nc-xcomp:sp">
@@ -7012,7 +7012,7 @@
       <w_ id="21y2" dep="21y5-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="21y3" dep="21y5-nsubj" edep="21yb-nsubj:x">
+      <w_ id="21y3" dep="21y5-nsubj" edep="21yb-nsubj:x|21yc-nsubj:sp">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="21y4" dep="21y5-advmod">

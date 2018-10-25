@@ -118,7 +118,7 @@
       <w_ id="2n7j" dep="2n7l-punct" n="32">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2n7k" dep="2n7l-nsubj" n="33">
+      <w_ id="2n7k" dep="2n7l-nsubj" edep="2n7n-nsubj:sp" n="33">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="2n7l" dep="2n74-parataxis:rel" n="34">
@@ -3850,7 +3850,7 @@
       <w_ id="2o4d" dep="2o49-acl" n="1159">
         <w lemma="стати" ana="verb:perf:past:m">став</w>
       </w_>
-      <w_ id="2o4e" dep="2o4d-xcomp:sp" n="1160">
+      <w_ id="2o4e" dep="2o4d-xcomp:sp" comment="#xsubj-from-head" n="1160">
         <w lemma="медик" ana="noun:anim:m:v_oru">медиком</w>
       </w_>
       <g/>
@@ -4275,7 +4275,7 @@
       <w_ id="2o86" dep="2o7u-advcl" n="1288">
         <w lemma="робити" ana="verb:imperf:pres:s:3">робить</w>
       </w_>
-      <w_ id="2o87" dep="2o86-obj" n="1289">
+      <w_ id="2o87" dep="2o86-obj" edep="2o88-nsubj:sp" n="1289">
         <w lemma="ти" ana="noun:anim:s:v_zna:&amp;pron:pers:2">тебе</w>
       </w_>
       <w_ id="2o88" dep="2o86-xcomp:sp" n="1290">
@@ -4498,7 +4498,7 @@
       <w_ id="2oa6" dep="2oab-punct" n="1355">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2oa7" dep="2oab-nsubj" edep="2oac-nsubj:x" n="1356">
+      <w_ id="2oa7" dep="2oab-nsubj" edep="2oac-nsubj:x|2oad-nsubj:sp" n="1356">
         <w lemma="який" ana="adj:n:v_naz:&amp;pron:rel">яке</w>
       </w_>
       <w_ id="2oa8" dep="2oab-advmod" n="1357">
@@ -4870,7 +4870,7 @@
       <w_ id="2odl" dep="2odm-discourse" n="1469">
         <w lemma="саме" ana="part">саме</w>
       </w_>
-      <w_ id="2odm" dep="2odn-nsubj" n="1470">
+      <w_ id="2odm" dep="2odn-nsubj" edep="2odo-nsubj:sp" n="1470">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="2odn" dep="2odh-advcl" n="1471">

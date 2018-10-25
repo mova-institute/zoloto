@@ -164,7 +164,7 @@
       <w_ id="2god" dep="2goc-xcomp" n="49">
         <w lemma="розглядати" ana="verb:imperf:inf">розглядати</w>
       </w_>
-      <w_ id="2goe" dep="2god-obj" coref="2gnz-equality" n="50">
+      <w_ id="2goe" dep="2god-obj" coref="2gnz-equality" edep="2goi-nsubj:sp" n="50">
         <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
       </w_>
       <w_ id="2gof" dep="2goi-mark" n="51">
@@ -418,13 +418,13 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2gqq"/>
-      <w_ id="2gqr" dep="2gqs-advmod" n="128">
+      <w_ id="2gqr" dep="2gqs-advmod" hdep="2gqs-private" n="128">
         <w lemma="зранку" ana="adv">Зранку</w>
       </w_>
       <w_ id="2gqs" n="129">
         <w lemma="виїжджати" ana="verb:imperf:past:f">виїжджала</w>
       </w_>
-      <w_ id="2gqt" dep="2gqs-nsubj" n="130">
+      <w_ id="2gqt" dep="2gqs-nsubj" hdep="2gqs-distrib" n="130">
         <w lemma="делегація" ana="noun:inanim:f:v_naz">делегація</w>
       </w_>
       <w_ id="2gqu" dep="2gqv-case" n="131">
@@ -1196,7 +1196,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2gxu"/>
-      <w_ id="2gxv" dep="2gxw-case" n="364">
+      <w_ id="2gxv" dep="2gxw-case" hdep="2gxw-distrib" n="364">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
       <w_ id="2gxw" dep="2gy4-obl" n="365">
@@ -3096,13 +3096,13 @@
       <w_ id="2hez" dep="2hey-nmod" n="941">
         <w lemma="людина" ana="noun:anim:f:v_rod">людини</w>
       </w_>
-      <w_ id="2hf0" dep="2hf3-case" n="942">
+      <w_ id="2hf0" dep="2hf3-case" hdep="2hf3-distrib" n="942">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="2hf1" dep="2hf3-det" n="943">
+      <w_ id="2hf1" dep="2hf3-det" hdep="2hf3-distrib" n="943">
         <w lemma="увесь" ana="adj:p:v_oru:&amp;pron:gen">усіма</w>
       </w_>
-      <w_ id="2hf2" dep="2hf3-det" coref="2hey-equality" n="944">
+      <w_ id="2hf2" dep="2hf3-det" coref="2hey-equality" hdep="2hf3-distrib" n="944">
         <w lemma="його" ana="adj:p:v_oru:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="2hf3" dep="2hey-nmod" n="945">
@@ -3431,7 +3431,7 @@
       <w_ id="2hi2" dep="2hi3-amod" n="1043">
         <w lemma="мистецький" ana="adj:m:v_naz">мистецький</w>
       </w_>
-      <w_ id="2hi3" dep="2hhz-conj" n="1044">
+      <w_ id="2hi3" dep="2hhz-appos" n="1044">
         <w lemma="об’єкт" ana="noun:inanim:m:v_naz">об’єкт</w>
       </w_>
       <g/>
@@ -3754,7 +3754,7 @@
       <w_ id="2hky" dep="2hl0-punct" n="1143">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2hkz" dep="2hl0-mark" n="1144">
+      <w_ id="2hkz" dep="2hl0-mark" edep="2hl3-nsubj:sp" n="1144">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="2hl0" dep="2hkx-acl:relless" n="1145">

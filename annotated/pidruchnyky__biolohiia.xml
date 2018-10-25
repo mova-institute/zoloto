@@ -4385,46 +4385,55 @@
     <w_ id="0la6" dep="0la7-cc">
       <w lemma="або" ana="conj:coord">або</w>
     </w_>
-    <w_ id="0la7" dep="0la4-conj" comment="appos?">
+    <w_ id="0la7" dep="0la4-conj" comment="~ appos?">
       <w lemma="риніт" ana="noun:inanim:m:v_naz">риніт</w>
     </w_>
     <g/>
-    <w_ id="0la8" dep="0la9-punct">
+    <w_ id="0la8" dep="0la9-punct|3cgp-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0la9" dep="0la3-parataxis">
+    <w_ id="0la9" dep="0la3-parataxis|3cgp-nsubj" tags="promoted" edep="0lab-nsubj:sp">
       <w lemma="глотка" ana="noun:inanim:f:v_rod:bad">глотки</w>
+    </w_>
+    <w_ id="3cgp" dep="0la3-parataxis" ellipsis="predicate">
+      <w lemma="називати" ana="verb:imperf:pres:p:3">називають</w>
     </w_>
     <w_ id="0laa" dep="0lab-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0lab" dep="0la9-xcomp:sp" comment="#orphanish">
+    <w_ id="0lab" dep="0la9-orphan|3cgp-xcomp:sp">
       <w lemma="фарингіт" ana="noun:inanim:m:v_naz">фарингіт</w>
     </w_>
     <g/>
-    <w_ id="0lac" dep="0lad-punct">
+    <w_ id="0lac" dep="0lad-punct|3cgq-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0lad" dep="0la3-parataxis">
+    <w_ id="0lad" dep="0la3-parataxis|0la3-parataxis|3cgq-nsubj" tags="promoted" edep="0laf-nsubj:sp">
       <w lemma="гортань" ana="noun:inanim:f:v_rod">гортані</w>
+    </w_>
+    <w_ id="3cgq" dep="0la3-parataxis" ellipsis="predicate">
+      <w lemma="називати" ana="verb:imperf:pres:p:3">називають</w>
     </w_>
     <w_ id="0lae" dep="0laf-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0laf" dep="0lad-xcomp:sp" comment="#orphanish">
+    <w_ id="0laf" dep="0lad-orphan|3cgq-xcomp:sp">
       <w lemma="ларингіт" ana="noun:inanim:m:v_naz">ларингіт</w>
     </w_>
     <g/>
-    <w_ id="0lag" dep="0lah-punct">
+    <w_ id="0lag" dep="0lah-punct|3cgr-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0lah" dep="0la3-parataxis">
+    <w_ id="0lah" dep="0la3-parataxis|3cgr-nsubj" tags="promoted" edep="0laj-nsubj:sp">
       <w lemma="трахея" ana="noun:inanim:f:v_rod">трахеї</w>
+    </w_>
+    <w_ id="3cgr" dep="0la3-parataxis" tags="promoted" ellipsis="predicate">
+      <w lemma="називати" ana="verb:imperf:pres:p:3">називають</w>
     </w_>
     <w_ id="0lai" dep="0laj-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0laj" dep="0lah-xcomp:sp" comment="#orphanish">
+    <w_ id="0laj" dep="0lah-orphan|3cgr-xcomp:sp">
       <w lemma="трахеїт" ana="noun:inanim:m:v_naz">трахеїт</w>
     </w_>
     <g/>

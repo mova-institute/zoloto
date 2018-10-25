@@ -2406,7 +2406,7 @@
       <w lemma="“" ana="punct:quote">“</w>
     </w_>
     <g/>
-    <w_ id="096z" dep="0974-nsubj">
+    <w_ id="096z" dep="0974-nsubj" edep="0977-nsubj:x">
       <w lemma="чужий" ana="adj:m:v_naz:&amp;noun:anim" lemma2="чужий">Чужий</w>
     </w_>
     <g/>
@@ -2432,7 +2432,7 @@
     <w_ id="0976" dep="0974-obl">
       <w lemma="мета" ana="noun:inanim:f:v_mis">меті</w>
     </w_>
-    <w_ id="0977" dep="0974-ccomp">
+    <w_ id="0977" dep="0974-xcomp" comment="~">
       <w lemma="розвивати" ana="verb:imperf:inf">розвивати</w>
     </w_>
     <w_ id="0978" dep="0977-obj">
@@ -3031,7 +3031,7 @@
     <w_ id="09cm" dep="09cn-aux">
       <w lemma="би" ana="part">би</w>
     </w_>
-    <w_ id="09cn" dep="09cj-acl">
+    <w_ id="09cn" dep="09cj-acl:relfull">
       <w lemma="дозволити" ana="verb:perf:past:p">дозволили</w>
     </w_>
     <w_ id="09co" dep="09cn-iobj" edep="09cp-nsubj:x">
@@ -3062,7 +3062,7 @@
     <w_ id="09cw" dep="09cy-advmod">
       <w lemma="чому" ana="adv:&amp;pron:int">чому</w>
     </w_>
-    <w_ id="09cx" dep="09cy-nsubj">
+    <w_ id="09cx" dep="09cy-nsubj" edep="09d1-nsubj:x">
       <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
     </w_>
     <w_ id="09cy" dep="09cr-conj">
@@ -3074,7 +3074,7 @@
     <w_ id="09d0" dep="09d1-obl">
       <w lemma="вона" ana="noun:f:v_zna:rprep:&amp;pron:pers:3">неї</w>
     </w_>
-    <w_ id="09d1" dep="09cy-ccomp">
+    <w_ id="09d1" dep="09cy-xcomp">
       <w lemma="переживати" ana="verb:imperf:inf">переживати</w>
     </w_>
     <g/>
@@ -3758,7 +3758,7 @@
       <w lemma="“" ana="punct:quote">“</w>
     </w_>
     <g/>
-    <w_ id="09je" dep="09k4-nsubj">
+    <w_ id="09je" dep="09k4-nsubj" edep="09k7-nsubj:sp">
       <w lemma="чужий" ana="adj:m:v_naz:&amp;noun:anim" lemma2="чужий">Чужий</w>
     </w_>
     <g/>
@@ -3885,7 +3885,7 @@
       <w lemma="“" ana="punct:quote">“</w>
     </w_>
     <g/>
-    <w_ id="09ki" dep="09km-nsubj">
+    <w_ id="09ki" dep="09km-nsubj" edep="09kg-nsubj:sp">
       <w lemma="Заповіт" ana="noun:inanim:m:v_naz:prop">Заповіт</w>
     </w_>
     <g/>
@@ -3988,7 +3988,7 @@
     <w_ id="09lf" dep="09ln-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="09lg" dep="09ln-nsubj">
+    <w_ id="09lg" dep="09ln-nsubj" edep="09lq-nsubj:sp">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
     </w_>
     <g/>

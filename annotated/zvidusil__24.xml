@@ -1324,7 +1324,7 @@
       <w_ id="2rji" dep="2rjh-ccomp" comment="~" n="389">
         <w lemma="оголосити" ana="verb:perf:inf">оголосити</w>
       </w_>
-      <w_ id="2rjj" dep="2rji-obj" n="390">
+      <w_ id="2rjj" dep="2rji-obj" edep="2rjo-nsubj:sp" n="390">
         <w lemma="частина" ana="noun:inanim:f:v_zna">частину</w>
       </w_>
       <w_ id="2rjk" dep="2rjj-nmod" n="391">
@@ -2080,7 +2080,7 @@
         <w lemma="мати" ana="verb:imperf:pres:s:3">має</w>
       </w_>
       <w_ id="2rqc" dep="2rq9-cop" n="618">
-        <w lemma="бути" ana="verb:imperf:inf">бути</w>
+        <w lemma="бути" ana="verb:aux:imperf:inf">бути</w>
       </w_>
       <g/>
       <w_ id="2rqd" dep="2rq7-punct" n="619">
@@ -2302,7 +2302,7 @@
       <w_ id="2rsb" dep="2rsc-amod" n="685">
         <w lemma="перший" ana="adj:m:v_zna:rinanim:compb:&amp;numr">Перший</w>
       </w_>
-      <w_ id="2rsc" dep="2rsa-obj" n="686">
+      <w_ id="2rsc" dep="2rsa-obj" edep="2rsd-nsubj:sp" n="686">
         <w lemma="дзвоник" ana="noun:inanim:m:v_zna">дзвоник</w>
       </w_>
       <w_ id="2rsd" dep="2rsa-xcomp:sp" n="687">
@@ -2700,7 +2700,7 @@
       <w_ id="2rvz" n="805">
         <w lemma="стати" ana="verb:perf:past:m">став</w>
       </w_>
-      <w_ id="2rw0" dep="2rvz-xcomp:sp" n="806">
+      <w_ id="2rw0" dep="2rvz-xcomp:sp" comment="#xsubj-from-head" n="806">
         <w lemma="студент" ana="noun:anim:m:v_oru">студентом</w>
       </w_>
       <w_ id="2rw1" dep="2rw3-amod" n="807">

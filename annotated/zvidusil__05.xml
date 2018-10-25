@@ -663,7 +663,7 @@
       <w_ id="1pk8" dep="1pjq-acl">
         <w lemma="стати" ana="verb:perf:past:p">стали</w>
       </w_>
-      <w_ id="1pk9" dep="1pk8-nsubj">
+      <w_ id="1pk9" dep="1pk8-nsubj" edep="1pk6-nsubj:sp">
         <w lemma="десяток" ana="noun:inanim:p:m:v_naz">десятки</w>
       </w_>
       <w_ id="1pka" dep="1pk9-nmod">
@@ -1341,10 +1341,10 @@
       <w_ id="1pqa">
         <w lemma="довестися" ana="verb:rev:perf:past:n">довелося</w>
       </w_>
-      <w_ id="1pqb" dep="1pqa-xcomp">
+      <w_ id="1pqb" dep="1pqa-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="стати" ana="verb:perf:inf">стати</w>
       </w_>
-      <w_ id="1pqc" dep="1pqb-xcomp:sp">
+      <w_ id="1pqc" dep="1pqb-xcomp:sp" comment="#xsubj-from-head">
         <w lemma="свідок" ana="noun:anim:m:v_oru">свідком</w>
       </w_>
       <w_ id="1pqd" dep="1pqc-nmod">

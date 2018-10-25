@@ -494,7 +494,7 @@
       <w_ id="1vr5" dep="1vr7-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="1vr6" dep="1vr7-obj">
+      <w_ id="1vr6" dep="1vr7-obj" edep="1vr8-nsubj:sp">
         <w lemma="хто" ana="noun:anim:m:v_zna:&amp;pron:int">кого</w>
       </w_>
       <w_ id="1vr7" dep="1vr1-parataxis">
@@ -2448,7 +2448,7 @@
       <w_ id="1w8s">
         <w lemma="стати" ana="verb:perf:past:m">став</w>
       </w_>
-      <w_ id="1w8t" dep="1w8s-xcomp:sp">
+      <w_ id="1w8t" dep="1w8s-xcomp:sp" comment="#xsubj-from-head">
         <w lemma="доктор" ana="noun:anim:m:v_oru">доктором</w>
       </w_>
       <w_ id="1w8u" dep="1w8t-nmod">
@@ -2490,7 +2490,7 @@
       <w_ id="1w96" dep="1w90-parataxis">
         <w lemma="працювати" ana="verb:imperf:pres:s:3">працює</w>
       </w_>
-      <w_ id="1w97" dep="1w96-xcomp:sp">
+      <w_ id="1w97" dep="1w96-xcomp:sp" comment="#xsubj-from-head">
         <w lemma="радник" ana="noun:anim:m:v_oru">радником</w>
       </w_>
       <w_ id="1w98" dep="1w99-det:nummod" hdep="1w99-distrib">
@@ -9301,7 +9301,7 @@
       <w_ id="1xya" dep="1xy0-parataxis">
         <w lemma="визнавати" ana="verb:imperf:past:p">визнавали</w>
       </w_>
-      <w_ id="1xyb" dep="1xya-obj">
+      <w_ id="1xyb" dep="1xya-obj" edep="1xy9-nsubj:sp">
         <w lemma="книжка" ana="noun:inanim:p:f:v_zna">книжки</w>
       </w_>
       <w_ id="1xyc" dep="1xyd-punct">
@@ -10475,7 +10475,7 @@
       <w_ id="1y8p" dep="1y7i-parataxis">
         <w lemma="стати" ana="verb:perf:past:m">став</w>
       </w_>
-      <w_ id="1y8q" dep="1y8p-nsubj">
+      <w_ id="1y8q" dep="1y8p-nsubj" edep="1y86-nsubj:sp">
         <w lemma="консультант" ana="noun:anim:m:v_naz">консультант</w>
       </w_>
       <w_ id="1y8r" dep="1y8q-nmod">

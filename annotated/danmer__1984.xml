@@ -15556,16 +15556,16 @@
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="07da"/>
-          <w_ id="07db" dep="07dd-nsubj">
+          <w_ id="07db" dep="07dd-nsubj" hdep="07dd-distrib">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
           </w_>
-          <w_ id="07dc" dep="07dd-advmod">
+          <w_ id="07dc" dep="07dd-advmod" hdep="07dd-private">
             <w lemma="жорстко" ana="adv:compb">жорстко</w>
           </w_>
           <w_ id="07dd">
             <w lemma="ґвалтувати" ana="verb:imperf:past:m">ґвалтував</w>
           </w_>
-          <w_ id="07de" dep="07dd-obj">
+          <w_ id="07de" dep="07dd-obj" hdep="07dd-private">
             <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
           </w_>
           <w_ id="07df" dep="07dg-cc">
@@ -15906,7 +15906,7 @@
           <w_ id="07gj" dep="07gk-amod">
             <w lemma="євразійський" ana="adj:m:v_rod">євразійського</w>
           </w_>
-          <w_ id="07gk" dep="07gi-nmod" edep="07gn-nsubj:rel">
+          <w_ id="07gk" dep="07gi-nmod" edep="07gn-nsubj:rel|07go-nsubj:sp">
             <w lemma="солдат" ana="noun:anim:m:v_rod">солдата</w>
           </w_>
           <g/>

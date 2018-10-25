@@ -2404,10 +2404,10 @@
       <w_ id="1r3l" dep="1r3n-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1r3m" dep="1r3n-nsubj" edep="1r3o-nsubj:x">
+      <w_ id="1r3m" dep="1r3n-nsubj" edep="1r3o-nsubj:x|1r3r-nsubj:sp">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
-      <w_ id="1r3n" dep="1r3k-acl">
+      <w_ id="1r3n" dep="1r3k-acl:relfull">
         <w lemma="намагатися" ana="verb:rev:imperf:pres:p:3">намагаються</w>
       </w_>
       <w_ id="1r3o" dep="1r3n-xcomp">
@@ -2582,7 +2582,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1r58"/>
-      <w_ id="1r59" dep="1r5a-xcomp:sp">
+      <w_ id="1r59" dep="1r5a-xcomp:sp" comment="#xsubj-from-head">
         <w lemma="старший" ana="adj:f:v_oru:compr">Старшою</w>
       </w_>
       <w_ id="1r5a">
@@ -3768,7 +3768,7 @@
       <w_ id="1rfy" dep="1rfz-advmod">
         <w lemma="широко" ana="adv:compb">широко</w>
       </w_>
-      <w_ id="1rfz" dep="1rfx-xcomp:sp">
+      <w_ id="1rfz" dep="1rfx-xcomp:sp" comment="#xsubj-from-head">
         <w lemma="відомий" ana="adj:m:v_oru:compb">відомим</w>
       </w_>
       <w_ id="1rg0" dep="1rg1-case">
@@ -4469,7 +4469,7 @@
       <w_ id="1rmh" dep="1rmi-amod">
         <w lemma="літературний" ana="adj:m:v_oru">літературним</w>
       </w_>
-      <w_ id="1rmi" dep="1rmg-xcomp:sp">
+      <w_ id="1rmi" dep="1rmg-xcomp:sp" comment="#xsubj-from-head">
         <w lemma="редактор" ana="noun:anim:m:v_oru">редактором</w>
       </w_>
       <w_ id="1rmj" dep="1rmk-case">

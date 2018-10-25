@@ -28,7 +28,7 @@
       <w_ id="1co9">
         <w lemma="робитися" ana="verb:rev:imperf:pres:p:1">робимося</w>
       </w_>
-      <w_ id="1coa" dep="1co9-xcomp:sp">
+      <w_ id="1coa" dep="1co9-xcomp:sp" comment="#xsubj-from-head">
         <w lemma="холодний" ana="adj:p:v_naz:compb">холодні</w>
       </w_>
       <g/>
@@ -195,7 +195,7 @@
       <w_ id="1cpo" dep="1cpq-advmod">
         <w lemma="як" ana="adv:&amp;pron:rel">Як</w>
       </w_>
-      <w_ id="1cpp" dep="1cpq-nsubj">
+      <w_ id="1cpp" dep="1cpq-nsubj" edep="1cpw-nsubj:sp">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="1cpq" dep="1cq1-advcl">
@@ -6968,7 +6968,7 @@
       <w_ id="1eag" dep="1ead-advcl">
         <w lemma="стати" ana="verb:perf:futr:s:3">стане</w>
       </w_>
-      <w_ id="1eah" dep="1eag-nsubj">
+      <w_ id="1eah" dep="1eag-nsubj" edep="1eaj-nsubj:sp">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="1eai" dep="1eaj-amod">
@@ -8069,7 +8069,7 @@
       <w_ id="1ejq">
         <w lemma="стати" ana="verb:perf:futr:s:3">стане</w>
       </w_>
-      <w_ id="1ejr" dep="1ejq-xcomp:sp" comment="?">
+      <w_ id="1ejr" dep="1ejq-advmod" comment="?">
         <w lemma="видно" ana="adv:compb">видно</w>
       </w_>
       <w_ id="1ejs" dep="1ejt-det">
@@ -10091,7 +10091,7 @@
       <w_ id="1f0v" dep="1f0w-amod">
         <w lemma="серцевий" ana="adj:m:v_naz">серцевий</w>
       </w_>
-      <w_ id="1f0w" dep="1f0x-nsubj">
+      <w_ id="1f0w" dep="1f0x-nsubj" edep="1f0z-nsubj:sp">
         <w lemma="м’яз" ana="noun:inanim:m:v_naz">м’яз</w>
       </w_>
       <w_ id="1f0x" dep="1f0r-acl">
@@ -12994,7 +12994,7 @@
       <w_ id="1fph" dep="1fpg-aux">
         <w lemma="б" ana="part">б</w>
       </w_>
-      <w_ id="1fpi" dep="1fpj-obj">
+      <w_ id="1fpi" dep="1fpj-obj" edep="1fpl-nsubj:sp">
         <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="1fpj" dep="1fpg-csubj">
