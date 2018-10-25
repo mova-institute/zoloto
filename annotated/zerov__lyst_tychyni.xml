@@ -506,7 +506,7 @@
     <w_ id="1jqd" dep="1jqe-advmod">
       <w lemma="ще" ana="adv">ще</w>
     </w_>
-    <w_ id="1jqe" tags="promoted">
+    <w_ id="1jqe">
       <w lemma="in" ana="x:foreign">in</w>
     </w_>
     <w_ id="1jqf" dep="1jqe-flat:foreign">
@@ -560,13 +560,13 @@
     <w_ id="1jqv" dep="1jqw-det">
       <w lemma="його" ana="adj:n:v_naz:poss:nv:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="1jqw" dep="1jqy-nsubj">
+    <w_ id="1jqw" dep="1jqy-nsubj" hdep="1jqy-distrib">
       <w lemma="писання" ana="noun:inanim:n:v_naz">писання</w>
     </w_>
-    <w_ id="1jqx" dep="1jqy-case">
+    <w_ id="1jqx" dep="1jqy-case" hdep="1jqy-private">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
-    <w_ id="1jqy" dep="1jqp-conj:parataxis" tags="promoted">
+    <w_ id="1jqy" dep="1jqp-conj:parataxis" comment="відголівні vs йдуть від голови">
       <w lemma="голова" ana="noun:inanim:f:v_rod:xp2">голови</w>
     </w_>
     <g/>
@@ -1779,7 +1779,7 @@
     <w_ id="1k1r" dep="1k1s-det">
       <w lemma="такий" ana="adj:n:v_naz:&amp;pron:dem">таке</w>
     </w_>
-    <w_ id="1k1s" tags="promoted">
+    <w_ id="1k1s">
       <w lemma="свідчення" ana="noun:inanim:n:v_naz">свідчення</w>
     </w_>
     <w_ id="1k1t" dep="1k1u-case">
@@ -2449,7 +2449,7 @@
     <w_ id="1k7s" dep="1k7t-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="1k7t" dep="1k7j-conj" tags="promoted">
+    <w_ id="1k7t" dep="1k7j-conj">
       <w lemma="говорити" ana="verb:imperf:past:p">говорили</w>
     </w_>
     <g/>
