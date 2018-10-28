@@ -210,7 +210,7 @@
       <w_ id="32xc" dep="32xd-punct" n="61">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="32xd" dep="32xg-advcl:sp" n="62">
+      <w_ id="32xd" dep="32xg-advcl:sp" comment="#xsubj-from-head" n="62">
         <w lemma="наляканий" ana="adj:f:v_naz:&amp;adjp:perf:pasv">налякана</w>
       </w_>
       <g/>
@@ -313,7 +313,7 @@
       <w_ id="32y8" dep="32y9-case" n="91">
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
-      <w_ id="32y9" comment="#цікаво що не acl:relpers" coref="32vn-equality" n="92">
+      <w_ id="32y9" dep="32yd-obl" comment="#цікаво що не acl:relpers; чи з виявити?" coref="32vn-equality" n="92">
         <w lemma="вона" ana="noun:f:v_zna:rprep:&amp;pron:pers:3">неї</w>
       </w_>
       <w_ id="32ya" dep="32yc-cc" n="93">
@@ -347,7 +347,7 @@
         <w lemma="людський" ana="adj:m:v_rod">людського</w>
       </w_>
       <g/>
-      <w_ id="32yk" n="103">
+      <w_ id="32yk" dep="32ym-punct" n="103">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="32yl" dep="32ym-det" n="104">
@@ -378,7 +378,7 @@
       <w_ id="32yt" dep="32yu-punct" n="112">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="32yu" dep="32yh-appos" tags="promoted" n="113">
+      <w_ id="32yu" dep="32yh-appos" tags="promoted" comment="#nominal-ellipsis" n="113">
         <w lemma="людина" ana="noun:anim:f:v_rod">людини</w>
       </w_>
       <g/>
@@ -1801,13 +1801,13 @@
       <w_ id="33bl" n="532">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="33bm" dep="33bo-nmod" n="533">
+      <w_ id="33bm" n="533">
         <w lemma="хвилина" ana="noun:inanim:p:f:v_rod">хвилин</w>
       </w_>
-      <w_ id="33bn" dep="33bo-case" n="534">
+      <w_ id="33bn" dep="33bm-case" n="534">
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
-      <w_ id="33bo" n="535">
+      <w_ id="33bo" dep="33bm-nummod" n="535">
         <w lemma="три" ana="numr:v_naz">три</w>
       </w_>
       <g/>
@@ -2911,7 +2911,7 @@
       <w_ id="33lr" dep="33lq-nmod" n="873">
         <w lemma="неділя" ana="noun:inanim:f:v_rod">неділі</w>
       </w_>
-      <w_ id="33ls" dep="33ll-ccomp" comment="#xsubj-is-phantom-iobj" n="874">
+      <w_ id="33ls" dep="33ll-ccomp" n="874">
         <w lemma="здатися" ana="verb:rev:perf:past:n">здалося</w>
       </w_>
       <w_ id="33lt" dep="33ls-aux" n="875">
@@ -2926,7 +2926,7 @@
       <w_ id="33lw" dep="33lx-obl" n="878">
         <w lemma="спосіб" ana="noun:inanim:m:v_zna">спосіб</w>
       </w_>
-      <w_ id="33lx" dep="33ls-xcomp" n="879">
+      <w_ id="33lx" dep="33ls-xcomp" comment="#xsubj-is-phantom-iobj" n="879">
         <w lemma="перебути" ana="verb:perf:inf">перебути</w>
       </w_>
       <w_ id="33ly" dep="33lz-amod" n="880">
@@ -4563,7 +4563,7 @@
       <w_ id="3411" dep="3412-cc" n="1368">
         <w lemma="чи" ana="conj:coord">чи</w>
       </w_>
-      <w_ id="3412" dep="340w-conj" n="1369">
+      <w_ id="3412" dep="340w-conj" tags="promoted" n="1369">
         <w lemma="ні" ana="part:neg">ні</w>
       </w_>
       <g/>

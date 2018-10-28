@@ -296,19 +296,22 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="231s"/>
-      <w_ id="231t" dep="231u-cc">
+      <w_ id="231t" dep="231u-cc|3cgv-cc">
         <w lemma="і" ana="conj:coord">І</w>
       </w_>
-      <w_ id="231u" tags="promoted">
+      <w_ id="231u" dep="3cgv-iobj" tags="promoted">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
-      <w_ id="231v" dep="231u-advmod">
+      <w_ id="231v" dep="231u-orphan|3cgv-advmod">
         <w lemma="чомусь" ana="adv:&amp;pron:ind">чомусь</w>
+      </w_>
+      <w_ id="3cgv" ellipsis="predicate">
+        <w lemma="прийти" ana="verb:perf:past:n">прийшло</w>
       </w_>
       <w_ id="231w" dep="231x-case">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
-      <w_ id="231x" dep="231u-obl">
+      <w_ id="231x" dep="231u-orphan|3cgv-obl">
         <w lemma="голова" ana="noun:inanim:f:v_zna">голову</w>
       </w_>
       <g/>
@@ -319,7 +322,7 @@
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
-      <w_ id="2320" dep="231u-parataxis">
+      <w_ id="2320" dep="231u-parataxis|3cgv-parataxis">
         <w lemma="йомайо" ana="intj:odd">Йомайо</w>
       </w_>
       <g/>
@@ -1293,7 +1296,7 @@
       <w_ id="23b2" dep="23b3-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="23b3" dep="23b4-advcl:sp">
+      <w_ id="23b3" dep="23b4-obl">
         <w lemma="весь" ana="adj:n:v_naz:&amp;pron:gen">все</w>
       </w_>
       <w_ id="23b4">
@@ -5297,7 +5300,7 @@
       <w_ id="24bh" dep="24bi-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="24bi" dep="24bg-nmod">
+      <w_ id="24bi" dep="24bg-nmod" tags="promoted">
         <w lemma="22" ana="adj:f:v_zna:nv:&amp;numr">22</w>
       </w_>
       <g/>

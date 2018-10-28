@@ -1869,7 +1869,7 @@
       <w_ id="1qyk" dep="1qyl-case" hdep="1qyl-distrib">
         <w lemma="про" ana="prep:rv_zna">Про</w>
       </w_>
-      <w_ id="1qyl" tags="promoted" comment="~">
+      <w_ id="1qyl" dep="1qyv-nsubj" tags="promoted" comment="#nominal-ellipsis">
         <w lemma="дорослішання" ana="noun:inanim:n:v_zna">дорослішання</w>
       </w_>
       <g/>
@@ -1901,7 +1901,7 @@
       <w_ id="1qyu" dep="1qyv-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1qyv" dep="1qyl-obl">
+      <w_ id="1qyv">
         <w lemma="інтерв’ю" ana="noun:inanim:n:v_mis:nv">інтерв’ю</w>
       </w_>
       <w_ id="1qyw" dep="1qyx-case">
@@ -1911,7 +1911,7 @@
         <w lemma="Varosh" ana="noun:prop:foreign">Varosh</w>
       </w_>
       <g/>
-      <w_ id="1qyy" dep="1qyl-punct">
+      <w_ id="1qyy" dep="1qyv-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -2675,7 +2675,7 @@
       <w_ id="1r62" dep="1r63-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="1r63" dep="1r64-obl" hdep="1r64-private">
+      <w_ id="1r63" dep="1r64-obl" edep="1r60-ref" hdep="1r64-private">
         <w lemma="який" ana="adj:m:v_mis:&amp;pron:rel">якому</w>
       </w_>
       <w_ id="1r64" dep="1r60-acl:relfull">
@@ -2703,7 +2703,7 @@
       <w_ id="1r6b" dep="1r6c-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1r6c" dep="1r6e-obl">
+      <w_ id="1r6c" dep="1r6e-obl" edep="1r60-ref">
         <w lemma="який" ana="adj:m:v_mis:&amp;pron:rel">якому</w>
       </w_>
       <w_ id="1r6d" dep="1r6e-obj">
@@ -2995,7 +2995,7 @@
       <w_ id="1r90" dep="1r8w-parataxis">
         <w lemma="хотітися" ana="verb:rev:imperf:pres:s:3">хочеться</w>
       </w_>
-      <w_ id="1r91" dep="1r90-xcomp">
+      <w_ id="1r91" dep="1r90-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="виходити" ana="verb:imperf:inf">виходити</w>
       </w_>
       <g/>
@@ -3883,8 +3883,8 @@
       <w_ id="1rh1" dep="1rh3-mark">
         <w lemma="аж" ana="conj:subord">аж</w>
       </w_>
-      <w_ id="1rh2" dep="1rh3-expl" comment="#&gt;noun:v_zna:&amp;amp;pron:refl:rare">
-        <w lemma="ся" ana="part:rare">ся</w>
+      <w_ id="1rh2" dep="1rh3-expl">
+        <w lemma="ся" ana="noun:v_zna:&amp;pron:refl:rare">ся</w>
       </w_>
       <w_ id="1rh3" dep="1rgz-advcl">
         <w lemma="світити" ana="verb:imperf:pres:s:3">світить</w>

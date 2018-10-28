@@ -2945,22 +2945,25 @@
         <w lemma="церква" ana="noun:inanim:f:v_rod">Церкви</w>
       </w_>
       <g/>
-      <w_ id="20vz" dep="20w4-punct">
+      <w_ id="20vz" dep="20w4-punct|3cgu-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="20w0" dep="20w4-cc">
+      <w_ id="20w0" dep="20w4-cc|3cgu-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="20w1" dep="20w4-orphan">
+      <w_ id="20w1" dep="20w4-orphan|3cgu-advmod">
         <w lemma="потім" ana="adv:&amp;pron:dem">потім</w>
       </w_>
-      <w_ id="20w2" dep="20w4-punct" comment="#&lt;виїжджають">
+      <w_ id="3cgu" dep="20vv-conj" ellipsis="predicate">
+        <w lemma="виїжджати" ana="verb:imperf:pres:p:3">виїжджають</w>
+      </w_>
+      <w_ id="20w2" dep="20w4-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
       <w_ id="20w3" dep="20w4-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="20w4" dep="20vy-conj">
+      <w_ id="20w4" dep="20vy-conj|3cgu-obl">
         <w lemma="Умань" ana="noun:inanim:f:v_rod:prop">Умані</w>
       </w_>
       <g/>
@@ -6708,7 +6711,7 @@
       <w_ id="21v8" dep="21v9-case">
         <w lemma="у" ana="prep:rv_mis:v-u">у</w>
       </w_>
-      <w_ id="21v9" dep="21va-obl">
+      <w_ id="21v9" dep="21va-obl" edep="21v6-ref">
         <w lemma="який" ana="adj:m:v_mis:&amp;pron:rel">якому</w>
       </w_>
       <w_ id="21va" dep="21v6-acl:relfull">

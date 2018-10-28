@@ -895,7 +895,7 @@
     <w_ id="0maw" dep="0max-case">
       <w lemma="завдяки" ana="prep:rv_dav">завдяки</w>
     </w_>
-    <w_ id="0max" dep="0maz-obl">
+    <w_ id="0max" dep="0maz-obl" edep="0mas-ref">
       <w lemma="який" ana="adj:p:v_dav:&amp;pron:rel">яким</w>
     </w_>
     <w_ id="0may" dep="0maz-nsubj">
@@ -2058,7 +2058,7 @@
     <w_ id="0mlm" dep="0mln-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="0mln" dep="0mlo-obl" hdep="0mlo-private">
+    <w_ id="0mln" dep="0mlo-obl" edep="0mlk-ref" hdep="0mlo-private">
       <w lemma="який" ana="adj:p:v_mis:&amp;pron:rel">яких</w>
     </w_>
     <w_ id="0mlo" dep="0mlk-acl:relfull">
@@ -2076,7 +2076,7 @@
     <w_ id="0mls" dep="0mlu-cc">
       <w lemma="або" ana="conj:coord">або</w>
     </w_>
-    <w_ id="0mlt" dep="0mlu-nsubj">
+    <w_ id="0mlt" dep="0mlu-nsubj" edep="0mlk-ref">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
     </w_>
     <w_ id="0mlu" dep="0mlo-conj:parataxis">
@@ -5420,7 +5420,7 @@
       <w lemma="натомість" ana="conj:coord">Натомість</w>
     </w_>
     <g/>
-    <w_ id="0ngf">
+    <w_ id="0ngf" dep="0nge-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0ngg" dep="0ngj-case">
@@ -5436,7 +5436,7 @@
       <w lemma="країна" ana="noun:inanim:p:f:v_mis">країнах</w>
     </w_>
     <g/>
-    <w_ id="0ngk">
+    <w_ id="0ngk" dep="0ngp-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0ngl" dep="0ngm-nummod">
@@ -5451,7 +5451,7 @@
     <w_ id="0ngo" dep="0ngm-nmod">
       <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
     </w_>
-    <w_ id="0ngp">
+    <w_ id="0ngp" dep="0ngj-acl">
       <w lemma="зазнавати" ana="verb:imperf:pres:p:3">зазнають</w>
     </w_>
     <w_ id="0ngq" dep="0ngs-amod">
@@ -5460,7 +5460,7 @@
     <w_ id="0ngr" dep="0ngs-amod">
       <w lemma="негативний" ana="adj:m:v_rod:compb">негативного</w>
     </w_>
-    <w_ id="0ngs" dep="0ngp-nmod">
+    <w_ id="0ngs" dep="0ngp-obj">
       <w lemma="вплив" ana="noun:inanim:m:v_rod">впливу</w>
     </w_>
     <w_ id="0ngt" dep="0ngs-nmod">
@@ -5478,7 +5478,7 @@
       <w lemma="СНІД" ana="noun:inanim:m:v_rod:abbr">СНІДу</w>
     </w_>
     <g/>
-    <w_ id="0ngx">
+    <w_ id="0ngx" dep="0ngp-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0ngy" dep="0ngz-amod">
@@ -5516,7 +5516,7 @@
     <w_ id="0nh8" dep="0nh6-flat:range">
       <w lemma="55" ana="numr:v_rod:nv">55</w>
     </w_>
-    <w_ id="0nh9">
+    <w_ id="0nh9" dep="0nh3-obj">
       <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
     </w_>
     <g/>

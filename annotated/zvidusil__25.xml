@@ -844,7 +844,7 @@
       <w_ id="2oqc" dep="2oqd-mark" n="245">
         <w lemma="як" ana="conj:subord">Як</w>
       </w_>
-      <w_ id="2oqd" dep="2oqe-advcl:sp" comment="~" n="246">
+      <w_ id="2oqd" dep="2oqe-advcl:sp" comment="~ #xsubj-from-head" n="246">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
       </w_>
       <w_ id="2oqe" n="247">
@@ -1429,7 +1429,7 @@
       <w_ id="2ovo" dep="2ovp-discourse" n="419">
         <w lemma="і" ana="part">і</w>
       </w_>
-      <w_ id="2ovp" dep="2ovq-advcl:sp" n="420">
+      <w_ id="2ovp" dep="2ovq-obl" n="420">
         <w lemma="сам" ana="adj:p:v_naz:&amp;pron:refl">самі</w>
       </w_>
       <w_ id="2ovq" dep="2ovm-xcomp" n="421">
@@ -2738,7 +2738,7 @@
       <w_ id="2p7t" dep="2p7x-punct" n="802">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2p7u" dep="2p7x-nsubj" hdep="2p7x-distrib" n="803">
+      <w_ id="2p7u" dep="2p7x-nsubj" edep="2p7s-ref" hdep="2p7x-distrib" n="803">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="2p7v" dep="2p7w-nummod" n="804">
@@ -4106,7 +4106,7 @@
       <w_ id="2pkm" dep="2pkn-case" n="1197">
         <w lemma="о" ana="prep:rv_mis">о</w>
       </w_>
-      <w_ id="2pkn" dep="2pkj-obl" n="1198">
+      <w_ id="2pkn" dep="2pkj-obl" tags="promoted" n="1198">
         <w lemma="другий" ana="adj:f:v_mis:&amp;numr">другій</w>
       </w_>
       <w_ id="2pko" dep="2pkn-nmod" n="1199">

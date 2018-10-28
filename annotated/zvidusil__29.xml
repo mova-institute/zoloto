@@ -4720,13 +4720,13 @@
       <w_ id="3827" n="1429">
         <w lemma="розвиватися" ana="verb:rev:imperf:pres:s:3">розвивається</w>
       </w_>
-      <w_ id="3828" n="1430">
+      <w_ id="3828" dep="3827-obl" n="1430">
         <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">сама</w>
       </w_>
       <w_ id="3829" dep="382a-case" n="1431">
         <w lemma="по" ana="prep:rv_mis">по</w>
       </w_>
-      <w_ id="382a" n="1432">
+      <w_ id="382a" dep="3828-flat:abs" comment="~" n="1432">
         <w lemma="себе" ana="noun:v_mis:&amp;pron:refl">собі</w>
       </w_>
       <g/>
@@ -4739,7 +4739,7 @@
       <w_ id="382d" dep="382e-amod" n="1435">
         <w lemma="власний" ana="adj:m:v_dav">власному</w>
       </w_>
-      <w_ id="382e" n="1436">
+      <w_ id="382e" dep="3828-appos" n="1436">
         <w lemma="потенціал" ana="noun:inanim:m:v_dav">потенціалу</w>
       </w_>
       <g/>
@@ -4752,7 +4752,7 @@
       <w_ id="382h" dep="382i-amod" n="1439">
         <w lemma="особливий" ana="adj:n:v_rod">особливого</w>
       </w_>
-      <w_ id="382i" n="1440">
+      <w_ id="382i" dep="3828-appos" n="1440">
         <w lemma="сприяння" ana="noun:inanim:n:v_rod">сприяння</w>
       </w_>
       <w_ id="382j" dep="382i-nmod" n="1441">

@@ -2640,7 +2640,7 @@
       <w_ id="1suq">
         <w lemma="..." ana="punct:ellipsis">...</w>
       </w_>
-      <w_ id="1sur">
+      <w_ id="1sur" dep="1sus-obl">
         <w lemma="сам" ana="adj:p:v_naz:&amp;pron:refl">самі</w>
       </w_>
       <w_ id="1sus">
@@ -3041,7 +3041,7 @@
       <w_ id="1syu" dep="1syt-aux">
         <w lemma="би" ana="part">би</w>
       </w_>
-      <w_ id="1syv" dep="1syt-xcomp">
+      <w_ id="1syv" dep="1syt-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="зпитати" ana="verb:perf:inf:auto">зпитати</w>
       </w_>
       <g/>
@@ -6323,10 +6323,10 @@
       <w_ id="1tt2" dep="1tt5-discourse">
         <w lemma="просто" ana="part">просто</w>
       </w_>
-      <w_ id="1tt3" dep="1tt5-advcl:sp">
+      <w_ id="1tt3" dep="1tt5-iobj">
         <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">сама</w>
       </w_>
-      <w_ id="1tt4" dep="1tt5-iobj">
+      <w_ id="1tt4" dep="1tt3-flat:abs">
         <w lemma="себе" ana="noun:v_dav:&amp;pron:refl">собі</w>
       </w_>
       <w_ id="1tt5">

@@ -1073,7 +1073,7 @@
         <w lemma="особливо" ana="adv">особливо</w>
       </w_>
       <g/>
-      <w_ id="1pnu" dep="1pnz-punct">
+      <w_ id="1pnu" dep="1pnz-punct" comment="#&lt;лікуються ~ а не?">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1pnv" dep="1pnz-mark">
@@ -1291,23 +1291,23 @@
       <w_ id="1ppv">
         <w lemma="інавґурація" ana="noun:inanim:f:v_zna:auto">інавґурацію</w>
       </w_>
-      <w_ id="1ppw">
+      <w_ id="1ppw" dep="1ppy-obl">
         <w lemma="сам" ana="adj:p:v_naz:&amp;pron:refl">самі</w>
       </w_>
       <g/>
-      <w_ id="1ppx">
+      <w_ id="1ppx" dep="1ppy-punct">
         <w lemma="-" ana="punct:hyphen">-</w>
       </w_>
       <g/>
-      <w_ id="1ppy" tags="graft">
+      <w_ id="1ppy" dep="1ppv-nmod" tags="graft" comment="#цікаво ~">
         <w lemma="знати" ana="verb:imperf:pres:p:2">знаєте</w>
       </w_>
       <g/>
-      <w_ id="1ppz">
+      <w_ id="1ppz" dep="1pq0-punct">
         <w lemma="-" ana="punct:hyphen">-</w>
       </w_>
       <g/>
-      <w_ id="1pq0">
+      <w_ id="1pq0" dep="1ppy-obj">
         <w lemma="хто" ana="noun:anim:m:v_rod:&amp;pron:rel">кого</w>
       </w_>
       <g/>
@@ -4004,7 +4004,7 @@
       <w_ id="1qer">
         <w lemma="вдатися" ana="verb:rev:perf:past:n">вдалося</w>
       </w_>
-      <w_ id="1qes" dep="1qer-xcomp">
+      <w_ id="1qes" dep="1qer-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="встановити" ana="verb:perf:inf">встановити</w>
       </w_>
       <w_ id="1qet" dep="1qeu-cc">

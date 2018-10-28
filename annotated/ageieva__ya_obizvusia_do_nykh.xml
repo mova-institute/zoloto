@@ -3164,7 +3164,7 @@
     <w_ id="00rx" dep="00ry-obl">
       <w lemma="дванадцятитомник" ana="noun:inanim:m:v_mis">дванадцятитомнику</w>
     </w_>
-    <w_ id="00ry" dep="00rm-acl" tags="promoted">
+    <w_ id="00ry" dep="00rm-acl">
       <w lemma="безліч" ana="noun:inanim:f:v_naz">безліч</w>
     </w_>
     <g/>
@@ -4249,7 +4249,7 @@
     <w_ id="011j" dep="011k-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="011k" dep="011a-conj" tags="promoted">
+    <w_ id="011k" dep="011a-conj" tags="promoted" comment="#orphanless-elision">
       <w lemma="завжди" ana="adv:&amp;pron:gen">завжди</w>
     </w_>
     <g/>
@@ -7298,7 +7298,7 @@
         <w_ id="01si" dep="01sj-case">
           <w lemma="з" ana="prep:rv_rod">З</w>
         </w_>
-        <w_ id="01sj" dep="01sl-obl">
+        <w_ id="01sj" dep="01sl-obl" edep="01sg-ref">
           <w lemma="який" ana="adj:f:v_rod:&amp;pron:rel">якої</w>
         </w_>
         <w_ id="01sk" dep="01sl-nsubj">

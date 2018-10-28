@@ -3509,7 +3509,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="26n9"/>
-      <w_ id="26na" dep="26nc-nsubj" coref="26k5-equality">
+      <w_ id="26na" dep="26nc-nsubj" coref="26k5-equality" edep="26nh-nsubj:sp">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">Він</w>
       </w_>
       <w_ id="26nb" dep="26nc-advmod">
@@ -3528,7 +3528,7 @@
       <w_ id="26nf" dep="26nh-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="26ng" dep="26nh-advcl:sp" comment="~" coref="26na-equality">
+      <w_ id="26ng" dep="26nh-obl" comment="~" coref="26na-equality">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
       <w_ id="26nh" dep="26nc-advcl:sp">
@@ -3841,7 +3841,7 @@
       <w_ id="26qb" dep="26qd-advmod">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="26qc" dep="26qd-advcl:sp" comment="сам = самостійно?" coref="26pz-equality">
+      <w_ id="26qc" dep="26qd-obl" comment="сам = самостійно?" coref="26pz-equality">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
       <w_ id="26qd" dep="26q6-acl:relpers">

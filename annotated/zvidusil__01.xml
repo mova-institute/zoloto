@@ -3240,7 +3240,7 @@
       <w_ id="1lx0" dep="1lx2-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1lx1" dep="1lx2-nsubj" coref="1lwz-equality">
+      <w_ id="1lx1" dep="1lx2-nsubj" coref="1lwz-equality" edep="1lwz-ref">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="1lx2" dep="1lwz-acl:relfull">
@@ -3287,7 +3287,7 @@
       <w_ id="1lxf" dep="1lx5-conj:parataxis">
         <w lemma="лишатися" ana="verb:rev:imperf:pres:s:3">лишається</w>
       </w_>
-      <w_ id="1lxg" dep="1lxf-xcomp">
+      <w_ id="1lxg" dep="1lxf-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="сподіватися" ana="verb:rev:imperf:inf">сподіватися</w>
       </w_>
       <g/>

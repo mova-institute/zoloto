@@ -510,7 +510,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="24ha"/>
-      <w_ id="24hb" dep="24hc-nsubj" coref="24gu-equality" edep="24hd-nsubj:x|24he-nsubj:sp">
+      <w_ id="24hb" dep="24hc-nsubj" coref="24gu-equality" edep="24hd-nsubj:x">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
       </w_>
       <w_ id="24hc">
@@ -519,7 +519,7 @@
       <w_ id="24hd" dep="24hc-xcomp">
         <w lemma="вибирати" ana="verb:imperf:inf">вибирати</w>
       </w_>
-      <w_ id="24he" dep="24hd-advcl:sp" coref="24hb-equality">
+      <w_ id="24he" dep="24hd-obl" coref="24hb-equality">
         <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">сама</w>
       </w_>
       <g/>
@@ -1075,7 +1075,7 @@
       <w_ id="24mi" dep="24mj-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="24mj" dep="24mk-obl" mark="resolved">
+      <w_ id="24mj" dep="24mk-obl" mark="resolved" edep="24mb-ref">
         <w lemma="який" ana="adj:f:v_mis:&amp;pron:rel" author="30:Саморідна">якій</w>
       </w_>
       <w_ id="24mk" dep="24mb-acl:relfull">
@@ -4319,7 +4319,7 @@
       <w_ id="25ex" dep="25ey-amod" mark="resolved">
         <w lemma="овочевий" ana="adj:p:v_zna:rinanim" author="18:Бровко">Овочеві</w>
       </w_>
-      <w_ id="25ey" dep="25es-obl" tags="promoted" comment="todo: прибрати якщо мільйони стануть іменниками">
+      <w_ id="25ey" dep="25es-obl">
         <w lemma="мільярд" ana="noun:inanim:p:m:v_zna:&amp;_numr">мільярди</w>
       </w_>
       <g/>

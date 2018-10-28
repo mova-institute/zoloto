@@ -620,13 +620,16 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="135c"/>
-      <w_ id="135d" dep="135f-nsubj">
+      <w_ id="135d" dep="3cgs-nsubj">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
+      </w_>
+      <w_ id="3cgs" ellipsis="predicate">
+        <w lemma="вести" ana="verb:imperf:pres:s:1">веду</w>
       </w_>
       <w_ id="135e" dep="135f-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="135f" tags="promoted">
+      <w_ id="135f" dep="135d-orphan|3cgs-obl">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
       <g/>
@@ -720,7 +723,7 @@
         <w lemma="”" ana="punct:quote">”</w>
       </w_>
       <g/>
-      <w_ id="1368" dep="135f-punct">
+      <w_ id="1368" dep="135d-punct|3cgs-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1369"/>
@@ -1032,14 +1035,14 @@
   <doc id="38vm" author="" date="2016" genre="коментар" src="" title="[дописи з „Підслухано НаУКМА“]">
     <p id="1392">
       <sb id="1393"/>
-      <w_ id="1394" dep="1395-iobj">
+      <w_ id="1394">
         <w lemma="весь" ana="adj:p:v_dav:&amp;pron:gen">Всім</w>
       </w_>
-      <w_ id="1395" tags="promoted">
+      <w_ id="1395" dep="1394-nsubj">
         <w lemma="привіт" ana="noun:inanim:m:v_naz">привіт</w>
       </w_>
       <g/>
-      <w_ id="1396" dep="1395-punct">
+      <w_ id="1396" dep="1394-punct">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="1397"/>
