@@ -35,7 +35,7 @@
       <w_ id="39u4" dep="39u5-obj" n="8">
         <w lemma="таке" ana="noun:inanim:n:v_zna:&amp;pron:dem">таке</w>
       </w_>
-      <w_ id="39u5" dep="39u3-ccomp" comment="цікаво" n="9">
+      <w_ id="39u5" dep="39u3-compound:svc" comment="цікаво" n="9">
         <w lemma="ляпнути" ana="verb:perf:impr:s:2">ляпни</w>
       </w_>
       <g/>
@@ -518,7 +518,7 @@
       <w_ id="39yg" dep="39ye-aux" n="135">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
-      <w_ id="39yh" n="136">
+      <w_ id="39yh" dep="39yi-discourse" n="136">
         <w lemma="й" ana="part">й</w>
       </w_>
       <w_ id="39yi" dep="39yl-obj" n="137">
@@ -646,7 +646,7 @@
       <w_ id="39zm" dep="39zj-aux" n="173">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
-      <w_ id="39zn" dep="39zo-iobj" n="174">
+      <w_ id="39zn" dep="39zj-iobj" edep="39zo-nsubj:x" n="174">
         <w lemma="Антон" ana="noun:anim:m:v_dav:prop:fname">Антонові</w>
       </w_>
       <w_ id="39zo" dep="39zj-xcomp" n="175">
@@ -874,39 +874,39 @@
     <p id="3a1p">
       <gap/>
       <sb id="3a1q"/>
-      <w_ id="3a1r" n="235">
+      <w_ id="3a1r" dep="3a1t-punct" n="235">
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
       <w_ id="3a1s" dep="3a1t-iobj" edep="3a20-nsubj:x" n="236">
         <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">їм</w>
       </w_>
-      <w_ id="3a1t" n="237">
+      <w_ id="3a1t" comment="еліпсис наперед" n="237">
         <w lemma="ні" ana="verb:imperf:pres:neg">ні</w>
       </w_>
       <w_ id="3a1u" dep="3a1v-case" n="238">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="3a1v" dep="3a1t-obl" n="239">
+      <w_ id="3a1v" dep="3a1t-xcomp" tags="promoted" n="239">
         <w lemma="що" ana="noun:inanim:n:v_mis:&amp;pron:rel">чому</w>
       </w_>
-      <w_ id="3a1w" n="240">
+      <w_ id="3a1w" dep="3a1x-cc" n="240">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="3a1x" n="241">
+      <w_ id="3a1x" dep="3a1t-conj" n="241">
         <w lemma="ні" ana="verb:imperf:pres:neg">ні</w>
       </w_>
       <w_ id="3a1y" dep="3a1z-case" n="242">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="3a1z" n="243">
+      <w_ id="3a1z" dep="3a20-obl" n="243">
         <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">що</w>
       </w_>
-      <w_ id="3a20" dep="3a1t-xcomp" n="244">
+      <w_ id="3a20" dep="3a1x-xcomp" n="244">
         <w lemma="виїхати" ana="verb:perf:inf">виїхати</w>
       </w_>
       <g/>
-      <w_ id="3a21" n="245">
+      <w_ id="3a21" dep="3a24-punct" n="245">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="3a22" dep="3a24-iobj" edep="3a27-nsubj:x" n="246">
@@ -931,7 +931,7 @@
         <w lemma="їжа" ana="noun:inanim:f:v_zna">їжу</w>
       </w_>
       <g/>
-      <w_ id="3a29" n="253">
+      <w_ id="3a29" dep="3a1t-punct" n="253">
         <w lemma="»" ana="punct:quote">»</w>
       </w_>
       <sb id="3a2a"/>
@@ -963,7 +963,7 @@
       <w_ id="3a2j" dep="3a2k-nsubj" edep="3a2l-nsubj:x" n="259">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="3a2k" dep="3a2g-conj:parataxis" n="260">
+      <w_ id="3a2k" dep="3a2g-advcl" n="260">
         <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
       </w_>
       <w_ id="3a2l" dep="3a2k-xcomp" n="261">
@@ -979,7 +979,7 @@
       <w_ id="3a2o" dep="3a2q-cc" n="264">
         <w lemma="проте" ana="conj:coord">проте</w>
       </w_>
-      <w_ id="3a2p" n="265">
+      <w_ id="3a2p" dep="3a2q-nsubj" comment="пов'язати з підметом якось" hdep="3a2q-distrib" n="265">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
       <w_ id="3a2q" dep="3a2k-conj" n="266">
@@ -991,7 +991,7 @@
       <w_ id="3a2s" dep="3a2t-amod" n="268">
         <w lemma="постійний" ana="adj:m:v_mis:compb">постійному</w>
       </w_>
-      <w_ id="3a2t" dep="3a2q-obl" n="269">
+      <w_ id="3a2t" dep="3a2q-obl" hdep="3a2q-private" n="269">
         <w lemma="рух" ana="noun:inanim:m:v_mis">русі</w>
       </w_>
       <w_ id="3a2u" dep="3a2x-cc" n="270">
@@ -1003,7 +1003,7 @@
       <w_ id="3a2w" dep="3a2x-case" n="272">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="3a2x" n="273">
+      <w_ id="3a2x" dep="3a2q-conj" n="273">
         <w lemma="змога" ana="noun:inanim:f:v_mis">змозі</w>
       </w_>
       <w_ id="3a2y" dep="3a30-advmod" n="274">
@@ -1059,7 +1059,7 @@
       <w_ id="3a3f" dep="3a3g-det" n="287">
         <w lemma="мій" ana="adj:p:v_naz:poss:&amp;pron:pers:1">мої</w>
       </w_>
-      <w_ id="3a3g" n="288">
+      <w_ id="3a3g" dep="3a3c-appos" comment="тип прикладки?" n="288">
         <w lemma="улюбленець" ana="noun:anim:p:m:v_naz">улюбленці</w>
       </w_>
       <g/>
@@ -1079,7 +1079,7 @@
       <w_ id="3a3m" dep="3a3q-obl" n="293">
         <w lemma="що" ana="noun:inanim:n:v_mis:&amp;pron:rel">чому</w>
       </w_>
-      <w_ id="3a3n" n="294">
+      <w_ id="3a3n" dep="3a3k-iobj" edep="3a3q-nsubj:x" n="294">
         <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">їм</w>
       </w_>
       <w_ id="3a3o" dep="3a3k-aux" n="295">
@@ -1088,7 +1088,7 @@
       <w_ id="3a3p" dep="3a3q-obj" n="296">
         <w lemma="себе" ana="noun:v_zna:&amp;pron:refl">себе</w>
       </w_>
-      <w_ id="3a3q" n="297">
+      <w_ id="3a3q" dep="3a3k-xcomp" n="297">
         <w lemma="проявити" ana="verb:perf:inf">проявити</w>
       </w_>
       <g/>
@@ -1212,7 +1212,7 @@
       <w_ id="3a4u" dep="3a4v-discourse" n="329">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="3a4v" n="330">
+      <w_ id="3a4v" dep="3a4t-det" n="330">
         <w lemma="сам" ana="adj:m:v_dav:&amp;pron:refl">самому</w>
       </w_>
       <w_ id="3a4w" n="331">
@@ -1234,14 +1234,14 @@
       <w_ id="3a51" dep="3a54-cc" n="336">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="3a52" dep="3a54-ccomp" n="337">
+      <w_ id="3a52" dep="3a54-xcomp" n="337">
         <w lemma="помогти" ana="verb:perf:inf">помогти</w>
       </w_>
       <w_ id="3a53" dep="3a54-punct" n="338">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <multitoken form="ніяк">
-        <w_ id="3a54" dep="3a4w-conj:parataxis">
+        <w_ id="3a54" dep="3a4w-conj:parataxis" comment="#xsubj-is-phantom-iobj">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
         <w_ id="3a55" dep="3a52-advmod">
@@ -1303,7 +1303,7 @@
           <w lemma="звідки" ana="adv:&amp;pron:rel">звідки</w>
         </w_>
       </multitoken>
-      <w_ id="3a5p" dep="3a5n-ccomp" n="350">
+      <w_ id="3a5p" dep="3a5n-xcomp" comment="#xsubj-is-phantom-iobj" n="350">
         <w lemma="чекати" ana="verb:imperf:inf">чекати</w>
       </w_>
       <w_ id="3a5q" dep="3a5p-obj" n="351">
@@ -1392,7 +1392,7 @@
       <w_ id="3a6j" dep="3a6k-obj" n="367">
         <w lemma="правда" ana="noun:inanim:f:v_rod">правди</w>
       </w_>
-      <w_ id="3a6k" dep="3a6h-ccomp" n="368">
+      <w_ id="3a6k" dep="3a6h-xcomp" comment="#xsubj-is-phantom-iobj" n="368">
         <w lemma="діти" ana="verb:perf:inf">діти</w>
       </w_>
       <g/>
@@ -1403,7 +1403,7 @@
         <w lemma="негарний" ana="adj:f:v_naz">негарна</w>
       </w_>
       <g/>
-      <w_ id="3a6n" n="371">
+      <w_ id="3a6n" dep="3a6o-punct" n="371">
         <w lemma=":" ana="punct">:</w>
       </w_>
       <w_ id="3a6o" dep="3a6m-appos:nonnom" n="372">
@@ -1469,65 +1469,65 @@
         <w lemma="губа" ana="noun:inanim:p:f:v_oru">губами</w>
       </w_>
       <g/>
-      <w_ id="3a78" n="392">
+      <w_ id="3a78" dep="3a79-punct" n="392">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3a79" n="393">
+      <w_ id="3a79" dep="3a6o-conj" comment="~" n="393">
         <w lemma="ходити" ana="verb:imperf:past:f">ходила</w>
       </w_>
       <g/>
-      <w_ id="3a7a" n="394">
+      <w_ id="3a7a" dep="3a7c-punct" n="394">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3a7b" n="395">
+      <w_ id="3a7b" dep="3a7c-punct" n="395">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="3a7c" n="396">
+      <w_ id="3a7c" dep="3a79-advmod" comment="#цікаво" n="396">
         <w lemma="тепер" ana="adv:&amp;pron:dem">тепер</w>
       </w_>
-      <w_ id="3a7d" n="397">
+      <w_ id="3a7d" dep="3a7c-flat:sibl" n="397">
         <w lemma="уже" ana="adv:v-u">уже</w>
       </w_>
-      <w_ id="3a7e" n="398">
+      <w_ id="3a7e" dep="3a7c-flat:sibl" comment="еліпс наперед" n="398">
         <w lemma="ні" ana="part:neg">ні</w>
       </w_>
       <g/>
-      <w_ id="3a7f" n="399">
+      <w_ id="3a7f" dep="3a7i-punct" n="399">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3a7g" n="400">
+      <w_ id="3a7g" dep="3a7i-cc" n="400">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="3a7h" n="401">
+      <w_ id="3a7h" dep="3a7i-case" n="401">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="3a7i" n="402">
+      <w_ id="3a7i" dep="3a7c-conj" n="402">
         <w lemma="молодість" ana="noun:inanim:f:v_mis">молодості</w>
       </w_>
       <g/>
-      <w_ id="3a7j" n="403">
+      <w_ id="3a7j" dep="3a7m-punct" n="403">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3a7k" n="404">
+      <w_ id="3a7k" dep="3a7m-advmod" n="404">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
-      <w_ id="3a7l" n="405">
+      <w_ id="3a7l" dep="3a7m-advmod" n="405">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="3a7m" n="406">
+      <w_ id="3a7m" dep="3a7i-appos" n="406">
         <w lemma="мати" ana="verb:imperf:past:f">мала</w>
       </w_>
-      <w_ id="3a7n" n="407">
+      <w_ id="3a7n" dep="3a7p-advmod:amtgov" n="407">
         <w lemma="багато" ana="adv:compb">багато</w>
       </w_>
-      <w_ id="3a7o" n="408">
+      <w_ id="3a7o" dep="3a7p-amod" n="408">
         <w lemma="невижитий" ana="adj:f:v_rod:&amp;adjp:perf:pasv:auto">невижитої</w>
       </w_>
-      <w_ id="3a7p" n="409">
+      <w_ id="3a7p" dep="3a7m-obj" n="409">
         <w lemma="сила" ana="noun:inanim:f:v_rod">сили</w>
       </w_>
       <g/>
-      <w_ id="3a7q" n="410">
+      <w_ id="3a7q" dep="3a7m-punct" n="410">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="3a7r" dep="3a7t-punct" n="411">
@@ -1536,11 +1536,11 @@
       <w_ id="3a7s" dep="3a7t-advmod" n="412">
         <w lemma="чисто" ana="adv:compb">чисто</w>
       </w_>
-      <w_ id="3a7t" dep="3a79-advmod" n="413">
+      <w_ id="3a7t" dep="3a7i-flat:sibl" n="413">
         <w lemma="по-чоловічому" ana="adv">по-чоловічому</w>
       </w_>
       <g/>
-      <w_ id="3a7u" n="414">
+      <w_ id="3a7u" dep="3a6m-punct" n="414">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3a7v"/>
@@ -1598,7 +1598,7 @@
       <w_ id="3a8c" dep="3a8d-iobj" n="428">
         <w lemma="домисел" ana="noun:inanim:m:v_dav">домислу</w>
       </w_>
-      <w_ id="3a8d" dep="3a8e-csubj" n="429">
+      <w_ id="3a8d" dep="3a8e-xcomp" comment="#xsubj-is-phantom-iobj" n="429">
         <w lemma="впасти" ana="verb:perf:inf:v-u">впасти</w>
       </w_>
       <multitoken form="ніде">
@@ -1841,7 +1841,7 @@
       <w_ id="3aak" dep="3aal-obj" edep="3aai-ref" n="490">
         <w lemma="який" ana="adj:m:v_zna:ranim:&amp;pron:rel">якого</w>
       </w_>
-      <w_ id="3aal" dep="3aam-ccomp" n="491">
+      <w_ id="3aal" dep="3aam-xcomp" comment="#xsubj-is-phantom-iobj" n="491">
         <w lemma="замінити" ana="verb:perf:inf">замінити</w>
       </w_>
       <multitoken form="ніким">
@@ -1869,7 +1869,7 @@
       <w_ id="3aat" dep="3aau-case" n="494">
         <w lemma="у" ana="prep:rv_rod:v-u">У</w>
       </w_>
-      <w_ id="3aau" dep="3aax-obl" comment="~ чи у мене в фільмі?" n="495">
+      <w_ id="3aau" dep="3aax-obl" comment="~ чи у мене в фільмі? --- а у мене все добре (в квартире газ)" n="495">
         <w lemma="я" ana="noun:anim:s:v_rod:&amp;pron:pers:1">мене</w>
       </w_>
       <w_ id="3aav" dep="3aax-nsubj" edep="3aay-nsubj:x" n="496">
@@ -1988,7 +1988,7 @@
       <w_ id="3abv" dep="3aby-mark" n="527">
         <w lemma="бо" ana="conj:subord">бо</w>
       </w_>
-      <w_ id="3abw" n="528">
+      <w_ id="3abw" dep="3aby-discourse" n="528">
         <w lemma="ж" ana="part">ж</w>
       </w_>
       <w_ id="3abx" dep="3aby-ccomp" n="529">
@@ -2065,7 +2065,7 @@
       <w_ id="3acl" dep="3ack-advmod" n="544">
         <w lemma="ніде" ana="adv:&amp;pron:neg">ніде</w>
       </w_>
-      <w_ id="3acm" n="545">
+      <w_ id="3acm" dep="3ack-obj" n="545">
         <w lemma="ніхто" ana="noun:anim:v_zna:&amp;pron:neg">нікого</w>
       </w_>
       <g/>
@@ -2082,7 +2082,7 @@
     <p id="3acq">
       <gap/>
       <sb id="3acr"/>
-      <w_ id="3acs" n="547">
+      <w_ id="3acs" dep="3act-iobj" n="547">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">Мені</w>
       </w_>
       <multitoken form="нікого">
@@ -2119,7 +2119,7 @@
       <w_ id="3ad3" n="553">
         <w lemma="треба" ana="adv">треба</w>
       </w_>
-      <w_ id="3ad4" dep="3ad3-csubj" n="554">
+      <w_ id="3ad4" dep="3ad3-ccomp" n="554">
         <w lemma="обіймати" ana="verb:imperf:inf">обіймати</w>
       </w_>
       <g/>
@@ -2136,22 +2136,22 @@
     <p id="3ad8">
       <gap/>
       <sb id="3ad9"/>
-      <w_ id="3ada" n="556">
+      <w_ id="3ada" dep="3adc-iobj" n="556">
         <w lemma="ти" ana="noun:anim:s:v_dav:&amp;pron:pers:2">Тобі</w>
       </w_>
-      <w_ id="3adb" n="557">
+      <w_ id="3adb" dep="3adc-advmod" n="557">
         <w lemma="все" ana="adv:v-u">все</w>
       </w_>
       <multitoken form="ніколи">
         <w_ id="3adc">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
-        <w_ id="3add">
+        <w_ id="3add" dep="3adc-xcomp" tags="promoted">
           <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
         </w_>
       </multitoken>
       <g/>
-      <w_ id="3ade" n="559">
+      <w_ id="3ade" dep="3adc-punct" n="559">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3adf"/>
@@ -2164,7 +2164,7 @@
     <p id="3adh">
       <gap/>
       <sb id="3adi"/>
-      <w_ id="3adj" n="560">
+      <w_ id="3adj" dep="3adl-nsubj" edep="3adn-nsubj:x" n="560">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">Мені</w>
       </w_>
       <w_ id="3adk" dep="3adl-advmod" n="561">
@@ -2174,11 +2174,11 @@
         <w_ id="3adl">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
-        <w_ id="3adm" dep="3adn-advmod">
+        <w_ id="3adm" dep="3adn-advmod" hdep="3adn-distrib">
           <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
         </w_>
       </multitoken>
-      <w_ id="3adn" dep="3adl-ccomp" n="563">
+      <w_ id="3adn" dep="3adl-xcomp" n="563">
         <w lemma="зосередитися" ana="verb:rev:perf:inf">зосередитись</w>
       </w_>
       <w_ id="3ado" dep="3adp-cc" n="564">
@@ -2235,7 +2235,7 @@
       <w_ id="3ae5" n="577">
         <w lemma="хто" ana="noun:anim:m:v_zna:&amp;pron:rel">кого</w>
       </w_>
-      <w_ id="3ae6" n="578">
+      <w_ id="3ae6" comment="graft?" n="578">
         <w lemma="заманутися" ana="verb:rev:perf:futr:s:3">заманеться</w>
       </w_>
       <g/>
@@ -2480,7 +2480,7 @@
       <w_ id="3agb" dep="3age-advmod" n="655">
         <w lemma="раніше" ana="adv:compr">раніше</w>
       </w_>
-      <w_ id="3agc" n="656">
+      <w_ id="3agc" dep="3age-iobj" edep="3agg-nsubj:x" n="656">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <w_ id="3agd" dep="3age-aux" n="657">
@@ -2494,7 +2494,7 @@
           <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
         </w_>
       </multitoken>
-      <w_ id="3agg" dep="3age-ccomp" n="659">
+      <w_ id="3agg" dep="3age-xcomp" n="659">
         <w lemma="розповісти" ana="verb:perf:inf">розповісти</w>
       </w_>
       <w_ id="3agh" dep="3agg-iobj" n="660">
@@ -2511,28 +2511,28 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3agl"/>
-      <w_ id="3agm" n="664">
+      <w_ id="3agm" dep="3agq-cc" n="664">
         <w lemma="і" ana="conj:coord">І</w>
       </w_>
-      <w_ id="3agn" n="665">
+      <w_ id="3agn" dep="3agq-advmod" n="665">
         <w lemma="зараз" ana="adv:&amp;pron:dem">зараз</w>
       </w_>
-      <w_ id="3ago" n="666">
+      <w_ id="3ago" dep="3agq-punct" n="666">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="3agp" n="667">
+      <w_ id="3agp" dep="3agq-advmod" n="667">
         <w lemma="теж" ana="adv">теж</w>
       </w_>
       <multitoken form="ніколи">
         <w_ id="3agq">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
-        <w_ id="3agr">
+        <w_ id="3agr" dep="3agq-ccomp" tags="promoted">
           <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
         </w_>
       </multitoken>
       <g/>
-      <w_ id="3ags" n="669">
+      <w_ id="3ags" dep="3agq-punct" n="669">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3agt"/>
@@ -2685,7 +2685,7 @@
     </p>
     <gap/>
     <p id="3ai6">
-      <w_ id="3ai7" n="715">
+      <w_ id="3ai7" dep="3ai9-punct" n="715">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <w_ id="3ai8" dep="3ai9-advmod" n="716">
@@ -2695,7 +2695,7 @@
         <w_ id="3ai9">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
-        <w_ id="3aia">
+        <w_ id="3aia" dep="3ai9-ccomp" tags="promoted">
           <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
         </w_>
       </multitoken>
@@ -2751,7 +2751,7 @@
       <w_ id="3ais" dep="3air-nmod" n="730">
         <w lemma="невідворотне" ana="adj:n:v_rod:&amp;noun:inanim" lemma2="невідворотний">невідворотного</w>
       </w_>
-      <w_ id="3ait" n="731">
+      <w_ id="3ait" dep="3air-nmod" comment="obl:agent for nouns" n="731">
         <w lemma="один" ana="adj:p:v_oru:&amp;pron:ind">одними</w>
       </w_>
       <w_ id="3aiu" dep="3aiv-cc" n="732">
@@ -2767,22 +2767,25 @@
         <w lemma="прийняти" ana="verb:perf:inf">прийняти</w>
       </w_>
       <g/>
-      <w_ id="3aiy" n="736">
+      <w_ id="3aiy" dep="3aj3-punct|3cgw-punct" n="736">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3aiz" n="737">
+      <w_ id="3aiz" dep="3aj3-cc|3cgw-cc" n="737">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="3aj0" n="738">
+      <w_ id="3aj0" dep="3aj3-orphan|3cgw-advmod" n="738">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="3aj1" n="739">
+      <w_ id="3cgw" dep="3aio-conj:parataxis" ellipsis="predicate">
+        <w lemma="йтися" ana="verb:rev:imperf:pres:s:3">йдеться</w>
+      </w_>
+      <w_ id="3aj1" dep="3aj3-punct" comment="#цікаво" n="739">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="3aj2" dep="3aj3-case" n="740">
+      <w_ id="3aj2" dep="3aj3-case" hdep="3aj3-distrib" n="740">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="3aj3" n="741">
+      <w_ id="3aj3" dep="3air-conj:parataxis|3cgw-obl" n="741">
         <w lemma="жертовність" ana="noun:inanim:f:v_zna">жертовність</w>
       </w_>
       <w_ id="3aj4" dep="3aj5-cc" n="742">
@@ -2830,14 +2833,14 @@
       <w_ id="3ajh" dep="3ajj-mark" n="755">
         <w lemma="бо" ana="conj:subord">бо</w>
       </w_>
-      <w_ id="3aji" n="756">
+      <w_ id="3aji" dep="3ajj-advmod" n="756">
         <w lemma="далі" ana="adv">далі</w>
       </w_>
       <multitoken form="нікуди">
-        <w_ id="3ajj">
+        <w_ id="3ajj" dep="3ajb-advcl">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
-        <w_ id="3ajk">
+        <w_ id="3ajk" dep="3ajj-ccomp" tags="promoted">
           <w lemma="куди" ana="adv:&amp;pron:rel">куди</w>
         </w_>
       </multitoken>
@@ -2935,7 +2938,7 @@
         <w lemma="нижче" ana="adv:compr">нижче</w>
       </w_>
       <multitoken form="нікуди">
-        <w_ id="3akg">
+        <w_ id="3akg" comment="graft?">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
         <w_ id="3akh">
@@ -3003,7 +3006,7 @@
       <w_ id="3al1" n="796">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3al2" dep="3al3-case" n="797">
+      <w_ id="3al2" dep="3al3-case" comment="прислівниковий підмет?" n="797">
         <w lemma="далі" ana="prep:rv_rod">далі</w>
       </w_>
       <w_ id="3al3" n="798">
@@ -3123,7 +3126,7 @@
       <w_ id="3am3" dep="3am5-advmod" n="824">
         <w lemma="тоді" ana="adv:&amp;pron:dem">Тоді</w>
       </w_>
-      <w_ id="3am4" n="825">
+      <w_ id="3am4" dep="3am5-iobj" edep="3am7-nsubj:x" n="825">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <multitoken form="нікуди">
@@ -3134,7 +3137,7 @@
           <w lemma="куди" ana="adv:&amp;pron:rel">куди</w>
         </w_>
       </multitoken>
-      <w_ id="3am7" dep="3am5-ccomp" n="827">
+      <w_ id="3am7" dep="3am5-xcomp" n="827">
         <w lemma="йти" ana="verb:imperf:inf">йти</w>
       </w_>
       <g/>
@@ -3278,7 +3281,7 @@
       <w_ id="3ang" dep="3ani-punct" n="863">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3anh" dep="3anl-iobj" edep="3anf-ref" n="864">
+      <w_ id="3anh" dep="3ani-iobj" edep="3anl-nsubj:x|3anf-ref" n="864">
         <w lemma="який" ana="adj:p:v_dav:&amp;pron:rel">яким</w>
       </w_>
       <multitoken form="нічим">
@@ -3292,7 +3295,7 @@
       <w_ id="3ank" dep="3ani-aux" n="866">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
-      <w_ id="3anl" dep="3ani-ccomp" n="867">
+      <w_ id="3anl" dep="3ani-xcomp" n="867">
         <w lemma="платити" ana="verb:imperf:inf">платити</w>
       </w_>
       <g/>
