@@ -2363,7 +2363,7 @@
     <w_ id="0mof" dep="0moe-nmod">
       <w lemma="температура" ana="noun:inanim:f:v_rod">температури</w>
     </w_>
-    <w_ id="0mog" dep="0mo4-parataxis">
+    <w_ id="0mog" dep="0mo8-appos">
       <w lemma="переважати" ana="verb:imperf:pres:p:3">переважають</w>
     </w_>
     <w_ id="0moh" dep="0mog-advmod">
@@ -2403,13 +2403,16 @@
     <w_ id="0mor" dep="0mos-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0mos" dep="0mog-parataxis" tags="promoted">
+    <w_ id="0mos" dep="0mog-conj:parataxis">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
+    </w_>
+    <w_ id="3cgy" ellipsis="predicate">
+      <w lemma="переважати" ana="verb:imperf:pres:p:3">переважають</w>
     </w_>
     <w_ id="0mot" dep="0mou-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0mou" dep="0mos-advmod">
+    <w_ id="0mou" dep="0mos-orphan">
       <w lemma="влітку" ana="adv:v-u">влітку</w>
     </w_>
     <w_ id="0mov" dep="0moz-punct">
@@ -2462,7 +2465,7 @@
     <w_ id="0mp8" dep="0mp9-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0mp9" dep="0mo4-parataxis">
+    <w_ id="0mp9" dep="0mog-conj:upperlevel">
       <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
     </w_>
     <w_ id="0mpa" dep="0mp9-nsubj">
@@ -4963,16 +4966,16 @@
     <w_ id="0ncb" dep="0ncc-amod">
       <w lemma="літній" ana="adj:p:v_rod">літніх</w>
     </w_>
-    <w_ id="0ncc">
+    <w_ id="0ncc" dep="0nch-nsubj">
       <w lemma="людина" ana="noun:anim:p:f:v_rod">людей</w>
     </w_>
-    <w_ id="0ncd">
-      <w lemma="бути" ana="verb:imperf:futr:s:3">буде</w>
+    <w_ id="0ncd" dep="0nch-aux" comment="~ точно не existential?">
+      <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
     </w_>
     <w_ id="0nce" dep="0ncf-case">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="0ncf">
+    <w_ id="0ncf" dep="0nch-obl">
       <w lemma="майбутнє" ana="adj:n:v_mis:&amp;noun:inanim" lemma2="майбутній">майбутньому</w>
     </w_>
     <w_ id="0ncg" dep="0nch-case">
@@ -4990,14 +4993,14 @@
     <w_ id="0nck" dep="0ncl-nummod:gov">
       <w lemma="10" ana="numr:v_naz:nv">10</w>
     </w_>
-    <w_ id="0ncl">
+    <w_ id="0ncl" dep="0ncc-appos">
       <w lemma="%" ana="noun:inanim:p:m:v_rod:nv:symbol">%</w>
     </w_>
     <w_ id="0ncm" dep="0ncl-nmod">
       <w lemma="населення" ana="noun:inanim:n:v_rod">населення</w>
     </w_>
     <g/>
-    <w_ id="0ncn">
+    <w_ id="0ncn" dep="0nch-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
   </p>

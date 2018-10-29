@@ -3064,7 +3064,7 @@
       <w_ id="18fw" dep="18fx-det">
         <w lemma="сам" ana="adj:p:v_rod:&amp;pron:refl">самих</w>
       </w_>
-      <w_ id="18fx" dep="18fz-obl" comment="належить тільки голові">
+      <w_ id="18fx" dep="18fq-nmod" comment="#цікаво">
         <w lemma="себе" ana="noun:v_rod:&amp;pron:refl">себе</w>
       </w_>
       <w_ id="18fy" dep="18fz-punct">
@@ -3102,7 +3102,7 @@
       <w_ id="18g8" dep="18g9-amod">
         <w lemma="тамошній" ana="adj:n:v_rod">тамошнього</w>
       </w_>
-      <w_ id="18g9">
+      <w_ id="18g9" dep="18gb-nsubj" tags="promoted">
         <w lemma="населення" ana="noun:inanim:n:v_rod">населення</w>
       </w_>
       <w_ id="18ga" dep="18gb-punct">
@@ -3133,16 +3133,16 @@
         <w lemma="веселий" ana="adj:f:v_naz:compb">весела</w>
       </w_>
       <g/>
-      <w_ id="18gi">
+      <w_ id="18gi" dep="18gl-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="18gj">
+      <w_ id="18gj" dep="18gl-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
       <w_ id="18gk" dep="18gl-advmod">
         <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
-      <w_ id="18gl">
+      <w_ id="18gl" dep="18gb-parataxis:rel">
         <w lemma="пристати" ana="verb:perf:past:n">пристало</w>
       </w_>
       <w_ id="18gm" dep="18gn-case">
@@ -3160,10 +3160,10 @@
       <w_ id="18gq" dep="18go-conj">
         <w lemma="лицарський" ana="adj:m:v_rod">лицарського</w>
       </w_>
-      <w_ id="18gr">
+      <w_ id="18gr" dep="18gu-amod" comment="~переробити на природніше?">
         <w lemma="45" ana="numr:p:v_rod">45-ти</w>
       </w_>
-      <w_ id="18gs" dep="18gu-amod">
+      <w_ id="18gs" dep="18gr-goeswith">
         <w lemma="мільйоновий" ana="adj:m:v_rod">мільйонового</w>
       </w_>
       <w_ id="18gt" dep="18gu-amod">
@@ -3191,7 +3191,7 @@
         <w lemma="УПА" ana="noun:inanim:f:v_rod:nv:np:abbr">УПА</w>
       </w_>
       <g/>
-      <w_ id="18h1">
+      <w_ id="18h1" dep="18gl-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="18h2"/>

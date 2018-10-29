@@ -203,7 +203,7 @@
       <w_ id="38t4" dep="38t6-nsubj">
         <w lemma="мати" ana="noun:anim:f:v_naz">Мати</w>
       </w_>
-      <w_ id="38t5">
+      <w_ id="38t5" dep="38t6-discourse">
         <w lemma="просто" ana="part">просто</w>
       </w_>
       <w_ id="38t6">
@@ -233,23 +233,23 @@
         <w lemma="припрошувати" ana="verb:imperf:pres:s:3">припрошує</w>
       </w_>
       <g/>
-      <w_ id="38te">
+      <w_ id="38te" dep="38ti-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="38tf">
-        <w lemma="-" ana="punct">-</w>
+      <w_ id="38tf" dep="38ti-punct">
+        <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="38tg">
+      <w_ id="38tg" dep="38ti-mark">
         <w lemma="адже" ana="conj:subord">адже</w>
       </w_>
-      <w_ id="38th">
+      <w_ id="38th" dep="38ti-det" comment="не предикація">
         <w lemma="такий" ana="adj:f:v_naz:&amp;pron:dem">така</w>
       </w_>
-      <w_ id="38ti">
+      <w_ id="38ti" dep="38t6-advcl" comment="#orphanless-elision">
         <w lemma="подія" ana="noun:inanim:f:v_naz">подія</w>
       </w_>
       <g/>
-      <w_ id="38tj">
+      <w_ id="38tj" dep="38t6-punct">
         <w lemma="!" ana="punct">!</w>
       </w_>
     </p>
@@ -287,7 +287,7 @@
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="38tw" dep="38tx-punct">
-        <w lemma="-" ana="punct">-</w>
+        <w lemma="-" ana="punct:dash">-</w>
       </w_>
       <w_ id="38tx" dep="38to-parataxis">
         <w lemma="почути" ana="verb:perf:past:f">почула</w>
