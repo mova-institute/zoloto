@@ -5776,10 +5776,10 @@
       <w_ id="1to0" dep="1to2-amod">
         <w lemma="сердечний" ana="adj:f:v_naz:compb">сердечна</w>
       </w_>
-      <w_ id="1to1" dep="1to2-nmod" comment="~ справді просто noun phrase">
+      <w_ id="1to1" comment="~ справді просто noun phrase?">
         <w lemma="ви" ana="noun:anim:p:v_dav:&amp;pron:pers:2">Вам</w>
       </w_>
-      <w_ id="1to2" comment="слава україні">
+      <w_ id="1to2" dep="1to1-nsubj">
         <w lemma="подяка" ana="noun:inanim:f:v_naz">подяка</w>
       </w_>
       <w_ id="1to3" dep="1to4-case">
@@ -5823,7 +5823,7 @@
         <w lemma="Поттер" ana="noun:anim:m:v_oru:prop:lname">Поттером</w>
       </w_>
       <g/>
-      <w_ id="1tog" dep="1to2-punct">
+      <w_ id="1tog" dep="1to1-punct">
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="1toh"/>
