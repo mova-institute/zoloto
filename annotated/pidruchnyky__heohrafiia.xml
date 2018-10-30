@@ -895,7 +895,7 @@
     <w_ id="0maw" dep="0max-case">
       <w lemma="завдяки" ana="prep:rv_dav">завдяки</w>
     </w_>
-    <w_ id="0max" dep="0maz-obl" edep="0mas-ref">
+    <w_ id="0max" dep="0maz-obl" comment="#цікаво: distributive ref" edep="0mas-ref" hdep="0mas-distrib">
       <w lemma="який" ana="adj:p:v_dav:&amp;pron:rel">яким</w>
     </w_>
     <w_ id="0may" dep="0maz-nsubj">
@@ -2397,22 +2397,22 @@
       <w lemma=")" ana="punct">)</w>
     </w_>
     <g/>
-    <w_ id="0moq" dep="0mos-punct">
+    <w_ id="0moq" dep="0mos-punct|3cgy-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0mor" dep="0mos-cc">
+    <w_ id="0mor" dep="0mos-cc|3cgy-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0mos" dep="0mog-conj:parataxis">
+    <w_ id="0mos" dep="0mog-conj:parataxis|3cgy-nsubj">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
     </w_>
-    <w_ id="3cgy" ellipsis="predicate">
+    <w_ id="3cgy" dep="0mog-conj:parataxis" ellipsis="predicate">
       <w lemma="переважати" ana="verb:imperf:pres:p:3">переважають</w>
     </w_>
     <w_ id="0mot" dep="0mou-punct">
       <w lemma="—" ana="punct">—</w>
     </w_>
-    <w_ id="0mou" dep="0mos-orphan">
+    <w_ id="0mou" dep="0mos-orphan|3cgy-advmod">
       <w lemma="влітку" ana="adv:v-u">влітку</w>
     </w_>
     <w_ id="0mov" dep="0moz-punct">

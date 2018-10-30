@@ -1285,13 +1285,13 @@
     <w_ id="2lwu" dep="2lwo-nmod" n="398">
       <w lemma="світ" ana="noun:inanim:m:v_mis">світі</w>
     </w_>
-    <w_ id="2lwv" dep="2lww-cc" n="399">
+    <w_ id="2lwv" dep="2lww-cc|3cgz-cc" n="399">
       <w lemma="та" ana="conj:coord">та</w>
     </w_>
-    <w_ id="3cgz" ellipsis="predicate">
+    <w_ id="3cgz" dep="2lwo-conj" ellipsis="predicate">
       <w lemma="посідати" ana="verb:imperf:pres:s:3">посідає</w>
     </w_>
-    <w_ id="2lww" dep="2lwo-conj" tags="promoted" comment="змагається з flat:sibl" n="400">
+    <w_ id="2lww" dep="2lwo-conj|3cgz-obj" tags="promoted" comment="змагається з flat:sibl" n="400">
       <w lemma="1-й" ana="adj:n:v_zna:&amp;numr">1-е</w>
     </w_>
     <w_ id="2lwx" dep="2lwz-punct" n="401">
@@ -1300,7 +1300,7 @@
     <w_ id="2lwy" dep="2lwz-case" n="402">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="2lwz" dep="2lww-orphan" n="403">
+    <w_ id="2lwz" dep="2lww-orphan|3cgz-obl" n="403">
       <w lemma="Азія" ana="noun:inanim:f:v_mis:prop">Азії</w>
     </w_>
     <g/>
@@ -1695,7 +1695,7 @@
     <w_ id="2m0g" dep="2m0h-amod" n="521">
       <w lemma="1985" ana="adj:m:v_mis:nv:&amp;numr">1985</w>
     </w_>
-    <w_ id="2m0h" dep="2m0l-orphan" n="522">
+    <w_ id="2m0h" dep="2m0l-orphan|3ch0-obl" n="522">
       <w lemma="рік" ana="noun:inanim:m:v_mis">році</w>
     </w_>
     <w_ id="3ch0" ellipsis="predicate">
@@ -1710,7 +1710,7 @@
     <w_ id="2m0k" dep="2m0l-nummod:gov" n="525">
       <w lemma="6500" ana="numr:v_zna:nv">6500</w>
     </w_>
-    <w_ id="2m0l" n="526">
+    <w_ id="2m0l" dep="3ch0-obj" n="526">
       <w lemma="дол." ana="noun:inanim:p:m:v_rod:nv:abbr">дол</w>
     </w_>
     <g/>
@@ -1721,7 +1721,7 @@
       <w lemma="США" ana="noun:inanim:p:v_rod:nv:ns:prop">США</w>
     </w_>
     <g/>
-    <w_ id="2m0o" dep="2m0l-punct" n="529">
+    <w_ id="2m0o" dep="2m0l-punct|3ch0-punct" n="529">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2m0p"/>
