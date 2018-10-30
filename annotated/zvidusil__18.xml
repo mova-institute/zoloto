@@ -660,7 +660,7 @@
       <w_ id="2azf" dep="2azg-case">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2azg" dep="2azk-obl" coref="2azd-equality">
+      <w_ id="2azg" dep="2azk-obl" comment="obl:agent" coref="2azd-equality">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ id="2azh" dep="2azi-case">
@@ -2864,14 +2864,14 @@
       <w_ id="2cjg" dep="2cjh-discourse">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="2cjh" dep="2cjl-iobj">
+      <w_ id="2cjh" dep="2cjl-iobj:agent" comment="чи з _треба_?">
         <w lemma="себе" ana="noun:v_dav:&amp;pron:refl">собі</w>
       </w_>
       <g/>
       <w_ id="2cji" dep="2cjj-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2cjj" dep="2cjl-parataxis:discourse">
+      <w_ id="2cjj" dep="2cjf-parataxis:discourse">
         <w lemma="думати" ana="verb:imperf:pres:s:1">думаю</w>
       </w_>
       <g/>

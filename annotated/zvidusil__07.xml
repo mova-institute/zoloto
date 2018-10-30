@@ -3909,7 +3909,7 @@
       <w_ id="1t6x" dep="1t6y-nsubj">
         <w lemma="автограф" ana="noun:inanim:p:m:v_naz">автографи</w>
       </w_>
-      <w_ id="1t6y">
+      <w_ id="1t6y" comment="це граматична помилка (дорожчі)">
         <w lemma="дорожче" ana="adv:compr">дорожче</w>
       </w_>
       <w_ id="1t6z" dep="1t70-case">
@@ -4329,7 +4329,7 @@
       <w_ id="1taq" dep="1tas-discourse">
         <w lemma="просто" ana="part">Просто</w>
       </w_>
-      <w_ id="1tar" dep="1tas-obj">
+      <w_ id="1tar" dep="1tas-iobj:agent" edep="1tat-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <w_ id="1tas">
@@ -6419,7 +6419,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1tu1"/>
-      <w_ id="1tu2" dep="1tu3-iobj">
+      <w_ id="1tu2" dep="1tu3-iobj:agent" edep="1tu4-nsubj:x">
         <w lemma="ви" ana="noun:anim:p:v_dav:&amp;pron:pers:2">Вам</w>
       </w_>
       <w_ id="1tu3">

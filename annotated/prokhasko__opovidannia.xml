@@ -153,7 +153,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0qsq"/>
-    <w_ id="0qsr" dep="0qsu-obj" coref="0qrz-equality">
+    <w_ id="0qsr" dep="0qsu-iobj:agent" coref="0qrz-equality">
       <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">Їм</w>
     </w_>
     <w_ id="0qss">
@@ -2749,7 +2749,7 @@
     <w_ id="0rgh" dep="0rgg-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0rgi" dep="0rgg-iobj" comment="~">
+    <w_ id="0rgi" dep="0rgg-iobj:agent" comment="~" edep="0rgj-nsubj:x">
       <w lemma="ніхто" ana="noun:anim:v_dav:&amp;pron:neg">нікому</w>
     </w_>
     <w_ id="0rgj" dep="0rgg-csubj">
@@ -7571,7 +7571,7 @@
     <w_ id="0sp2" dep="0sp6-advmod" mark="resolved">
       <w lemma="тому" ana="adv:&amp;pron:dem:xp2">Тому</w>
     </w_>
-    <w_ id="0sp3" dep="0sp6-obj">
+    <w_ id="0sp3" dep="0sp6-iobj:agent">
       <w lemma="ми" ana="noun:anim:p:v_dav:&amp;pron:pers:1">нам</w>
     </w_>
     <w_ id="0sp4" dep="0sp6-cop">
@@ -11256,7 +11256,7 @@
     <w_ id="0tn7" dep="0tn8-mark">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ id="0tn8" dep="0tn4-acl">
+    <w_ id="0tn8" dep="0tn4-acl" comment="~">
       <w lemma="брат" ana="noun:anim:m:v_naz">брат</w>
     </w_>
     <g/>
@@ -13123,16 +13123,16 @@
     <w_ id="0u4f" dep="0u4h-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0u4g" dep="0u4j-obj">
+    <w_ id="0u4g" dep="0u4h-iobj:agent" edep="0u4j-nsubj:x">
       <w lemma="який" ana="adj:m:v_dav:&amp;pron:rel">якому</w>
     </w_>
     <w_ id="0u4h" dep="0u4e-acl:relfull">
       <w lemma="треба" ana="adv">треба</w>
     </w_>
-    <w_ id="0u4i" dep="0u4h-cop">
+    <w_ id="0u4i" dep="0u4h-aux">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0u4j" dep="0u4h-csubj">
+    <w_ id="0u4j" dep="0u4h-ccomp">
       <w lemma="поїхати" ana="verb:perf:inf">поїхати</w>
     </w_>
     <w_ id="0u4k" dep="0u4j-obl">
@@ -20848,7 +20848,7 @@
     <w_ id="0w3t" dep="0w3r-nmod">
       <w lemma="країна" ana="noun:inanim:p:f:v_rod">країн</w>
     </w_>
-    <w_ id="0w3u" dep="0w3v-punct">
+    <w_ id="0w3u" dep="0w3v-punct" comment="#цікаво: тире а не дефіс, щоб не було _країнучасниць дорговору_">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
     <w_ id="0w3v" dep="0w3t-appos">
@@ -22449,7 +22449,7 @@
     <w_ id="0wik" dep="0wij-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0wil" dep="0wim-obl" mark="resolved">
+    <w_ id="0wil" dep="0wim-iobj:agent" mark="resolved">
       <w lemma="сам" ana="adj:m:v_dav:&amp;pron:refl">самому</w>
     </w_>
     <w_ id="0wim" dep="0wij-csubj">
