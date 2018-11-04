@@ -147,16 +147,16 @@
       <w lemma="геть" ana="adv">геть</w>
     </w_>
     <g/>
-    <w_ id="02yu" dep="02yx-punct">
+    <w_ id="02yu" dep="02yv-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="02yv" dep="02yx-advmod">
+    <w_ id="02yv" dep="02yt-appos">
       <w lemma="десь" ana="adv:&amp;pron:ind">десь</w>
     </w_>
     <w_ id="02yw" dep="02yx-case">
       <w lemma="під" ana="prep:rv_zna">під</w>
     </w_>
-    <w_ id="02yx" dep="02yl-obl" comment="adv прикладка?">
+    <w_ id="02yx" dep="02yv-appos:spec">
       <w lemma="небо" ana="noun:inanim:n:v_zna:np">небо</w>
     </w_>
     <w_ id="02yy" dep="02yz-cc">
@@ -214,13 +214,13 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="02zg"/>
-    <w_ id="02zh" dep="02zj-advmod">
+    <w_ id="02zh" dep="02zk-advmod">
       <w lemma="слідком" ana="adv">Слідком</w>
     </w_>
     <w_ id="02zi" dep="02zj-case">
       <w lemma="за" ana="prep:rv_oru">за</w>
     </w_>
-    <w_ id="02zj" dep="02zk-obl" coref="02yc-equality">
+    <w_ id="02zj" dep="02zh-appos:spec" coref="02yc-equality">
       <w lemma="кедр" ana="noun:inanim:p:m:v_oru">кедрами</w>
     </w_>
     <w_ id="02zk">
@@ -389,7 +389,7 @@
     <w_ id="0310" dep="0311-amod">
       <w lemma="четвертий" ana="adj:m:v_mis:&amp;numr">четвертому</w>
     </w_>
-    <w_ id="0311" dep="030x-appos:nonnom" comment="неіменникова прикладка?">
+    <w_ id="0311" dep="030x-appos">
       <w lemma="ярус" ana="noun:inanim:m:v_mis">ярусі</w>
     </w_>
     <w_ id="0312" dep="0311-punct">
@@ -398,7 +398,7 @@
     <w_ id="0313" dep="0314-amod">
       <w lemma="суцільний" ana="adj:m:v_naz">суцільний</w>
     </w_>
-    <w_ id="0314" tags="promoted">
+    <w_ id="0314">
       <w lemma="хаос" ana="noun:inanim:m:v_naz">хаос</w>
     </w_>
     <g/>
@@ -641,7 +641,7 @@
     <w_ id="033a" dep="033b-case">
       <w lemma="по" ana="prep:rv_mis">по</w>
     </w_>
-    <w_ id="033b" dep="033d-obl" comment="appos?">
+    <w_ id="033b" dep="0338-appos">
       <w lemma="земля" ana="noun:inanim:f:v_mis">землі</w>
     </w_>
     <g/>

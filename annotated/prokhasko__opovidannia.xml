@@ -153,7 +153,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0qsq"/>
-    <w_ id="0qsr" dep="0qsu-iobj:agent" coref="0qrz-equality">
+    <w_ id="0qsr" dep="0qsu-iobj" tags="iobj-agent promoted" coref="0qrz-equality">
       <w lemma="вони" ana="noun:p:v_dav:&amp;pron:pers:3">Їм</w>
     </w_>
     <w_ id="0qss">
@@ -2749,7 +2749,7 @@
     <w_ id="0rgh" dep="0rgg-cop">
       <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0rgi" dep="0rgg-iobj:agent" comment="~" edep="0rgj-nsubj:x">
+    <w_ id="0rgi" dep="0rgg-iobj" tags="iobj-agent promoted" comment="~" edep="0rgj-nsubj:x">
       <w lemma="ніхто" ana="noun:anim:v_dav:&amp;pron:neg">нікому</w>
     </w_>
     <w_ id="0rgj" dep="0rgg-csubj">
@@ -7571,7 +7571,7 @@
     <w_ id="0sp2" dep="0sp6-advmod" mark="resolved">
       <w lemma="тому" ana="adv:&amp;pron:dem:xp2">Тому</w>
     </w_>
-    <w_ id="0sp3" dep="0sp6-iobj:agent">
+    <w_ id="0sp3" dep="0sp6-iobj" tags="iobj-agent promoted">
       <w lemma="ми" ana="noun:anim:p:v_dav:&amp;pron:pers:1">нам</w>
     </w_>
     <w_ id="0sp4" dep="0sp6-cop">
@@ -13123,7 +13123,7 @@
     <w_ id="0u4f" dep="0u4h-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0u4g" dep="0u4h-iobj:agent" edep="0u4j-nsubj:x">
+    <w_ id="0u4g" dep="0u4h-iobj" tags="iobj-agent promoted" edep="0u4j-nsubj:x">
       <w lemma="який" ana="adj:m:v_dav:&amp;pron:rel">якому</w>
     </w_>
     <w_ id="0u4h" dep="0u4e-acl:relfull">
@@ -21007,7 +21007,7 @@
     <w_ id="0w5a">
       <w lemma="бігти" ana="verb:imperf:past:m">біг</w>
     </w_>
-    <w_ id="0w5b" dep="0w5a-advmod" comment="~">
+    <w_ id="0w5b" dep="0w5d-advmod" comment="~">
       <w lemma="разом" ana="adv">разом</w>
     </w_>
     <w_ id="0w5c" dep="0w5d-case">

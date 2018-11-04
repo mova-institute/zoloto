@@ -831,10 +831,13 @@
     <w_ id="02g4" dep="02g5-discourse">
       <w lemma="тільки" ana="part">Тільки</w>
     </w_>
-    <w_ id="02g5" tags="promoted">
+    <w_ id="02g5">
       <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2:formal">Ви</w>
     </w_>
-    <w_ id="02g6" dep="02g5-advmod">
+    <w_ id="3ch2" ellipsis="predicate">
+      <w lemma="бути" ana="verb:imperf:impr:p:2">будьте</w>
+    </w_>
+    <w_ id="02g6" dep="02g5-orphan">
       <w lemma="тихенько" ana="adv">тихенько</w>
     </w_>
     <g/>
@@ -1046,16 +1049,16 @@
     <w_ id="02i2" dep="02i5-cc">
       <w lemma="і" ana="conj:coord">І</w>
     </w_>
-    <w_ id="02i3" dep="02i5-advmod" comment="# де предикація?">
+    <w_ id="02i3" dep="02i5-advmod">
       <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
     </w_>
     <w_ id="02i4" dep="02i5-amod">
       <w lemma="повнісінький" ana="adj:f:v_naz">повнісінька</w>
     </w_>
-    <w_ id="02i5" tags="promoted">
+    <w_ id="02i5">
       <w lemma="тюрма" ana="noun:inanim:f:v_naz">тюрма</w>
     </w_>
-    <w_ id="02i6" dep="02i4-obj">
+    <w_ id="02i6" dep="02i5-nsubj">
       <w lemma="такий" ana="adj:p:v_rod:&amp;pron:dem">таких</w>
     </w_>
     <g/>
