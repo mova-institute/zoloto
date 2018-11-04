@@ -142,7 +142,7 @@
           <w_ id="14gw" dep="14gx-cc">
             <w lemma="і" ana="conj:coord">І</w>
           </w_>
-          <w_ id="14gx" mark="resolved">
+          <w_ id="14gx" dep="14h2-nsubj" mark="resolved">
             <w lemma="перше" ana="adj:n:v_zna:compb:&amp;numr:&amp;noun:inanim" lemma2="перший">перше</w>
           </w_>
           <g/>
@@ -158,7 +158,7 @@
           <w_ id="14h1" dep="14h2-punct">
             <w lemma="—" ana="punct:dash">—</w>
           </w_>
-          <w_ id="14h2" dep="14gx-nsubj">
+          <w_ id="14h2" comment="дивний відмінок присудка">
             <w lemma="хата" ana="noun:inanim:f:v_zna">хату</w>
           </w_>
           <w_ id="14h3" dep="14h2-nmod" mark="resolved">
@@ -168,7 +168,7 @@
             <w lemma="Ярковий" ana="noun:anim:m:v_rod:prop:lname">Яркового</w>
           </w_>
           <g/>
-          <w_ id="14h5" dep="14gx-punct">
+          <w_ id="14h5" dep="14h2-punct">
             <w lemma="." ana="punct">.</w>
           </w_>
           <sb id="14h6"/>

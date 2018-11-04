@@ -2247,8 +2247,8 @@
       <w_ id="29w6" dep="29w0-conj">
         <w lemma="оплата" ana="noun:inanim:f:v_zna">оплату</w>
       </w_>
-      <w_ id="29w7" dep="29w6-nmod">
-        <w lemma="борг" ana="noun:inanim:p:m:v_rod">боргів</w>
+      <w_ id="29w7" dep="29w6-nmod" correct="боргу">
+        <w lemma="борг" ana="noun:inanim:m:v_rod">боргів</w>
       </w_>
       <w_ id="29w8" dep="29w7-nmod">
         <w lemma="Єлизавета" ana="noun:anim:f:v_rod:prop:fname">Єлизавети</w>
@@ -2260,7 +2260,7 @@
       <w_ id="29wa" dep="29wb-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="29wb">
+      <w_ id="29wb" dep="29w7-acl">
         <w lemma="виражатися" ana="verb:rev:imperf:past:m">виражався</w>
       </w_>
       <w_ id="29wc" dep="29wd-case">
@@ -2276,7 +2276,7 @@
         <w lemma="рубль" ana="noun:inanim:p:m:v_rod">рублів</w>
       </w_>
       <g/>
-      <w_ id="29wg">
+      <w_ id="29wg" dep="29vx-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="29wh"/>

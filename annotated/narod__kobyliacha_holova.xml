@@ -3315,7 +3315,7 @@
     <w_ id="0b35" dep="0b36-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0b36">
+    <w_ id="0b36" dep="0b34-flat:repeat" comment="~ паралельно?">
       <w lemma="дівка" ana="noun:anim:f:v_kly">дівко</w>
     </w_>
     <g/>
@@ -5866,14 +5866,14 @@
     <w_ id="0bre" dep="0brf-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0brf">
+    <w_ id="0brf" dep="0brb-conj">
       <w lemma="розсердитися" ana="verb:rev:perf:past:f">розсердилась</w>
     </w_>
     <g/>
     <w_ id="0brg" dep="0brh-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0brh">
+    <w_ id="0brh" dep="0brb-conj">
       <w lemma="перебити" ana="verb:perf:past:f">перебила</w>
     </w_>
     <w_ id="0bri" dep="0brh-iobj">
@@ -5883,7 +5883,7 @@
       <w lemma="нога" ana="noun:inanim:f:v_zna">ногу</w>
     </w_>
     <g/>
-    <w_ id="0brk">
+    <w_ id="0brk" dep="0brb-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0brl"/>

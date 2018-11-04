@@ -3959,10 +3959,10 @@
       <w_ id="31qj" dep="31qn-nsubj" n="1191">
         <w lemma="ціна" ana="noun:inanim:p:f:v_naz">ціни</w>
       </w_>
-      <w_ id="31qk" n="1192">
+      <w_ id="31qk" dep="31ql-advmod" n="1192">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="31ql" n="1193">
+      <w_ id="31ql" dep="31qn-iobj" n="1193">
         <w lemma="кожний" ana="adj:m:v_dav:&amp;pron:gen">кожному</w>
       </w_>
       <w_ id="31qm" dep="31qn-case" n="1194">
@@ -5655,7 +5655,7 @@
       <w_ id="326f" dep="326g-aux" n="1706">
         <w lemma="бути" ana="verb:aux:imperf:futr:p:2">будете</w>
       </w_>
-      <w_ id="326g" n="1707">
+      <w_ id="326g" dep="3269-conj" comment="з приводу де будете?" n="1707">
         <w lemma="проживати" ana="verb:imperf:inf">проживати</w>
       </w_>
       <w_ id="326h" dep="326i-advmod" n="1708">
@@ -5875,16 +5875,16 @@
       <w_ id="328g" dep="328e-dislocated" n="1772">
         <w lemma="правда" ana="noun:inanim:f:v_naz">правда</w>
       </w_>
-      <w_ id="328h" n="1773">
+      <w_ id="328h" dep="328j-cc" n="1773">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
       <w_ id="328i" dep="328j-discourse" n="1774">
         <w lemma="лише" ana="part">лише</w>
       </w_>
-      <w_ id="328j" n="1775">
+      <w_ id="328j" dep="328e-conj:parataxis" tags="itsubj" n="1775">
         <w lemma="гірше" ana="adv:compr">гірше</w>
       </w_>
-      <w_ id="328k" n="1776">
+      <w_ id="328k" dep="328j-cop" n="1776">
         <w lemma="бути" ana="verb:aux:imperf:futr:s:3">буде</w>
       </w_>
       <g/>
@@ -7250,7 +7250,7 @@
         <w lemma="тема" ana="noun:inanim:f:v_zna">тему</w>
       </w_>
       <g/>
-      <w_ id="32l6" n="2181">
+      <w_ id="32l6" dep="32l3-punct" n="2181">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="32l7"/>
