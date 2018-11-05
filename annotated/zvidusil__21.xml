@@ -15,7 +15,7 @@
       <w_ id="2gn1" dep="2gn2-case" n="3">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2gn2" n="4">
+      <w_ id="2gn2" dep="2gn0-nmod" n="4">
         <w lemma="чоловік" ana="noun:anim:p:m:v_rod">чоловіків</w>
       </w_>
       <w_ id="2gn3" dep="2gn5-case" n="5">
@@ -25,7 +25,7 @@
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
-      <w_ id="2gn5" n="7">
+      <w_ id="2gn5" dep="2gn7-obl" n="7">
         <w lemma="республіка" ana="noun:inanim:f:v_mis">республіці</w>
       </w_>
       <g/>
@@ -36,7 +36,7 @@
         <w lemma="кілька" ana="numr:v_naz:&amp;pron:ind">кілька</w>
       </w_>
       <g/>
-      <w_ id="2gn8" n="10">
+      <w_ id="2gn8" dep="2gn7-punct" n="10">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2gn9"/>
@@ -93,7 +93,7 @@
       <w_ id="2gnq" dep="2gnr-punct" n="27">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="2gnr" n="28">
+      <w_ id="2gnr" dep="2gnn-dislocated" n="28">
         <w lemma="винищування" ana="noun:inanim:n:v_naz">винищування</w>
       </w_>
       <w_ id="2gns" dep="2gnu-det" n="29">
@@ -739,10 +739,10 @@
       <w_ id="2gto" dep="2gts-mark" n="226">
         <w lemma="аби" ana="conj:subord">аби</w>
       </w_>
-      <w_ id="2gtp" n="227">
+      <w_ id="2gtp" dep="2gtq-advmod" n="227">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2gtq" n="228">
+      <w_ id="2gtq" dep="2gts-advmod:det" n="228">
         <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
       </w_>
       <w_ id="2gtr" dep="2gts-cop" n="229">

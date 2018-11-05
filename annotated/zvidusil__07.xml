@@ -737,7 +737,7 @@
       <w_ id="1sdb">
         <w lemma="піти" ana="verb:perf:past:m">пішов</w>
       </w_>
-      <w_ id="1sdc" dep="1sdb-ccomp">
+      <w_ id="1sdc" dep="1sdb-advcl:svc">
         <w lemma="подивитися" ana="verb:rev:perf:past:m">подивився</w>
       </w_>
       <w_ id="1sdd" dep="1sde-case">
@@ -749,49 +749,49 @@
       <w_ id="1sdf" dep="1sdc-obj">
         <w lemma="вміст" ana="noun:inanim:m:v_zna:v-u">вміст</w>
       </w_>
-      <w_ id="1sdg">
+      <w_ id="1sdg" dep="1sdf-nmod">
         <w lemma="/dev" ana="sym">/dev</w>
       </w_>
       <g/>
-      <w_ id="1sdh">
+      <w_ id="1sdh" dep="1sdk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1sdi">
+      <w_ id="1sdi" dep="1sdk-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="1sdj">
+      <w_ id="1sdj" dep="1sdi-fixed">
         <w lemma="також" ana="adv">також</w>
       </w_>
-      <w_ id="1sdk">
+      <w_ id="1sdk" dep="1sdf-conj">
         <w lemma="mount" ana="x:foreign">mount</w>
       </w_>
-      <w_ id="1sdl">
+      <w_ id="1sdl" dep="38vg-discourse">
         <w lemma="-" ana="punct:hyphen">-</w>
       </w_>
-      <w_ id="38vg">
+      <w_ id="38vg" dep="1sdk-flat:foreign">
         <w lemma="l" ana="x:foreign">l</w>
       </w_>
       <g/>
-      <w_ id="1sdm">
+      <w_ id="1sdm" dep="1sdo-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1sdn">
+      <w_ id="1sdn" dep="1sdo-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="1sdo">
+      <w_ id="1sdo" dep="1sdk-appos" comment="чи паратакса?">
         <w lemma="перелічувати" ana="verb:imperf:pres:s:3">перелічує</w>
       </w_>
-      <w_ id="1sdp">
+      <w_ id="1sdp" dep="1sdr-amod">
         <w lemma="змонтований" ana="adj:p:v_zna:rinanim:&amp;adjp:perf:pasv">змонтовані</w>
       </w_>
-      <w_ id="1sdq">
+      <w_ id="1sdq" dep="1sdr-compound">
         <w lemma="ФС" ana="noun:inanim:f:v_oru:nv:abbr:auto">фс</w>
       </w_>
-      <w_ id="1sdr">
+      <w_ id="1sdr" dep="1sdo-obj">
         <w lemma="дерево" ana="noun:inanim:p:n:v_zna">дерева</w>
       </w_>
       <g/>
-      <w_ id="1sds">
+      <w_ id="1sds" dep="1sdb-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -801,16 +801,16 @@
     <gap/>
     <p id="1sdv">
       <sb id="1sdw"/>
-      <w_ id="1sdx" dep="1sdz-advmod">
+      <w_ id="1sdx" dep="1sdz-advmod" hdep="1sdz-distrib">
         <w lemma="далі" ana="adv">Далі</w>
       </w_>
-      <w_ id="1sdy" dep="1sdz-nsubj">
+      <w_ id="1sdy" dep="1sdz-nsubj" hdep="1sdz-distrib">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="1sdz">
         <w lemma="брати" ana="verb:imperf:pres:s:3">бере</w>
       </w_>
-      <w_ id="1se0" dep="1sdz-obj" tags="promoted">
+      <w_ id="1se0" dep="1sdz-obj" tags="promoted" hdep="1sdz-private">
         <w lemma="кожний" ana="adj:m:v_zna:rinanim:short:&amp;pron:gen">кожен</w>
       </w_>
       <w_ id="1se1" dep="1se3-case">
@@ -938,83 +938,83 @@
       <w_ id="1sf4" dep="1sf3-nmod">
         <w lemma="словник" ana="noun:inanim:m:v_rod">словника</w>
       </w_>
-      <w_ id="1sf5">
+      <w_ id="1sf5" dep="1sf7-punct">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="1sf6">
+      <w_ id="1sf6" dep="1sf7-mark">
         <w lemma="тобто" ana="conj:subord">тобто</w>
       </w_>
-      <w_ id="1sf7">
+      <w_ id="1sf7" dep="1sf4-appos">
         <w lemma="об’єднання" ana="noun:inanim:n:v_rod">об'єднання</w>
       </w_>
-      <w_ id="1sf8">
+      <w_ id="1sf8" dep="1sf7-nmod">
         <w lemma="множина" ana="noun:inanim:p:f:v_rod">множин</w>
       </w_>
-      <w_ id="1sf9">
+      <w_ id="1sf9" dep="1sf8-nmod">
         <w lemma="клас" ana="noun:inanim:p:m:v_rod">класів</w>
       </w_>
-      <w_ id="1sfa">
+      <w_ id="1sfa" dep="1sfb-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1sfb">
+      <w_ id="1sfb" dep="1sfe-nmod">
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="1sfc">
+      <w_ id="1sfc" dep="1sf9-acl">
         <w lemma="бути" ana="verb:imperf:pres:p:3">є</w>
       </w_>
-      <w_ id="1sfd">
+      <w_ id="1sfd" dep="1sfe-discourse">
         <w lemma="лише" ana="part">лише</w>
       </w_>
-      <w_ id="1sfe">
+      <w_ id="1sfe" dep="1sfc-nsubj">
         <w lemma="посилання" ana="noun:inanim:p:n:v_naz">посилання</w>
       </w_>
       <g/>
-      <w_ id="1sff">
+      <w_ id="1sff" dep="1sfi-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1sfg">
+      <w_ id="1sfg" dep="1sfh-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="1sfh">
+      <w_ id="1sfh" dep="1sfj-nmod">
         <w lemma="який" ana="adj:p:v_mis:&amp;pron:rel">яких</w>
       </w_>
-      <w_ id="1sfi">
+      <w_ id="1sfi" dep="1sfc-conj">
         <w lemma="бути" ana="verb:imperf:pres:p:3">є</w>
       </w_>
-      <w_ id="1sfj">
+      <w_ id="1sfj" dep="1sfi-nsubj">
         <w lemma="зразок" ana="noun:inanim:p:m:v_naz">зразки</w>
       </w_>
-      <w_ id="1sfk">
+      <w_ id="1sfk" dep="1sfn-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1sfl">
+      <w_ id="1sfl" dep="1sfm-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="1sfm">
+      <w_ id="1sfm" dep="1sfp-nmod" comment="~">
         <w lemma="який" ana="adj:p:v_mis:&amp;pron:rel">яких</w>
       </w_>
-      <w_ id="1sfn">
+      <w_ id="1sfn" dep="1sfc-conj">
         <w lemma="бути" ana="verb:imperf:pres:s:3">є</w>
       </w_>
-      <w_ id="1sfo">
+      <w_ id="1sfo" dep="1sfp-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1sfp">
+      <w_ id="1sfp" dep="1sfn-nsubj">
         <w lemma="те" ana="noun:inanim:n:v_naz:&amp;pron:dem">те</w>
       </w_>
-      <w_ id="1sfq">
+      <w_ id="1sfq" dep="1sfr-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1sfr">
+      <w_ id="1sfr" dep="1sfp-conj">
         <w lemma="інше" ana="adj:n:v_naz:&amp;pron:ind:&amp;noun:inanim" lemma2="інший">інше</w>
       </w_>
       <g/>
-      <w_ id="1sfs">
+      <w_ id="1sfs" dep="1sf7-punct">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
-      <w_ id="1sft">
+      <w_ id="1sft" dep="1sf3-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1sfu"/>

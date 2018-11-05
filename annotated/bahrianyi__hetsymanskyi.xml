@@ -825,23 +825,23 @@
   </p>
   <p id="02g1">
     <sb id="02g2"/>
-    <w_ id="02g3" dep="02g5-punct">
+    <w_ id="02g3" dep="02g5-punct|3ch2-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="02g4" dep="02g5-discourse">
+    <w_ id="02g4" dep="02g5-discourse|3ch2-discourse">
       <w lemma="тільки" ana="part">Тільки</w>
     </w_>
-    <w_ id="02g5">
+    <w_ id="02g5" dep="3ch2-nsubj">
       <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2:formal">Ви</w>
     </w_>
     <w_ id="3ch2" ellipsis="predicate">
       <w lemma="бути" ana="verb:imperf:impr:p:2">будьте</w>
     </w_>
-    <w_ id="02g6" dep="02g5-orphan">
+    <w_ id="02g6" dep="02g5-orphan|3ch2-advmod">
       <w lemma="тихенько" ana="adv">тихенько</w>
     </w_>
     <g/>
-    <w_ id="02g7" dep="02g5-punct">
+    <w_ id="02g7" dep="02g9-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <g/>
@@ -849,7 +849,7 @@
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
     <g/>
-    <w_ id="02g9" dep="02g5-parataxis">
+    <w_ id="02g9" dep="02g5-parataxis|3ch2-parataxis">
       <w lemma="поінформувати" ana="verb:perf:past:m">поінформував</w>
     </w_>
     <w_ id="02ga" dep="02g9-nsubj">
@@ -869,7 +869,7 @@
     <w_ id="02ge" dep="02gf-nsubj">
       <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
     </w_>
-    <w_ id="02gf" dep="02g5-parataxis">
+    <w_ id="02gf" dep="02g5-parataxis|3ch2-parataxis">
       <w lemma="сидіти" ana="verb:imperf:pres:p:1">сидимо</w>
     </w_>
     <w_ id="02gg" dep="02gf-discourse">
@@ -928,7 +928,7 @@
       <w lemma="лежати" ana="verb:imperf:inf">лежати</w>
     </w_>
     <g/>
-    <w_ id="02gx" dep="02g5-punct">
+    <w_ id="02gx" dep="02gf-punct">
       <w lemma="…" ana="punct:ellipsis">…</w>
     </w_>
     <sb id="02gy"/>
