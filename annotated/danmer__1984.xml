@@ -2184,7 +2184,7 @@
           <w_ id="03xu" dep="03xm-obl">
             <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
           </w_>
-          <w_ id="03xv" dep="03xy-advmod">
+          <w_ id="03xv" dep="03xy-advmod" edep="03xu-ref">
             <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
           </w_>
           <w_ id="03xw" dep="03xy-nsubj">
@@ -2291,7 +2291,7 @@
           <w_ id="03yt" dep="03yu-case">
             <w lemma="у" ana="prep:rv_mis:v-u">у</w>
           </w_>
-          <w_ id="03yu" dep="03yq-acl">
+          <w_ id="03yu" dep="03yq-nmod" tags="promoted" comment="пропущений місточок">
             <w lemma="пітьма" ana="noun:inanim:f:v_mis">пітьмі</w>
           </w_>
           <g/>
@@ -2841,7 +2841,7 @@
           <w_ id="043v" dep="043d-conj">
             <w lemma="місце" ana="noun:inanim:p:n:v_naz">місця</w>
           </w_>
-          <w_ id="043w" dep="043y-advmod">
+          <w_ id="043w" dep="043y-advmod" edep="043v-ref">
             <w lemma="де" ana="adv:&amp;pron:rel">де</w>
           </w_>
           <w_ id="043x" dep="043y-nsubj">
@@ -3160,7 +3160,7 @@
           <w_ id="046t" dep="0470-obl">
             <w lemma="місце" ana="noun:inanim:n:v_rod">місця</w>
           </w_>
-          <w_ id="046u" dep="046v-advmod">
+          <w_ id="046u" dep="046v-advmod" edep="046t-ref">
             <w lemma="де" ana="adv:&amp;pron:rel">де</w>
           </w_>
           <w_ id="046v" dep="046t-acl">
@@ -3228,7 +3228,7 @@
           <w_ id="047f" dep="047g-expl">
             <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">ЦЕ</w>
           </w_>
-          <w_ id="047g">
+          <w_ id="047g" dep="047a-appos">
             <w lemma="мир" ana="noun:inanim:m:v_naz">МИР</w>
           </w_>
         </p>
@@ -3239,7 +3239,7 @@
           <w_ id="047j" dep="047k-expl">
             <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">ЦЕ</w>
           </w_>
-          <w_ id="047k">
+          <w_ id="047k" dep="047g-parataxis">
             <w lemma="рабство" ana="noun:inanim:n:v_naz">РАБСТВО</w>
           </w_>
         </p>
@@ -3250,7 +3250,7 @@
           <w_ id="047n" dep="047o-expl">
             <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">ЦЕ</w>
           </w_>
-          <w_ id="047o">
+          <w_ id="047o" dep="047g-parataxis">
             <w lemma="сила" ana="noun:inanim:f:v_naz">СИЛА</w>
           </w_>
         </p>
@@ -3352,7 +3352,7 @@
           <w_ id="048m" dep="048j-obl">
             <w lemma="Лондон" ana="noun:inanim:m:v_mis:prop:xp2">Лондону</w>
           </w_>
-          <w_ id="048n" dep="048o-advmod">
+          <w_ id="048n" dep="048o-advmod" edep="048m-ref">
             <w lemma="де" ana="adv:&amp;pron:rel">де</w>
           </w_>
           <w_ id="048o" dep="048m-acl">
@@ -9062,7 +9062,7 @@
           <w_ id="05pt" dep="05pv-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="05pu" dep="05pv-advmod">
+          <w_ id="05pu" dep="05pv-advmod" edep="05pr-ref">
             <w lemma="де" ana="adv:&amp;pron:rel">де</w>
           </w_>
           <w_ id="05pv" dep="05pr-acl">
@@ -11806,7 +11806,7 @@
           <w_ id="06f2" dep="06f1-obj" tags="promoted">
             <w lemma="жодний" ana="adj:f:v_rod:&amp;pron:neg">жодної</w>
           </w_>
-          <w_ id="06f3" dep="06f7-advmod">
+          <w_ id="06f3" dep="06f7-advmod" edep="06f2-ref">
             <w lemma="де" ana="adv:&amp;pron:rel">де</w>
           </w_>
           <w_ id="06f4" dep="06f7-aux">
