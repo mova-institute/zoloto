@@ -591,10 +591,10 @@
       <w_ id="1yty" dep="1yu0-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1ytz" dep="1yu0-nsubj" edep="1yu1-nsubj:x">
+      <w_ id="1ytz" dep="1yu0-nsubj" edep="1yu1-nsubj:x|1ytx-ref">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
-      <w_ id="1yu0" dep="1ytx-acl:relfull">
+      <w_ id="1yu0" dep="1ytx-acl">
         <w lemma="намагатися" ana="verb:rev:imperf:past:f">намагалася</w>
       </w_>
       <w_ id="1yu1" dep="1yu0-xcomp">
@@ -1673,7 +1673,7 @@
       <w_ id="1z46" dep="1z47-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="1z47" dep="1z4h-obl">
+      <w_ id="1z47" dep="1z4h-obl" edep="1z44-ref">
         <w lemma="який" ana="adj:f:v_mis:&amp;pron:rel">якій</w>
       </w_>
       <w_ id="1z48" dep="1z4h-nsubj">
@@ -1707,7 +1707,7 @@
       <w_ id="1z4g" dep="1z4a-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="1z4h" dep="1z44-acl:relfull">
+      <w_ id="1z4h" dep="1z44-acl">
         <w lemma="зводити" ana="verb:imperf:futr:s:3">зводитиме</w>
       </w_>
       <w_ id="1z4i" dep="1z4h-obj">
@@ -3963,10 +3963,10 @@
       <w_ id="1zp0" dep="1zp2-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1zp1" dep="1zp2-nsubj">
+      <w_ id="1zp1" dep="1zp2-nsubj" edep="1zoz-ref">
         <w lemma="котрий" ana="adj:m:v_naz:&amp;pron:rel">котрий</w>
       </w_>
-      <w_ id="1zp2" dep="1zoz-acl:relfull">
+      <w_ id="1zp2" dep="1zoz-acl">
         <w lemma="гарантувати" ana="verb:imperf:past:m">гарантував</w>
       </w_>
       <w_ id="1zp3" dep="1zp2-aux">
@@ -4050,10 +4050,10 @@
       <w_ id="1zpu" dep="1zpw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1zpv" dep="1zpw-obj">
+      <w_ id="1zpv" dep="1zpw-obj" edep="1zpt-ref">
         <w lemma="котрий" ana="adj:m:v_zna:rinanim:&amp;pron:rel">котрий</w>
       </w_>
-      <w_ id="1zpw" dep="1zpt-acl:relfull">
+      <w_ id="1zpw" dep="1zpt-acl">
         <w lemma="призначати" ana="verb:imperf:pres:p:3">призначають</w>
       </w_>
       <w_ id="1zpx" dep="1zpy-case">
@@ -5253,7 +5253,7 @@
       <w_ id="2011" dep="2012-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="2012" dep="2017-obl">
+      <w_ id="2012" dep="2017-obl" edep="200z-ref">
         <w lemma="який" ana="adj:p:v_oru:&amp;pron:rel">якими</w>
       </w_>
       <w_ id="2013" dep="2017-nsubj">
@@ -5268,7 +5268,7 @@
       <w_ id="2016" dep="2014-conj">
         <w lemma="побідно" ana="adv:odd">побідно</w>
       </w_>
-      <w_ id="2017" dep="200z-acl:relfull">
+      <w_ id="2017" dep="200z-acl">
         <w lemma="справитися" ana="verb:rev:perf:past:m">справився</w>
       </w_>
       <g/>

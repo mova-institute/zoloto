@@ -1220,13 +1220,13 @@
       <w_ id="3984" dep="3987-punct" n="363">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3985" dep="3987-nsubj" coref="3983-equality" n="364">
+      <w_ id="3985" dep="3987-nsubj" coref="3983-equality" edep="3983-ref" n="364">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="3986" dep="3987-obj" coref="3982-equality" n="365">
         <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ id="3987" dep="3983-acl:relfull" n="366">
+      <w_ id="3987" dep="3983-acl" n="366">
         <w lemma="отруювати" ana="verb:imperf:pres:p:3">отруюють</w>
       </w_>
       <g/>
@@ -1599,7 +1599,7 @@
       <w_ id="39bk" dep="39bp-punct" n="473">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39bl" dep="39bp-obj" n="474">
+      <w_ id="39bl" dep="39bp-obj" edep="39bj-ref" n="474">
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
       <w_ id="39bm" dep="39bp-nsubj" n="475">
@@ -1611,7 +1611,7 @@
       <w_ id="39bo" dep="39bp-obl" n="477">
         <w lemma="рік" ana="noun:inanim:p:m:v_zna">роки</w>
       </w_>
-      <w_ id="39bp" dep="39bj-acl:relfull" as="пражити/пряжило" n="478">
+      <w_ id="39bp" dep="39bj-acl" as="пражити/пряжило" n="478">
         <w lemma="пражити" ana="verb:imperf:past:n">пражило</w>
       </w_>
       <g/>
@@ -1847,13 +1847,13 @@
       <w_ id="39dv" dep="39dz-obl" comment="!" n="546">
         <w lemma="старання" ana="noun:inanim:p:n:v_oru">стараннями</w>
       </w_>
-      <w_ id="39dw" dep="39dv-nmod" n="547">
+      <w_ id="39dw" dep="39dv-nmod" edep="39dj-ref" n="547">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ id="39dx" dep="39dy-nsubj" edep="39dz-nsubj:x" n="548">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
       </w_>
-      <w_ id="39dy" dep="39dj-acl:relfull" n="549">
+      <w_ id="39dy" dep="39dj-acl" n="549">
         <w lemma="змогти" ana="verb:perf:past:p">змогли</w>
       </w_>
       <w_ id="39dz" dep="39dy-xcomp" n="550">
@@ -2006,7 +2006,7 @@
       <w_ id="39f9" dep="39fa-case" n="595">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
-      <w_ id="39fa" dep="39fg-obl" n="596">
+      <w_ id="39fa" dep="39fg-obl" edep="39ey-ref" n="596">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ id="39fb" dep="39fc-det" n="597">
@@ -2024,7 +2024,7 @@
       <w_ id="39ff" dep="39fg-discourse" n="601">
         <w lemma="просто" ana="part">просто</w>
       </w_>
-      <w_ id="39fg" dep="39ey-acl:relfull" n="602">
+      <w_ id="39fg" dep="39ey-acl" n="602">
         <w lemma="неможливий" ana="adj:f:v_oru">неможливою</w>
       </w_>
       <g/>

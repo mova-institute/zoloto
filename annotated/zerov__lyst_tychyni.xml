@@ -160,7 +160,7 @@
     <w_ id="1jn9" dep="1jnl-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1jna" dep="1jnl-nsubj">
+    <w_ id="1jna" dep="1jnl-nsubj" edep="1jn8-ref">
       <w lemma="який" ana="adj:n:v_naz:&amp;pron:rel">яке</w>
     </w_>
     <w_ id="1jnb" dep="1jnl-obl">
@@ -196,7 +196,7 @@
     <w_ id="1jnk" dep="1jnl-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="1jnl" dep="1jn8-acl:relfull">
+    <w_ id="1jnl" dep="1jn8-acl">
       <w lemma="втішати" ana="verb:imperf:pres:s:3:v-u">втішає</w>
     </w_>
     <w_ id="1jnm" dep="1jnl-obj">
@@ -1172,7 +1172,7 @@
     <w_ id="1jwf" dep="1jwj-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1jwg" dep="1jwj-obj" edep="1jwl-nsubj:sp">
+    <w_ id="1jwg" dep="1jwj-obj" edep="1jwl-nsubj:sp|1jwe-ref">
       <w lemma="який" ana="adj:m:v_zna:ranim:&amp;pron:rel">якого</w>
     </w_>
     <w_ id="1jwh" dep="1jwj-nsubj">
@@ -1181,7 +1181,7 @@
     <w_ id="1jwi" dep="1jwj-advmod">
       <w lemma="чомусь" ana="adv:&amp;pron:ind">чомусь</w>
     </w_>
-    <w_ id="1jwj" dep="1jwe-acl:relfull">
+    <w_ id="1jwj" dep="1jwe-acl">
       <w lemma="називати" ana="verb:imperf:pres:s:3">називає</w>
     </w_>
     <w_ id="1jwk" dep="1jwl-punct">
@@ -2377,7 +2377,7 @@
     <w_ id="1k74" dep="1k78-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1k75" dep="1k78-obj">
+    <w_ id="1k75" dep="1k78-obj" edep="1k73-ref">
       <w lemma="який" ana="adj:m:v_rod:&amp;pron:rel">якого</w>
     </w_>
     <w_ id="1k76" dep="1k78-nsubj">
@@ -2386,7 +2386,7 @@
     <w_ id="1k77" dep="1k78-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="1k78" dep="1k73-acl:relfull">
+    <w_ id="1k78" dep="1k73-acl">
       <w lemma="мати" ana="verb:imperf:past:p">мали</w>
     </w_>
     <g/>

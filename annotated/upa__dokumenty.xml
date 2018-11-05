@@ -309,10 +309,10 @@
       <w_ id="17q4" dep="17q6-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="17q5" dep="17q6-nsubj">
+      <w_ id="17q5" dep="17q6-nsubj" edep="17q3-ref">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="17q6" dep="17q3-acl:relfull">
+      <w_ id="17q6" dep="17q3-acl">
         <w lemma="вихваляти" ana="verb:imperf:pres:p:3">вихваляють</w>
       </w_>
       <w_ id="17q7" dep="17q8-amod">
@@ -837,7 +837,7 @@
       <w_ id="17v3" dep="17v7-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="17v4" dep="17v7-nsubj">
+      <w_ id="17v4" dep="17v7-nsubj" edep="17v2-ref">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="17v5" dep="17v7-advmod">
@@ -846,7 +846,7 @@
       <w_ id="17v6" dep="17v5-discourse">
         <w lemma="ж" ana="part">ж</w>
       </w_>
-      <w_ id="17v7" dep="17v2-acl:relfull">
+      <w_ id="17v7" dep="17v2-acl">
         <w lemma="загрожений" ana="adj:f:v_naz:&amp;adjp:perf:pasv">загрожена</w>
       </w_>
       <w_ id="17v8" dep="17v7-advmod">
@@ -2146,10 +2146,10 @@
       <w_ id="187f" dep="187h-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="187g" dep="187h-obj">
+      <w_ id="187g" dep="187h-obj" edep="187e-ref">
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="187h" dep="187e-acl:relfull">
+      <w_ id="187h" dep="187e-acl">
         <w lemma="покласти" ana="verb:perf:past:f">поклала</w>
       </w_>
       <w_ id="187i" dep="187j-case">
@@ -2206,7 +2206,7 @@
       <w_ id="187z" dep="1883-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1880" dep="1883-obj">
+      <w_ id="1880" dep="1883-obj" edep="187y-ref">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ id="1881" dep="1883-advmod">
@@ -2215,7 +2215,7 @@
       <w_ id="1882" dep="1883-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1883" dep="187y-acl:relfull">
+      <w_ id="1883" dep="187y-acl">
         <w lemma="знати" ana="verb:imperf:past:f">знала</w>
       </w_>
       <w_ id="1884" dep="1883-nsubj">
@@ -2576,13 +2576,13 @@
       <w_ id="18be" dep="18bf-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="18bf" dep="18bi-obl">
+      <w_ id="18bf" dep="18bi-obl" edep="18bc-ref">
         <w lemma="який" ana="adj:f:v_mis:&amp;pron:rel">якій</w>
       </w_>
       <w_ id="18bg" dep="18bh-iobj" edep="18bi-nsubj:x">
         <w lemma="ви" ana="noun:anim:p:v_dav:&amp;pron:pers:2">Вам</w>
       </w_>
-      <w_ id="18bh" dep="18bc-acl:relfull">
+      <w_ id="18bh" dep="18bc-acl">
         <w lemma="довестися" ana="verb:rev:perf:past:n">довелося</w>
       </w_>
       <w_ id="18bi" dep="18bh-xcomp">
@@ -5434,10 +5434,10 @@
       <w_ id="191g" dep="191h-case">
         <w lemma="через" ana="prep:rv_zna">через</w>
       </w_>
-      <w_ id="191h" dep="191i-obl">
+      <w_ id="191h" dep="191i-obl" edep="191f-ref">
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="191i" dep="191f-acl:relfull">
+      <w_ id="191i" dep="191f-acl">
         <w lemma="переходити" ana="verb:imperf:pres:p:1">переходимо</w>
       </w_>
       <g/>
@@ -8091,13 +8091,13 @@
       <w_ id="19pf" dep="19pg-case">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="19pg" dep="19pi-obl">
+      <w_ id="19pg" dep="19pi-obl" edep="19pd-ref">
         <w lemma="який" ana="adj:f:v_zna:&amp;pron:rel">яку</w>
       </w_>
       <w_ id="19ph" dep="19pi-nsubj">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">ми</w>
       </w_>
-      <w_ id="19pi" dep="19pd-acl:relfull">
+      <w_ id="19pi" dep="19pd-acl">
         <w lemma="боротися" ana="verb:rev:imperf:pres:p:1">боремося</w>
       </w_>
       <g/>

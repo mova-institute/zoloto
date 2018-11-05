@@ -1154,10 +1154,10 @@
       <w_ id="2ri2" dep="2ri4-punct" n="340">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2ri3" dep="2ri4-nsubj" edep="2ri5-nsubj:x" n="341">
+      <w_ id="2ri3" dep="2ri4-nsubj" edep="2ri5-nsubj:x|2ri0-ref" n="341">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="2ri4" dep="2ri0-acl:relfull" n="342">
+      <w_ id="2ri4" dep="2ri0-acl" n="342">
         <w lemma="бажати" ana="verb:imperf:pres:p:3">бажають</w>
       </w_>
       <w_ id="2ri5" dep="2ri4-xcomp" n="343">
@@ -1438,10 +1438,10 @@
       <w_ id="2rki" dep="2rkk-punct" n="421">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2rkj" dep="2rkk-nsubj" n="422">
+      <w_ id="2rkj" dep="2rkk-nsubj" edep="2rke-ref" n="422">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="2rkk" dep="2rke-acl:relfull" n="423">
+      <w_ id="2rkk" dep="2rke-acl" n="423">
         <w lemma="виявити" ana="verb:perf:past:p">виявили</w>
       </w_>
       <w_ id="2rkl" dep="2rkk-obj" n="424">
@@ -3643,10 +3643,10 @@
       <w_ id="2s4h" dep="2s4i-amod" n="1098">
         <w lemma="головний" ana="adj:m:v_oru:compb">головним</w>
       </w_>
-      <w_ id="2s4i" dep="2s48-acl:relfull" n="1099">
+      <w_ id="2s4i" dep="2s48-acl" n="1099">
         <w lemma="редактор" ana="noun:anim:m:v_oru">редактором</w>
       </w_>
-      <w_ id="2s4j" dep="2s4i-nmod" n="1100">
+      <w_ id="2s4j" dep="2s4i-nmod" edep="2s48-ref" n="1100">
         <w lemma="який" ana="adj:f:v_rod:&amp;pron:rel">якої</w>
       </w_>
       <w_ id="2s4k" dep="2s4i-cop" n="1101">
@@ -4798,7 +4798,7 @@
       <w_ id="2sex" dep="2sey-nsubj" edep="2sfc-ref" n="1451">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
-      <w_ id="2sey" dep="2sfc-acl:relfull" n="1452">
+      <w_ id="2sey" dep="2sfc-acl" n="1452">
         <w lemma="застосовувати" ana="verb:imperf:past:m">застосовував</w>
       </w_>
       <w_ id="2sez" dep="2sf0-amod" n="1453">

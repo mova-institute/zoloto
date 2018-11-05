@@ -164,10 +164,10 @@
       <w_ id="39va" dep="39vc-punct" n="44">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="39vb" dep="39vf-obj" n="45">
+      <w_ id="39vb" dep="39vf-obj" edep="39v9-ref" n="45">
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="39vc" dep="39v9-acl:relfull" n="46">
+      <w_ id="39vc" dep="39v9-acl" n="46">
         <w lemma="мати" ana="verb:imperf:past:n">мало</w>
       </w_>
       <w_ id="39vd" dep="39ve-case" n="47">
@@ -1012,13 +1012,13 @@
       <w_ id="3a2z" dep="3a30-case" n="275">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="3a30" dep="3a32-obl" comment=":gen?" n="276">
+      <w_ id="3a30" dep="3a32-obl" comment=":gen?" edep="3a2x-ref" n="276">
         <w lemma="що" ana="noun:inanim:n:v_mis:&amp;pron:rel">чому</w>
       </w_>
       <w_ id="3a31" dep="3a32-advmod" n="277">
         <w lemma="довго" ana="adv:compb">довго</w>
       </w_>
-      <w_ id="3a32" dep="3a2x-acl:relfull" n="278">
+      <w_ id="3a32" dep="3a2x-acl" n="278">
         <w lemma="затриматися" ana="verb:rev:perf:inf">затриматися</w>
       </w_>
       <g/>
@@ -1845,7 +1845,7 @@
         <w lemma="замінити" ana="verb:perf:inf">замінити</w>
       </w_>
       <multitoken form="ніким">
-        <w_ id="3aam" dep="3aai-acl:relfull">
+        <w_ id="3aam" dep="3aai-acl">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
         <w_ id="3aan" dep="3aal-obl">
@@ -2810,7 +2810,7 @@
       <w_ id="3aja" dep="3ajb-aux" n="748">
         <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
       </w_>
-      <w_ id="3ajb" dep="3aj6-acl:relfull" n="749">
+      <w_ id="3ajb" dep="3aj6-acl" n="749">
         <w lemma="породжений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">породжені</w>
       </w_>
       <w_ id="3ajc" dep="3ajd-det" n="750">
@@ -3214,7 +3214,7 @@
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
       <multitoken form="нічим">
-        <w_ id="3amw" dep="3amt-acl:relfull">
+        <w_ id="3amw" dep="3amt-acl">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
         <w_ id="3amx" dep="3amy-obl">
@@ -3285,7 +3285,7 @@
         <w lemma="який" ana="adj:p:v_dav:&amp;pron:rel">яким</w>
       </w_>
       <multitoken form="нічим">
-        <w_ id="3ani" dep="3anf-acl:relfull">
+        <w_ id="3ani" dep="3anf-acl">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
         <w_ id="3anj" dep="3anl-obl">

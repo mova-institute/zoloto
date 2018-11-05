@@ -40,10 +40,10 @@
       <w_ id="2n6x" dep="2n6z-punct" n="10">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2n6y" dep="2n6z-nsubj" n="11">
+      <w_ id="2n6y" dep="2n6z-nsubj" edep="2n6w-ref" n="11">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
-      <w_ id="2n6z" dep="2n6w-acl:relfull" n="12">
+      <w_ id="2n6z" dep="2n6w-acl" n="12">
         <w lemma="завершитися" ana="verb:rev:perf:past:m">завершився</w>
       </w_>
       <w_ id="2n70" dep="2n6z-obl" tags="promoted" n="13">
@@ -298,7 +298,7 @@
       <w_ id="2n8y" dep="2n8x-discourse" n="81">
         <w lemma="що" ana="part">що</w>
       </w_>
-      <w_ id="2n8z" dep="2n8u-acl:relfull" n="82">
+      <w_ id="2n8z" dep="2n8u-acl" n="82">
         <w lemma="експортувати" ana="verb:imperf:pres:p:3">експортують</w>
       </w_>
       <w_ id="2n90" dep="2n8z-obj" comment="#цікаво" n="83">
@@ -2342,10 +2342,10 @@
       <w_ id="2nqo" dep="2nqq-punct" n="691">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2nqp" dep="2nqq-nsubj" n="692">
+      <w_ id="2nqp" dep="2nqq-nsubj" edep="2nql-ref" n="692">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
-      <w_ id="2nqq" dep="2nql-acl:relfull" n="693">
+      <w_ id="2nqq" dep="2nql-acl" n="693">
         <w lemma="писати" ana="verb:imperf:past:m">писав</w>
       </w_>
       <w_ id="2nqr" dep="2nqs-advmod" n="694">
@@ -3477,13 +3477,13 @@
       <w_ id="2o0v" dep="2o0w-case" n="1042">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="2o0w" dep="2o0y-obl" n="1043">
+      <w_ id="2o0w" dep="2o0y-obl" edep="2o0m-ref" n="1043">
         <w lemma="який" ana="adj:f:v_zna:&amp;pron:rel">яку</w>
       </w_>
       <w_ id="2o0x" dep="2o0y-nsubj" n="1044">
         <w lemma="композитор" ana="noun:anim:p:m:v_naz">композитори</w>
       </w_>
-      <w_ id="2o0y" dep="2o0m-acl:relfull" n="1045">
+      <w_ id="2o0y" dep="2o0m-acl" n="1045">
         <w lemma="наносити" ana="verb:imperf:past:p">наносили</w>
       </w_>
       <w_ id="2o0z" dep="2o0y-obj" n="1046">
@@ -3649,7 +3649,7 @@
       <w_ id="2o2g" dep="2o2o-punct" n="1094">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2o2h" dep="2o2o-nsubj" n="1095">
+      <w_ id="2o2h" dep="2o2o-nsubj" edep="2o2f-ref" n="1095">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="2o2i" dep="2o2o-cop" n="1096">
@@ -3664,7 +3664,7 @@
       <w_ id="2o2n" dep="2o2o-amod" n="1101">
         <w lemma="католицький" ana="adj:m:v_oru">греко-католицьким</w>
       </w_>
-      <w_ id="2o2o" dep="2o2f-acl:relfull" n="1102">
+      <w_ id="2o2o" dep="2o2f-acl" n="1102">
         <w lemma="священик" ana="noun:anim:m:v_oru">священиком</w>
       </w_>
       <g/>
@@ -4498,7 +4498,7 @@
       <w_ id="2oa6" dep="2oab-punct" n="1355">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2oa7" dep="2oab-nsubj" edep="2oac-nsubj:x|2oad-nsubj:sp" n="1356">
+      <w_ id="2oa7" dep="2oab-nsubj" edep="2oac-nsubj:x|2oad-nsubj:sp|2oa5-ref" n="1356">
         <w lemma="який" ana="adj:n:v_naz:&amp;pron:rel">яке</w>
       </w_>
       <w_ id="2oa8" dep="2oab-advmod" n="1357">
@@ -4510,7 +4510,7 @@
       <w_ id="2oaa" dep="2oa8-obl" n="1359">
         <w lemma="план" ana="noun:inanim:m:v_oru">планом</w>
       </w_>
-      <w_ id="2oab" dep="2oa5-acl:relfull" n="1360">
+      <w_ id="2oab" dep="2oa5-acl" n="1360">
         <w lemma="мати" ana="verb:imperf:pres:s:3">має</w>
       </w_>
       <w_ id="2oac" dep="2oab-xcomp" n="1361">
@@ -5281,10 +5281,10 @@
       <w_ id="2ohd" dep="2ohf-punct" n="1597">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2ohe" dep="2ohf-nsubj" n="1598">
+      <w_ id="2ohe" dep="2ohf-nsubj" edep="2ohc-ref" n="1598">
         <w lemma="який" ana="adj:n:v_naz:&amp;pron:rel">яке</w>
       </w_>
-      <w_ id="2ohf" dep="2ohc-acl:relfull" n="1599">
+      <w_ id="2ohf" dep="2ohc-acl" n="1599">
         <w lemma="розташований" ana="adj:n:v_naz:&amp;adjp:perf:pasv">розташоване</w>
       </w_>
       <w_ id="2ohg" dep="2ohh-discourse" n="1600">

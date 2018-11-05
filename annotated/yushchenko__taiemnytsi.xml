@@ -93,7 +93,7 @@
     <w_ id="1fs6" dep="1fs7-case">
       <w lemma="на" ana="prep:rv_mis">на</w>
     </w_>
-    <w_ id="1fs7" dep="1fse-obl">
+    <w_ id="1fs7" dep="1fse-obl" edep="1fs4-ref">
       <w lemma="який" ana="adj:p:v_mis:&amp;pron:rel">яких</w>
     </w_>
     <w_ id="1fs8" dep="1fse-advmod">
@@ -115,7 +115,7 @@
     <w_ id="1fsd" dep="1fs8-conj">
       <w lemma="вайлувато" ana="adv">вайлувато</w>
     </w_>
-    <w_ id="1fse" dep="1fs4-acl:relfull">
+    <w_ id="1fse" dep="1fs4-acl">
       <w lemma="розлягтися" ana="verb:rev:perf:past:n">розляглося</w>
     </w_>
     <w_ id="1fsf" dep="1fse-nsubj">
@@ -1288,10 +1288,10 @@
     <w_ id="1g38" dep="1g3a-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1g39" dep="1g3a-nsubj" mark="reviewed">
+    <w_ id="1g39" dep="1g3a-nsubj" mark="reviewed" edep="1g37-ref">
       <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
     </w_>
-    <w_ id="1g3a" dep="1g37-acl:relfull">
+    <w_ id="1g3a" dep="1g37-acl">
       <w lemma="боротися" ana="verb:rev:imperf:past:m">боровся</w>
     </w_>
     <w_ id="1g3b" dep="1g3c-case" mark="reviewed">
@@ -1670,13 +1670,13 @@
     <w_ id="1g6u" dep="1g6x-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1g6v" dep="1g6x-obj" mark="resolved">
+    <w_ id="1g6v" dep="1g6x-obj" mark="resolved" edep="1g6t-ref">
       <w lemma="який" ana="adj:f:v_zna:&amp;pron:rel" author="18:Бровко">яку</w>
     </w_>
     <w_ id="1g6w" dep="1g6x-nsubj">
       <w lemma="батько" ana="noun:anim:m:v_naz">батько</w>
     </w_>
-    <w_ id="1g6x" dep="1g6t-acl:relfull">
+    <w_ id="1g6x" dep="1g6t-acl">
       <w lemma="привезти" ana="verb:perf:past:m">привіз</w>
     </w_>
     <w_ id="1g6y" dep="1g6z-case">
@@ -2026,10 +2026,10 @@
     <w_ id="1ga8" dep="1gaa-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1ga9" dep="1gaa-nsubj">
+    <w_ id="1ga9" dep="1gaa-nsubj" edep="1ga7-ref">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
     </w_>
-    <w_ id="1gaa" dep="1ga7-acl:relfull">
+    <w_ id="1gaa" dep="1ga7-acl">
       <w lemma="уціліти" ana="verb:perf:past:p:v-u">уціліли</w>
     </w_>
     <w_ id="1gab" dep="1gac-case">
@@ -3222,10 +3222,10 @@
     <w_ id="1gla" dep="1glc-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1glb" dep="1glc-nsubj">
+    <w_ id="1glb" dep="1glc-nsubj" edep="1gl9-ref">
       <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
     </w_>
-    <w_ id="1glc" dep="1gl9-acl:relfull">
+    <w_ id="1glc" dep="1gl9-acl">
       <w lemma="займатися" ana="verb:rev:imperf:past:f">займалася</w>
     </w_>
     <w_ id="1gld" dep="1glc-obl">
@@ -4203,7 +4203,7 @@
     <w_ id="1gug" dep="1gux-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1guh" dep="1gux-nsubj">
+    <w_ id="1guh" dep="1gux-nsubj" edep="1guf-ref">
       <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
     </w_>
     <w_ id="1gui" dep="1guj-advmod">
@@ -4253,7 +4253,7 @@
     <w_ id="1guw" dep="1gur-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1gux" dep="1guf-acl:relfull">
+    <w_ id="1gux" dep="1guf-acl">
       <w lemma="розбитися" ana="verb:rev:perf:past:m">розбився</w>
     </w_>
     <w_ id="1guy" dep="1guz-case">
@@ -4406,10 +4406,10 @@
     <w_ id="1gwb" dep="1gwd-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1gwc" dep="1gwd-nsubj" edep="1gwe-nsubj:x">
+    <w_ id="1gwc" dep="1gwd-nsubj" edep="1gwe-nsubj:x|1gw7-ref">
       <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
     </w_>
-    <w_ id="1gwd" dep="1gw7-acl:relfull">
+    <w_ id="1gwd" dep="1gw7-acl">
       <w lemma="могти" ana="verb:imperf:past:p">могли</w>
     </w_>
     <w_ id="1gwe" dep="1gwd-xcomp">

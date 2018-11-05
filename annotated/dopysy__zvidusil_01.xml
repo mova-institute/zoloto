@@ -197,7 +197,7 @@
       <w_ id="30rc" dep="30rd-case" n="60">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
-      <w_ id="30rd" dep="30rh-obl" n="61">
+      <w_ id="30rd" dep="30rh-obl" edep="30ra-ref" n="61">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ id="30re" dep="30rh-advmod" n="62">
@@ -209,7 +209,7 @@
       <w_ id="30rg" dep="30rh-advmod" n="64">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="30rh" dep="30ra-acl:relfull" n="65">
+      <w_ id="30rh" dep="30ra-acl" n="65">
         <w lemma="обійтися" ana="verb:rev:perf:inf">обійтися</w>
       </w_>
       <w_ id="30ri" n="66">
@@ -1778,10 +1778,10 @@
       <w_ id="315z" dep="3160-punct" n="535">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3160" dep="315y-acl:relfull" n="536">
+      <w_ id="3160" dep="315y-acl" n="536">
         <w lemma="джерело" ana="noun:inanim:n:v_oru">джерелом</w>
       </w_>
-      <w_ id="3161" dep="3160-nmod" n="537">
+      <w_ id="3161" dep="3160-nmod" edep="315y-ref" n="537">
         <w lemma="який" ana="adj:f:v_rod:&amp;pron:rel">якої</w>
       </w_>
       <w_ id="3162" dep="3160-cop" n="538">
@@ -2648,7 +2648,7 @@
       <w_ id="31e8" dep="31e9-case" n="794">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="31e9" dep="31ec-obl" n="795">
+      <w_ id="31e9" dep="31ec-obl" edep="31e2-ref" n="795">
         <w lemma="який" ana="adj:f:v_zna:&amp;pron:rel">яку</w>
       </w_>
       <w_ id="31ea" dep="31ec-nsubj" n="796">
@@ -2657,7 +2657,7 @@
       <w_ id="31eb" dep="31ec-advmod" n="797">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
-      <w_ id="31ec" dep="31e2-acl:relfull" n="798">
+      <w_ id="31ec" dep="31e2-acl" n="798">
         <w lemma="чекати" ana="verb:imperf:past:p">чекали</w>
       </w_>
       <g/>
@@ -4816,10 +4816,10 @@
       <w_ id="31yk" dep="31ym-punct" n="1455">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="31yl" dep="31ym-obj" n="1456">
+      <w_ id="31yl" dep="31ym-obj" edep="31yj-ref" n="1456">
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="31ym" dep="31yj-acl:relfull" n="1457">
+      <w_ id="31ym" dep="31yj-acl" n="1457">
         <w lemma="тратити" ana="verb:imperf:pres:p:1">тратимо</w>
       </w_>
       <w_ id="31yn" dep="31yp-case" n="1458">
@@ -5819,7 +5819,7 @@
       <w_ id="327y" dep="3283-punct" n="1755">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="327z" dep="3283-obj" n="1756">
+      <w_ id="327z" dep="3283-obj" edep="327x-ref" n="1756">
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
       <w_ id="3280" dep="3283-nsubj" n="1757">
@@ -5831,7 +5831,7 @@
       <w_ id="3282" dep="3283-advmod" n="1759">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="3283" dep="327x-acl:relfull" n="1760">
+      <w_ id="3283" dep="327x-acl" n="1760">
         <w lemma="казати" ana="verb:imperf:pres:s:2">кажеш</w>
       </w_>
       <g/>
@@ -7003,7 +7003,7 @@
       <w_ id="32ix" dep="32iw-nsubj" n="2107">
         <w lemma="людина" ana="noun:anim:p:f:v_naz">люди</w>
       </w_>
-      <w_ id="32iy" dep="32j2-nsubj" n="2108">
+      <w_ id="32iy" dep="32j2-nsubj" edep="32ix-ref" n="2108">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="32iz" dep="32j2-advcl" n="2109">
@@ -7016,7 +7016,7 @@
       <w_ id="32j1" dep="32iz-punct" n="2111">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="32j2" dep="32ix-acl:relfull" correct="вважають">
+      <w_ id="32j2" dep="32ix-acl" correct="вважають">
         <w lemma="вважати" ana="verb:imperf:pres:p:3">важають</w>
       </w_>
       <w_ id="32j3" dep="32j2-obj" edep="32j6-nsubj:sp" n="2113">
@@ -7769,7 +7769,7 @@
       <w_ id="32q4" dep="32q3-nsubj" edep="32q0-nsubj:sp" n="2338">
         <w lemma="людина" ana="noun:anim:f:v_naz">людина</w>
       </w_>
-      <w_ id="32q5" dep="32q9-nsubj" edep="32qd-nsubj:sp" n="2339">
+      <w_ id="32q5" dep="32q9-nsubj" edep="32qd-nsubj:sp|32q4-ref" n="2339">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="32q6" dep="32q9-advmod" n="2340">
@@ -7781,7 +7781,7 @@
       <w_ id="32q8" dep="32q9-cop" n="2342">
         <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
       </w_>
-      <w_ id="32q9" dep="32q4-acl:relfull" n="2343">
+      <w_ id="32q9" dep="32q4-acl" n="2343">
         <w lemma="охрещений" ana="adj:f:v_oru:&amp;adjp:perf:pasv">охрещеною</w>
       </w_>
       <w_ id="32qa" dep="32qc-cc" n="2344">

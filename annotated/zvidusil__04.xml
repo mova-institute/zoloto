@@ -176,10 +176,10 @@
       <w_ id="1omp" dep="1omo-nmod">
         <w lemma="тварина" ana="noun:anim:p:f:v_rod">тварин</w>
       </w_>
-      <w_ id="1omq" dep="1omr-nsubj">
+      <w_ id="1omq" dep="1omr-nsubj" edep="1omp-ref">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="1omr" dep="1omp-acl:relfull">
+      <w_ id="1omr" dep="1omp-acl">
         <w lemma="розмовляти" ana="verb:imperf:pres:p:3">розмовляють</w>
       </w_>
       <w_ id="1oms" dep="1omt-cc">
@@ -188,7 +188,7 @@
       <w_ id="1omt" dep="1omp-conj">
         <w lemma="людина" ana="noun:anim:p:f:v_rod">людей</w>
       </w_>
-      <w_ id="1omu" dep="1omz-nsubj">
+      <w_ id="1omu" dep="1omz-nsubj" edep="1omt-ref">
         <w lemma="який" ana="adj:p:v_naz:&amp;pron:rel">які</w>
       </w_>
       <w_ id="1omv" dep="1omz-obj">
@@ -203,7 +203,7 @@
       <w_ id="1omy" dep="1omz-obl">
         <w lemma="тварина" ana="noun:anim:p:f:v_mis">тваринах</w>
       </w_>
-      <w_ id="1omz" dep="1omt-acl:relfull">
+      <w_ id="1omz" dep="1omt-acl">
         <w lemma="шукати" ana="verb:imperf:pres:p:3">шукають</w>
       </w_>
       <g/>
@@ -825,10 +825,10 @@
       <w_ id="1osr" dep="1ost-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1oss" dep="1ost-iobj" coref="1oso-equality" edep="1osu-nsubj:x">
+      <w_ id="1oss" dep="1ost-iobj" coref="1oso-equality" edep="1osu-nsubj:x|1oso-ref">
         <w lemma="який" ana="adj:f:v_dav:&amp;pron:rel">якій</w>
       </w_>
-      <w_ id="1ost" dep="1oso-acl:relfull">
+      <w_ id="1ost" dep="1oso-acl">
         <w lemma="вдаватися" ana="verb:rev:imperf:pres:s:3">вдається</w>
       </w_>
       <w_ id="1osu" dep="1ost-xcomp">
@@ -1483,10 +1483,10 @@
       <w_ id="1oys" dep="1oyu-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1oyt" dep="1oyu-nsubj">
+      <w_ id="1oyt" dep="1oyu-nsubj" edep="1oym-ref">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
-      <w_ id="1oyu" dep="1oym-acl:relfull" comment="~ parataxish">
+      <w_ id="1oyu" dep="1oym-acl" comment="~ parataxish">
         <w lemma="воювати" ana="verb:imperf:past:m">воював</w>
       </w_>
       <w_ id="1oyv" dep="1oyu-advcl">
@@ -2550,7 +2550,7 @@
       <w_ id="1p8m" dep="1p8q-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1p8n" dep="1p8q-nsubj" coref="1p8k-equality">
+      <w_ id="1p8n" dep="1p8q-nsubj" coref="1p8k-equality" edep="1p8k-ref">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="1p8o" dep="1p8q-advmod">
@@ -2560,7 +2560,7 @@
         <w lemma="“" ana="punct:quote">“</w>
       </w_>
       <g/>
-      <w_ id="1p8q" dep="1p8k-acl:relfull">
+      <w_ id="1p8q" dep="1p8k-acl">
         <w lemma="загребти" ana="verb:perf:past:f">загребла</w>
       </w_>
       <g/>
@@ -2638,13 +2638,13 @@
       <w_ id="1p9d" dep="1p9g-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1p9e" dep="1p9g-nsubj" coref="1p9b-equality">
+      <w_ id="1p9e" dep="1p9g-nsubj" coref="1p9b-equality" edep="1p9b-ref">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="1p9f" dep="1p9g-advmod">
         <w lemma="востаннє" ana="adv">востаннє</w>
       </w_>
-      <w_ id="1p9g" dep="1p9b-acl:relfull">
+      <w_ id="1p9g" dep="1p9b-acl">
         <w lemma="виступати" ana="verb:imperf:past:f">виступала</w>
       </w_>
       <w_ id="1p9h" dep="1p9i-case">
@@ -2925,13 +2925,13 @@
       <w_ id="1pc0" dep="1pc1-case">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="1pc1" dep="1pc3-obl">
+      <w_ id="1pc1" dep="1pc3-obl" edep="1pby-ref">
         <w lemma="який" ana="adj:f:v_zna:&amp;pron:rel">яку</w>
       </w_>
       <w_ id="1pc2" dep="1pc3-nsubj">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="1pc3" dep="1pby-acl:relfull">
+      <w_ id="1pc3" dep="1pby-acl">
         <w lemma="закоханий" ana="adj:m:v_naz:&amp;adjp:perf:pasv">закоханий</w>
       </w_>
       <w_ id="1pc4" dep="1pc6-case">

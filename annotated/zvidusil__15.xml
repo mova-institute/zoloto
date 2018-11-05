@@ -151,10 +151,10 @@
       <w_ id="25sf" dep="25sh-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25sg" dep="25sh-nsubj" coref="25se-equality">
+      <w_ id="25sg" dep="25sh-nsubj" coref="25se-equality" edep="25se-ref">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
-      <w_ id="25sh" dep="25se-acl:relfull">
+      <w_ id="25sh" dep="25se-acl">
         <w lemma="займати" ana="verb:imperf:pres:s:3">займає</w>
       </w_>
       <w_ id="25si" dep="25sj-amod">
@@ -205,7 +205,7 @@
       <w_ id="25sx" dep="25t1-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25sy" dep="25t1-nsubj" coref="25sv-equality">
+      <w_ id="25sy" dep="25t1-nsubj" coref="25sv-equality" edep="25sv-ref">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="25sz" dep="25t1-advmod">
@@ -214,7 +214,7 @@
       <w_ id="25t0" dep="25t1-aux">
         <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
       </w_>
-      <w_ id="25t1" dep="25sv-acl:relfull">
+      <w_ id="25t1" dep="25sv-acl">
         <w lemma="показаний" ana="adj:f:v_naz:&amp;adjp:perf:pasv">показана</w>
       </w_>
       <w_ id="25t2" dep="25t4-case">
@@ -596,13 +596,13 @@
       <w_ id="25we" dep="25wh-obl">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
-      <w_ id="25wf" dep="25we-nmod" coref="25wb-equality">
+      <w_ id="25wf" dep="25we-nmod" coref="25wb-equality" edep="25wb-ref">
         <w lemma="який" ana="adj:m:v_rod:&amp;pron:rel">якого</w>
       </w_>
       <w_ id="25wg" dep="25wh-nsubj" coref="25vm-equality">
         <w lemma="підозрюваний" ana="adj:m:v_naz:&amp;adjp:imperf:pasv:&amp;noun:anim" lemma2="підозрюваний">підозрюваний</w>
       </w_>
-      <w_ id="25wh" dep="25wb-acl:relfull">
+      <w_ id="25wh" dep="25wb-acl">
         <w lemma="вдарити" ana="verb:perf:past:m:v-u">вдарив</w>
       </w_>
       <w_ id="25wi" dep="25wh-obj" coref="25vo-equality">
@@ -2532,10 +2532,10 @@
       <w_ id="26e4" dep="26e5-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="26e5" dep="26e6-obl" coref="26e1-equality">
+      <w_ id="26e5" dep="26e6-obl" coref="26e1-equality" edep="26e2-ref">
         <w lemma="який" ana="adj:f:v_mis:&amp;pron:rel">якій</w>
       </w_>
-      <w_ id="26e6" dep="26e2-acl:relfull">
+      <w_ id="26e6" dep="26e2-acl">
         <w lemma="знаходитися" ana="verb:rev:imperf:pres:s:3">знаходиться</w>
       </w_>
       <w_ id="26e7" dep="26e6-nsubj" coref="26dp-equality">
