@@ -2050,7 +2050,7 @@
       <w_ id="2v7c" dep="2v7h-punct" n="615">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2v7d" dep="2v7h-advmod" n="616">
+      <w_ id="2v7d" dep="2v7h-advmod" edep="2v7b-ref" n="616">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="2v7e" dep="2v7g-case" n="617">
@@ -2174,7 +2174,7 @@
       <w_ id="2v8h" dep="2v8l-punct" n="654">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2v8i" dep="2v8l-advmod" n="655">
+      <w_ id="2v8i" dep="2v8l-advmod" edep="2v8g-ref" n="655">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="2v8j" dep="2v8l-aux" n="656">
@@ -2715,7 +2715,7 @@
       <w_ id="2vdb" dep="2vdd-punct" n="821">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2vdc" dep="2vdd-advmod" n="822">
+      <w_ id="2vdc" dep="2vdd-advmod" edep="2vda-ref" n="822">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="2vdd" dep="2vda-acl" n="823">
@@ -3069,7 +3069,7 @@
       <w_ id="2vgc" dep="2vgi-punct" n="928">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2vgd" dep="2vgi-advmod" n="929">
+      <w_ id="2vgd" dep="2vgi-advmod" edep="2vg3-ref" n="929">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="2vge" dep="2vgj-advmod" n="930">
@@ -4818,7 +4818,7 @@
       <w_ id="2vvv" dep="2vw0-punct" n="1470">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2vvw" dep="2vw0-advmod" n="1471">
+      <w_ id="2vvw" dep="2vw0-advmod" edep="2vvu-ref" n="1471">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="2vvx" dep="2vw0-obj" n="1472">
@@ -9891,20 +9891,20 @@
       <w_ id="2x54" dep="2x53-xcomp" n="2998">
         <w lemma="перечесати" ana="verb:perf:inf:auto">перечесати</w>
       </w_>
-      <w_ id="2x55" n="2999">
+      <w_ id="2x55" dep="2x57-advmod" comment="~cc?" n="2999">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2x56" n="3000">
+      <w_ id="2x56" dep="2x57-discourse" n="3000">
         <w lemma="просто" ana="part">просто</w>
       </w_>
       <w_ id="2x57" dep="2x54-obj" n="3001">
         <w lemma="установа" ana="noun:inanim:f:v_zna">установу</w>
       </w_>
       <g/>
-      <w_ id="2x58" n="3002">
+      <w_ id="2x58" dep="2x5d-punct" n="3002">
         <w lemma="..." ana="punct:ellipsis">...</w>
       </w_>
-      <w_ id="2x59" n="3003">
+      <w_ id="2x59" dep="2x5d-punct" n="3003">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <w_ id="2x5a" dep="2x5d-advmod" n="3004">
@@ -9916,14 +9916,14 @@
       <w_ id="2x5c" dep="2x5d-advmod" n="3006">
         <w lemma="сумно" ana="adv:compb">сумно</w>
       </w_>
-      <w_ id="2x5d" n="3007">
+      <w_ id="2x5d" dep="2x53-parataxis" comment="~" n="3007">
         <w lemma="зітхнути" ana="verb:perf:past:m">зітхнув</w>
       </w_>
       <g/>
-      <w_ id="2x5e" n="3008">
+      <w_ id="2x5e" dep="2x5d-punct" n="3008">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2x5f" n="3009">
+      <w_ id="2x5f" dep="2x5d-punct" comment="~" n="3009">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <w_ id="2x5g" dep="2x5i-cc" n="3010">
@@ -9939,7 +9939,7 @@
       <w_ id="2x5j" dep="2x5l-punct" n="3013">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2x5k" dep="2x5l-advmod" n="3014">
+      <w_ id="2x5k" dep="2x5l-advmod" edep="2x5i-ref" n="3014">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
       <w_ id="2x5l" dep="2x5i-acl" n="3015">
@@ -9980,7 +9980,7 @@
         <w lemma="видавництво" ana="noun:inanim:n:v_rod">видавництва</w>
       </w_>
       <g/>
-      <w_ id="2x5x" n="3027">
+      <w_ id="2x5x" dep="2x53-punct" n="3027">
         <w lemma="..." ana="punct:ellipsis">...</w>
       </w_>
     </p>
