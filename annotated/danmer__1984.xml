@@ -4583,11 +4583,11 @@
           <w_ id="04k2" dep="04k1-obj">
             <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
           </w_>
-          <w_ id="04k3">
-            <w lemma="догори" ana="adv">догори</w>
+          <w_ id="04k3" dep="04k4-case">
+            <w lemma="догори" ana="prep:rv_oru">догори</w>
           </w_>
-          <w_ id="04k4">
-            <w lemma="дригом" ana="adv">дригом</w>
+          <w_ id="04k4" dep="04k1-obl" comment="~">
+            <w lemma="дриг" ana="noun:inanim:m:v_oru">дригом</w>
           </w_>
           <g/>
           <w_ id="04k5" dep="04kb-punct">
@@ -20099,7 +20099,7 @@
           <w_ id="08ji" dep="08jp-mark">
             <w lemma="що" ana="conj:subord">що</w>
           </w_>
-          <w_ id="08jj">
+          <w_ id="08jj" dep="08jo-parataxis" comment="#цікаво parataxis:appos">
             <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
           </w_>
           <w_ id="08jk" dep="08jj-discourse">

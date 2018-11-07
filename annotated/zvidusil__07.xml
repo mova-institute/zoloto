@@ -728,11 +728,11 @@
       <w_ id="1sd8" dep="1sdb-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="1sd9">
-        <w lemma="це" ana="part">це</w>
+      <w_ id="1sd9" dep="1sdb-advmod" comment="= зараз, #цікаво">
+        <w lemma="це" ana="adv:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="1sda" dep="1sdb-advmod">
-        <w lemma="вже" ana="adv:v-u">вже</w>
+      <w_ id="1sda" dep="1sd9-discourse">
+        <w lemma="вже" ana="part">вже</w>
       </w_>
       <w_ id="1sdb">
         <w lemma="піти" ana="verb:perf:past:m">пішов</w>

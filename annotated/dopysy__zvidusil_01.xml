@@ -5005,13 +5005,13 @@
       </w_>
       <g/>
       <w_ id="3209" dep="320b-mark" n="1511">
-        <w lemma="хоч" ana="conj:subord">хоч</w>
+        <w lemma="хоч" ana="conj:coord">хоч</w>
       </w_>
       <g/>
-      <w_ id="320a" dep="3209-punct" n="1512">
+      <w_ id="320a" dep="3209-punct" comment="?" n="1512">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="320b" n="1513">
+      <w_ id="320b" dep="3207-conj" n="1513">
         <w lemma="думати" ana="verb:imperf:pres:s:3">думає</w>
       </w_>
       <g/>
@@ -5422,7 +5422,7 @@
       <w_ id="3244" dep="3245-case" n="1638">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="3245" n="1639">
+      <w_ id="3245" dep="3249-advcl:sp" n="1639">
         <w lemma="картопля" ana="noun:inanim:f:v_oru">картоплею</w>
       </w_>
       <w_ id="3246" dep="3247-case" n="1640">
@@ -5431,7 +5431,7 @@
       <w_ id="3247" dep="3245-nmod" n="1641">
         <w lemma="мундир" ana="noun:inanim:m:v_mis">мундирі</w>
       </w_>
-      <w_ id="3248" dep="3249-nsubj" n="1642">
+      <w_ id="3248" dep="3249-nsubj" edep="3245-nsubj:sp" n="1642">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="3249" dep="323r-conj:parataxis" comment="граматична помилка, калька з російської" n="1643">

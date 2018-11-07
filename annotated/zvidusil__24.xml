@@ -2131,7 +2131,7 @@
       <w_ id="2rqs" dep="2rqt-advmod" n="633">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2rqt" n="634">
+      <w_ id="2rqt" dep="2rqo-parataxis" comment="це має бути ненудне і недовге (щоб не пеклися) свято для першокласників" n="634">
         <w lemma="пектися" ana="verb:rev:imperf:past:p">пеклися</w>
       </w_>
       <w_ id="2rqu" dep="2rqv-case" n="635">
@@ -5038,11 +5038,11 @@
         <w lemma="тонна" ana="noun:inanim:p:f:v_rod">тонн</w>
       </w_>
       <g/>
-      <w_ id="2sh1" n="1522">
+      <w_ id="2sh1" dep="2sh6-punct" n="1522">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2sh2" n="1523">
-        <w lemma="що" ana="conj:subord">що</w>
+      <w_ id="2sh2" dep="2sh6-nsubj" n="1523">
+        <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
       <w_ id="2sh3" dep="2sh5-case" n="1524">
         <w lemma="на" ana="prep:rv_zna">на</w>
@@ -5058,16 +5058,16 @@
       <w_ id="30lt" dep="2sh4-compound">
         <w lemma="6" ana="numr:v_zna:nv">6</w>
       </w_>
-      <w_ id="2sh5" n="1526">
+      <w_ id="2sh5" dep="2sh6-obl" n="1526">
         <w lemma="%" ana="noun:inanim:m:v_rod:nv:symbol">%</w>
       </w_>
-      <w_ id="2sh6" n="1527">
+      <w_ id="2sh6" dep="2sgw-parataxis:rel" n="1527">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
       <w_ id="2sh7" dep="2sh8-case" n="1528">
         <w lemma="проти" ana="prep:rv_rod">проти</w>
       </w_>
-      <w_ id="2sh8" tags="promoted" n="1529">
+      <w_ id="2sh8" dep="2sh6-obl" tags="promoted" n="1529">
         <w lemma="2015-ий" ana="adj:m:v_rod:&amp;numr:&amp;noun:inanim" lemma2="2015-ий">2015-го</w>
       </w_>
       <g/>
@@ -5075,17 +5075,17 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2sha"/>
-      <w_ id="2shb" n="1531">
+      <w_ id="2shb" dep="2shd-advmod" n="1531">
         <w lemma="разом" ana="adv">Разом</w>
       </w_>
       <w_ id="2shc" dep="2shd-case" n="1532">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="2shd" dep="2shb-obl" n="1533">
+      <w_ id="2shd" dep="2shq-parataxis:discourse" n="1533">
         <w lemma="те" ana="noun:inanim:n:v_oru:&amp;pron:dem">тим</w>
       </w_>
       <g/>
-      <w_ id="2she" dep="2shb-punct" n="1534">
+      <w_ id="2she" dep="2shd-punct" n="1534">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2shf" dep="2shq-nsubj" edep="2shr-nsubj:sp" n="1535">

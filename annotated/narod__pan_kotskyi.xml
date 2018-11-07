@@ -375,8 +375,8 @@
     <w_ id="0c2m" dep="0c2p-advmod">
       <w lemma="так" ana="adv:&amp;pron:dem">так</w>
     </w_>
-    <w_ id="0c2n">
-      <w lemma="уже" ana="adv:v-u">уже</w>
+    <w_ id="0c2n" dep="0c2m-discourse">
+      <w lemma="уже" ana="part">уже</w>
     </w_>
     <w_ id="0c2o" dep="0c2p-iobj">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
@@ -423,7 +423,7 @@
     <w_ id="0c31" dep="0c32-iobj">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
     </w_>
-    <w_ id="0c32" dep="0c2y-conj:parataxis">
+    <w_ id="0c32" dep="0c2y-conj">
       <w lemma="принести" ana="verb:perf:futr:s:3">принесе</w>
     </w_>
     <g/>

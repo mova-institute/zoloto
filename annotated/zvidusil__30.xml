@@ -5,7 +5,7 @@
       <w_ id="38x4" dep="38x5-case" n="0">
         <w lemma="у" ana="prep:rv_mis:v-u">У</w>
       </w_>
-      <w_ id="38x5" dep="38xa-obl" n="1">
+      <w_ id="38x5" dep="38xa-obl" n="1" pdep="38xa-loc">
         <w lemma="місто" ana="noun:inanim:n:v_mis">місті</w>
       </w_>
       <w_ id="38x6" dep="38x5-flat:title" n="2">
@@ -17,13 +17,13 @@
       <w_ id="38x8" dep="38x9-amod" n="4">
         <w lemma="2009" ana="adj:m:v_rod:nv:&amp;numr">2009</w>
       </w_>
-      <w_ id="38x9" dep="38xa-obl" n="5">
+      <w_ id="38x9" dep="38xa-obl" n="5" pdep="38xa-tmp">
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
       <w_ id="38xa" n="6">
         <w lemma="працювати" ana="verb:imperf:pres:s:3">працює</w>
       </w_>
-      <w_ id="38xb" dep="38xa-nsubj" n="7">
+      <w_ id="38xb" dep="38xa-nsubj" n="7" pdep="38xa-agent">
         <w lemma="дельфінарій" ana="noun:inanim:m:v_naz">дельфінарій</w>
       </w_>
       <w_ id="38xc" dep="38xd-punct" n="8">
@@ -567,7 +567,7 @@
       <w_ id="3927" dep="3928-case" n="171">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="3928" dep="3926-obl" n="172">
+      <w_ id="3928" dep="3926-obl" n="172" pdep="3926-loc">
         <w lemma="прогулянка" ana="noun:inanim:f:v_mis">прогулянці</w>
       </w_>
       <w_ id="3929" dep="392a-case" n="173">
@@ -603,7 +603,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="392j"/>
-      <w_ id="392k" dep="392n-nsubj" n="183">
+      <w_ id="392k" dep="392n-nsubj" n="183" pdep="392n-agent">
         <w lemma="жінка" ana="noun:anim:f:v_naz">Жінка</w>
       </w_>
       <w_ id="392l" dep="392m-case" n="184">
@@ -618,10 +618,10 @@
       <w_ id="392o" dep="392p-case" n="187">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="392p" dep="392n-obl" coref="392a-bridge" n="188">
+      <w_ id="392p" dep="392n-obl" coref="392a-bridge" n="188" pdep="392n-loc">
         <w lemma="стежка" ana="noun:inanim:f:v_mis">стежці</w>
       </w_>
-      <w_ id="392q" dep="392n-obj" n="189">
+      <w_ id="392q" dep="392n-obj" n="189" pdep="392n-patient">
         <w lemma="слимак" ana="noun:anim:m:v_zna">слимака</w>
       </w_>
       <g/>

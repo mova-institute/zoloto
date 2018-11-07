@@ -4385,16 +4385,16 @@
         <w lemma="рік" ana="noun:inanim:m:v_zna">рік</w>
       </w_>
       <g/>
-      <w_ id="37zb" dep="37zg-punct" n="1330">
+      <w_ id="37zb" dep="37zg-punct|3ch3-punct" n="1330">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="37zc" dep="37zg-mark" n="1331">
+      <w_ id="37zc" dep="37zg-mark|3ch3-mark" n="1331">
         <w lemma="ніж" ana="conj:subord">ніж</w>
       </w_>
-      <w_ id="37zd" dep="37zg-orphan" n="1332">
+      <w_ id="37zd" dep="37zg-orphan|3ch3-advmod" n="1332">
         <w lemma="тепер" ana="adv:&amp;pron:dem">тепер</w>
       </w_>
-      <w_ id="3ch3" ellipsis="predicate">
+      <w_ id="3ch3" dep="37z5-advcl" ellipsis="predicate">
         <w lemma="освоювати" ana="verb:imperf:pres:s:3">освоює</w>
       </w_>
       <w_ id="37ze" dep="37zg-discourse" n="1333">
@@ -4403,7 +4403,7 @@
       <w_ id="37zf" dep="37zg-case" n="1334">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="37zg" dep="37z5-advcl" n="1335">
+      <w_ id="37zg" dep="37z5-advcl|3ch3-obl" n="1335">
         <w lemma="квартал" ana="noun:inanim:m:v_zna">квартал</w>
       </w_>
       <g/>
@@ -5861,7 +5861,7 @@
       <w_ id="38ca" dep="38cb-advmod" hdep="38cb-private" n="1775">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="38cb" dep="38c7-parataxis" n="1776">
+      <w_ id="38cb" dep="38c7-parataxis" comment="thatis" n="1776">
         <w lemma="визначати" ana="verb:imperf:pres:p:3">визначають</w>
       </w_>
       <w_ id="38cc" dep="38cb-obj" hdep="38cb-private" n="1777">
@@ -5892,13 +5892,13 @@
       <w_ id="38ck" dep="38cb-conj" n="1785">
         <w lemma="зростати" ana="verb:imperf:pres:p:3">зростають</w>
       </w_>
-      <w_ id="38cl" comment="~" n="1786">
+      <w_ id="38cl" dep="38cn-advmod" n="1786">
         <w lemma="разом" ana="adv">разом</w>
       </w_>
       <w_ id="38cm" dep="38cn-case" n="1787">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="38cn" n="1788">
+      <w_ id="38cn" dep="38ck-obl" n="1788">
         <w lemma="увесь" ana="adj:p:v_oru:&amp;pron:gen">усіма</w>
       </w_>
       <w_ id="38co" dep="38cq-cc" n="1789">

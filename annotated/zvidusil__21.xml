@@ -55,7 +55,7 @@
       <w_ id="2gne" dep="2gnd-obj" coref="2gmz-equality" n="15">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
-      <w_ id="2gnf" comment="~" n="16">
+      <w_ id="2gnf" dep="2gnd-obl" comment="~" n="16">
         <w lemma="увесь" ana="adj:p:v_zna:rinanim:&amp;pron:gen">усі</w>
       </w_>
       <g/>
@@ -395,7 +395,7 @@
       <w_ id="2gqi" dep="2gqo-csubj" n="120">
         <w lemma="привозити" ana="verb:imperf:inf">привозити</w>
       </w_>
-      <w_ id="2gqj" dep="2gqi-obj" n="121">
+      <w_ id="2gqj" dep="2gqi-obj" edep="2gqm-nsubj:sp" n="121">
         <w lemma="сума" ana="noun:inanim:p:f:v_zna">суми</w>
       </w_>
       <w_ id="2gqk" dep="2gqm-case" n="122">
@@ -404,7 +404,7 @@
       <w_ id="2gql" dep="2gqm-det" n="123">
         <w lemma="цей" ana="adj:f:v_mis:&amp;pron:dem">цій</w>
       </w_>
-      <w_ id="2gqm" n="124">
+      <w_ id="2gqm" dep="2gqo-advcl:sp" n="124">
         <w lemma="валюта" ana="noun:inanim:f:v_mis">валюті</w>
       </w_>
       <w_ id="2gqn" dep="2gqo-cop" n="125">
@@ -492,7 +492,7 @@
       <w_ id="2grf" dep="2grg-case" n="150">
         <w lemma="окрім" ana="prep:rv_rod">Окрім</w>
       </w_>
-      <w_ id="2grg" n="151">
+      <w_ id="2grg" dep="2grs-obl" comment="dangling?" n="151">
         <w lemma="касир" ana="noun:anim:m:v_rod">касира</w>
       </w_>
       <w_ id="2grh" dep="2gri-cc" n="152">
@@ -1333,7 +1333,7 @@
       <w_ id="2gz1" dep="2gyz-discourse" n="405">
         <w lemma="от" ana="part">от</w>
       </w_>
-      <w_ id="2gz2" n="406">
+      <w_ id="2gz2" dep="2gyx-appos" n="406">
         <w lemma="Вольфґанґ" ana="noun:anim:m:v_naz:prop:fname:auto">Вольфґанґ</w>
       </w_>
       <w_ id="2gz3" dep="2gz2-flat:name" n="407">
@@ -1343,7 +1343,7 @@
       <w_ id="2gz4" dep="2gz5-punct" n="408">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2gz5" n="409">
+      <w_ id="2gz5" dep="2gz2-parataxis" n="409">
         <w lemma="премія" ana="noun:inanim:f:v_naz">премія</w>
       </w_>
       <w_ id="2gz6" dep="2gz7-case" n="410">
@@ -2876,10 +2876,10 @@
         <w lemma="втомитися" ana="verb:rev:perf:past:m:v-u">Втомився</w>
       </w_>
       <g/>
-      <w_ id="2hd0" n="874">
+      <w_ id="2hd0" dep="2hcz-punct" n="874">
         <w lemma="»" ana="punct:quote">»</w>
       </w_>
-      <w_ id="2hd1" n="875">
+      <w_ id="2hd1" dep="2hcu-discourse" n="875">
         <w lemma="тощо" ana="part">тощо</w>
       </w_>
       <g/>
@@ -3696,16 +3696,16 @@
       <w_ id="2hkf" dep="2hkd-nmod" n="1125">
         <w lemma="студія" ana="noun:inanim:f:v_mis">студії</w>
       </w_>
-      <w_ id="2hkg" n="1126">
+      <w_ id="2hkg" dep="2hki-advmod" n="1126">
         <w lemma="вже" ana="adv:v-u">вже</w>
       </w_>
       <w_ id="2hkh" dep="2hki-case" n="1127">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="2hki" n="1128">
+      <w_ id="2hki" dep="2hkb-obl" comment="appos reverse" n="1128">
         <w lemma="я" ana="noun:anim:s:v_rod:&amp;pron:pers:1">мене</w>
       </w_>
-      <w_ id="2hkj" dep="2hkb-advmod" n="1129">
+      <w_ id="2hkj" dep="2hki-appos:spec" n="1129">
         <w lemma="вдома" ana="adv:v-u">вдома</w>
       </w_>
       <g/>

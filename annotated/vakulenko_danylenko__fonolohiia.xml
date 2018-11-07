@@ -2086,8 +2086,8 @@
     <w_ id="1a8u" dep="1a92-nsubj">
       <w lemma="історія" ana="noun:inanim:f:v_naz">історія</w>
     </w_>
-    <w_ id="1a8v" dep="1a8u-nmod" comment="присвійний?">
-      <w lemma="вона" ana="noun:f:v_rod:&amp;pron:pers:3">її</w>
+    <w_ id="1a8v" dep="1a8u-nmod">
+      <w lemma="її" ana="adj:f:v_naz:poss:nv:&amp;pron:pers:3">її</w>
     </w_>
     <g/>
     <w_ id="1a8w" dep="1a8x-punct">
@@ -2140,13 +2140,13 @@
     <w_ id="1a9b" dep="1a9e-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1a9c">
+    <w_ id="1a9c" dep="1a9e-advmod:emph">
       <w lemma="зокрема" ana="adv">зокрема</w>
     </w_>
     <w_ id="1a9d" dep="1a9e-discourse">
       <w lemma="й" ana="part">й</w>
     </w_>
-    <w_ id="1a9e">
+    <w_ id="1a9e" dep="1a9a-appos">
       <w lemma="наріччя" ana="noun:inanim:p:n:v_rod">наріч</w>
     </w_>
     <w_ id="1a9f" dep="1a9e-amod">
@@ -5699,7 +5699,7 @@
     <w_ id="1b54" dep="1b55-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
-    <w_ id="1b55">
+    <w_ id="1b55" dep="1b53-appos">
       <w lemma="волинський" ana="adj:p:v_zna:rinanim">волинські</w>
     </w_>
     <g/>
@@ -5757,7 +5757,7 @@
     <w_ id="1b5l" dep="1b5m-obl">
       <w lemma="міра" ana="noun:inanim:f:v_zna">міру</w>
     </w_>
-    <w_ id="1b5m">
+    <w_ id="1b5m" dep="1b5d-parataxis" comment="зв’язок з _надсянськими_ збережеться корефом">
       <w lemma="розпорошений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">розпорошені</w>
     </w_>
     <g/>

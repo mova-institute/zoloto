@@ -3026,7 +3026,7 @@
     <w_ id="0pba">
       <w lemma="доступний" ana="adj:m:v_naz:compb">доступний</w>
     </w_>
-    <w_ id="0pbb">
+    <w_ id="0pbb" dep="0pbc-advmod">
       <w lemma="абсолютно" ana="adv">абсолютно</w>
     </w_>
     <w_ id="0pbc" dep="0pba-iobj">
@@ -3036,20 +3036,20 @@
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
     <g/>
-    <w_ id="0pbe" dep="0pbf-punct">
+    <w_ id="0pbe" dep="0pbh-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0pbf">
+    <w_ id="0pbf" dep="0pbh-advmod">
       <w lemma="разом" ana="adv">разом</w>
     </w_>
     <w_ id="0pbg" dep="0pbh-case">
       <w lemma="з" ana="prep:rv_oru">з</w>
     </w_>
-    <w_ id="0pbh" dep="0pbf-obl">
+    <w_ id="0pbh" dep="0pbj-parataxis:discourse">
       <w lemma="те" ana="noun:inanim:n:v_oru:&amp;pron:dem">тим</w>
     </w_>
     <g/>
-    <w_ id="0pbi" dep="0pbf-punct">
+    <w_ id="0pbi" dep="0pbh-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0pbj" dep="0pba-conj">
@@ -3110,7 +3110,7 @@
     <w_ id="0pc1" dep="0pc2-case">
       <w lemma="по" ana="prep:rv_mis">по</w>
     </w_>
-    <w_ id="0pc2">
+    <w_ id="0pc2" dep="0pc4-parataxis:discourse">
       <w lemma="суть" ana="noun:inanim:f:v_mis">суті</w>
     </w_>
     <g/>

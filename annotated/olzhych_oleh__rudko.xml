@@ -1258,11 +1258,11 @@
       <w_ id="2u50" n="385">
         <w lemma="година" ana="noun:inanim:f:v_naz">Година</w>
       </w_>
-      <w_ id="2u51" n="386">
+      <w_ id="2u51" dep="2u50-orphan" n="386">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
       <g/>
-      <w_ id="2u52" n="387">
+      <w_ id="2u52" dep="2u50-punct" n="387">
         <w lemma="!" ana="punct">!</w>
       </w_>
     </p>
@@ -1678,13 +1678,13 @@
       <w_ id="2u8w" n="515">
         <w lemma="зібратися" ana="verb:rev:perf:past:p">зібралися</w>
       </w_>
-      <w_ id="2u8x" dep="2u8w-nsubj" n="516">
+      <w_ id="2u8x" dep="2u8w-nsubj" edep="2u9c-nsubj:x|2u8z-nsubj:sp" hdep="2u8w-distrib" n="516">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
-      <w_ id="2u8y" n="517">
+      <w_ id="2u8y" dep="2u8z-det" n="517">
         <w lemma="весь" ana="adj:p:v_naz:&amp;pron:gen">всі</w>
       </w_>
-      <w_ id="2u8z" n="518">
+      <w_ id="2u8z" dep="2u8w-advcl:sp" comment="~ штук?" n="518">
         <w lemma="15" ana="numr:v_naz:nv">15</w>
       </w_>
       <w_ id="2u90" dep="2u92-punct" n="519">
@@ -1726,7 +1726,7 @@
       <w_ id="2u9b" dep="2u8w-conj" n="530">
         <w lemma="навчитися" ana="verb:rev:perf:past:p">навчились</w>
       </w_>
-      <w_ id="2u9c" dep="2u9b-xcomp" comment="#xsubj-from-head" n="531">
+      <w_ id="2u9c" dep="2u9b-xcomp" n="531">
         <w lemma="підводитися" ana="verb:rev:imperf:inf">підводитись</w>
       </w_>
       <w_ id="2u9d" dep="2u9e-case" n="532">

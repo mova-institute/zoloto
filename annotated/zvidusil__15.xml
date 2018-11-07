@@ -234,11 +234,11 @@
       <w_ id="25t7" dep="25t8-case">
         <w lemma="до" ana="prep:rv_rod">До</w>
       </w_>
-      <w_ id="25t8" comment-equality="!" coref="25ta-equality:cl">
+      <w_ id="25t8" dep="25tl-obl" comment-equality="!" coref="25ta-equality:cl">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
-      <w_ id="25t9">
-        <w lemma="як" ana="adv:&amp;pron:rel">як</w>
+      <w_ id="25t9" dep="25ta-mark">
+        <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ id="25ta" dep="25t8-acl">
         <w lemma="подарувати" ana="verb:perf:inf">подарувати</w>
@@ -263,7 +263,7 @@
       <w_ id="25tg" dep="25th-amod">
         <w lemma="завзятий" ana="adj:m:v_naz:compb">завзятий</w>
       </w_>
-      <w_ id="25th" correct="прихильник">
+      <w_ id="25th" dep="25td-appos" correct="прихильник">
         <w lemma="прихильник" ana="noun:anim:m:v_naz">прихильних</w>
       </w_>
       <w_ id="25ti" dep="25th-nmod">
@@ -283,7 +283,7 @@
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
-      <w_ id="25tn">
+      <w_ id="25tn" dep="25tl-obj">
         <w lemma="When" ana="x:foreign">When</w>
       </w_>
       <w_ id="25to" dep="25tn-flat:foreign">
