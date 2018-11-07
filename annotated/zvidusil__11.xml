@@ -6689,16 +6689,16 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="21v1"/>
-      <w_ id="21v2">
+      <w_ id="21v2" dep="21v6-cc">
         <w lemma="а" ana="conj:coord">А</w>
       </w_>
       <w_ id="21v3" dep="21v4-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="21v4">
+      <w_ id="21v4" dep="21v6-orphan">
         <w lemma="вона" ana="noun:f:v_mis:rprep:&amp;pron:pers:3">ній</w>
       </w_>
-      <w_ id="21v5" dep="21v6-punct">
+      <w_ id="21v5" dep="21v6-punct" comment="#&lt;існує">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <w_ id="21v6">
@@ -6746,7 +6746,7 @@
         <w lemma="скарб" ana="noun:inanim:p:m:v_oru">скарбами</w>
       </w_>
       <g/>
-      <w_ id="21vk">
+      <w_ id="21vk" dep="21v6-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="21vl"/>
@@ -7192,22 +7192,22 @@
         <w lemma="!" ana="punct">!</w>
       </w_>
       <!-- <sb id="21zr"/> -->
-      <w_ id="21zs">
+      <w_ id="21zs" dep="21zt-cc">
         <w lemma="або" ana="conj:coord">або</w>
       </w_>
-      <w_ id="21zt">
+      <w_ id="21zt" dep="21zm-conj" comment="наплутано conj за parataxisом">
         <w lemma="перевага" ana="noun:inanim:p:f:v_naz">Переваги</w>
       </w_>
-      <w_ id="21zu">
+      <w_ id="21zu" dep="21zt-nmod">
         <w lemma="сором’язливий" ana="adj:p:v_rod">сором’язливих</w>
       </w_>
-      <w_ id="21zv">
+      <w_ id="21zv" dep="21zw-punct">
         <w lemma="/" ana="punct">/</w>
       </w_>
-      <w_ id="21zw">
+      <w_ id="21zw" dep="21zm-parataxis">
         <w lemma="Стівен" ana="noun:anim:m:v_naz:prop:fname">Стівен</w>
       </w_>
-      <w_ id="21zx">
+      <w_ id="21zx" dep="21zw-flat:name">
         <w lemma="Чбоскі" ana="noun:anim:m:v_naz:nv:np:prop:lname">Чбоскі</w>
       </w_>
       <g/>
@@ -7218,23 +7218,23 @@
         <w lemma="пер." ana="noun:inanim:m:v_naz:nv:abbr">пер</w>
       </w_>
       <g/>
-      <w_ id="2200">
+      <w_ id="2200" dep="21zz-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="2201">
+      <w_ id="2201" dep="2202-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="2202">
         <w lemma="англ." ana="adj:f:v_rod:abbr:nv:&amp;noun:inanim" lemma2="англ.">англ</w>
       </w_>
       <g/>
-      <w_ id="2203">
+      <w_ id="2203" dep="2202-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <w_ id="2204">
         <w lemma="Артем" ana="noun:anim:m:v_naz:prop:fname">Артем</w>
       </w_>
-      <w_ id="2205">
+      <w_ id="2205" dep="2204-flat:name">
         <w lemma="Гусак" ana="noun:anim:m:v_naz:prop:lname">Гусак</w>
       </w_>
       <g/>

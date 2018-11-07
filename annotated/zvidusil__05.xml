@@ -1929,10 +1929,10 @@
       <w_ id="1pvi">
         <w lemma="зберегти" ana="verb:perf:past:f">зберегла</w>
       </w_>
-      <w_ id="1pvj" dep="1pvp-punct">
+      <w_ id="1pvj" dep="1pvo-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="1pvk" dep="1pvp-advmod">
+      <w_ id="1pvk" dep="1pvo-advmod">
         <w lemma="колись" ana="adv:&amp;pron:ind">колись</w>
       </w_>
       <w_ id="1pvl" dep="1pvo-amod">
@@ -1945,14 +1945,14 @@
       <w_ id="1pvn" dep="1pvm-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="1pvo" dep="1pvp-nsubj">
+      <w_ id="1pvo" dep="1pvi-parataxis">
         <w lemma="документ" ana="noun:inanim:m:v_naz">документ</w>
       </w_>
-      <w_ id="1pvp" dep="1pvi-parataxis">
+      <w_ id="1pvp" dep="1pvo-cop">
         <w lemma="бути" ana="verb:imperf:futr:s:3">буде</w>
       </w_>
       <g/>
-      <w_ id="1pvq" dep="1pvi-punct">
+      <w_ id="1pvq" dep="1pvo-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1pvr"/>
@@ -3611,7 +3611,7 @@
     <gap/>
     <p id="1qb2">
       <sb id="1qb3"/>
-      <w_ id="1qb4" dep="1qb5-nsubj">
+      <w_ id="1qb4" dep="1qb5-nsubj" pdep="1qb5-arg0">
         <w lemma="дослідник" ana="noun:anim:p:m:v_naz">Дослідники</w>
       </w_>
       <w_ id="1qb5">
@@ -4016,7 +4016,7 @@
       <w_ id="1qeu" dep="1qes-conj">
         <w lemma="перевірити" ana="verb:perf:inf">перевірити</w>
       </w_>
-      <w_ id="1qev" dep="1qes-obj">
+      <w_ id="1qev" dep="1qes-obj" hdep="1qes-private">
         <w lemma="життєпис" ana="noun:inanim:p:m:v_zna">життєписи</w>
       </w_>
       <w_ id="1qew" dep="1qex-nummod">
@@ -4098,7 +4098,7 @@
       <w_ id="1qfn">
         <w lemma="заповнити" ana="verb:perf:impr:p:2">заповніть</w>
       </w_>
-      <w_ id="1qfo" dep="1qfn-obj">
+      <w_ id="1qfo" dep="1qfn-obj" hdep="1qfn-private">
         <w lemma="анкета" ana="noun:inanim:f:v_zna">анкету</w>
       </w_>
       <w_ id="1qfp" dep="1qfq-cc">

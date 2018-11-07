@@ -1398,19 +1398,19 @@
       <w lemma="поріг" ana="noun:inanim:m:v_zna">поріг</w>
     </w_>
     <g/>
-    <w_ id="0h37">
+    <w_ id="0h37" dep="0h3b-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0h38">
+    <w_ id="0h38" dep="0h3b-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
     <w_ id="0h39" dep="0h3a-case">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="0h3a" comment="там добре">
+    <w_ id="0h3a" dep="0h3b-obl" hdep="0h3b-distrib">
       <w lemma="хижа" ana="noun:inanim:f:v_mis">хижі</w>
     </w_>
-    <w_ id="0h3b">
+    <w_ id="0h3b" dep="0h35-conj:parataxis" tags="itsubj">
       <w lemma="тепло" ana="adv:compb">тепло</w>
     </w_>
     <g/>
@@ -1434,7 +1434,7 @@
     <w_ id="0h3h" dep="0h3i-advmod">
       <w lemma="приємно" ana="adv:compb">приємно</w>
     </w_>
-    <w_ id="0h3i">
+    <w_ id="0h3i" dep="0h3b-conj">
       <w lemma="пахнути" ana="verb:imperf:pres:s:3">пахне</w>
     </w_>
     <g/>
@@ -1466,13 +1466,13 @@
     <w_ id="0h3s" dep="0h3q-conj">
       <w lemma="ходити" ana="verb:imperf:pres:s:3">ходить</w>
     </w_>
-    <w_ id="0h3t" dep="0h3q-nsubj">
+    <w_ id="0h3t" dep="0h3q-nsubj" hdep="0h3q-distrib">
       <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
     </w_>
     <w_ id="0h3u" dep="0h3v-case">
       <w lemma="по" ana="prep:rv_mis">по</w>
     </w_>
-    <w_ id="0h3v" dep="0h3q-obl" comment="цікаво: розглядати по хаті">
+    <w_ id="0h3v" dep="0h3q-obl" comment="цікаво: розглядати по хаті?">
       <w lemma="хата" ana="noun:inanim:f:v_mis">хаті</w>
     </w_>
     <g/>

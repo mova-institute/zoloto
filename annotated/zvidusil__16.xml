@@ -4749,7 +4749,7 @@
       <w_ id="283j" dep="283k-advmod">
         <w lemma="чому" ana="adv:&amp;pron:rel">Чому</w>
       </w_>
-      <w_ id="283k" dep="283u-csubj" comment="#advsubj? ~">
+      <w_ id="283k" dep="283u-csubj" tags="itsubj">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <w_ id="283l" dep="283s-cc">
@@ -6491,7 +6491,7 @@
       <w_ id="28j6" dep="28j7-case">
         <w lemma="окрім" ana="prep:rv_rod">Окрім</w>
       </w_>
-      <w_ id="28j7">
+      <w_ id="28j7" dep="28j9-obl">
         <w lemma="екологія" ana="noun:inanim:f:v_rod">екології</w>
       </w_>
       <w_ id="28j8" dep="28j9-nsubj">
@@ -6509,7 +6509,7 @@
       <w_ id="28jc" dep="28je-discourse">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="28jd" dep="28je-amod">
+      <w_ id="28jd" dep="28je-amod" hdep="28je-private">
         <w lemma="інфраструктурний" ana="adj:p:v_zna:rinanim">інфраструктурні</w>
       </w_>
       <w_ id="28je">
@@ -6562,10 +6562,10 @@
       <w_ id="28ju" dep="28k7-csubj">
         <w lemma="народити" ana="verb:perf:inf">Народити</w>
       </w_>
-      <w_ id="28jv" dep="28jx-case">
+      <w_ id="28jv" dep="28jx-case" hdep="28jx-private">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="28jw" dep="28jx-nummod:gov">
+      <w_ id="28jw" dep="28jx-nummod:gov" hdep="28jx-private">
         <w lemma="дев’ятнадцять" ana="numr:v_zna">дев'ятнадцять</w>
       </w_>
       <w_ id="28jx" dep="28ju-obl">
@@ -6751,13 +6751,13 @@
       <w_ id="28ll" dep="28lp-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="28lm" dep="28lp-nsubj">
+      <w_ id="28lm" dep="28lp-nsubj" hdep="28lp-distrib">
         <w lemma="дитина" ana="noun:anim:p:f:v_naz">діти</w>
       </w_>
-      <w_ id="28ln" dep="28lp-obj">
+      <w_ id="28ln" dep="28lp-obj" hdep="28lp-private">
         <w lemma="ніщо" ana="noun:inanim:v_zna:&amp;pron:neg">нічого</w>
       </w_>
-      <w_ id="28lo" dep="28lp-advmod">
+      <w_ id="28lo" dep="28lp-advmod" hdep="28lp-private">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="28lp" dep="28lj-ccomp">
@@ -6898,7 +6898,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="28mz" dep="28nc-nsubj">
+      <w_ id="28mz" dep="28nc-nsubj" hdep="28nc-distrib">
         <w lemma="жінка" ana="noun:anim:p:f:v_naz">Жінки</w>
       </w_>
       <w_ id="28n0" dep="28mz-nmod">
@@ -6936,7 +6936,7 @@
       <w_ id="28na" dep="28n4-punct">
         <w lemma=")" ana="punct">)</w>
       </w_>
-      <w_ id="28nb" dep="28nc-advmod">
+      <w_ id="28nb" dep="28nc-advmod" hdep="28nc-distrib">
         <w lemma="дуже" ana="adv:compb">дуже</w>
       </w_>
       <w_ id="28nc">
@@ -7212,10 +7212,10 @@
       <w_ id="28pr" dep="28pu-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="28ps" dep="28pu-case">
+      <w_ id="28ps" dep="28pu-case" hdep="28pu-distrib">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="28pt" dep="28pu-nummod">
+      <w_ id="28pt" dep="28pu-nummod" hdep="28pu-private">
         <w lemma="п’ять" ana="numr:v_oru">п’ятьма</w>
       </w_>
       <w_ id="28pu" dep="28pq-nmod">

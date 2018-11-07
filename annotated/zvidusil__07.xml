@@ -317,17 +317,17 @@
         <w lemma="-" ana="punct:hyphen">-</w>
       </w_>
       <g/>
-      <w_ id="1s9i" dep="1s9g-conj">
+      <w_ id="1s9i" dep="1s9g-flat:range">
         <w lemma="Калуш" ana="noun:inanim:m:v_naz:prop">Калуш</w>
       </w_>
-      <w_ id="1s9j">
+      <w_ id="1s9j" dep="1s9k-csubj" tags="promoted" comment="#&gt;:int (їхати)">
         <w lemma="кудою" ana="adv:&amp;pron:ind:coll">Кудою</w>
       </w_>
-      <w_ id="1s9k">
+      <w_ id="1s9k" dep="1s9g-parataxis">
         <w lemma="краще" ana="adv:compr">краще</w>
       </w_>
       <g/>
-      <w_ id="1s9l">
+      <w_ id="1s9l" dep="1s9k-punct">
         <w lemma="?" ana="punct">?</w>
       </w_>
     </p>
@@ -1524,7 +1524,7 @@
       <w_ id="1skh" dep="1skr-discourse">
         <w lemma="чи" ana="part">Чи</w>
       </w_>
-      <w_ id="1ski" dep="1skj-det">
+      <w_ id="1ski" dep="1skj-det" hdep="1skj-distrib">
         <w lemma="той" ana="adj:f:v_zna:&amp;pron:dem">ту</w>
       </w_>
       <w_ id="1skj" dep="1sks-obj">
@@ -1557,10 +1557,10 @@
       <w_ id="1sks" dep="1skr-xcomp">
         <w lemma="знайти" ana="verb:perf:inf">знайти</w>
       </w_>
-      <w_ id="1skt" dep="1skv-case">
+      <w_ id="1skt" dep="1skv-case" hdep="1skv-private">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1sku" dep="1skv-det">
+      <w_ id="1sku" dep="1skv-det" hdep="1skv-private">
         <w lemma="наш" ana="adj:n:v_mis:poss:&amp;pron:pers:1">нашому</w>
       </w_>
       <w_ id="1skv" dep="1sks-obl">
@@ -1599,7 +1599,7 @@
       <w_ id="1sl6" dep="1sl7-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="1sl7" dep="1sl2-nmod">
+      <w_ id="1sl7" dep="1sl2-nmod" hdep="1sl2-private">
         <w lemma="подія" ana="noun:inanim:p:f:v_rod">подій</w>
       </w_>
       <w_ id="1sl8" dep="1sl9-case">
@@ -2048,7 +2048,7 @@
       <w_ id="1sp9" dep="1sp8-flat:foreign">
         <w lemma="RT" ana="x:foreign">RT</w>
       </w_>
-      <w_ id="1spa">
+      <w_ id="1spa" dep="1spb-discourse" comment="#&gt;part">
         <w lemma="тіке" ana="adv:odd">тіке</w>
       </w_>
       <w_ id="1spb" dep="1sp1-advmod">
@@ -2060,7 +2060,7 @@
       <w_ id="1spd" dep="1spe-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1spe">
+      <w_ id="1spe" dep="1spb-advcl">
         <w lemma="схотіти" ana="verb:perf:past:m">схотів</w>
       </w_>
       <w_ id="1spf" dep="1spe-xcomp" comment="#xsubj-from-head">
@@ -2072,7 +2072,7 @@
       <w_ id="1sph" dep="1spi-cc" comment="part?">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="1spi">
+      <w_ id="1spi" dep="1sp1-conj">
         <w lemma="купити" ana="verb:perf:past:m">купив</w>
       </w_>
       <w_ id="1spj" dep="1spk-amod">
@@ -2186,19 +2186,19 @@
       <w_ id="1sqk" dep="1sqr-nsubj" edep="1sqs-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="1sql">
+      <w_ id="1sql" dep="1sqm-case">
         <w lemma="після" ana="prep:rv_rod">після</w>
       </w_>
       <w_ id="1sqm">
         <w lemma="відновлення" ana="noun:inanim:n:v_rod">відновлення</w>
       </w_>
-      <w_ id="1sqn">
+      <w_ id="1sqn" dep="1sqo-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
       <w_ id="1sqo">
         <w lemma="хата" ana="noun:inanim:f:v_mis">хаті</w>
       </w_>
-      <w_ id="1sqp">
+      <w_ id="1sqp" dep="1sqm-nmod">
         <w lemma="інтернет" ana="noun:inanim:m:v_rod">інтернету</w>
       </w_>
       <g/>
@@ -2230,7 +2230,7 @@
       <w_ id="1sqy">
         <w lemma="ну" ana="part">ну</w>
       </w_>
-      <w_ id="1sqz">
+      <w_ id="1sqz" dep="1sr0-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="1sr0">
@@ -2252,16 +2252,16 @@
       <w_ id="1sr5">
         <w lemma="думати" ana="verb:imperf:pres:s:1">думаю</w>
       </w_>
-      <w_ id="1sr6">
+      <w_ id="1sr6" dep="1sr7-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1sr7" coref="1spk-equality">
+      <w_ id="1sr7" dep="1sr4-obl" coref="1spk-equality">
         <w lemma="він" ana="noun:m:v_zna:rprep:&amp;pron:pers:3">нього</w>
       </w_>
       <w_ id="1sr8" dep="1sr9-det">
         <w lemma="один" ana="adj:f:v_zna:&amp;pron:ind">одну</w>
       </w_>
-      <w_ id="1sr9">
+      <w_ id="1sr9" dep="1sr4-obj">
         <w lemma="фотка" ana="noun:inanim:f:v_zna:slang">фотку</w>
       </w_>
       <w_ id="1sra" dep="1srb-obj" coref="1sr9-equality" edep="1sr9-ref">
@@ -2270,10 +2270,10 @@
       <w_ id="1srb" dep="1sr9-acl">
         <w lemma="бачити" ana="verb:imperf:past:m">бачив</w>
       </w_>
-      <w_ id="1src">
+      <w_ id="1src" dep="1srd-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1srd">
+      <w_ id="1srd" dep="1srb-obl">
         <w lemma="нет" ana="noun:inanim:m:v_mis">неті</w>
       </w_>
       <w_ id="1sre" dep="1srf-punct">
@@ -2870,13 +2870,13 @@
   <doc id="1swx" author="Роєнко Анастасія" date="2017-01-16" genre="допис" src="https://www.instagram.com/p/BPUjjKLhB2w/?taken-by=roenka" title="[київ – сонцелитий]">
     <p id="1swy">
       <sb id="1swz"/>
-      <w_ id="1sx0">
+      <w_ id="1sx0" dep="1sx2-iobj">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
-      <w_ id="1sx1">
+      <w_ id="1sx1" dep="1sx2-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="1sx2">
+      <w_ id="1sx2" tags="itsubj">
         <w lemma="добре" ana="adv:compb">добре</w>
       </w_>
     </p>
@@ -3929,7 +3929,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1t74"/>
-      <w_ id="1t75" dep="1t77-nsubj">
+      <w_ id="1t75" dep="1t77-nsubj" hdep="1t77-distrib">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
       </w_>
       <w_ id="1t76" dep="1t77-advmod">
