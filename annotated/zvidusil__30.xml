@@ -1918,7 +1918,7 @@
       <w_ id="39ei" dep="39ej-amod" n="568">
         <w lemma="особливий" ana="adj:p:v_naz">Особливі</w>
       </w_>
-      <w_ id="39ej" n="569">
+      <w_ id="39ej" dep="39em-nsubj" n="569">
         <w lemma="слово" ana="noun:inanim:p:n:v_naz">слова</w>
       </w_>
       <w_ id="39ek" dep="39ej-nmod" n="570">
@@ -1965,7 +1965,7 @@
       <w_ id="39ex" dep="39ey-punct" n="583">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="39ey" n="584">
+      <w_ id="39ey" dep="39ew-appos" n="584">
         <w lemma="отець" ana="noun:anim:p:m:v_dav">отцям</w>
       </w_>
       <w_ id="39ez" dep="39ey-flat:title" n="585">
@@ -2006,7 +2006,7 @@
       <w_ id="39f9" dep="39fa-case" n="595">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
-      <w_ id="39fa" dep="39fg-obl" edep="39ey-ref" n="596">
+      <w_ id="39fa" dep="39fg-obl" edep="39ew-ref" n="596">
         <w lemma="який" ana="adj:p:v_rod:&amp;pron:rel">яких</w>
       </w_>
       <w_ id="39fb" dep="39fc-det" n="597">
@@ -2028,7 +2028,7 @@
         <w lemma="неможливий" ana="adj:f:v_oru">неможливою</w>
       </w_>
       <g/>
-      <w_ id="39fh" n="603">
+      <w_ id="39fh" dep="39em-punct" n="603">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39fi"/>
@@ -2738,7 +2738,7 @@
       <w_ id="39lu" dep="39lv-nummod:gov" n="815">
         <w lemma="200" ana="numr:v_zna:nv">200</w>
       </w_>
-      <w_ id="39lv" n="816">
+      <w_ id="39lv" dep="39ls-flat" n="816">
         <w lemma="млн" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
       <w_ id="39lw" dep="39ls-nmod" n="817">
@@ -2798,7 +2798,7 @@
       <w_ id="39ma" dep="39mb-obl" hdep="39mb-private" n="831">
         <w lemma="раз" ana="noun:inanim:p:m:v_zna">рази</w>
       </w_>
-      <w_ id="39mb" n="832">
+      <w_ id="39mb" dep="39lh-parataxis:rel" comment="~ неграматичне? насправді з _мільярдів_?" n="832">
         <w lemma="перевищувати" ana="verb:imperf:pres:s:3">перевищує</w>
       </w_>
       <w_ id="39mc" dep="39md-amod" n="833">
@@ -2813,7 +2813,7 @@
       <w_ id="39mf" dep="39mh-case" n="836">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="39mg" n="837">
+      <w_ id="39mg" dep="39mh-nummod" n="837">
         <w lemma="5" ana="numr:v_zna:nv">5</w>
       </w_>
       <w_ id="3c94" dep="3c95-punct">
@@ -2854,7 +2854,7 @@
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
       <g/>
-      <w_ id="39mq" n="847">
+      <w_ id="39mq" dep="39lh-punct" n="847">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="39mr"/>

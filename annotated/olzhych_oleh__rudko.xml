@@ -2609,7 +2609,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2uhd"/>
-      <w_ id="2uhe" n="801">
+      <w_ id="2uhe" dep="2uhf-det" n="801">
         <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">Сама</w>
       </w_>
       <w_ id="2uhf" dep="2uhg-nsubj" edep="2uhh-nsubj:x" n="802">
@@ -2621,7 +2621,7 @@
       <w_ id="2uhh" dep="2uhg-xcomp" n="804">
         <w lemma="їсти" ana="verb:imperf:inf">їсти</w>
       </w_>
-      <w_ id="2uhi" dep="2uhj-discourse" n="805">
+      <w_ id="2uhi" dep="2uhj-discourse" hdep="2uhj-collect" n="805">
         <w lemma="тільки" ana="part">тільки</w>
       </w_>
       <w_ id="2uhj" dep="2uhh-obj" n="806">
@@ -2640,7 +2640,7 @@
       <w_ id="2uhn" dep="2uho-punct" n="810">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2uho" dep="2uhj-amod" n="811">
+      <w_ id="2uho" dep="2uhj-amod" hdep="2uhj-collect" n="811">
         <w lemma="насипаний" ana="adj:p:v_zna:rinanim:&amp;adjp:perf:pasv">насипані</w>
       </w_>
       <w_ id="2uhp" dep="2uho-advmod" n="812">
@@ -2651,7 +2651,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2uhr"/>
-      <w_ id="2uhs" dep="2uht-nsubj" n="814">
+      <w_ id="2uhs" dep="2uht-nsubj" hdep="2uht-distrib" n="814">
         <w lemma="малеча" ana="noun:inanim:f:v_naz">Малеча</w>
       </w_>
       <w_ id="2uht" n="815">
@@ -2660,7 +2660,7 @@
       <w_ id="2uhu" dep="2uhv-amod" n="816">
         <w lemma="гливкий" ana="adj:m:v_zna:rinanim">гливкий</w>
       </w_>
-      <w_ id="2uhv" dep="2uht-obj" n="817">
+      <w_ id="2uhv" dep="2uht-obj" hdep="2uht-private" n="817">
         <w lemma="жовток" ana="noun:inanim:m:v_zna">жовток</w>
       </w_>
       <g/>
@@ -2714,7 +2714,7 @@
       <w_ id="2uib" dep="2uic-amod" n="832">
         <w lemma="перший" ana="adj:m:v_rod:compb:&amp;numr">першого</w>
       </w_>
-      <w_ id="2uic" dep="2uia-nmod" tags="promoted" n="833">
+      <w_ id="2uic" dep="2uia-nmod" tags="promoted" hdep="2uia-private" n="833">
         <w lemma="найближчий" ana="adj:m:v_rod:super">найближчого</w>
       </w_>
       <w_ id="2uid" dep="2uig-cc" n="834">
@@ -2840,7 +2840,7 @@
       <w_ id="2ujh" dep="2ujf-nmod" n="871">
         <w lemma="спинка" ana="noun:inanim:f:v_mis">спинці</w>
       </w_>
-      <w_ id="2uji" dep="2ujj-nsubj" n="872">
+      <w_ id="2uji" dep="2ujj-nsubj" hdep="2ujj-distrib" n="872">
         <w lemma="курча" ana="noun:anim:n:v_naz">курча</w>
       </w_>
       <w_ id="2ujj" n="873">
@@ -2849,7 +2849,7 @@
       <w_ id="2ujk" dep="2ujl-amod" n="874">
         <w lemma="мамин" ana="adj:f:v_oru">маминою</w>
       </w_>
-      <w_ id="2ujl" dep="2ujj-obl" n="875">
+      <w_ id="2ujl" dep="2ujj-obl" hdep="2ujj-private" n="875">
         <w lemma="борода" ana="noun:inanim:f:v_oru">бородою</w>
       </w_>
       <g/>

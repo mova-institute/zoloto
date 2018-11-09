@@ -2667,13 +2667,16 @@
       <w_ id="27ks" dep="27kt-det">
         <w lemma="увесь" ana="adj:n:v_naz:&amp;pron:gen">Усе</w>
       </w_>
-      <w_ id="27kt">
+      <w_ id="27kt" dep="3ch9-nsubj">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="27ku" dep="27kv-case">
+      <w_ id="3ch9" ellipsis="predicate">
+        <w lemma="відбуватися" ana="verb:rev:imperf:pres:s:3">відбувається</w>
+      </w_>
+      <w_ id="27ku" dep="27kv-case" comment="locational не налазить">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="27kv">
+      <w_ id="27kv" dep="27kt-orphan|3ch9-obl">
         <w lemma="умова" ana="noun:inanim:p:f:v_mis">умовах</w>
       </w_>
       <g/>
@@ -2740,7 +2743,7 @@
         <w lemma="експорт" ana="noun:inanim:m:v_naz">експорт</w>
       </w_>
       <g/>
-      <w_ id="27lg">
+      <w_ id="27lg" dep="27kt-punct|3ch9-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="27lh"/>

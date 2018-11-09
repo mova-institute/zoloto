@@ -6916,10 +6916,10 @@
     <w_ id="1bfz" dep="1bfq-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1bg0">
+    <w_ id="1bg0" dep="1bg1-mark">
       <w lemma="як" ana="conj:subord">як</w>
     </w_>
-    <w_ id="1bg1">
+    <w_ id="1bg1" dep="1bfo-acl">
       <w lemma="деревлянин" ana="noun:anim:p:m:v_naz">деревляни</w>
     </w_>
     <w_ id="1bg2" dep="1bg4-punct">
@@ -6972,10 +6972,10 @@
       <w lemma="Київщина" ana="noun:inanim:f:v_naz:prop">Київщина</w>
     </w_>
     <g/>
-    <w_ id="1bgg">
+    <w_ id="1bgg" dep="1bgi-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1bgh">
+    <w_ id="1bgh" dep="1bgi-mark">
       <w lemma="цебто" ana="conj:subord">цебто</w>
     </w_>
     <w_ id="1bgi" dep="1bgf-appos">
@@ -6999,13 +6999,13 @@
       <w lemma="(" ana="punct">(</w>
     </w_>
     <g/>
-    <w_ id="1bgo" dep="1bgm-amod">
+    <w_ id="1bgo" dep="1bgm-amod" comment="а тут таки можна amod?">
       <w lemma="називаний" ana="adj:p:v_naz:&amp;adjp:imperf:pasv">називані</w>
     </w_>
     <w_ id="1bgp" dep="1bgo-advmod">
       <w lemma="також" ana="adv">також</w>
     </w_>
-    <w_ id="1bgq">
+    <w_ id="1bgq" dep="1bgo-xcomp:sp">
       <w lemma="волинянин" ana="noun:anim:p:m:v_oru">волинянами</w>
     </w_>
     <w_ id="1bgr" dep="1bgs-cc">
@@ -7042,7 +7042,7 @@
       <w lemma="(" ana="punct">(</w>
     </w_>
     <g/>
-    <w_ id="1bh1" dep="1bgz-appos">
+    <w_ id="1bh1" dep="1bgz-parataxis">
       <w lemma="Подністров’я" ana="noun:inanim:n:v_naz:prop">Подністров’я</w>
     </w_>
     <g/>
@@ -7066,7 +7066,7 @@
     <w_ id="1bh7" dep="1bh6-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
-    <w_ id="1bh8" dep="1bh6-parataxis" comment="conj ok?">
+    <w_ id="1bh8" dep="1bh6-parataxis">
       <w lemma="Перемищина" ana="noun:inanim:f:v_naz:prop">Перемищина</w>
     </w_>
     <g/>
@@ -11061,7 +11061,7 @@
     <w_ id="1cgk" dep="1cgl-det">
       <w lemma="той" ana="adj:m:v_mis:&amp;pron:dem">тому</w>
     </w_>
-    <w_ id="1cgl">
+    <w_ id="1cgl" dep="1cgf-obl">
       <w lemma="раз" ana="noun:inanim:m:v_mis">разі</w>
     </w_>
     <g/>
@@ -11084,11 +11084,11 @@
       <w lemma="менше" ana="adv:compr">менше</w>
     </w_>
     <g/>
-    <w_ id="1cgs">
+    <w_ id="1cgs" dep="1cgt-punct">
       <w lemma="-" ana="punct:hyphen">-</w>
     </w_>
     <g/>
-    <w_ id="1cgt">
+    <w_ id="1cgt" dep="1cgr-conj:repeat">
       <w lemma="більше" ana="adv:compr">більше</w>
     </w_>
     <w_ id="1cgu" dep="1cgq-advmod">
@@ -11139,7 +11139,7 @@
     <w_ id="1ch8" dep="1ch9-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="1ch9">
+    <w_ id="1ch9" dep="1cgf-advcl" comment="ця риска і _зрозуміло_ наче роблять з цього паратаксу">
       <w lemma="постати" ana="verb:perf:futr:s:3">постане</w>
     </w_>
     <w_ id="1cha" dep="1chc-det">
@@ -11207,7 +11207,7 @@
     <w_ id="1chu" dep="1chq-acl">
       <w lemma="зринути" ana="verb:perf:futr:s:3">зрине</w>
     </w_>
-    <w_ id="1chv">
+    <w_ id="1chv" dep="1chu-advmod" comment="~">
       <w lemma="щойно" ana="adv">щойно</w>
     </w_>
     <w_ id="1chw" dep="1chx-det:nummod">
@@ -11229,7 +11229,7 @@
     <w_ id="1ci1">
       <w lemma="йтися" ana="verb:rev:imperf:pres:s:3">йдеться</w>
     </w_>
-    <w_ id="1ci2">
+    <w_ id="1ci2" dep="1ci6-advmod:emph">
       <w lemma="радше" ana="adv">радше</w>
     </w_>
     <w_ id="1ci3" dep="1ci6-advmod">

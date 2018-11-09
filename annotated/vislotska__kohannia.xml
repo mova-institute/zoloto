@@ -10823,7 +10823,7 @@
       <w_ id="1f71" dep="1f73-punct">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="1f72" comment="?">
+      <w_ id="1f72" dep="1f73-mark" comment="?">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ id="1f73" dep="1f6y-parataxis">
@@ -11241,16 +11241,16 @@
         <w lemma="спинатися" ana="verb:rev:imperf:pres:s:3">спинається</w>
       </w_>
       <g/>
-      <w_ id="1fak" dep="1fal-punct">
+      <w_ id="1fak" dep="1fal-punct|3ch4-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1fal" dep="1faj-conj">
+      <w_ id="1fal" dep="1faj-conj|3ch4-advmod">
         <w lemma="інколи" ana="adv:&amp;pron:ind">інколи</w>
       </w_>
-      <w_ id="3ch4" ellipsis="predicate">
+      <w_ id="3ch4" dep="1faj-conj" ellipsis="predicate">
         <w lemma="спинатися" ana="verb:rev:imperf:pres:s:3">спинається</w>
       </w_>
-      <w_ id="1fam" dep="1fal-orphan">
+      <w_ id="1fam" dep="1fal-orphan|3ch4-advmod">
         <w lemma="швидше" ana="adv:compr">швидше</w>
       </w_>
       <g/>

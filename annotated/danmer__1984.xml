@@ -9788,13 +9788,16 @@
             <w lemma="жінка" ana="noun:anim:p:f:v_naz">жінки</w>
           </w_>
           <g/>
-          <w_ id="05wg" dep="05wi-punct">
+          <w_ id="05wg" dep="05wi-punct|3ch8-punct">
             <w lemma="," ana="punct">,</w>
           </w_>
-          <w_ id="05wh" dep="05wi-advmod">
+          <w_ id="05wh" dep="05wi-orphan|3ch8-advmod">
             <w lemma="особливо" ana="adv">особливо</w>
           </w_>
-          <w_ id="05wi">
+          <w_ id="3ch8" dep="05wc-conj" ellipsis="predicate">
+            <w lemma="подобатися" ana="verb:rev:imperf:past:p">подобалися</w>
+          </w_>
+          <w_ id="05wi" dep="05wc-conj|3ch8-nsubj" comment="!що робити з _не_?">
             <w lemma="молодий" ana="adj:p:v_naz:compb">молоді</w>
           </w_>
           <w_ id="05wj" dep="05wk-cc">
@@ -18704,10 +18707,10 @@
           <w_ id="086d" dep="086g-nsubj">
             <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
           </w_>
-          <w_ id="086e" dep="086f-advmod">
+          <w_ id="086e" dep="086g-advmod">
             <w lemma="все" ana="adv:v-u">все</w>
           </w_>
-          <w_ id="086f" dep="086g-advmod">
+          <w_ id="086f" dep="086e-fixed">
             <w lemma="одно" ana="adv">одно</w>
           </w_>
           <w_ id="086g" dep="0862-ccomp">
@@ -19272,10 +19275,10 @@
           <w_ id="08bo" dep="08br-punct">
             <w lemma="—" ana="punct:dash">—</w>
           </w_>
-          <w_ id="08bp">
+          <w_ id="08bp" dep="08br-advmod">
             <w lemma="все" ana="adv:v-u">все</w>
           </w_>
-          <w_ id="08bq">
+          <w_ id="08bq" dep="08bp-fixed">
             <w lemma="одно" ana="adv">одно</w>
           </w_>
           <w_ id="08br" dep="08bn-parataxis">
@@ -19460,10 +19463,10 @@
           <w_ id="08de" dep="08dh-nsubj">
             <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
           </w_>
-          <w_ id="08df">
-            <w lemma="все" ana="adv:v-u">все</w>
+          <w_ id="08df" dep="08dh-advmod">
+            <w lemma="все" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">все</w>
           </w_>
-          <w_ id="08dg">
+          <w_ id="08dg" dep="08df-fixed">
             <w lemma="одно" ana="adv">одно</w>
           </w_>
           <w_ id="08dh" dep="08cz-conj:parataxis">
@@ -19475,7 +19478,7 @@
           <w_ id="08dj" dep="08dh-conj">
             <w lemma="схопити" ana="verb:perf:futr:p:3">схоплять</w>
           </w_>
-          <w_ id="08dk" dep="08dh-obj">
+          <w_ id="08dk" dep="08dh-obj" hdep="08dh-distrib">
             <w lemma="ти" ana="noun:anim:s:v_zna:&amp;pron:pers:2">тебе</w>
           </w_>
           <g/>

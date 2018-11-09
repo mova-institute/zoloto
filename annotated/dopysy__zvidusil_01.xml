@@ -2,23 +2,23 @@
   <doc id="30pj" author="Oleksa Nehrebeckyj" date="2017-09-04 21:50:05" genre="допис" src="https://www.facebook.com/Nehrebeckyj/posts/1629910023740092" title="[чого видавці видають книжки найрізноманітніших форматів]">
     <p id="30pk">
       <sb id="30pl"/>
-      <w_ id="30pm" n="0">
+      <w_ id="30pm" dep="30pw-advmod" n="0">
         <w lemma="усе" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">Усе</w>
       </w_>
-      <w_ id="30pn" n="1">
+      <w_ id="30pn" dep="30pm-fixed" n="1">
         <w lemma="одно" ana="adv">одно</w>
       </w_>
       <g/>
-      <w_ id="30po" n="2">
+      <w_ id="30po" dep="30pr-punct" n="2">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="30pp" n="3">
+      <w_ id="30pp" dep="30pr-mark" n="3">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="30pq" n="4">
+      <w_ id="30pq" dep="30pr-cc" n="4">
         <w lemma="і" ana="part">і</w>
       </w_>
-      <w_ id="30pr" n="5">
+      <w_ id="30pr" dep="30pw-advcl" comment="#цікаво" n="5">
         <w lemma="більшість" ana="noun:inanim:f:v_naz">більшість</w>
       </w_>
       <w_ id="30ps" dep="30pt-amod" n="6">
@@ -28,7 +28,7 @@
         <w lemma="читач" ana="noun:anim:p:m:v_rod">читачів</w>
       </w_>
       <g/>
-      <w_ id="30pu" n="8">
+      <w_ id="30pu" dep="30pr-punct" n="8">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="30pv" dep="30pw-advmod" n="9">
@@ -59,7 +59,7 @@
       <w_ id="30q3" dep="30q4-amod" n="17">
         <w lemma="найрізноманітніший" ana="adj:p:v_rod:super">найрізноманітніших</w>
       </w_>
-      <w_ id="30q4" n="18">
+      <w_ id="30q4" dep="30q2-nmod" n="18">
         <w lemma="формат" ana="noun:inanim:p:m:v_rod">форматів</w>
       </w_>
       <w_ id="30q5" dep="30q6-cc" n="19">
@@ -84,22 +84,22 @@
       <w_ id="30qb" dep="30qa-obj" n="25">
         <w lemma="стандарт" ana="noun:inanim:p:m:v_rod">стандартів</w>
       </w_>
-      <w_ id="30qc" n="26">
+      <w_ id="30qc" dep="30qf-punct" n="26">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="30qd" n="27">
+      <w_ id="30qd" dep="30qf-cop" n="27">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
       <w_ id="30qe" dep="30qd-aux" n="28">
         <w lemma="б" ana="part">б</w>
       </w_>
-      <w_ id="30qf" n="29">
+      <w_ id="30qf" dep="30pw-parataxis" tags="itsubj" n="29">
         <w lemma="легше" ana="adv:compr">легше</w>
       </w_>
       <w_ id="30qg" dep="30qh-cc" n="30">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="30qh" n="31">
+      <w_ id="30qh" dep="30qf-iobj" n="31">
         <w lemma="читач" ana="noun:anim:p:m:v_dav">читачам</w>
       </w_>
       <g/>
@@ -4711,7 +4711,7 @@
       <w_ id="31xl" dep="31xm-punct" n="1423">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="31xm" n="1424">
+      <w_ id="31xm" dep="31xk-parataxis:discourse" comment="~ці коми роблять з нього вставне?" n="1424">
         <w lemma="перш" ana="adv">перш</w>
       </w_>
       <w_ id="31xn" dep="31xo-case" n="1425">
@@ -4771,7 +4771,7 @@
       <w_ id="31y5" dep="31y6-case" n="1441">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="31y6" n="1442">
+      <w_ id="31y6" dep="31y4-obl" comment="#явище ~чи зі _все_?" n="1442">
         <w lemma="річ" ana="noun:inanim:p:f:v_rod">речей</w>
       </w_>
       <w_ id="31y7" dep="31y8-punct" n="1443">
@@ -4798,7 +4798,7 @@
       <w_ id="31ye" dep="31yf-case" n="1450">
         <w lemma="при" ana="prep:rv_mis">при</w>
       </w_>
-      <w_ id="31yf" correct="переїзді">
+      <w_ id="31yf" dep="31yd-obl" comment="~ чи з _можемо_?" correct="переїзді">
         <w lemma="переїзд" ana="noun:inanim:m:v_mis">переїзда</w>
       </w_>
       <g/>

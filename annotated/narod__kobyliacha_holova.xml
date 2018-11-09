@@ -559,7 +559,7 @@
     <w_ id="0acv" dep="0acw-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0acw">
+    <w_ id="0acw" dep="0acu-det" comment="дуже відокремлене?">
       <w lemma="сякий" ana="adj:f:v_naz:&amp;pron:dem">сяка</w>
     </w_>
     <g/>
@@ -574,7 +574,7 @@
     <w_ id="0acz" dep="0acw-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0ad0">
+    <w_ id="0ad0" dep="0ad4-advmod">
       <w lemma="усе" ana="adv:v-u">усе</w>
     </w_>
     <w_ id="0ad1" dep="0ad4-advmod">
@@ -1275,7 +1275,7 @@
     <w_ id="0ajk" dep="0ajl-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0ajl" dep="0ajh-parataxis">
+    <w_ id="0ajl" dep="0ajh-conj">
       <w lemma="дійти" ana="verb:perf:past:p">дійшли</w>
     </w_>
     <w_ id="0ajm" dep="0ajn-case">
@@ -1294,7 +1294,7 @@
     <w_ id="0ajq" dep="0ajr-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0ajr">
+    <w_ id="0ajr" dep="0ajp-parataxis">
       <w lemma="доріжка" ana="noun:inanim:f:v_naz">доріжка</w>
     </w_>
     <g/>
@@ -4624,19 +4624,19 @@
     <w_ id="0bf6" dep="0bfa-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="0bf7">
+    <w_ id="0bf7" dep="3ch6-discourse">
       <w lemma="хоч" ana="part">хоч</w>
     </w_>
-    <w_ id="0bf8">
+    <w_ id="0bf8" dep="3ch6-aux">
       <w lemma="би" ana="part">би</w>
     </w_>
-    <w_ id="0bf9" dep="0bfa-orphan">
+    <w_ id="0bf9" dep="0bfa-orphan|3ch6-advmod">
       <w lemma="де" ana="adv:&amp;pron:ind">де</w>
     </w_>
     <w_ id="3ch6" ellipsis="predicate">
       <w lemma="існувати" ana="verb:imperf:past:f">існувала</w>
     </w_>
-    <w_ id="0bfa">
+    <w_ id="0bfa" dep="3ch6-nsubj">
       <w lemma="стежечка" ana="noun:inanim:f:v_naz">стежечка</w>
     </w_>
     <g/>

@@ -116,7 +116,7 @@
       <w_ id="38sa" dep="38sb-nsubj">
         <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">ти</w>
       </w_>
-      <w_ id="38sb">
+      <w_ id="38sb" dep="38s6-parataxis">
         <w lemma="зв’язатися" ana="verb:rev:perf:past:f">зв'язалась</w>
       </w_>
       <g/>
@@ -128,7 +128,7 @@
   <doc id="38sd" author="" genre="граматичний приклад" title="граматичні приклади">
     <p id="38se">
       <sb id="38sf"/>
-      <w_ id="38sg">
+      <w_ id="38sg" dep="38so-nsubj">
         <w lemma="батько" ana="noun:anim:m:v_naz">Батько</w>
       </w_>
       <g/>
@@ -154,10 +154,10 @@
       <w_ id="38sn" dep="38so-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="38so">
+      <w_ id="38so" comment="не хочеться ця копула">
         <w lemma="степ" ana="noun:inanim:p:m:v_mis">степах</w>
       </w_>
-      <w_ id="38sp">
+      <w_ id="38sp" dep="38so-advmod">
         <w lemma="невідлучно" ana="adv">невідлучно</w>
       </w_>
       <g/>
@@ -185,14 +185,14 @@
       <w_ id="38sx" dep="38sw-nmod">
         <w lemma="жнива" ana="noun:inanim:p:v_rod:ns">жнив</w>
       </w_>
-      <w_ id="38sy">
+      <w_ id="38sy" dep="38so-conj:parataxis">
         <w lemma="підключатися" ana="verb:rev:imperf:pres:s:3">підключається</w>
       </w_>
       <w_ id="38sz" dep="38sy-xcomp:sp" comment="~">
         <w lemma="помічниця" ana="noun:anim:f:v_oru">помічницею</w>
       </w_>
       <g/>
-      <w_ id="38t0">
+      <w_ id="38t0" dep="38so-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

@@ -624,13 +624,13 @@
       <w_ id="09uy">
         <w lemma="посміхнутися" ana="verb:rev:perf:past:f">посміхнулася</w>
       </w_>
-      <w_ id="09uz" dep="09uy-obl" comment="хитре">
+      <w_ id="09uz" dep="09uy-obl">
         <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">сама</w>
       </w_>
       <w_ id="09v0" dep="09v1-case" mark="reviewed">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="09v1" dep="09uy-obl">
+      <w_ id="09v1" dep="09uz-flat:abs">
         <w lemma="себе" ana="noun:v_rod:&amp;pron:refl">себе</w>
       </w_>
       <g/>
@@ -652,7 +652,7 @@
       <w_ id="09v7" dep="09vt-det">
         <w lemma="той" ana="adj:m:v_zna:rinanim:&amp;pron:dem">той</w>
       </w_>
-      <w_ id="09v8">
+      <w_ id="09v8" dep="09v7-flat:sibl">
         <w lemma="типовий" ana="adj:m:v_zna:rinanim:compb">типовий</w>
       </w_>
       <w_ id="09v9" dep="09vb-compound" comment="еліпс наперед">
@@ -663,7 +663,7 @@
         <w lemma="-" ana="punct:hyphen">-</w>
       </w_>
       <g/>
-      <w_ id="09vb">
+      <w_ id="09vb" dep="09v7-flat:sibl">
         <w lemma="фіолетовий" ana="adj:m:v_zna:rinanim">фіолетовий</w>
       </w_>
       <g/>
@@ -676,7 +676,7 @@
       <w_ id="09ve" dep="09vf-advmod">
         <w lemma="зовсім" ana="adv">зовсім</w>
       </w_>
-      <w_ id="09vf">
+      <w_ id="09vf" dep="09v7-conj">
         <w lemma="оранжевий" ana="adj:m:v_zna:rinanim">оранжевий</w>
       </w_>
       <g/>
@@ -1355,7 +1355,7 @@
       <w_ id="0a1k" dep="0a1l-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="0a1l" dep="0a1p-advmod">
+      <w_ id="0a1l" dep="0a1p-discourse">
         <w lemma="очевидно" ana="adv:compb">очевидно</w>
       </w_>
       <g/>
@@ -1413,13 +1413,13 @@
       <w_ id="0a23" dep="0a25-mark">
         <w lemma="якщо" ana="conj:subord">Якщо</w>
       </w_>
-      <w_ id="0a24" dep="0a25-nsubj">
+      <w_ id="0a24" dep="0a25-nsubj" pdep="0a25-gol">
         <w lemma="мішок" ana="noun:inanim:m:v_naz">мішок</w>
       </w_>
-      <w_ id="0a25" dep="0a2m-advcl">
+      <w_ id="0a25" dep="0a2m-advcl" comment="мішок набитий чимось кимось рукою">
         <w lemma="набитий" ana="adj:m:v_naz:&amp;adjp:perf:pasv">набитий</w>
       </w_>
-      <w_ id="0a26" dep="0a25-obl">
+      <w_ id="0a26" dep="0a25-obl" pdep="0a25-ppt">
         <w lemma="фекалії" ana="noun:inanim:p:v_oru:ns">фекаліями</w>
       </w_>
       <g/>
@@ -1429,10 +1429,10 @@
       <w_ id="0a28" dep="0a2m-discourse">
         <w lemma="то" ana="part:conseq">то</w>
       </w_>
-      <w_ id="0a29" mark="reviewed">
+      <w_ id="0a29" dep="0a2e-discourse" mark="reviewed" comment="~ зі _щільним_?">
         <w lemma="хоч" ana="part">хоч</w>
       </w_>
-      <w_ id="0a2a" mark="reviewed">
+      <w_ id="0a2a" dep="0a2c-advmod:det" mark="reviewed">
         <w lemma="який" ana="adj:m:v_oru:&amp;pron:ind">яким</w>
       </w_>
       <w_ id="0a2b" dep="0a2e-aux">
@@ -1451,10 +1451,10 @@
       <w_ id="0a2f" dep="0a2e-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="0a2g" dep="0a2h-discourse" mark="resolved">
+      <w_ id="0a2g" dep="0a2m-advmod" mark="resolved">
         <w lemma="все" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">все</w>
       </w_>
-      <w_ id="0a2h" dep="0a2m-advmod">
+      <w_ id="0a2h" dep="0a2g-fixed">
         <w lemma="одно" ana="adv">одно</w>
       </w_>
       <w_ id="0a2i" dep="0a2k-case">
@@ -1500,7 +1500,7 @@
       <w_ id="0a2x" dep="0a2z-nsubj">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
-      <w_ id="0a2y" mark="resolved">
+      <w_ id="0a2y" mark="resolved" comment="#явище">
         <w lemma="таке" ana="noun:inanim:n:v_rod:&amp;pron:dem">такого</w>
       </w_>
       <w_ id="0a2z">

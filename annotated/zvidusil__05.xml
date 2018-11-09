@@ -1065,15 +1065,15 @@
       <w_ id="1pnr">
         <w lemma="лікуватися" ana="verb:rev:imperf:pres:p:3">лікуються</w>
       </w_>
-      <w_ id="1pns" dep="1pnt-punct">
+      <w_ id="1pns" dep="1pnt-punct|3cgx-punct">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="1pnt" dep="1pnr-parataxis">
+      <w_ id="1pnt" dep="1pnr-parataxis|3cgx-advmod">
         <w lemma="особливо" ana="adv">особливо</w>
       </w_>
       <g/>
-      <w_ id="3cgx" comment="a _не_?" ellipsis="predicate">
+      <w_ id="3cgx" dep="1pnr-parataxis" comment="a _не_?" ellipsis="predicate">
         <w lemma="лікуватися" ana="verb:rev:imperf:pres:p:3">лікуються</w>
       </w_>
       <w_ id="1pnu" dep="1pnz-punct" comment="~ а не?">
@@ -1091,7 +1091,7 @@
       <w_ id="1pny" dep="1pnz-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1pnz" dep="1pnt-orphan">
+      <w_ id="1pnz" dep="1pnt-orphan|3cgx-advcl">
         <w lemma="лікувати" ana="verb:imperf:inf">лікувати</w>
       </w_>
       <g/>
@@ -1099,7 +1099,7 @@
         <w lemma="!" ana="punct">!</w>
       </w_>
       <g/>
-      <w_ id="1po1" dep="1pnt-punct">
+      <w_ id="1po1" dep="1pnt-punct|3cgx-punct">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
