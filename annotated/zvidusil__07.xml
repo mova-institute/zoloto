@@ -320,8 +320,8 @@
       <w_ id="1s9i" dep="1s9g-flat:range">
         <w lemma="Калуш" ana="noun:inanim:m:v_naz:prop">Калуш</w>
       </w_>
-      <w_ id="1s9j" dep="1s9k-csubj" tags="promoted" comment="#&gt;:int (їхати)">
-        <w lemma="кудою" ana="adv:&amp;pron:ind:coll">Кудою</w>
+      <w_ id="1s9j" dep="1s9k-csubj" tags="promoted" comment="(їхати)">
+        <w lemma="кудою" ana="adv:&amp;pron:int:coll">Кудою</w>
       </w_>
       <w_ id="1s9k" dep="1s9g-parataxis">
         <w lemma="краще" ana="adv:compr">краще</w>
@@ -2048,8 +2048,8 @@
       <w_ id="1sp9" dep="1sp8-flat:foreign">
         <w lemma="RT" ana="x:foreign">RT</w>
       </w_>
-      <w_ id="1spa" dep="1spb-discourse" comment="#&gt;part">
-        <w lemma="тіке" ana="adv:odd">тіке</w>
+      <w_ id="1spa" dep="1spb-discourse">
+        <w lemma="тіке" ana="part">тіке</w>
       </w_>
       <w_ id="1spb" dep="1sp1-advmod">
         <w lemma="того" ana="adv:&amp;pron:dem">того</w>
@@ -7023,7 +7023,7 @@
       <w_ id="1tzl" dep="1tzm-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1tzm" dep="1tze-parataxis">
+      <w_ id="1tzm" dep="1tze-conj">
         <w lemma="турбувати" ana="verb:imperf:pres:s:3">турбує</w>
       </w_>
       <g/>
@@ -7054,7 +7054,7 @@
       <w_ id="1tzv" dep="1tzw-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="1tzw">
+      <w_ id="1tzw" dep="1tze-conj:parataxis">
         <w lemma="знати" ana="verb:imperf:pres:s:3">знає</w>
       </w_>
       <g/>
@@ -7064,7 +7064,7 @@
       <w_ id="1tzy" dep="1tzw-ccomp">
         <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:rel">що</w>
       </w_>
-      <w_ id="1tzz" dep="1tzy-det" comment="~">
+      <w_ id="1tzz" dep="1tzy-expl" comment="#явище">
         <w lemma="такий" ana="adj:n:v_zna:&amp;pron:dem">таке</w>
       </w_>
       <w_ id="1u00" dep="1u01-advmod">

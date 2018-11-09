@@ -2,7 +2,7 @@
   <doc id="2py7" author="" date="" genre="новини" src="http://www.pravda.com.ua/news/2017/08/12/7152060/" title="Зять Манафорта зустрічався зі слідчими, передав документи - CNN">
     <p id="2py8">
       <sb id="30mc"/>
-      <w_ id="2py9" dep="2pyo-nsubj" n="0">
+      <w_ id="2py9" dep="2pyo-nsubj" n="0" pdep="2pyo-pag">
         <w lemma="Джеффрі" ana="noun:anim:m:v_naz:nv:np:prop:fname">Джеффрі</w>
       </w_>
       <w_ id="2pya" dep="2py9-flat:name" n="1">
@@ -48,13 +48,13 @@
       <w_ id="2pyn" dep="2pyh-punct" n="14">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="2pyo" n="15">
+      <w_ id="2pyo" comment="@en:meet.03" n="15">
         <w lemma="зустрічатися" ana="verb:rev:imperf:past:m">зустрічався</w>
       </w_>
       <w_ id="2pyp" dep="2pyq-case" n="16">
         <w lemma="зі" ana="prep:rv_oru">зі</w>
       </w_>
-      <w_ id="2pyq" dep="2pyo-obl" n="17">
+      <w_ id="2pyq" dep="2pyo-obl" n="17" pdep="2pyo-com">
         <w lemma="слідчий" ana="adj:m:p:v_oru:&amp;noun:anim" lemma2="слідчий">слідчими</w>
       </w_>
       <w_ id="2pyr" dep="2pys-case" n="18">
@@ -171,7 +171,7 @@
       <w_ id="2pzs" dep="2pzt-nsubj" coref="2py9-equality" n="52">
         <w lemma="Йохай" ana="noun:anim:m:v_naz:prop:lname">Йохай</w>
       </w_>
-      <w_ id="2pzt" dep="2pzp-ccomp" n="53">
+      <w_ id="2pzt" dep="2pzp-ccomp" comment="~csubj?" n="53">
         <w lemma="надати" ana="verb:perf:past:m">надав</w>
       </w_>
       <w_ id="2pzu" dep="2pzv-amod" n="54">

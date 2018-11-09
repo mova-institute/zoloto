@@ -23240,7 +23240,7 @@
     <w_ id="0wpu" dep="0wpv-case">
       <w lemma="перед" ana="prep:rv_oru">Перед</w>
     </w_>
-    <w_ id="0wpv" dep="0wpx-obl">
+    <w_ id="0wpv" dep="0wpx-obl" pdep="0wpx-tmp">
       <w lemma="від’їзд" ana="noun:inanim:m:v_oru">від’їздом</w>
     </w_>
     <w_ id="0wpw" dep="0wpx-nsubj" pdep="0wpx-pag">
@@ -24285,19 +24285,19 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0wzg"/>
-    <w_ id="0wzh" dep="0wzj-advmod">
+    <w_ id="0wzh" dep="0wzj-advmod" pdep="0wzj-tmp">
       <w lemma="згодом" ana="adv">Згодом</w>
     </w_>
-    <w_ id="0wzi" dep="0wzj-nsubj">
+    <w_ id="0wzi" dep="0wzj-nsubj" pdep="0wzj-pag">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
-    <w_ id="0wzj">
+    <w_ id="0wzj" comment="@en:find_out.03">
       <w lemma="довідатися" ana="verb:rev:perf:past:m">довідався</w>
     </w_>
     <w_ id="0wzk" dep="0wzl-cc" mark="resolved">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="0wzl" dep="0wzj-obj" mark="resolved">
+    <w_ id="0wzl" dep="0wzj-obj" mark="resolved" pdep="0wzj-ppt">
       <w lemma="прізвище" ana="noun:inanim:p:n:v_zna">прізвища</w>
     </w_>
     <g/>
@@ -24316,7 +24316,7 @@
     <w_ id="0wzq" dep="0wzr-amod">
       <w lemma="Пунин" ana="adj:p:v_rod">Пуниних</w>
     </w_>
-    <w_ id="0wzr" dep="0wzp-nmod">
+    <w_ id="0wzr" dep="0wzl-nmod" hdep="0wzl-distrib">
       <w lemma="мучитель" ana="noun:anim:p:m:v_rod">мучителів</w>
     </w_>
     <g/>
@@ -24375,10 +24375,10 @@
     <w_ id="0x09" dep="0x0b-advmod" mark="resolved">
       <w lemma="тому" ana="adv:&amp;pron:dem:xp2">тому</w>
     </w_>
-    <w_ id="0x0a" dep="0x0b-obj">
+    <w_ id="0x0a" dep="0x0b-obj" pdep="0x0b-ppt">
       <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="0x0b" dep="0x03-advcl">
+    <w_ id="0x0b" dep="0x03-advcl" comment="@en:send.01">
       <w lemma="відправити" ana="verb:perf:past:p">відправили</w>
     </w_>
     <w_ id="0x0c" dep="0x0f-case">
@@ -24390,7 +24390,7 @@
     <w_ id="0x0e" dep="0x0f-amod">
       <w lemma="шаховий" ana="adj:m:v_zna:rinanim">шаховий</w>
     </w_>
-    <w_ id="0x0f" dep="0x0b-obl">
+    <w_ id="0x0f" dep="0x0b-obl" pdep="0x0b-gol">
       <w lemma="турнір" ana="noun:inanim:m:v_zna">турнір</w>
     </w_>
     <g/>
@@ -24480,7 +24480,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0x19"/>
-    <w_ id="0x1a" dep="0x1b-nsubj">
+    <w_ id="0x1a" dep="0x1b-nsubj" pdep="0x1b-pag">
       <w lemma="Пуня" ana="noun:anim:m:v_naz:prop:fname">Пуня</w>
     </w_>
     <w_ id="0x1b">
@@ -24489,7 +24489,7 @@
     <w_ id="0x1c" dep="0x1b-iobj" edep="0x1d-nsubj:x">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
     </w_>
-    <w_ id="0x1d" dep="0x1b-xcomp">
+    <w_ id="0x1d" dep="0x1b-xcomp" pdep="0x1b-ppt">
       <w lemma="здатися" ana="verb:rev:perf:inf">здатися</w>
     </w_>
     <g/>
@@ -24528,7 +24528,7 @@
     <w_ id="0x1p" dep="0x1q-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="0x1q" dep="0x1m-conj">
+    <w_ id="0x1q" dep="0x1i-conj">
       <w lemma="відмовитися" ana="verb:rev:perf:past:m">відмовився</w>
     </w_>
     <g/>
@@ -24617,7 +24617,7 @@
     <w_ id="0x2j" dep="0x2l-obl">
       <w lemma="хід" ana="noun:inanim:m:v_rod">ходу</w>
     </w_>
-    <w_ id="0x2k" dep="0x2l-nsubj">
+    <w_ id="0x2k" dep="0x2l-nsubj" pdep="0x2l-pag">
       <w lemma="Пуня" ana="noun:anim:m:v_naz:prop:fname">Пуня</w>
     </w_>
     <w_ id="0x2l">
@@ -24630,7 +24630,7 @@
     <w_ id="0x2n" dep="0x2o-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="0x2o" dep="0x2l-ccomp">
+    <w_ id="0x2o" dep="0x2l-ccomp" pdep="0x2l-ppt">
       <w lemma="визнавати" ana="verb:imperf:pres:s:3">визнає</w>
     </w_>
     <w_ id="0x2p" dep="0x2o-obj" edep="0x2q-nsubj:sp">
@@ -25879,7 +25879,7 @@
     <w_ id="0xe4" dep="0xe5-nummod">
       <w lemma="три" ana="numr:v_zna">три</w>
     </w_>
-    <w_ id="0xe5" dep="0xe3-obl">
+    <w_ id="0xe5" dep="0xe2-obl">
       <w lemma="доба" ana="noun:inanim:p:f:v_zna">доби</w>
     </w_>
     <g/>

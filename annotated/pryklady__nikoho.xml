@@ -2226,27 +2226,27 @@
       <w_ id="3ae2" dep="3ae0-advcl" n="574">
         <w lemma="жбурляти" ana="verb:imperf:pres:advp">жбурляючи</w>
       </w_>
-      <w_ id="3ae3" dep="3ae2-obj" n="575">
+      <w_ id="3ae3" dep="3ae2-obj" n="575" pdep="3ae2-ppt">
         <w lemma="камінчик" ana="noun:inanim:p:m:v_zna">камінчики</w>
       </w_>
-      <w_ id="3ae4" n="576">
+      <w_ id="3ae4" dep="3ae5-case" n="576">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="3ae5" n="577">
+      <w_ id="3ae5" dep="3ae6-xcomp" tags="promoted" n="577">
         <w lemma="хто" ana="noun:anim:m:v_zna:&amp;pron:rel">кого</w>
       </w_>
-      <w_ id="3ae6" comment="graft?" n="578">
+      <w_ id="3ae6" dep="3ae2-advcl" comment="clausal неозначений займенник, #явище, пропущений предикат" n="578" pdep="3ae2-gol">
         <w lemma="заманутися" ana="verb:rev:perf:futr:s:3">заманеться</w>
       </w_>
       <g/>
-      <w_ id="3ae7" n="579">
+      <w_ id="3ae7" dep="3aeg-punct" n="579">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3ae8" n="580">
-        <w lemma="аж" ana="conj:subord">аж</w>
+      <w_ id="3ae8" dep="3aeg-discourse" comment="частка підсилює сполучник" n="580">
+        <w lemma="аж" ana="part">аж</w>
       </w_>
-      <w_ id="3ae9" n="581">
-        <w lemma="поки" ana="adv:&amp;pron:rel">поки</w>
+      <w_ id="3ae9" dep="3aeg-mark" n="581">
+        <w lemma="поки" ana="conj:subord">поки</w>
       </w_>
       <w_ id="3aea" dep="3aeg-nsubj" edep="3aei-nsubj:x" n="582">
         <w lemma="кролик" ana="noun:anim:p:m:v_naz">кролики</w>
@@ -2267,7 +2267,7 @@
       <w_ id="3aef" dep="3aea-conj" n="587">
         <w lemma="пташка" ana="noun:anim:p:f:v_naz">пташки</w>
       </w_>
-      <w_ id="3aeg" dep="3ae0-advcl" comment="~ така собі підрядність" n="588">
+      <w_ id="3aeg" dep="3ae2-advcl" comment="~ така собі підрядність" n="588">
         <w lemma="почати" ana="verb:perf:past:p">почали</w>
       </w_>
       <w_ id="3aeh" dep="3aei-advmod" n="589">
@@ -2433,16 +2433,16 @@
         <w lemma="що" ana="noun:inanim:n:v_rod:&amp;pron:rel">чого</w>
       </w_>
       <g/>
-      <w_ id="3afx" n="641">
+      <w_ id="3afx" dep="3ag0-punct" n="641">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3afy" n="642">
+      <w_ id="3afy" dep="3ag0-case" n="642">
         <w lemma="окрім" ana="prep:rv_rod">окрім</w>
       </w_>
       <w_ id="3afz" dep="3afy-fixed" n="643">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="3ag0" n="644">
+      <w_ id="3ag0" dep="3afw-nmod" n="644">
         <w lemma="пускати" ana="verb:imperf:inf">пускати</w>
       </w_>
       <w_ id="3ag1" dep="3ag0-obl" n="645">
@@ -2507,7 +2507,7 @@
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
       <g/>
-      <w_ id="3agk" n="663">
+      <w_ id="3agk" dep="3aft-punct" n="663">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3agl"/>
