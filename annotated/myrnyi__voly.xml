@@ -4071,7 +4071,7 @@
     <w_ id="0j9x" dep="0j9y-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0j9y" dep="0j9p-conj">
+    <w_ id="0j9y" dep="0j9p-conj:upperlevel" comment="~ паратакса?">
       <w lemma="шептати" ana="verb:imperf:pres:s:3">шепче</w>
     </w_>
     <w_ id="0j9z" dep="0j9y-obj">
@@ -4121,11 +4121,11 @@
     <w_ id="0jad" dep="0jae-obj">
       <w lemma="сльоза" ana="noun:inanim:p:f:v_zna">сльози</w>
     </w_>
-    <w_ id="0jae">
+    <w_ id="0jae" dep="0j9p-conj:upperlevel">
       <w lemma="ковтати" ana="verb:imperf:pres:s:3">ковтає</w>
     </w_>
     <g/>
-    <w_ id="0jaf">
+    <w_ id="0jaf" dep="0j9p-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
   </p>
@@ -4692,7 +4692,7 @@
     <w_ id="0jfu" dep="0jft-punct|0jfv-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0jfv">
+    <w_ id="0jfv" dep="0jfr-flat:repeat">
       <w lemma="чути" ana="verb:imperf:past:f">чула</w>
     </w_>
     <g/>
@@ -4827,7 +4827,7 @@
     <w_ id="0jh2" dep="0jh7-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0jh3" comment="?">
+    <w_ id="0jh3" comment="~ ?">
       <w lemma="се" ana="noun:inanim:n:v_naz:&amp;pron:dem:odd">се</w>
     </w_>
     <w_ id="0jh4" dep="0jh7-advmod">

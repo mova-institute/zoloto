@@ -2577,7 +2577,7 @@
       <w_ id="2haa" dep="2hab-case" n="782">
         <w lemma="понад" ana="prep:rv_zna">Понад</w>
       </w_>
-      <w_ id="2hab" n="783">
+      <w_ id="2hab" dep="2hak-parataxis:discourse" n="783">
         <w lemma="те" ana="noun:inanim:n:v_zna:&amp;pron:dem">те</w>
       </w_>
       <g/>
@@ -2591,7 +2591,7 @@
       <w_ id="2hae" dep="2haf-punct" n="786">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2haf" n="787">
+      <w_ id="2haf" dep="2hah-advmod" n="787">
         <w lemma="зокрема" ana="adv">зокрема</w>
       </w_>
       <g/>
@@ -2653,10 +2653,14 @@
       <w_ id="2hay" dep="2hak-conj" n="806">
         <w lemma="набрати" ana="verb:perf:past:m">набрав</w>
       </w_>
+      <w_ id="3chb" dep="2hb0-case">
+        <!-- вставлене -->
+        <w lemma="на" ana="prep:rv_mis">на</w>
+      </w_>
       <w_ id="2haz" dep="2hb0-amod" n="807">
         <w lemma="друкарський" ana="adj:f:v_mis">друкарській</w>
       </w_>
-      <w_ id="2hb0" n="808">
+      <w_ id="2hb0" dep="2hay-obl" n="808">
         <w lemma="машинка" ana="noun:inanim:f:v_mis">машинці</w>
       </w_>
       <w_ id="2hb1" dep="2hb3-cc" n="809">
@@ -2665,7 +2669,7 @@
       <w_ id="2hb2" dep="2hb3-advmod" n="810">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="2hb3" dep="2hay-conj" n="811">
+      <w_ id="2hb3" dep="2hay-conj" comment="#todo: перевірити чи воно не запропагує сюди _текст_" n="811">
         <w lemma="ходити" ana="verb:imperf:past:m">ходив</w>
       </w_>
       <w_ id="2hb4" dep="2hb5-case" n="812">

@@ -3523,7 +3523,7 @@
       <w_ id="27sl" dep="27sm-discourse">
         <w lemma="аж" ana="part">аж</w>
       </w_>
-      <w_ id="27sm">
+      <w_ id="27sm" dep="27sh-conj">
         <w lemma="пашіти" ana="verb:imperf:pres:p:3">пашіють</w>
       </w_>
       <w_ id="27sn" dep="27sm-obl">
@@ -4283,20 +4283,20 @@
       <w_ id="27zf" dep="27zg-case">
         <w lemma="до" ana="prep:rv_rod">До</w>
       </w_>
-      <w_ id="27zg">
+      <w_ id="27zg" dep="280l-parataxis:discourse">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
       <w_ id="27zh" dep="27zg-discourse">
         <w lemma="ж" ana="part">ж</w>
       </w_>
       <g/>
-      <w_ id="27zi">
+      <w_ id="27zi" dep="27zk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="27zj" dep="27zk-case">
         <w lemma="за" ana="prep:rv_oru">за</w>
       </w_>
-      <w_ id="27zk">
+      <w_ id="27zk" dep="280l-parataxis:discourse" comment="~">
         <w lemma="висновок" ana="noun:inanim:p:m:v_oru">висновками</w>
       </w_>
       <w_ id="27zl" dep="27zm-det">
@@ -4363,7 +4363,7 @@
         <w lemma="»" ana="punct:quote">»</w>
       </w_>
       <g/>
-      <w_ id="2804">
+      <w_ id="2804" dep="27zk-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="2805" dep="280l-nsubj" edep="280m-nsubj:sp">
@@ -4395,7 +4395,7 @@
       <w_ id="280d" dep="280e-nummod">
         <w lemma="три" ana="numr:v_mis">трьох</w>
       </w_>
-      <w_ id="280e">
+      <w_ id="280e" dep="280l-obl">
         <w lemma="частина" ana="noun:inanim:p:f:v_mis">частинах</w>
       </w_>
       <w_ id="280f" dep="280g-punct">
@@ -4412,11 +4412,11 @@
       <w_ id="280i" dep="280h-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="280j">
+      <w_ id="280j" dep="280g-nmod">
         <w lemma="Антоній" ana="noun:anim:m:v_rod:prop:fname">Антонія</w>
       </w_>
       <g/>
-      <w_ id="280k">
+      <w_ id="280k" dep="280g-punct">
         <w lemma="»" ana="punct:quote">»</w>
       </w_>
       <w_ id="280l">
@@ -4426,20 +4426,20 @@
         <w lemma="автентичний" ana="adj:p:v_oru">автентичними</w>
       </w_>
       <g/>
-      <w_ id="280n">
+      <w_ id="280n" dep="280o-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="280o">
+      <w_ id="280o" dep="280m-appos">
         <w lemma="кістяний" ana="adj:f:v_naz">кістяна</w>
       </w_>
-      <w_ id="280p">
+      <w_ id="280p" dep="280o-flat:sibl">
         <w lemma="чорний" ana="adj:f:v_naz:compb">чорна</w>
       </w_>
       <g/>
       <w_ id="280q" dep="280r-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="280r">
+      <w_ id="280r" dep="280o-conj">
         <w lemma="азурит" ana="noun:inanim:m:v_naz">азурит</w>
       </w_>
       <g/>
@@ -4449,23 +4449,23 @@
       <w_ id="280t" dep="280u-amod">
         <w lemma="натуральний" ana="adj:m:v_naz:compb">натуральний</w>
       </w_>
-      <w_ id="280u">
+      <w_ id="280u" dep="280o-conj">
         <w lemma="ультрамарин" ana="noun:inanim:m:v_naz">ультрамарин</w>
       </w_>
       <g/>
       <w_ id="280v" dep="280w-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="280w">
+      <w_ id="280w" dep="280o-conj">
         <w lemma="малахіт" ana="noun:inanim:m:v_naz">малахіт</w>
       </w_>
       <w_ id="280x" dep="280y-cc">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="280y">
+      <w_ id="280y" dep="280o-conj">
         <w lemma="кіновар" ana="noun:inanim:f:v_naz">кіновар</w>
       </w_>
-      <w_ id="280z">
+      <w_ id="280z" dep="2813-punct">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <w_ id="2810" dep="2813-det">
@@ -4477,7 +4477,7 @@
       <w_ id="2812" dep="2813-amod">
         <w lemma="обмежений" ana="adj:m:v_naz:compb:&amp;adjp:perf:pasv">обмежений</w>
       </w_>
-      <w_ id="2813" edep="2817-nsubj:rel">
+      <w_ id="2813" dep="280m-appos" edep="2817-nsubj:rel">
         <w lemma="репертуар" ana="noun:inanim:m:v_naz">репертуар</w>
       </w_>
       <g/>
@@ -4514,10 +4514,10 @@
       <w_ id="281d" dep="281f-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="281e">
+      <w_ id="281e" dep="281f-advmod">
         <w lemma="зокрема" ana="adv">зокрема</w>
       </w_>
-      <w_ id="281f">
+      <w_ id="281f" dep="2818-appos">
         <w lemma="Ієронімус" ana="noun:anim:m:v_dav:prop:fname">Ієронімусові</w>
       </w_>
       <w_ id="281g" dep="281f-flat:name">
@@ -4533,7 +4533,7 @@
         <w lemma="помічник" ana="noun:anim:p:m:v_dav">помічникам</w>
       </w_>
       <g/>
-      <w_ id="281k">
+      <w_ id="281k" dep="280l-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

@@ -2164,13 +2164,13 @@
       <w_ id="2qi2" dep="2qi3-case" n="659">
         <w lemma="наприкінці" ana="prep:rv_rod">Наприкінці</w>
       </w_>
-      <w_ id="2qi3" n="660">
+      <w_ id="2qi3" dep="2qic-obl" n="660">
         <w lemma="XVIII" ana="adj:n:v_rod:nv:&amp;numr">XVIII</w>
       </w_>
-      <w_ id="2qi4" n="661">
+      <w_ id="2qi4" dep="2qi5-punct" n="661">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="2qi5" n="662">
+      <w_ id="2qi5" dep="2qi3-flat:range" comment="#цікаво" n="662">
         <w lemma="початок" ana="noun:inanim:m:v_mis">початку</w>
       </w_>
       <w_ id="2qi6" dep="2qi7-amod" n="663">
@@ -2449,11 +2449,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2qkn"/>
-      <w_ id="2qko" n="749">
-        <w lemma="В" ana="error">В</w>
-      </w_>
+      <!-- <w_ id="2qko" n="749"><w lemma="В" ana="error">В</w></w_> -->
+      <!-- речення виправлене: прибране _В_ і з великої написано Купальний -->
       <w_ id="2qkp" dep="2qkq-amod" n="750">
-        <w lemma="купальний" ana="adj:m:v_naz">купальний</w>
+        <w lemma="купальний" ana="adj:m:v_naz">Купальний</w>
       </w_>
       <w_ id="2qkq" dep="2qkr-nsubj" n="751">
         <w lemma="костюм" ana="noun:inanim:m:v_naz">костюм</w>
@@ -2499,7 +2498,7 @@
       <w_ id="2ql3" dep="2ql4-case" n="764">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="2ql4" n="765">
+      <w_ id="2ql4" dep="2ql2-nmod" comment="#цікаво" n="765">
         <w lemma="голова" ana="noun:inanim:f:v_mis">голові</w>
       </w_>
       <g/>

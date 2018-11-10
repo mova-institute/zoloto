@@ -8090,7 +8090,7 @@
     <w_ id="01zi" dep="01zj-obl">
       <w lemma="громада" ana="noun:inanim:f:v_mis">громаді</w>
     </w_>
-    <w_ id="01zj">
+    <w_ id="01zj" dep="01z5-parataxis">
       <w lemma="триматися" ana="verb:rev:imperf:pres:s:3">тримається</w>
     </w_>
     <w_ id="01zk" dep="01zj-nsubj">
@@ -8187,7 +8187,7 @@
     <w_ id="020b" dep="020a-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="020c">
+    <w_ id="020c" dep="01zk-appos">
       <w lemma="антипоетичний" ana="adj:m:v_naz">антипоетичний</w>
     </w_>
     <w_ id="020d" dep="020e-cc">
@@ -8200,13 +8200,13 @@
       <w lemma="(" ana="punct">(</w>
     </w_>
     <g/>
-    <w_ id="020g">
+    <w_ id="020g" dep="020i-mark">
       <w lemma="a" ana="x:foreign">a</w>
     </w_>
     <w_ id="020h" dep="020g-flat:foreign">
       <w lemma="la" ana="x:foreign">la</w>
     </w_>
-    <w_ id="020i">
+    <w_ id="020i" dep="020c-appos">
       <w lemma="Чернишевський" ana="noun:anim:m:v_naz:prop:lname">Чернишевський</w>
     </w_>
     <g/>
@@ -8230,19 +8230,19 @@
       <w lemma=")" ana="punct">)</w>
     </w_>
     <g/>
-    <w_ id="020p">
+    <w_ id="020p" dep="020r-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="020q">
+    <w_ id="020q" dep="020r-advmod">
       <w lemma="тут" ana="adv:&amp;pron:dem">тут</w>
     </w_>
-    <w_ id="020r">
+    <w_ id="020r" dep="01zj-parataxis">
       <w lemma="можливий" ana="adj:p:v_naz">можливі</w>
     </w_>
-    <w_ id="020s">
+    <w_ id="020s" dep="020r-advmod">
       <w lemma="ще" ana="adv">ще</w>
     </w_>
-    <w_ id="020t">
+    <w_ id="020t" dep="020r-nsubj">
       <w lemma="сперечка" ana="noun:inanim:p:f:v_naz:odd">сперечки</w>
     </w_>
     <g/>
@@ -8256,19 +8256,19 @@
       <w lemma="такий" ana="adj:p:v_dav:&amp;pron:dem">таким</w>
     </w_>
     <g/>
-    <w_ id="020x">
+    <w_ id="020x" dep="020z-punct">
       <w lemma=":" ana="punct">:</w>
     </w_>
-    <w_ id="020y">
+    <w_ id="020y" dep="020z-nsubj">
       <w lemma="що" ana="noun:inanim:n:v_naz:&amp;pron:int">що</w>
     </w_>
-    <w_ id="020z">
+    <w_ id="020z" dep="020w-appos">
       <w lemma="краще" ana="adv:compr">краще</w>
     </w_>
-    <w_ id="0210">
+    <w_ id="0210" dep="0211-punct">
       <w lemma="–" ana="punct:dash">–</w>
     </w_>
-    <w_ id="0211">
+    <w_ id="0211" dep="020y-appos" comment="~">
       <w lemma="Шіллер" ana="noun:anim:m:v_naz:prop:fname:odd">Шіллер</w>
     </w_>
     <w_ id="0212" dep="0214-cc">
@@ -8281,10 +8281,10 @@
       <w lemma="чобіт" ana="noun:inanim:p:m:v_naz">чоботи</w>
     </w_>
     <g/>
-    <w_ id="0215">
+    <w_ id="0215" dep="0216-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0216">
+    <w_ id="0216" dep="0211-conj:upperlevel">
       <w lemma="Венера" ana="noun:anim:f:v_naz:prop:fname:xp1">Венера</w>
     </w_>
     <w_ id="0217" dep="0216-amod" hdep="0216-private">
@@ -8299,21 +8299,21 @@
     <w_ id="021a" dep="0219-nmod">
       <w lemma="солома" ana="noun:inanim:f:v_rod">соломи</w>
     </w_>
-    <w_ id="021b" dep="021c-cc">
+    <w_ id="021b" dep="021e-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="021c">
+    <w_ id="021c" dep="021e-nmod">
       <w lemma="т." ana="noun:inanim:n:v_dav:nv:abbr:&amp;pron:dem">т</w>
     </w_>
     <g/>
     <w_ id="021d" dep="021c-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
-    <w_ id="021e">
+    <w_ id="021e" dep="0211-conj">
       <w lemma="п." ana="adj:n:v_naz:abbr:nv:&amp;noun:inanim" lemma2="п.">п</w>
     </w_>
     <g/>
-    <w_ id="021f">
+    <w_ id="021f" dep="021e-punct|01zj-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="021g"/>
