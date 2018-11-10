@@ -581,7 +581,7 @@
     <w_ id="02du" dep="02e3-nsubj">
       <w lemma="весь" ana="adj:p:v_naz:&amp;pron:gen">Всі</w>
     </w_>
-    <w_ id="02dv" dep="02dw-advmod:det">
+    <w_ id="02dv" dep="02dw-advmod:det" comment="~private?" hdep="02dw-distrib">
       <w lemma="такий" ana="adj:p:v_naz:&amp;pron:dem">такі</w>
     </w_>
     <w_ id="02dw" dep="02e3-amod">
@@ -665,7 +665,7 @@
     <w_ id="02em" dep="02en-amod">
       <w lemma="колосальний" ana="adj:m:v_naz">колосальний</w>
     </w_>
-    <w_ id="02en" dep="02ee-ccomp">
+    <w_ id="02en" dep="02ee-ccomp" hdep="02ee-private">
       <w lemma="клад" ana="noun:inanim:m:v_naz:odd">клад</w>
     </w_>
     <g/>
@@ -791,7 +791,7 @@
     <w_ id="02fq" dep="02fm-appos">
       <w lemma="засмалений" ana="adj:m:v_naz:&amp;adjp:perf:pasv">засмалений</w>
     </w_>
-    <w_ id="02fr" dep="02fq-obl" tags="obl-agent">
+    <w_ id="02fr" dep="02fq-obl" tags="obl-agent" hdep="02fq-private" pdep="02fq-pag">
       <w lemma="сонце" ana="noun:inanim:n:v_oru">сонцем</w>
     </w_>
     <g/>
@@ -1732,19 +1732,19 @@
   </p>
   <p id="02on">
     <sb id="02oo"/>
-    <w_ id="02op" dep="02os-advmod">
+    <w_ id="02op" dep="02os-advmod" hdep="02os-distrib">
       <w lemma="більше" ana="adv:compr">Більше</w>
     </w_>
-    <w_ id="02oq" dep="02os-nsubj">
+    <w_ id="02oq" dep="02os-nsubj" hdep="02os-distrib">
       <w lemma="ніхто" ana="noun:anim:v_naz:&amp;pron:neg">ніхто</w>
     </w_>
-    <w_ id="02or" dep="02os-advmod">
+    <w_ id="02or" dep="02os-advmod" hdep="02os-private">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
     <w_ id="02os">
       <w lemma="питати" ana="verb:imperf:past:m">питав</w>
     </w_>
-    <w_ id="02ot" dep="02os-obj">
+    <w_ id="02ot" dep="02os-obj" hdep="02os-private">
       <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
     </w_>
     <w_ id="02ou" dep="02ow-cc" comment="хм… #явище">
@@ -1753,7 +1753,7 @@
     <w_ id="02ov" dep="02ow-case">
       <w lemma="про" ana="prep:rv_zna">про</w>
     </w_>
-    <w_ id="02ow" dep="02os-obl">
+    <w_ id="02ow" dep="02os-obl" hdep="02os-private">
       <w lemma="аеродром" ana="noun:inanim:p:m:v_zna">аеродроми</w>
     </w_>
     <g/>
@@ -1931,10 +1931,10 @@
     <w_ id="02qh" dep="02qi-det">
       <w lemma="цей" ana="adj:f:v_mis:&amp;pron:dem">цій</w>
     </w_>
-    <w_ id="02qi" dep="02qk-obl">
+    <w_ id="02qi" dep="02qj-obl">
       <w lemma="країна" ana="noun:inanim:f:v_mis">країні</w>
     </w_>
-    <w_ id="02qj" dep="02qt-advcl">
+    <w_ id="02qj" dep="02qt-advcl" hdep="02qt-distrib">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
     <w_ id="02qk" dep="02qj-csubj">
