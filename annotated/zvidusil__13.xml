@@ -694,7 +694,7 @@
       <w_ id="235f">
         <w lemma="дивитися" ana="verb:rev:imperf:past:m">Дивився</w>
       </w_>
-      <w_ id="235g" dep="235h-case">
+      <w_ id="235g" dep="235h-case" hdep="235h-private">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
       <w_ id="235h" dep="235f-obl">
@@ -1427,7 +1427,7 @@
       <w_ id="23cc" dep="23cd-det">
         <w lemma="свій" ana="adj:f:v_zna:poss:&amp;pron:refl">свою</w>
       </w_>
-      <w_ id="23cd" dep="23cb-obj">
+      <w_ id="23cd" dep="23cb-obj" hdep="23cb-private">
         <w lemma="цесарка" ana="noun:anim:f:v_zna">цесарку</w>
       </w_>
       <g/>
@@ -1440,7 +1440,7 @@
       <w_ id="23cg" dep="23cf-iobj">
         <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
       </w_>
-      <w_ id="23ch" dep="23cf-obj">
+      <w_ id="23ch" dep="23cf-obj" pdep="23cf-ppt">
         <w lemma="життя" ana="noun:inanim:n:v_rod">життя</w>
       </w_>
       <g/>
@@ -1583,7 +1583,7 @@
       <w_ id="23dt" dep="23dm-acl:irrel">
         <w lemma="обслуговуватися" ana="verb:rev:imperf:inf">обслуговуватися</w>
       </w_>
-      <w_ id="23du" dep="23dv-amod">
+      <w_ id="23du" dep="23dv-amod" comment="~distrib?" hdep="23dv-distrib">
         <w lemma="професійний" ana="adj:p:v_oru:compb">професійними</w>
       </w_>
       <w_ id="23dv" dep="23dt-obl" tags="obl-agent">
@@ -1896,7 +1896,7 @@
       <w_ id="23gm" dep="23gl-nmod">
         <w lemma="зв’язок" ana="noun:inanim:m:v_rod">зв'язку</w>
       </w_>
-      <w_ id="23gn" dep="23go-case">
+      <w_ id="23gn" dep="23go-case" hdep="23go-collect">
         <w lemma="між" ana="prep:rv_oru">між</w>
       </w_>
       <w_ id="23go" dep="23gm-nmod">
@@ -1949,7 +1949,7 @@
       <w_ id="23h3" dep="23h1-nmod">
         <w lemma="релігія" ana="noun:inanim:f:v_rod">Релігії</w>
       </w_>
-      <w_ id="23h4" dep="23h3-nmod">
+      <w_ id="23h4" dep="23h3-nmod" hdep="23h3-private">
         <w lemma="германець" ana="noun:anim:p:m:v_rod">германців</w>
       </w_>
       <g/>
@@ -1965,7 +1965,7 @@
       <w_ id="23h8" dep="23h3-conj">
         <w lemma="язичництво" ana="noun:inanim:n:v_rod">язичництва</w>
       </w_>
-      <w_ id="23h9" dep="23ha-case">
+      <w_ id="23h9" dep="23ha-case" hdep="23ha-distrib">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
       <w_ id="23ha" dep="23h1-nmod">
@@ -2296,13 +2296,13 @@
       <w_ id="23k6" dep="23k8-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="23k7" dep="23k8-amod">
+      <w_ id="23k7" dep="23k8-amod" comment="бо архетип і так зразковий?" hdep="23k8-private">
         <w lemma="зразковий" ana="adj:p:v_naz">зразкові</w>
       </w_>
       <w_ id="23k8" dep="23k0-conj">
         <w lemma="модель" ana="noun:inanim:p:f:v_naz">моделі</w>
       </w_>
-      <w_ id="23k9" dep="23k8-nmod">
+      <w_ id="23k9" dep="23k8-nmod" hdep="23k8-private">
         <w lemma="свідомість" ana="noun:inanim:f:v_rod">свідомості</w>
       </w_>
       <w_ id="23ka" dep="23kb-cc">
@@ -3854,7 +3854,7 @@
       <w_ id="23y9" dep="23y8-xcomp">
         <w lemma="визнати" ana="verb:perf:inf">визнати</w>
       </w_>
-      <w_ id="23ya" dep="23yb-amod">
+      <w_ id="23ya" dep="23yb-amod" hdep="23yb-private">
         <w lemma="легальний" ana="adj:f:v_zna">легальну</w>
       </w_>
       <w_ id="23yb" dep="23y9-obj" edep="23yh-nsubj:sp">
@@ -4029,10 +4029,10 @@
       <w_ id="23zy" dep="23zx-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="23zz" dep="2401-det">
+      <w_ id="23zz" dep="2401-det" hdep="2401-distrib">
         <w lemma="увесь" ana="adj:p:v_oru:&amp;pron:gen">усіма</w>
       </w_>
-      <w_ id="2400" dep="2401-amod">
+      <w_ id="2400" dep="2401-amod" hdep="2401-distrib">
         <w lemma="доступний" ana="adj:p:v_oru:compb">доступними</w>
       </w_>
       <w_ id="2401" dep="23zs-obl">
@@ -4051,7 +4051,7 @@
       <w_ id="2405" dep="2406-obj" edep="2401-ref">
         <w lemma="який" ana="adj:p:v_zna:rinanim:&amp;pron:rel">які</w>
       </w_>
-      <w_ id="2406" dep="2401-acl">
+      <w_ id="2406" dep="2401-acl" hdep="2401-distrib">
         <w lemma="дозволяти" ana="verb:imperf:pres:s:3">дозволяє</w>
       </w_>
       <w_ id="2407" dep="2406-nsubj">
@@ -4516,7 +4516,7 @@
     <gap/>
     <p id="2445">
       <sb id="2446"/>
-      <w_ id="2447" dep="2448-case">
+      <w_ id="2447" dep="2448-case" hdep="2448-private">
         <w lemma="з" ana="prep:rv_rod">З</w>
       </w_>
       <w_ id="2448" dep="2458-obl">
@@ -4525,7 +4525,7 @@
       <w_ id="2449" dep="244a-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="244a" dep="2448-nmod">
+      <w_ id="244a" dep="2448-nmod" hdep="2448-private">
         <w lemma="неможливість" ana="noun:inanim:f:v_zna">неможливість</w>
       </w_>
       <w_ id="244b" dep="244a-acl">
@@ -4699,7 +4699,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="245u"/>
-      <w_ id="245v" dep="245w-nsubj">
+      <w_ id="245v" dep="245w-nsubj" hdep="245w-distrib">
         <w lemma="рішення" ana="noun:inanim:n:v_naz">Рішення</w>
       </w_>
       <w_ id="245w">
@@ -4858,7 +4858,7 @@
       <w_ id="247b" dep="247c-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="247c" dep="247d-obl">
+      <w_ id="247c" dep="247d-obl" hdep="247d-distrib">
         <w lemma="святвечір" ana="noun:inanim:m:v_rod">Святвечора</w>
       </w_>
       <w_ id="247d" dep="2479-xcomp">
@@ -4867,7 +4867,7 @@
       <w_ id="247e" dep="247f-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="247f" dep="247d-obl" tags="promoted">
+      <w_ id="247f" dep="247d-obl" tags="promoted" hdep="247d-private">
         <w lemma="увесь" ana="adj:p:v_oru:&amp;pron:gen">усіма</w>
       </w_>
       <g/>
@@ -4922,7 +4922,7 @@
       <w_ id="247w" dep="2482-nsubj">
         <w lemma="душа" ana="noun:inanim:f:v_naz">душа</w>
       </w_>
-      <w_ id="247x" dep="247w-det">
+      <w_ id="247x" dep="247w-det" hdep="247w-distrib">
         <w lemma="твій" ana="adj:f:v_naz:poss:&amp;pron:pers:2">твоя</w>
       </w_>
       <g/>
@@ -4945,13 +4945,13 @@
       <w_ id="2483" dep="2487-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2484" dep="2487-discourse">
+      <w_ id="2484" dep="2487-discourse" hdep="2487-distrib">
         <w lemma="щоб" ana="part">щоб</w>
       </w_>
-      <w_ id="2485" dep="2487-nsubj">
+      <w_ id="2485" dep="2487-nsubj" hdep="2487-distrib">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
-      <w_ id="2486" dep="2487-cop">
+      <w_ id="2486" dep="2487-cop" hdep="2487-distrib">
         <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
       </w_>
       <w_ id="2487" dep="2482-parataxis">
@@ -5008,7 +5008,7 @@
       <w_ id="248p" dep="248q-amod">
         <w lemma="кримінальний" ana="adj:f:v_naz">Кримінальна</w>
       </w_>
-      <w_ id="248q" dep="248s-nsubj">
+      <w_ id="248q" dep="248s-nsubj" hdep="248s-distrib">
         <w lemma="поліція" ana="noun:inanim:f:v_naz">поліція</w>
       </w_>
       <w_ id="248r" dep="248q-nmod">
@@ -5017,7 +5017,7 @@
       <w_ id="248s">
         <w lemma="провести" ana="verb:perf:past:f">провела</w>
       </w_>
-      <w_ id="248t" dep="248s-obj">
+      <w_ id="248t" dep="248s-obj" hdep="248s-private">
         <w lemma="ряд" ana="noun:inanim:m:v_zna">ряд</w>
       </w_>
       <w_ id="248u" dep="248v-amod">
@@ -5221,7 +5221,7 @@
       <w_ id="24ao" dep="24am-ccomp">
         <w lemma="спалювати" ana="verb:imperf:inf">спалювати</w>
       </w_>
-      <w_ id="24ap" dep="24aq-amod">
+      <w_ id="24ap" dep="24aq-amod" comment="~distrib?" hdep="24aq-private">
         <w lemma="сухий" ana="adj:f:v_zna:compb">суху</w>
       </w_>
       <w_ id="24aq" dep="24ao-obj">
@@ -5373,10 +5373,10 @@
       <w_ id="24c4" dep="24cc-nsubj">
         <w lemma="площа" ana="noun:inanim:f:v_naz">площа</w>
       </w_>
-      <w_ id="24c5" dep="24c7-amod">
+      <w_ id="24c5" dep="24c7-amod" hdep="24c7-distrib">
         <w lemma="знищений" ana="adj:f:v_rod:&amp;adjp:perf:pasv">знищеної</w>
       </w_>
-      <w_ id="24c6" dep="24c7-amod">
+      <w_ id="24c6" dep="24c7-amod" hdep="24c7-private">
         <w lemma="сухий" ana="adj:f:v_rod:compb">сухої</w>
       </w_>
       <w_ id="24c7" dep="24c4-nmod">

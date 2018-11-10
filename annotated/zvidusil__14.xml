@@ -75,7 +75,7 @@
       <w_ id="24db" dep="24dc-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="24dc" dep="24dg-advcl">
+      <w_ id="24dc" dep="24dg-advcl" hdep="24dg-distrib">
         <w lemma="скинути" ana="verb:perf:past:advp">скинувши</w>
       </w_>
       <w_ id="24dd" dep="24de-amod">
@@ -91,7 +91,7 @@
       <w_ id="24dg" dep="24da-xcomp">
         <w lemma="стояти" ana="verb:imperf:inf">стояти</w>
       </w_>
-      <w_ id="24dh" dep="24dg-advcl:sp">
+      <w_ id="24dh" dep="24dg-advcl:sp" hdep="24dg-distrib">
         <w lemma="напівроздягнений" ana="adj:f:v_naz:&amp;adjp:perf:pasv">напівроздягнена</w>
       </w_>
       <w_ id="24di" dep="24dj-cc">
@@ -151,10 +151,10 @@
       <w_ id="24e0">
         <w lemma="дразнити" ana="verb:imperf:past:f">дразнила</w>
       </w_>
-      <w_ id="24e1" dep="24e3-det" coref="24dz-equality">
+      <w_ id="24e1" dep="24e3-det" coref="24dz-equality" hdep="24e3-distrib">
         <w lemma="свій" ana="adj:p:v_oru:poss:&amp;pron:refl">своїми</w>
       </w_>
-      <w_ id="24e2" dep="24e3-amod">
+      <w_ id="24e2" dep="24e3-amod" hdep="24e3-private">
         <w lemma="духовитий" ana="adj:p:v_oru">духовитими</w>
       </w_>
       <w_ id="24e3" dep="24e0-obl">
