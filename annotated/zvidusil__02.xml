@@ -1983,8 +1983,8 @@
       <w_ id="1mnv" dep="1mnx-nsubj">
         <w lemma="ви" ana="noun:anim:p:v_rod:&amp;pron:pers:2">Вас</w>
       </w_>
-      <w_ id="1mnw" dep="1mnx-discourse" comment="adv?">
-        <w lemma="так" ana="part">так</w>
+      <w_ id="1mnw" dep="1mnx-advmod">
+        <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <w_ id="1mnx">
         <w lemma="багато" ana="adv:compb">багато</w>
@@ -2910,8 +2910,8 @@
       <w_ id="1mwx" dep="1mx0-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1mwy" dep="1mx0-discourse">
-        <w lemma="так" ana="conj:subord">так</w>
+      <w_ id="1mwy" dep="1mx0-advmod:det" correct="така">
+        <w lemma="такий" ana="adj:f:v_naz:&amp;pron:dem">так</w>
       </w_>
       <w_ id="1mwz" dep="1mx0-nsubj">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
@@ -2986,8 +2986,8 @@
       <w_ id="1mxn" dep="1mxp-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1mxo" dep="1mxp-xcomp">
-        <w lemma="який" ana="adj:p:v_oru:&amp;pron:int">якими</w>
+      <w_ id="1mxo" dep="1mxp-xcomp" comment="~ :int?">
+        <w lemma="який" ana="adj:p:v_oru:&amp;pron:rel">якими</w>
       </w_>
       <w_ id="1mxp" dep="1mxm-ccomp" comment="advcl?">
         <w lemma="повинний" ana="adj:p:v_naz">повинні</w>
@@ -3169,7 +3169,7 @@
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
       <w_ id="1mze" dep="1mzc-flat:range">
-        <w lemma="граб" ana="noun:inanim:p:m:v_rod">Грабів</w>
+        <w lemma="Грабів" ana="noun:inanim:m:v_naz:prop">Грабів</w>
       </w_>
       <w_ id="1mzf" dep="1mzg-punct">
         <w lemma="–" ana="punct:dash">–</w>
@@ -4353,8 +4353,8 @@
       <w_ id="1nac" dep="1nad-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1nad" dep="1naf-advmod">
-        <w lemma="типу" ana="adv:slang">типу</w>
+      <w_ id="1nad" dep="1naf-discourse">
+        <w lemma="типу" ana="part:slang">типу</w>
       </w_>
       <w_ id="1nae" dep="1naf-case">
         <w lemma="для" ana="prep:rv_rod">для</w>

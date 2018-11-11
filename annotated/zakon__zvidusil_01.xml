@@ -5517,7 +5517,7 @@
       <w_ id="2l19" dep="3ci6-iobj" edep="2l1v-nsubj:x" n="1665">
         <w lemma="міністр" ana="noun:anim:m:v_dav">Міністру</w>
       </w_>
-      <w_ id="2l1a" dep="2l19-nmod" n="1666">
+      <w_ id="2l1a" dep="2l19-nmod" hdep="2l19-private" n="1666">
         <w lemma="охорона" ana="noun:inanim:f:v_rod">охорони</w>
       </w_>
       <w_ id="2l1b" dep="2l1a-nmod" n="1667">
@@ -5526,7 +5526,7 @@
       <w_ id="2l1c" dep="2l1d-amod" n="1668">
         <w lemma="автономний" ana="adj:f:v_rod">Автономної</w>
       </w_>
-      <w_ id="2l1d" dep="2l19-nmod" n="1669">
+      <w_ id="2l1d" dep="2l19-nmod" hdep="2l19-private" n="1669">
         <w lemma="республіка" ana="noun:inanim:f:v_rod">Республіки</w>
       </w_>
       <w_ id="2l1e" dep="2l1d-flat:title" n="1670">
@@ -5622,7 +5622,7 @@
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="2l28" dep="2l26-appos" comment="parataxis?" n="1697">
+      <w_ id="2l28" dep="2l26-appos" comment="~parataxis?" n="1697">
         <w lemma="Гаврилюк" ana="noun:anim:m:v_naz:prop:lname">Гаврилюк</w>
       </w_>
       <w_ id="2l29" dep="2l28-flat:name" n="1698">
