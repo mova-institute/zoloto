@@ -7184,7 +7184,7 @@
     <w_ id="01rj">
       <w lemma="втрата" ana="noun:inanim:f:v_naz:v-u">втрата</w>
     </w_>
-    <w_ id="01rk" dep="01rj-obj">
+    <w_ id="01rk" dep="01rj-nmod">
       <w lemma="свобода" ana="noun:inanim:f:v_rod">свободи</w>
     </w_>
     <w_ id="01rl" dep="01rm-cc">
@@ -7255,7 +7255,7 @@
           <w lemma="гірше" ana="adv:compr">гірше</w>
         </w_>
         <g/>
-        <w_ id="01s6" dep="01s2-punct">
+        <w_ id="01s6" dep="01s5-punct">
           <w lemma="!" ana="punct">!</w>
         </w_>
         <sb id="01s7"/>
@@ -8331,10 +8331,10 @@
       <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
     </w_>
     <w_ id="021l" dep="021m-case">
-      <w lemma="у" ana="prep:rv_mis:v-u">у</w>
+      <w lemma="у" ana="prep:rv_rod:v-u">у</w>
     </w_>
     <w_ id="021m" dep="021n-obl">
-      <w lemma="вони" ana="noun:p:v_mis:rprep:&amp;pron:pers:3">них</w>
+      <w lemma="вони" ana="noun:p:v_rod:rprep:&amp;pron:pers:3">них</w>
     </w_>
     <w_ id="021n">
       <w lemma="провадитися" ana="verb:rev:imperf:pres:s:3">провадиться</w>
@@ -8773,8 +8773,11 @@
     <w_ id="025f" dep="025i-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="025g" dep="025i-mark">
-      <w lemma="як" ana="conj:subord">як</w>
+    <w_ id="025g" dep="025i-advmod">
+      <w lemma="як" ana="adv:&amp;pron:rel">як</w>
+    </w_>
+    <w_ id="3che">
+      <w lemma="дратувати" ana="verb:imperf:past:m">дратував</w>
     </w_>
     <w_ id="025h" dep="025i-det">
       <w lemma="сей" ana="adj:m:v_naz:&amp;pron:dem:rare">сей</w>
@@ -8910,7 +8913,7 @@
     <w_ id="026p" dep="026o-obj">
       <w lemma="бачення" ana="noun:inanim:n:v_zna">бачення</w>
     </w_>
-    <w_ id="026q" dep="026s-det">
+    <w_ id="026q" dep="026s-nmod">
       <w lemma="її" ana="adj:f:v_rod:poss:nv:&amp;pron:pers:3">її</w>
     </w_>
     <w_ id="026r" dep="026s-amod">

@@ -1,6 +1,24 @@
 <docs>
   <doc id="2jnl" author="" date="2017-07-12" genre="нормативно-правовий акт" src="http://zakon3.rada.gov.ua/laws/show/2129-19" title="Про ратифікацію Угоди між Україною та Європейським поліцейським офісом про оперативне та стратегічне співробітництво">
-    <gap/>
+    <p id="3chf">
+      <sb id="3chg"/>
+      <w_ id="3chh" dep="3chi-amod">
+        <w lemma="верховний" ana="adj:f:v_naz">Верховна</w>
+      </w_>
+      <w_ id="3chi" dep="3chk-nsubj">
+        <w lemma="рада" ana="noun:inanim:f:v_naz">Рада</w>
+      </w_>
+      <w_ id="3chj" dep="3chi-nmod">
+        <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
+      </w_>
+      <w_ id="3chk">
+        <w lemma="постановляти" ana="verb:imperf:pres:s:3">постановляє</w>
+      </w_>
+      <g/>
+      <w_ id="3chl" dep="3chk-punct">
+        <w lemma=":" ana="punct">:</w>
+      </w_>
+    </p>
     <p id="2jnm">
       <sb id="30m7" set="test"/>
       <w_ id="2jnn" dep="2jp1-obj" n="0">
@@ -179,6 +197,25 @@
     <gap/>
   </doc>
   <doc id="2jp7" author="" date="2017-07-12" genre="нормативно-правовий акт" src="http://zakon3.rada.gov.ua/laws/show/2131-19" title="Про прийняття за основу проекту Закону України про внесення змін до деяких законодавчих актів України щодо запобігання надмірному тиску на суб’єктів господарювання заходів державного нагляду (контролю) за додержанням законодавства про працю та зайнятість населення">
+    <p id="3chm">
+      <sb id="3chn"/>
+      <w_ id="3cho" dep="3chp-amod">
+        <w lemma="верховний" ana="adj:f:v_naz">Верховна</w>
+      </w_>
+      <w_ id="3chp" dep="3chr-nsubj">
+        <w lemma="рада" ana="noun:inanim:f:v_naz">Рада</w>
+      </w_>
+      <w_ id="3chq" dep="3chp-nmod">
+        <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
+      </w_>
+      <w_ id="3chr">
+        <w lemma="постановляти" ana="verb:imperf:pres:s:3">постановляє</w>
+      </w_>
+      <g/>
+      <w_ id="3chs" dep="3chr-punct">
+        <w lemma=":" ana="punct">:</w>
+      </w_>
+    </p>
     <p id="2jp8">
       <sb id="30mh"/>
       <w_ id="2jp9" n="55">
@@ -381,7 +418,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2jr1"/>
-      <w_ id="2jr2" dep="2jrf-iobj" hdep="2jrf-distrib" n="116">
+      <w_ id="3ci0" ellipsis="predicate">
+        <w lemma="постановляти" ana="verb:imperf:pres:s:3">Постановляє</w>
+      </w_>
+      <w_ id="2jr2" dep="3ci0-iobj" edep="2jrf-nsubj:x" hdep="2jrf-distrib" n="116">
         <w lemma="комітет" ana="noun:inanim:m:v_dav">Комітету</w>
       </w_>
       <w_ id="2jr3" dep="2jr4-amod" n="117">
@@ -421,7 +461,7 @@
       <w_ id="2jre" dep="2jr9-conj" n="128">
         <w lemma="забезпечення" ana="noun:inanim:n:v_rod">забезпечення</w>
       </w_>
-      <w_ id="2jrf" n="129">
+      <w_ id="2jrf" dep="2jr2-orphan|3ci0-xcomp" n="129">
         <w lemma="доопрацювати" ana="verb:perf:inf">доопрацювати</w>
       </w_>
       <w_ id="2jrg" dep="2jrh-amod" n="130">
@@ -491,7 +531,7 @@
         <w lemma="читання" ana="noun:inanim:n:v_mis">читанні</w>
       </w_>
       <g/>
-      <w_ id="2js2" dep="2jrf-punct" n="152">
+      <w_ id="2js2" dep="2jr2-punct|3ci0-punct" n="152">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -2910,7 +2950,25 @@
     <gap/>
   </doc>
   <doc id="2ke2" author="" date="2017-07-12" genre="нормативно-правовий акт" src="http://zakon3.rada.gov.ua/laws/show/2132-19" title="Про проведення парламентських слухань про становище молоді в Україні на тему: &quot;Формування та реалізація державної молодіжної політики в Україні в умовах децентралізації&quot;">
-    <gap/>
+    <p id="3cht">
+      <sb id="3chu"/>
+      <w_ id="3chv" dep="3chw-amod">
+        <w lemma="верховний" ana="adj:f:v_naz">Верховна</w>
+      </w_>
+      <w_ id="3chw" dep="3chy-nsubj">
+        <w lemma="рада" ana="noun:inanim:f:v_naz">Рада</w>
+      </w_>
+      <w_ id="3chx" dep="3chw-nmod">
+        <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
+      </w_>
+      <w_ id="3chy">
+        <w lemma="постановляти" ana="verb:imperf:pres:s:3">постановляє</w>
+      </w_>
+      <g/>
+      <w_ id="3chz" dep="3chy-punct">
+        <w lemma=":" ana="punct">:</w>
+      </w_>
+    </p>
     <p id="2ke3">
       <sb id="30mk"/>
       <w_ id="2ke4" n="897">
@@ -3044,7 +3102,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2kfb"/>
-      <w_ id="2kfc" dep="2kfk-iobj" n="937">
+      <w_ id="3ci1" ellipsis="predicate">
+        <w lemma="постановляти" ana="verb:imperf:pres:s:3">Постановляє</w>
+      </w_>
+      <w_ id="2kfc" dep="3ci1-iobj" edep="2kfk-nsubj:x" n="937">
         <w lemma="кабінет" ana="noun:inanim:m:v_dav">Кабінету</w>
       </w_>
       <w_ id="2kfd" dep="2kfc-nmod" n="938">
@@ -3068,7 +3129,7 @@
       <w_ id="2kfj" dep="2kfh-nmod" n="944">
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
-      <w_ id="2kfk" n="945">
+      <w_ id="2kfk" dep="2kfc-orphan|3ci1-xcomp" n="945">
         <w lemma="підготувати" ana="verb:perf:inf">підготувати</w>
       </w_>
       <w_ id="2kfl" dep="2kfm-cc" n="946">
@@ -3171,7 +3232,7 @@
         <w lemma="питання" ana="noun:inanim:n:v_rod">питання</w>
       </w_>
       <g/>
-      <w_ id="2kgh" dep="2kfk-punct" n="978">
+      <w_ id="2kgh" dep="2kfc-punct|3ci1-punct" n="978">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3185,7 +3246,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2kgm"/>
-      <w_ id="2kgn" dep="2kh1-iobj" n="981">
+      <w_ id="3ci2" ellipsis="predicate">
+        <w lemma="постановляти" ana="verb:imperf:pres:s:3">Постановляє</w>
+      </w_>
+      <w_ id="2kgn" dep="3ci2-iobj" edep="2kh1-nsubj:x" n="981">
         <w lemma="комітет" ana="noun:inanim:m:v_dav">Комітету</w>
       </w_>
       <w_ id="2kgo" dep="2kgp-amod" n="982">
@@ -3229,7 +3293,7 @@
       <w_ id="2kh0" dep="2kgt-conj" n="994">
         <w lemma="туризм" ana="noun:inanim:m:v_rod">туризму</w>
       </w_>
-      <w_ id="2kh1" n="995">
+      <w_ id="2kh1" dep="2kgn-orphan|3ci2-xcomp" n="995">
         <w lemma="здійснити" ana="verb:perf:inf">здійснити</w>
       </w_>
       <w_ id="2kh2" dep="2kh3-amod" n="996">
@@ -3278,7 +3342,7 @@
         <w lemma="рекомендація" ana="noun:inanim:p:f:v_rod">рекомендацій</w>
       </w_>
       <g/>
-      <w_ id="2khh" dep="2kh1-punct" n="1011">
+      <w_ id="2khh" dep="2kgn-punct|3ci2-punct" n="1011">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3395,7 +3459,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2kik"/>
-      <w_ id="2kil" dep="2kip-iobj" n="1045">
+      <w_ id="3ci3" ellipsis="predicate">
+        <w lemma="постановляти" ana="verb:imperf:pres:s:3">Постановляє</w>
+      </w_>
+      <w_ id="2kil" dep="3ci3-iobj" edep="2kip-nsubj:x" n="1045">
         <w lemma="апарат" ana="noun:inanim:m:v_dav">Апарату</w>
       </w_>
       <w_ id="2kim" dep="2kin-amod" n="1046">
@@ -3407,7 +3474,7 @@
       <w_ id="2kio" dep="2kin-nmod" n="1048">
         <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
       </w_>
-      <w_ id="2kip" n="1049">
+      <w_ id="2kip" dep="2kil-orphan|3ci3-xcomp" n="1049">
         <w lemma="забезпечити" ana="verb:perf:inf">забезпечити</w>
       </w_>
       <w_ id="2kiq" dep="2kis-case" n="1050">
@@ -3432,7 +3499,7 @@
         <w lemma="слухання" ana="noun:inanim:p:n:v_rod">слухань</w>
       </w_>
       <g/>
-      <w_ id="2kix" dep="2kip-punct" n="1057">
+      <w_ id="2kix" dep="2kil-punct|3ci3-punct" n="1057">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3446,7 +3513,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2kj2"/>
-      <w_ id="2kj3" dep="2kj7-iobj" n="1060">
+      <w_ id="3ci4" ellipsis="predicate">
+        <w lemma="постановляти" ana="verb:imperf:pres:s:3">Постановляє</w>
+      </w_>
+      <w_ id="2kj3" dep="3ci4-iobj" edep="2kj7-nsubj:x" n="1060">
         <w lemma="апарат" ana="noun:inanim:m:v_dav">Апарату</w>
       </w_>
       <w_ id="2kj4" dep="2kj5-amod" n="1061">
@@ -3458,7 +3528,7 @@
       <w_ id="2kj6" dep="2kj5-nmod" n="1063">
         <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
       </w_>
-      <w_ id="2kj7" n="1064">
+      <w_ id="2kj7" dep="2kj3-orphan|3ci4-xcomp" n="1064">
         <w lemma="забезпечити" ana="verb:perf:inf">забезпечити</w>
       </w_>
       <w_ id="2kj8" dep="2kj7-obj" n="1065">
@@ -3530,7 +3600,7 @@
         <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
       </w_>
       <g/>
-      <w_ id="2kju" dep="2kj7-punct" n="1087">
+      <w_ id="2kju" dep="2kj3-punct|3ci4-punct" n="1087">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -3706,7 +3776,7 @@
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
       <w_ id="2kli" dep="2kl6-nmod" tags="promoted" n="1137">
-        <w lemma="6" ana="adj:f:v_rod:nv:&amp;numr">6</w>
+        <w lemma="6" ana="adj:n:v_rod:nv:&amp;numr">6</w>
       </w_>
       <w_ id="2klj" dep="2kli-nmod" n="1138">
         <w lemma="червень" ana="noun:inanim:m:v_rod">червня</w>
@@ -4329,7 +4399,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2kr3"/>
-      <w_ id="2kr4" dep="2kr7-iobj" n="1326">
+      <w_ id="3ci5" ellipsis="predicate">
+        <w lemma="наказувати" ana="verb:imperf:pres:s:3">Наказує</w>
+      </w_>
+      <w_ id="2kr4" dep="3ci5-iobj" edep="2kr7-nsubj:x" n="1326">
         <w lemma="фонд" ana="noun:inanim:m:v_dav">Фонду</w>
       </w_>
       <w_ id="2kr5" dep="2kr6-amod" n="1327">
@@ -4338,7 +4411,7 @@
       <w_ id="2kr6" dep="2kr4-nmod" n="1328">
         <w lemma="майно" ana="noun:inanim:n:v_rod">майна</w>
       </w_>
-      <w_ id="2kr7" n="1329">
+      <w_ id="2kr7" dep="2kr4-orphan|3ci5-xcomp" n="1329">
         <w lemma="здійснити" ana="verb:perf:inf">здійснити</w>
       </w_>
       <w_ id="2kr8" dep="2kra-case" n="1330">
@@ -4417,7 +4490,7 @@
         <w lemma="”" ana="punct:quote">”</w>
       </w_>
       <g/>
-      <w_ id="2krw" dep="2kr7-punct" n="1354">
+      <w_ id="2krw" dep="2kr4-punct|3ci5-punct" n="1354">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -5438,7 +5511,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2l18"/>
-      <w_ id="2l19" dep="2l1v-iobj" n="1665">
+      <w_ id="3ci6" ellipsis="predicate">
+        <w lemma="наказувати" ana="verb:imperf:pres:s:1">Наказую</w>
+      </w_>
+      <w_ id="2l19" dep="3ci6-iobj" edep="2l1v-nsubj:x" n="1665">
         <w lemma="міністр" ana="noun:anim:m:v_dav">Міністру</w>
       </w_>
       <w_ id="2l1a" dep="2l19-nmod" n="1666">
@@ -5506,7 +5582,7 @@
       <w_ id="2l1u" dep="2l1i-nmod" n="1686">
         <w lemma="адміністрація" ana="noun:inanim:p:f:v_rod">адміністрацій</w>
       </w_>
-      <w_ id="2l1v" n="1687">
+      <w_ id="2l1v" dep="3ci6-xcomp|2l19-orphan" n="1687">
         <w lemma="забезпечити" ana="verb:perf:inf">забезпечити</w>
       </w_>
       <w_ id="2l1w" dep="2l1v-obj" n="1688">
@@ -5519,7 +5595,7 @@
         <w lemma="наказ" ana="noun:inanim:m:v_rod">наказу</w>
       </w_>
       <g/>
-      <w_ id="2l1z" dep="2l1v-punct" n="1691">
+      <w_ id="2l1z" dep="2l19-punct|3ci6-punct" n="1691">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -5533,10 +5609,13 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="2l24"/>
+      <w_ id="3ci7" ellipsis="predicate">
+        <w lemma="наказувати" ana="verb:imperf:pres:s:1">Наказую</w>
+      </w_>
       <w_ id="2l25" dep="2l26-amod" n="1694">
         <w lemma="медичний" ana="adj:m:v_dav">Медичному</w>
       </w_>
-      <w_ id="2l26" dep="2l2e-iobj" n="1695">
+      <w_ id="2l26" dep="3ci7-iobj" edep="2l2e-nsubj:x" n="1695">
         <w lemma="департамент" ana="noun:inanim:m:v_dav">департаменту</w>
       </w_>
       <w_ id="2l27" dep="2l28-punct" n="1696">
@@ -5565,7 +5644,7 @@
       <w_ id="2l2d" dep="2l28-punct" n="1702">
         <w lemma=")" ana="punct">)</w>
       </w_>
-      <w_ id="2l2e" n="1703">
+      <w_ id="2l2e" dep="3ci7-xcomp|2l26-orphan" n="1703">
         <w lemma="забезпечити" ana="verb:perf:inf">забезпечити</w>
       </w_>
       <w_ id="2l2f" dep="2l2e-obj" n="1704">
@@ -5599,7 +5678,7 @@
         <w lemma="Україна" ana="noun:inanim:f:v_rod:prop">України</w>
       </w_>
       <g/>
-      <w_ id="2l2p" dep="2l2e-punct" n="1714">
+      <w_ id="2l2p" dep="2l26-punct|3ci7-punct" n="1714">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
