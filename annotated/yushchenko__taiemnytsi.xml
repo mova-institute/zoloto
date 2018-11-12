@@ -4221,7 +4221,7 @@
     <w_ id="1gum" dep="1gun-nummod">
       <w lemma="два" ana="numr:m:v_zna">два</w>
     </w_>
-    <w_ id="1gun">
+    <w_ id="1gun" dep="1gux-obl">
       <w lemma="рік" ana="noun:inanim:p:m:v_zna">роки</w>
     </w_>
     <g/>
@@ -4234,7 +4234,7 @@
     <w_ id="1guq" dep="1gur-amod">
       <w lemma="сумний" ana="adj:m:v_zna:rinanim:compb">сумний</w>
     </w_>
-    <w_ id="1gur">
+    <w_ id="1gur" dep="1gun-appos">
       <w lemma="день" ana="noun:inanim:m:v_zna">день</w>
     </w_>
     <w_ id="1gus" dep="1gut-case">
@@ -4265,7 +4265,7 @@
     <w_ id="1gv0" dep="1gv1-case">
       <w lemma="у" ana="prep:rv_mis:v-u">у</w>
     </w_>
-    <w_ id="1gv1">
+    <w_ id="1gv1" dep="1guz-appos:spec">
       <w lemma="Росія" ana="noun:inanim:f:v_mis:prop">Росії</w>
     </w_>
     <g/>
@@ -4685,10 +4685,10 @@
   </p>
   <p id="1gz2">
     <sb id="1gz3"/>
-    <w_ id="1gz4">
+    <w_ id="1gz4" dep="1gz9-discourse" comment="~">
       <w lemma="і" ana="part">І</w>
     </w_>
-    <w_ id="1gz5">
+    <w_ id="1gz5" dep="1gz4-fixed">
       <w lemma="ось" ana="part">ось</w>
     </w_>
     <w_ id="1gz6" dep="1gz7-case">
@@ -4720,13 +4720,13 @@
     <w_ id="1gzf" dep="1gzg-det">
       <w lemma="якийсь" ana="adj:m:v_zna:rinanim:&amp;pron:ind">якийсь</w>
     </w_>
-    <w_ id="1gzg">
+    <w_ id="1gzg" dep="1gzh-obl">
       <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
     </w_>
-    <w_ id="1gzh">
+    <w_ id="1gzh" comment="~ #цікаво">
       <w lemma="ставати" ana="verb:imperf:pres:s:3">стає</w>
     </w_>
-    <w_ id="1gzi">
+    <w_ id="1gzi" dep="1gzh-xcomp:sp" comment="!">
       <w lemma="відомо" ana="adv:compb">відомо</w>
     </w_>
     <g/>
@@ -4748,7 +4748,7 @@
     <w_ id="1gzo" dep="1gzp-case">
       <w lemma="в" ana="prep:rv_mis:v-u">в</w>
     </w_>
-    <w_ id="1gzp">
+    <w_ id="1gzp" dep="1gzh-csubj" edep="1gzi-csubj:sp">
       <w lemma="Тбілісі" ana="noun:inanim:n:v_mis:nv:np:prop">Тбілісі</w>
     </w_>
     <g/>

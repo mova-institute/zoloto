@@ -435,24 +435,24 @@
       <w_ id="390z" dep="390x-punct" n="132">
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
-      <w_ id="3910" dep="3911-punct" n="133">
+      <w_ id="3910" dep="3911-punct|3cic-punct" n="133">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="3911" dep="390v-parataxis" n="134">
+      <w_ id="3911" dep="390v-parataxis|3cic-advmod" n="134">
         <w lemma="раніше" ana="adv:compr">раніше</w>
       </w_>
-      <w_ id="3cic" ellipsis="predicate">
+      <w_ id="3cic" dep="390v-parataxis" comment="~" ellipsis="predicate">
         <w lemma="називатися" ana="verb:rev:imperf:past:m">називався</w>
       </w_>
       <w_ id="3912" dep="3913-punct" n="135">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="3913" dep="3911-orphan|3911-punct" n="136">
+      <w_ id="3913" dep="3911-orphan|3cic-xcomp:sp" n="136">
         <w lemma="ВДНГ" ana="noun:inanim:f:v_naz:nv:np:abbr">ВДНГ</w>
       </w_>
       <g/>
-      <w_ id="3914" dep="3911-punct" n="137">
+      <w_ id="3914" dep="3911-punct|3cic-punct" n="137">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <w_ id="3915" dep="3916-case" n="138">

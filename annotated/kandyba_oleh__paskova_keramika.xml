@@ -1884,7 +1884,7 @@
       <w_ id="2tg1" dep="2tg2-case" n="586">
         <w lemma="між" ana="prep:rv_oru">Між</w>
       </w_>
-      <w_ id="2tg2" dep="2tg3-obl" comment="parataxis:discourse?" n="587">
+      <w_ id="2tg2" dep="2tg3-parataxis:discourse" n="587">
         <w lemma="інше" ana="adj:n:v_oru:&amp;pron:ind:&amp;noun:inanim" lemma2="інший">іншим</w>
       </w_>
       <w_ id="2tg3" n="588">
@@ -2018,7 +2018,7 @@
       <w_ id="2th8" dep="2th9-case" n="628">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="2th9" n="629">
+      <w_ id="2th9" dep="2th3-obl" n="629">
         <w lemma="висота" ana="noun:inanim:f:v_mis">висоті</w>
       </w_>
       <w_ id="2tha" dep="2thb-amod" n="630">
@@ -2037,7 +2037,7 @@
       <w_ id="2the" dep="2thf-mark" n="634">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="2thf" n="635">
+      <w_ id="2thf" dep="2thc-advcl" n="635">
         <w lemma="поставати" ana="verb:imperf:pres:s:3">постає</w>
       </w_>
       <w_ id="2thg" dep="2thh-amod" n="636">
@@ -3086,10 +3086,10 @@
       <w_ id="2tqy" dep="2tr2-punct" n="958">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2tqz" n="959">
+      <w_ id="2tqz" dep="2tr2-cc" n="959">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="2tr0" n="960">
+      <w_ id="2tr0" dep="2tqz-fixed" n="960">
         <w lemma="рівнож" ana="adv">рівнож</w>
       </w_>
       <w_ id="2tr1" dep="2tr2-case" n="961">

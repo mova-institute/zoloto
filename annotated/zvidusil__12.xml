@@ -429,7 +429,7 @@
       <p id="225f">
         <sb id="225g"/>
         <w_ id="225h">
-          <w lemma="бути" ana="verb:aux:imperf:past:n">Було</w>
+          <w lemma="бути" ana="verb:imperf:past:n">Було</w>
         </w_>
         <w_ id="225i" dep="225h-nsubj">
           <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
@@ -443,11 +443,11 @@
         <w_ id="225l" dep="225m-case">
           <w lemma="над" ana="prep:rv_oru">над</w>
         </w_>
-        <w_ id="225m">
+        <w_ id="225m" dep="225h-obl" comment="не прикладка бо просто перетин двох множин?">
           <w lemma="Стрипа" ana="noun:inanim:f:v_oru:prop">Стрипою</w>
         </w_>
         <g/>
-        <w_ id="225n">
+        <w_ id="225n" dep="225h-punct">
           <w lemma="." ana="punct">.</w>
         </w_>
         <sb id="225o"/>

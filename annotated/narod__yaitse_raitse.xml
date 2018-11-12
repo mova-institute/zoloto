@@ -295,7 +295,7 @@
     <w_ id="0dma" dep="0dme-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0dmb">
+    <w_ id="0dmb" dep="0dme-discourse">
       <w lemma="ну" ana="part">Ну</w>
     </w_>
     <g/>
@@ -311,7 +311,7 @@
     <w_ id="0dmf" dep="0dmg-obj">
       <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
     </w_>
-    <w_ id="0dmg">
+    <w_ id="0dmg" dep="0dme-csubj">
       <w lemma="перекусити" ana="verb:perf:futr:s:1">перекушу</w>
     </w_>
     <g/>
@@ -4878,11 +4878,11 @@
       <w lemma="!" ana="punct">!</w>
     </w_>
     <sb id="0etu"/>
-    <w_ id="0etv">
+    <w_ id="0etv" dep="0etx-discourse">
       <w lemma="коли" ana="part">Коли</w>
     </w_>
-    <w_ id="0etw">
-      <w lemma="це" ana="part">це</w>
+    <w_ id="0etw" dep="0etx-expl" comment="~">
+      <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
     </w_>
     <w_ id="0etx">
       <w lemma="іти" ana="verb:imperf:pres:s:3">іде</w>

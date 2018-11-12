@@ -3393,13 +3393,13 @@
     <w_ id="0hlt" dep="0hlu-case">
       <w lemma="у" ana="prep:rv_rod:v-u">У</w>
     </w_>
-    <w_ id="0hlu" dep="0hlv-orphan">
+    <w_ id="0hlu" dep="0hlv-orphan|3cid-obl">
       <w lemma="ти" ana="noun:anim:s:v_rod:&amp;pron:pers:2">тебе</w>
     </w_>
     <w_ id="3cid" ellipsis="predicate">
       <w lemma="існувати" ana="verb:imperf:pres:p:3">існують</w>
     </w_>
-    <w_ id="0hlv">
+    <w_ id="0hlv" dep="3cid-nsubj">
       <w lemma="дитина" ana="noun:anim:p:f:v_naz">діти</w>
     </w_>
     <g/>
@@ -3415,11 +3415,11 @@
     <w_ id="0hlz" dep="0hm0-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="0hm0" dep="0hlv-conj:parataxis">
+    <w_ id="0hm0" dep="0hlv-conj:parataxis|3cid-conj:parataxis">
       <w lemma="мати" ana="verb:imperf:pres:s:2">маєш</w>
     </w_>
     <g/>
-    <w_ id="0hm1" dep="0hlv-punct">
+    <w_ id="0hm1" dep="0hlv-punct|3cid-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0hm2"/>

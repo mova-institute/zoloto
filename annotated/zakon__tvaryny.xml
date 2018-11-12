@@ -3313,7 +3313,7 @@
         <w lemma="об’єкт" ana="noun:inanim:p:m:v_mis">об’єктах</w>
       </w_>
       <g/>
-      <w_ id="1jhi" dep="1jhm-punct">
+      <w_ id="1jhi" dep="1jhm-punct|3cib-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1jhj" dep="1jhl-case">
@@ -3322,13 +3322,13 @@
       <w_ id="1jhk" dep="1jhl-det">
         <w lemma="той" ana="adj:n:v_mis:&amp;pron:dem">тому</w>
       </w_>
-      <w_ id="1jhl" dep="1jhm-orphan">
+      <w_ id="1jhl" dep="1jhm-orphan|3cib-parataxis:discourse">
         <w lemma="число" ana="noun:inanim:n:v_mis">числі</w>
       </w_>
-      <w_ id="3cib" ellipsis="predicate">
+      <w_ id="3cib" dep="1jgx-parataxis" ellipsis="predicate">
         <w lemma="заборонятися" ana="verb:rev:imperf:pres:s:3">забороняється</w>
       </w_>
-      <w_ id="1jhm" dep="1jgx-parataxis" comment="~ змагається з non-projective appos’ом чи однорідним">
+      <w_ id="1jhm" dep="1jgx-parataxis|3cib-nsubj" comment="~ змагається з non-projective appos’ом чи однорідним">
         <w lemma="демонстрація" ana="noun:inanim:f:v_naz">демонстрація</w>
       </w_>
       <w_ id="1jhn" dep="1jho-amod">
@@ -3341,7 +3341,7 @@
         <w lemma="організм" ana="noun:inanim:m:v_rod">організму</w>
       </w_>
       <g/>
-      <w_ id="1jhq" dep="1jhm-punct">
+      <w_ id="1jhq" dep="1jhm-punct|3cib-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

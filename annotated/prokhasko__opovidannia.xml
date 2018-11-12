@@ -25334,10 +25334,10 @@
     <w_ id="0x92">
       <w lemma="можна" ana="adv">можна</w>
     </w_>
-    <w_ id="0x93">
-      <w lemma="бути" ana="verb:imperf:past:n">було</w>
+    <w_ id="0x93" dep="0x92-cop">
+      <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="0x94">
+    <w_ id="0x94" dep="0x92-csubj">
       <w lemma="отримати" ana="verb:perf:inf">отримати</w>
     </w_>
     <w_ id="0x95" dep="0x96-det">
@@ -38288,14 +38288,14 @@
     <w_ id="10kd" dep="10kk-nummod">
       <w lemma="два" ana="numr:f:v_naz">дві</w>
     </w_>
-    <w_ id="10ke">
+    <w_ id="10ke" dep="10kk-amod">
       <w lemma="неоднаковий" ana="adj:p:v_naz">неоднакові</w>
     </w_>
     <g/>
     <w_ id="10kf" dep="10kh-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="10kg">
+    <w_ id="10kg" dep="10kh-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
     <w_ id="10kh" dep="10ke-conj">
@@ -38304,7 +38304,7 @@
     <w_ id="10ki" dep="10kj-amod">
       <w lemma="довший" ana="adj:m:v_zna:rinanim:compr">довший</w>
     </w_>
-    <w_ id="10kj">
+    <w_ id="10kj" dep="10kh-obl">
       <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
     </w_>
     <w_ id="10kk" dep="10kc-nsubj">
@@ -38319,7 +38319,7 @@
     <w_ id="10kn" dep="10ko-case">
       <w lemma="впродовж" ana="prep:rv_rod:v-u">впродовж</w>
     </w_>
-    <w_ id="10ko">
+    <w_ id="10ko" dep="10km-acl:adv" comment="~">
       <w lemma="день" ana="noun:inanim:m:v_rod">дня</w>
     </w_>
     <g/>
@@ -39487,19 +39487,19 @@
       <w lemma="такий" ana="adj:f:v_oru:&amp;pron:dem">такою</w>
     </w_>
     <g/>
-    <w_ id="10vb" dep="10vf-punct">
+    <w_ id="10vb" dep="10vd-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="10vc" dep="10vf-mark">
+    <w_ id="10vc" dep="10vd-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="10vd">
+    <w_ id="10vd" dep="10va-acl:bridge">
       <w lemma="треба" ana="adv">треба</w>
     </w_>
-    <w_ id="10ve">
-      <w lemma="бути" ana="verb:imperf:past:n">було</w>
+    <w_ id="10ve" dep="10vd-cop">
+      <w lemma="бути" ana="verb:aux:imperf:past:n">було</w>
     </w_>
-    <w_ id="10vf">
+    <w_ id="10vf" dep="10vd-csubj">
       <w lemma="працювати" ana="verb:imperf:inf">працювати</w>
     </w_>
     <w_ id="10vg" dep="10vh-nummod:gov">
@@ -39515,7 +39515,7 @@
     <w_ id="10vj" dep="10vk-mark">
       <w lemma="щоби" ana="conj:subord">щоби</w>
     </w_>
-    <w_ id="10vk" dep="10vf-advcl">
+    <w_ id="10vk" dep="10vd-advcl">
       <w lemma="заробити" ana="verb:perf:inf">заробити</w>
     </w_>
     <w_ id="10vl" dep="10vm-amod">
@@ -43230,17 +43230,17 @@
     <w_ id="11tt" dep="11tr-conj">
       <w lemma="морський" ana="adj:p:v_mis">морських</w>
     </w_>
-    <w_ id="11tu">
+    <w_ id="11tu" dep="11tx-obl">
       <w lemma="пляж" ana="noun:inanim:p:m:v_mis">пляжах</w>
     </w_>
     <w_ id="11tv" dep="11tw-case">
       <w lemma="замість" ana="prep:rv_rod">замість</w>
     </w_>
-    <w_ id="11tw">
+    <w_ id="11tw" dep="11tx-obl">
       <w lemma="м’яч" ana="noun:inanim:m:v_rod">м’яча</w>
     </w_>
-    <w_ id="11tx">
-      <w lemma="бути" ana="verb:aux:imperf:past:m">був</w>
+    <w_ id="11tx" comment="~ (слугував)">
+      <w lemma="бути" ana="verb:imperf:past:m">був</w>
     </w_>
     <w_ id="11ty" dep="11u0-amod">
       <w lemma="великий" ana="adj:m:v_naz:compb">великий</w>
@@ -43248,7 +43248,7 @@
     <w_ id="11tz" dep="11u0-amod">
       <w lemma="тяжкий" ana="adj:m:v_naz:compb">тяжкий</w>
     </w_>
-    <w_ id="11u0" mark="reviewed">
+    <w_ id="11u0" dep="11tx-nsubj" mark="reviewed">
       <w lemma="камінь" ana="noun:inanim:m:v_naz:xp1">камінь</w>
     </w_>
     <g/>
@@ -43281,7 +43281,7 @@
       <w lemma="зловити" ana="verb:perf:inf">зловити</w>
     </w_>
     <g/>
-    <w_ id="11ua">
+    <w_ id="11ua" dep="11tx-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="11ub"/>

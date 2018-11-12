@@ -2449,7 +2449,7 @@
       <w_ id="31cb" n="736">
         <w lemma="послухати" ana="verb:perf:past:f">послухала</w>
       </w_>
-      <w_ id="31cc" dep="31cb-obj" n="737">
+      <w_ id="31cc" dep="31cb-obj" hdep="31cb-private" n="737">
         <w lemma="Тіріон" ana="noun:anim:m:v_zna:prop:fname">Тіріона</w>
       </w_>
       <w_ id="31cd" dep="31ce-cc" n="738">
@@ -2466,11 +2466,11 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="31ch"/>
-      <w_ id="31ci" n="742">
+      <w_ id="31ci" dep="31co-parataxis:discourse" n="742">
         <w lemma="думати" ana="verb:imperf:pres:s:1">Думаю</w>
       </w_>
       <g/>
-      <w_ id="31cj" n="743">
+      <w_ id="31cj" dep="31ci-punct" n="743">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="31ck" dep="31co-nsubj" n="744">
@@ -2489,12 +2489,12 @@
         <w lemma="врятувати" ana="verb:perf:futr:s:3:v-u">врятує</w>
       </w_>
       <g/>
-      <w_ id="31cp" n="749">
+      <w_ id="31cp" dep="31co-punct" n="749">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="31cq"/>
-      <w_ id="31cr" n="750">
-        <w lemma="тобто" ana="conj:subord">Тобто</w>
+      <w_ id="31cr" dep="31ct-discourse" n="750">
+        <w lemma="тобто" ana="part">Тобто</w>
       </w_>
       <w_ id="31cs" dep="31ct-det" n="751">
         <w lemma="його" ana="adj:f:v_naz:poss:nv:&amp;pron:pers:3">його</w>

@@ -4696,7 +4696,7 @@
       <w_ id="2d0h" dep="2d0j-obl">
         <w lemma="народження" ana="noun:inanim:n:v_rod">народження</w>
       </w_>
-      <w_ id="2d0i" dep="2d0j-nsubj">
+      <w_ id="2d0i" dep="2d0j-nsubj" edep="2d0l-nsubj:sp">
         <w lemma="піп" ana="noun:anim:m:v_naz">піп</w>
       </w_>
       <w_ id="2d0j" dep="2d0c-csubj">
@@ -4707,7 +4707,7 @@
       </w_>
       <g/>
       <foreign lang="ru">
-        <w_ id="2d0l">
+        <w_ id="2d0l" dep="2d0j-xcomp:sp" comment="~">
           <w lemma="аЛекСей" ana="x:foreign">аЛекСей</w>
         </w_>
       </foreign>
@@ -4716,35 +4716,35 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="2d0n">
+      <w_ id="2d0n" dep="2d0q-punct|3cih-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2d0o">
+      <w_ id="2d0o" dep="2d0q-cc|3cih-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="2d0p" dep="2d0q-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="2d0q">
+      <w_ id="2d0q" dep="2d0j-conj|3cih-obl">
         <w lemma="1814" ana="adj:m:v_mis:nv:&amp;numr:&amp;noun:inanim" lemma2="1814">1814</w>
       </w_>
-      <w_ id="2d0r">
+      <w_ id="2d0r" dep="2d0s-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="2d0s">
+      <w_ id="2d0s" dep="2d0q-orphan|3cih-advmod">
         <w lemma="чогось" ana="adv:&amp;pron:ind">чогось</w>
       </w_>
-      <w_ id="2d0t">
+      <w_ id="2d0t" dep="2d0q-orphan|3cih-advmod">
         <w lemma="уже" ana="adv:v-u">уже</w>
       </w_>
-      <w_ id="3cih" ellipsis="predicate">
+      <w_ id="3cih" dep="2d0j-conj" ellipsis="predicate">
         <w lemma="писатися" ana="verb:rev:imperf:past:m">писався</w>
       </w_>
       <w_ id="2d0u" dep="2d0v-punct">
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="2d0v">
+      <w_ id="2d0v" dep="2d0q-orphan|3cih-xcomp:sp">
         <w lemma="Алексій" ana="noun:anim:m:v_naz:prop:fname">Алексій</w>
       </w_>
       <g/>

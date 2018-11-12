@@ -116,7 +116,7 @@
     <w_ id="0ok1">
       <w lemma="характерний" ana="adj:p:v_naz:compb">характерні</w>
     </w_>
-    <w_ id="0ok2">
+    <w_ id="0ok2" dep="0ok5-advmod">
       <w lemma="також" ana="adv">також</w>
     </w_>
     <w_ id="0ok3" dep="0ok5-det">
@@ -2736,7 +2736,7 @@
     <w_ id="0p8i">
       <w lemma="використовуватися" ana="verb:rev:imperf:pres:s:3">використовується</w>
     </w_>
-    <w_ id="0p8j" dep="0p8i-obl">
+    <w_ id="0p8j" dep="0p8i-obl" pdep="0p8i-pag">
       <w lemma="дизайнер" ana="noun:anim:p:m:v_oru">дизайнерами</w>
     </w_>
     <w_ id="0p8k" dep="0p8l-case">
@@ -2781,18 +2781,18 @@
     <w_ id="0p8x" dep="0p8t-nmod">
       <w lemma="об’єкт" ana="noun:inanim:m:v_rod">об’єкта</w>
     </w_>
-    <w_ id="0p8y">
+    <w_ id="0p8y" dep="0p91-punct">
       <w lemma="(" ana="punct">(</w>
     </w_>
     <g/>
-    <w_ id="0p8z">
+    <w_ id="0p8z" dep="0p91-discourse">
       <w lemma="наприклад" ana="adv">наприклад</w>
     </w_>
     <g/>
-    <w_ id="0p90">
+    <w_ id="0p90" dep="0p8z-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0p91">
+    <w_ id="0p91" dep="0p8r-appos">
       <w lemma="нанесення" ana="noun:inanim:n:v_naz">нанесення</w>
     </w_>
     <w_ id="0p92" dep="0p91-nmod">
@@ -2808,7 +2808,7 @@
       <w lemma="ПВХ" ana="noun:inanim:m:v_zna:nv:abbr">ПВХ</w>
     </w_>
     <g/>
-    <w_ id="0p96">
+    <w_ id="0p96" dep="0p91-punct">
       <w lemma=")" ana="punct">)</w>
     </w_>
     <g/>

@@ -3208,10 +3208,10 @@
       <w_ id="1v6h" dep="1v6g-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1v6i">
+      <w_ id="1v6i" dep="1v6p-discourse" comment="~">
         <w lemma="зокрема" ana="adv">зокрема</w>
       </w_>
-      <w_ id="1v6j" dep="1v6p-nsubj">
+      <w_ id="1v6j" dep="1v6p-nsubj" pdep="1v6p-ppt">
         <w lemma="облігація" ana="noun:inanim:p:f:v_naz">облігації</w>
       </w_>
       <w_ id="1v6k" dep="1v6m-case">
@@ -3229,7 +3229,7 @@
       <w_ id="1v6o" dep="1v6p-cop">
         <w lemma="бути" ana="verb:aux:imperf:past:p">були</w>
       </w_>
-      <w_ id="1v6p">
+      <w_ id="1v6p" comment="жаливо без реставрації іменників">
         <w lemma="випущений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">випущені</w>
       </w_>
       <w_ id="1v6q" dep="1v6r-case">
@@ -3253,7 +3253,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="1v6w">
+      <w_ id="1v6w" dep="1v6z-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1v6x" dep="1v6z-case">
@@ -3270,13 +3270,16 @@
       <w_ id="2eo9" dep="1v6y-compound">
         <w lemma="3" ana="numr:v_zna:nv">3</w>
       </w_>
-      <w_ id="1v6z">
+      <w_ id="1v6z" dep="1v6p-conj" tags="promoted" comment="довести чому не паратакса тут">
         <w lemma="млрд" ana="noun:inanim:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
       <w_ id="1v70" dep="1v6z-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
-      <w_ id="1v71">
+      <w_ id="3cik" dep="1v6p-conj" ellipsis="predicate">
+        <w lemma="випущений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">випущені</w>
+      </w_>
+      <w_ id="1v71" dep="1v74-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
       <w_ id="1v72" dep="1v74-amod">
@@ -3286,7 +3289,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="1v74">
+      <w_ id="1v74" dep="1v6z-orphan">
         <w lemma="Укрексімбанк" ana="noun:inanim:m:v_rod:prop">Укрексімбанку</w>
       </w_>
       <g/>
@@ -3294,7 +3297,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="1v76">
+      <w_ id="1v76" dep="1v79-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1v77" dep="1v79-case">
@@ -3303,13 +3306,16 @@
       <w_ id="1v78" dep="1v79-nummod:gov">
         <w lemma="5" ana="numr:v_zna:nv">5</w>
       </w_>
-      <w_ id="1v79">
+      <w_ id="1v79" dep="1v6p-conj">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
       <w_ id="1v7a" dep="1v79-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
-      <w_ id="1v7b">
+      <w_ id="3cil" dep="1v6p-conj" ellipsis="predicate">
+        <w lemma="випущений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">випущені</w>
+      </w_>
+      <w_ id="1v7b" dep="1v7e-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
       <w_ id="1v7c" dep="1v7e-amod">
@@ -3319,7 +3325,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="1v7e">
+      <w_ id="1v7e" dep="1v79-orphan">
         <w lemma="ощадбанк" ana="noun:inanim:m:v_rod">Ощадбанку</w>
       </w_>
       <g/>
@@ -3327,7 +3333,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="1v7g">
+      <w_ id="1v7g" dep="1v7j-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1v7h" dep="1v7j-case">
@@ -3344,19 +3350,22 @@
       <w_ id="2eob" dep="1v7i-compound">
         <w lemma="9" ana="numr:v_zna:nv">9</w>
       </w_>
-      <w_ id="1v7j">
+      <w_ id="1v7j" dep="1v6p-conj">
         <w lemma="млрд" ana="noun:inanim:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
       <w_ id="1v7k" dep="1v7j-nmod">
         <w lemma="грн" ana="noun:inanim:p:f:v_rod:nv:abbr">грн</w>
       </w_>
-      <w_ id="1v7l">
+      <w_ id="3cim" dep="1v6p-conj" ellipsis="predicate">
+        <w lemma="випущений" ana="adj:p:v_naz:&amp;adjp:perf:pasv">випущені</w>
+      </w_>
+      <w_ id="1v7l" dep="1v7n-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
       <w_ id="1v7m" dep="1v7n-case">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="1v7n">
+      <w_ id="1v7n" dep="1v7j-orphan">
         <w lemma="кредитування" ana="noun:inanim:n:v_rod">кредитування</w>
       </w_>
       <w_ id="1v7o" dep="1v7n-nmod">
@@ -3375,7 +3384,7 @@
         <w lemma="особа" ana="noun:anim:p:f:v_rod">осіб</w>
       </w_>
       <g/>
-      <w_ id="1v7t">
+      <w_ id="1v7t" dep="1v6p-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>

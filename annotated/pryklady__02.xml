@@ -337,11 +337,11 @@
       <w_ id="3bby" dep="3bbz-case" n="96">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="3bbz" n="97">
+      <w_ id="3bbz" dep="3bc4-parataxis:discourse" n="97">
         <w lemma="річ" ana="noun:inanim:f:v_rod">речі</w>
       </w_>
       <g/>
-      <w_ id="3bc0" n="98">
+      <w_ id="3bc0" dep="3bbz-punct" n="98">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="3bc1" dep="3bc2-case" n="99">
@@ -383,7 +383,7 @@
       <w_ id="3bcc" dep="3bcd-case" n="110">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
-      <w_ id="3bcd" n="111">
+      <w_ id="3bcd" dep="3bc7-appos" n="111">
         <w lemma="рік" ana="noun:inanim:m:v_zna">рік</w>
       </w_>
       <w_ id="3bce" dep="3bcd-nmod" n="112">
@@ -1728,26 +1728,26 @@
         <w lemma="заміж" ana="adv">заміж</w>
       </w_>
       <g/>
-      <w_ id="3boj" dep="3bol-punct" n="499">
+      <w_ id="3boj" dep="3bol-punct|3cie-punct" n="499">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3bok" dep="3bol-cc" n="500">
+      <w_ id="3bok" dep="3bol-cc|3cie-cc" n="500">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="3bol" dep="3boh-conj:parataxis" n="501">
+      <w_ id="3bol" dep="3boh-conj:parataxis|3cie-nsubj" n="501">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="3bom" dep="3bon-discourse" n="502">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="3bon" dep="3bol-orphan" coref="3bol-equality" n="503">
+      <w_ id="3bon" dep="3bol-orphan|3cie-obl" coref="3bol-equality" n="503">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
-      <w_ id="3boo" dep="3bol-orphan" n="504">
+      <w_ id="3boo" dep="3bol-orphan|3cie-advmod" n="504">
         <w lemma="якось" ana="adv:&amp;pron:ind">якось</w>
       </w_>
       <g/>
-      <w_ id="3cie" ellipsis="predicate">
+      <w_ id="3cie" dep="3boh-conj:parataxis" ellipsis="predicate">
         <w lemma="прожити" ana="verb:perf:futr:s:1">проживу</w>
       </w_>
       <w_ id="3bop" dep="3boh-punct" n="505">
@@ -1762,37 +1762,27 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3bot"/>
-      <w_ id="3bou" n="508">
+      <w_ id="3bou" dep="3boy-discourse|3cif-discourse" n="508">
         <w lemma="ну" ana="part">Ну</w>
       </w_>
       <g/>
       <w_ id="3bov" dep="3bou-punct" n="509">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3bow" n="510">
+      <w_ id="3bow" dep="3boy-orphan|3cif-discourse" n="510">
         <w lemma="хай" ana="part">хай</w>
       </w_>
       <w_ id="3cif" ellipsis="predicate">
         <w lemma="жити" ana="verb:imperf:pres:s:3">живе</w>
-        <w lemma="живий" ana="adj:n:v_naz:compb">живе</w>
-        <w lemma="живий" ana="adj:n:v_naz:compb:&amp;noun:anim">живе</w>
-        <w lemma="живий" ana="adj:n:v_naz:compb:&amp;noun:inanim">живе</w>
-        <w lemma="живий" ana="adj:n:v_zna:compb">живе</w>
-        <w lemma="живий" ana="adj:n:v_zna:compb:&amp;noun:anim">живе</w>
-        <w lemma="живий" ana="adj:n:v_zna:compb:&amp;noun:inanim">живе</w>
-        <w lemma="живий" ana="adj:n:v_kly:compb">живе</w>
-        <w lemma="живий" ana="adj:n:v_kly:compb:&amp;noun:anim">живе</w>
-        <w lemma="живий" ana="adj:n:v_kly:compb:&amp;noun:inanim">живе</w>
-        <w lemma="живти" ana="verb:imperf:pres:s:3">живе</w>
       </w_>
-      <w_ id="3box" n="511">
+      <w_ id="3box" dep="3boy-advmod" n="511">
         <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
-      <w_ id="3boy" n="512">
+      <w_ id="3boy" dep="3cif-advcl" comment="~" n="512">
         <w lemma="хотіти" ana="verb:imperf:pres:s:3">хоче</w>
       </w_>
       <g/>
-      <w_ id="3boz" n="513">
+      <w_ id="3boz" dep="3boy-punct|3cif-punct" n="513">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3bp0"/>

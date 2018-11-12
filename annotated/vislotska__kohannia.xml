@@ -9098,7 +9098,7 @@
       <w_ id="1ese">
         <w lemma="збільшений" ana="adj:f:v_naz:&amp;adjp:perf:pasv">Збільшена</w>
       </w_>
-      <w_ id="1esf">
+      <w_ id="1esf" dep="1ese-nsubj">
         <w lemma="чутливість" ana="noun:inanim:f:v_naz">чутливість</w>
       </w_>
       <w_ id="1esg" dep="1esh-case">
@@ -9119,7 +9119,7 @@
       <w_ id="1esl" dep="1esm-amod">
         <w lemma="нижній" ana="adj:f:v_rod">нижньої</w>
       </w_>
-      <w_ id="1esm">
+      <w_ id="1esm" dep="1esh-nmod">
         <w lemma="стінка" ana="noun:inanim:f:v_rod">стінки</w>
       </w_>
       <w_ id="1esn" dep="1esm-nmod">
@@ -9129,10 +9129,10 @@
       <w_ id="1eso" dep="1esq-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1esp" dep="1esq-advmod">
+      <w_ id="1esp" dep="1esq-advmod" edep="1esm-ref">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
-      <w_ id="1esq">
+      <w_ id="1esq" dep="1esm-acl">
         <w lemma="проходити" ana="verb:imperf:pres:s:3">проходить</w>
       </w_>
       <w_ id="1esr" dep="1ess-amod">
@@ -9164,7 +9164,7 @@
         <w lemma="мошонка" ana="noun:inanim:f:v_rod">мошонки</w>
       </w_>
       <g/>
-      <w_ id="1et0">
+      <w_ id="1et0" dep="1ese-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </s>
@@ -9462,19 +9462,19 @@
         <w lemma="збудливо" ana="adv">збудливо</w>
       </w_>
       <g/>
-      <w_ id="1evj" dep="1evm-punct">
+      <w_ id="1evj" dep="1evm-punct|3chd-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1evk" dep="1evm-orphan">
+      <w_ id="1evk" dep="1evm-orphan|3chd-discourse">
         <w lemma="зокрема" ana="adv">зокрема</w>
       </w_>
-      <w_ id="3chd" ellipsis="predicate">
+      <w_ id="3chd" dep="1evg-conj" ellipsis="predicate">
         <w lemma="діяти" ana="verb:imperf:pres:p:3">діють</w>
       </w_>
       <w_ id="1evl" dep="1evm-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1evm" dep="1evg-conj">
+      <w_ id="1evm" dep="1evg-conj|3chd-obl">
         <w lemma="жінка" ana="noun:anim:p:f:v_zna">жінок</w>
       </w_>
       <g/>
@@ -10682,13 +10682,13 @@
         <w lemma="тиждень" ana="noun:inanim:p:m:v_zna">тижні</w>
       </w_>
       <g/>
-      <w_ id="1f5u">
+      <w_ id="1f5u" dep="1f5v-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1f5v">
+      <w_ id="1f5v" dep="1f5r-conj">
         <w lemma="іноді" ana="adv:&amp;pron:ind">іноді</w>
       </w_>
-      <w_ id="1f5w">
+      <w_ id="1f5w" dep="1f5v-flat:sibl">
         <w lemma="місяць" ana="noun:inanim:p:m:v_zna">місяці</w>
       </w_>
       <g/>
@@ -12681,23 +12681,23 @@
         <w lemma="плато" ana="noun:inanim:n:v_zna:nv">плато́</w>
       </w_>
       <g/>
-      <w_ id="1fms">
+      <w_ id="1fms" dep="1fmq-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1fmt">
+      <w_ id="1fmt" dep="1fmv-discourse">
         <w lemma="прямо" ana="part">прямо</w>
       </w_>
       <w_ id="1fmu" dep="1fmv-case">
         <w lemma="зі" ana="prep:rv_rod">зі</w>
       </w_>
-      <w_ id="1fmv">
+      <w_ id="1fmv" dep="1fmm-obl">
         <w lemma="стадія" ana="noun:inanim:f:v_rod">стадії</w>
       </w_>
       <w_ id="1fmw" dep="1fmv-nmod">
         <w lemma="збудження" ana="noun:inanim:n:v_rod">збудження</w>
       </w_>
       <g/>
-      <w_ id="1fmx">
+      <w_ id="1fmx" dep="1fn2-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1fmy" dep="1fmz-case">
@@ -12712,11 +12712,11 @@
       <w_ id="1fn1" dep="1fn2-advmod">
         <w lemma="круто" ana="adv:compb">круто</w>
       </w_>
-      <w_ id="1fn2">
+      <w_ id="1fn2" dep="1fmm-parataxis:rel">
         <w lemma="спадати" ana="verb:imperf:pres:s:3">спадає</w>
       </w_>
       <g/>
-      <w_ id="1fn3" dep="1fmm-punct">
+      <w_ id="1fn3" dep="1fn2-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </s>

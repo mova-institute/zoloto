@@ -1093,7 +1093,7 @@
       <w_ id="1yyk">
         <w lemma="перейти" ana="verb:perf:past:p">перейшли</w>
       </w_>
-      <w_ id="1yyl">
+      <w_ id="1yyl" dep="1yyk-advmod" comment="~ змагається з повтором">
         <w lemma="частково" ana="adv">частково</w>
       </w_>
       <w_ id="1yym" dep="1yyo-case">
@@ -1102,20 +1102,20 @@
       <w_ id="1yyn" dep="1yyo-amod">
         <w lemma="начальний" ana="adj:f:v_rod">Начальної</w>
       </w_>
-      <w_ id="1yyo" dep="1yyk-obl">
+      <w_ id="1yyo" dep="1yyl-flat:sibl">
         <w lemma="команда" ana="noun:inanim:f:v_rod">Команди</w>
       </w_>
       <w_ id="1yyp" dep="1yyo-nmod">
         <w lemma="УГА" ana="noun:inanim:f:v_rod:nv:prop:abbr">УГА</w>
       </w_>
       <g/>
-      <w_ id="1yyq">
+      <w_ id="1yyq" dep="1yys-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1yyr">
+      <w_ id="1yyr" dep="1yys-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="1yys">
+      <w_ id="1yys" dep="1yyl-conj">
         <w lemma="частково" ana="adv">частково</w>
       </w_>
       <w_ id="1yyt" dep="1yyw-case">
@@ -1127,7 +1127,7 @@
       <w_ id="1yyv" dep="1yyw-amod" correct="військової">
         <w lemma="військовий" ana="adj:f:v_rod">Війської</w>
       </w_>
-      <w_ id="1yyw">
+      <w_ id="1yyw" dep="1yys-flat:sibl">
         <w lemma="канцелярія" ana="noun:inanim:f:v_rod">канцелярії</w>
       </w_>
       <w_ id="1yyx" dep="1yyw-nmod">
@@ -1344,16 +1344,16 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1z0w"/>
-      <w_ id="1z0x" dep="1z0y-iobj">
+      <w_ id="1z0x" dep="1z0y-iobj" edep="1z10-nsubj:x">
         <w lemma="ми" ana="noun:anim:p:v_dav:&amp;pron:pers:1">Нам</w>
       </w_>
       <w_ id="1z0y">
         <w lemma="немати" ana="verb:imperf:pres:s:3:neg">нема</w>
       </w_>
-      <w_ id="1z0z">
+      <w_ id="1z0z" dep="1z10-advmod">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
-      <w_ id="1z10">
+      <w_ id="1z10" dep="1z0y-xcomp">
         <w lemma="триндіти" ana="verb:imperf:inf">триндіти</w>
       </w_>
       <w_ id="1z11" dep="1z12-case">
@@ -1363,7 +1363,7 @@
         <w lemma="зрада" ana="noun:inanim:f:v_zna">зраду</w>
       </w_>
       <g/>
-      <w_ id="1z13">
+      <w_ id="1z13" dep="1z0y-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1z14"/>
@@ -1384,7 +1384,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1z1a"/>
-      <w_ id="1z1b">
+      <w_ id="1z1b" comment="~ пропущене _настане_?">
         <w lemma="скоро" ana="adv:compb">Скоро</w>
       </w_>
       <w_ id="1z1c" dep="1z1b-nsubj">
@@ -1781,7 +1781,7 @@
       <w_ id="1z53" dep="1z54-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1z54">
+      <w_ id="1z54" dep="1z5c-parataxis:discourse">
         <w lemma="зважати" ana="verb:imperf:pres:advp">зважаючи</w>
       </w_>
       <w_ id="1z55" dep="1z56-case">
@@ -1815,13 +1815,13 @@
       <w_ id="1z5e" dep="1z5f-punct">
         <w lemma="–" ana="punct:dash">–</w>
       </w_>
-      <w_ id="1z5f" comment="advcl бо?">
+      <w_ id="1z5f" dep="1z5c-parataxis" comment="advcl бо?">
         <w lemma="рости" ana="verb:imperf:pres:p:3">ростуть</w>
       </w_>
       <w_ id="1z5g" dep="1z5f-nsubj">
         <w lemma="сосна" ana="noun:inanim:p:f:v_naz">сосни</w>
       </w_>
-      <w_ id="1z5h">
+      <w_ id="1z5h" dep="1z5k-advmod" comment="~">
         <w lemma="заввишки" ana="adv">заввишки</w>
       </w_>
       <w_ id="1z5i" dep="1z5k-case">
@@ -1830,33 +1830,33 @@
       <w_ id="1z5j" dep="1z5k-nummod:gov">
         <w lemma="20" ana="numr:v_zna:nv">20</w>
       </w_>
-      <w_ id="1z5k">
+      <w_ id="1z5k" dep="1z5g-nmod">
         <w lemma="метр" ana="noun:inanim:p:m:v_rod">метрів</w>
       </w_>
       <g/>
-      <w_ id="1z5l">
+      <w_ id="1z5l" dep="1z5o-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1z5m">
+      <w_ id="1z5m" dep="1z5o-iobj" edep="1z5g-ref">
         <w lemma="який" ana="adj:p:v_dav:&amp;pron:rel">яким</w>
       </w_>
-      <w_ id="1z5n">
+      <w_ id="1z5n" dep="1z5o-case">
         <w lemma="від" ana="prep:rv_rod">від</w>
       </w_>
-      <w_ id="1z5o">
+      <w_ id="1z5o" dep="1z5r-nummod:gov" tags="itsubj" comment="#явище: прийменники стосуються таки числівника!">
         <w lemma="50" ana="numr:v_rod:nv">50</w>
       </w_>
-      <w_ id="1z5p">
+      <w_ id="1z5p" dep="1z5q-case">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="1z5q">
+      <w_ id="1z5q" dep="1z5o-flat:range">
         <w lemma="60" ana="numr:v_rod:nv">60</w>
       </w_>
       <w_ id="1z5r">
         <w lemma="рік" ana="noun:inanim:p:m:v_rod">років</w>
       </w_>
       <g/>
-      <w_ id="1z5s">
+      <w_ id="1z5s" dep="1z50-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1z5t"/>

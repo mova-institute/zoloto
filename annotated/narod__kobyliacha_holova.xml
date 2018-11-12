@@ -2257,7 +2257,7 @@
     <w_ id="0asw" dep="0asx-case">
       <w lemma="в" ana="prep:rv_zna:v-u">в</w>
     </w_>
-    <w_ id="0asx">
+    <w_ id="0asx" dep="0asv-appos:spec">
       <w lemma="село" ana="noun:inanim:n:v_zna">село</w>
     </w_>
     <g/>
@@ -2267,7 +2267,7 @@
     <w_ id="0asz" dep="0at1-iobj" tags="iobj-agent" edep="0at3-nsubj:x">
       <w lemma="він" ana="noun:m:v_dav:&amp;pron:pers:3">йому</w>
     </w_>
-    <w_ id="0at0">
+    <w_ id="0at0" dep="0at3-advmod">
       <w lemma="там" ana="adv:&amp;pron:dem">там</w>
     </w_>
     <w_ id="0at1" dep="0ass-parataxis">
@@ -2292,11 +2292,11 @@
       <w lemma="харч" ana="noun:inanim:p:m:v_rod">харчів</w>
     </w_>
     <g/>
-    <w_ id="0at8">
+    <w_ id="0at8" dep="0atd-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <g/>
-    <w_ id="0at9">
+    <w_ id="0at9" dep="0atd-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
     <w_ id="0ata" dep="0atd-cc">
@@ -2306,9 +2306,9 @@
       <w lemma="батько" ana="noun:anim:m:v_naz">батько</w>
     </w_>
     <w_ id="0atc" dep="0atd-iobj">
-      <w lemma="її" ana="adj:m:v_naz:poss:nv:&amp;pron:pers:3">її</w>
+      <w lemma="її" ana="noun:f:v_dav:&amp;pron:pers:3">її</w>
     </w_>
-    <w_ id="0atd">
+    <w_ id="0atd" dep="0ass-conj:parataxis">
       <w lemma="сказати" ana="verb:perf:past:m">сказав</w>
     </w_>
     <g/>
@@ -2350,7 +2350,7 @@
       <w lemma="додому" ana="adv">додому</w>
     </w_>
     <g/>
-    <w_ id="0atq">
+    <w_ id="0atq" dep="0ass-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0atr"/>
@@ -3516,25 +3516,25 @@
       <w lemma="ж" ana="part">ж</w>
     </w_>
     <g/>
-    <w_ id="0b51">
+    <w_ id="0b51" dep="0b54-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0b52">
+    <w_ id="0b52" dep="0b54-obj">
       <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:rel">що</w>
     </w_>
-    <w_ id="0b53">
+    <w_ id="0b53" dep="0b54-iobj">
       <w lemma="ти" ana="noun:anim:s:v_dav:&amp;pron:pers:2">тобі</w>
     </w_>
     <w_ id="0b54" dep="0b4z-ccomp">
       <w lemma="треба" ana="adv">треба</w>
     </w_>
-    <w_ id="0b55">
+    <w_ id="0b55" dep="0b57-cc">
       <w lemma="і" ana="conj:coord">і</w>
     </w_>
-    <w_ id="0b56">
+    <w_ id="0b56" dep="0b57-obj" comment="~">
       <w lemma="скільки" ana="adv:&amp;pron:rel">скільки</w>
     </w_>
-    <w_ id="0b57">
+    <w_ id="0b57" dep="0b54-conj">
       <w lemma="хотіти" ana="verb:imperf:pres:s:2:coll">хоч</w>
     </w_>
     <g/>
@@ -4310,7 +4310,7 @@
     <w_ id="0bc9" dep="0bc6-conj:repeat">
       <w lemma="одвести" ana="verb:perf:impr:s:2">одведи</w>
     </w_>
-    <w_ id="0bca">
+    <w_ id="0bca" dep="0bcb-discourse">
       <w lemma="й" ana="part">й</w>
     </w_>
     <w_ id="0bcb" dep="0bcc-det">
@@ -4323,16 +4323,16 @@
       <w lemma="туди" ana="adv:&amp;pron:dem">туди</w>
     </w_>
     <g/>
-    <w_ id="0bce">
+    <w_ id="0bce" dep="0bcf-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0bcf">
+    <w_ id="0bcf" dep="0bcd-advcl">
       <w lemma="де" ana="adv:&amp;pron:rel">де</w>
     </w_>
-    <w_ id="0bcg">
-      <w lemma="бути" ana="verb:imperf:past:f">була</w>
+    <w_ id="0bcg" dep="0bcf-cop" comment="знову не дуже копула">
+      <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
     </w_>
-    <w_ id="0bch">
+    <w_ id="0bch" dep="0bcf-nsubj">
       <w lemma="твій" ana="adj:f:v_naz:poss:&amp;pron:pers:2">твоя</w>
     </w_>
     <g/>
