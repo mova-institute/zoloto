@@ -6312,7 +6312,7 @@
       <w_ id="1e4w">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
-      <w_ id="1e4x">
+      <w_ id="1e4x" dep="1e4w-fixed">
         <w lemma="само" ana="adv">само</w>
       </w_>
       <w_ id="1e4y">
@@ -6324,13 +6324,16 @@
       <w_ id="1e50">
         <w lemma="пестощі" ana="noun:inanim:p:v_naz:ns">пестощі</w>
       </w_>
+      <w_ id="3cig" ellipsis="predicate">
+        <w lemma="давати" ana="verb:imperf:pres:p:3">дають</w>
+      </w_>
       <w_ id="1e51" dep="1e53-case">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
       <w_ id="1e52" dep="1e53-det">
         <w lemma="інший" ana="adj:p:v_rod:&amp;pron:ind">інших</w>
       </w_>
-      <w_ id="1e53">
+      <w_ id="1e53" dep="1e50-orphan">
         <w lemma="жінка" ana="noun:anim:p:f:v_rod">жінок</w>
       </w_>
       <g/>

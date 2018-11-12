@@ -7370,26 +7370,26 @@
         <w lemma=";)" ana="sym">;)</w>
       </w_>
       <sb id="32mc"/>
-      <w_ id="32md" n="2218">
+      <w_ id="32md" dep="32mm-parataxis:discourse" n="2218">
         <w lemma="значитися" ana="verb:rev:imperf:pres:s:3">Значиться</w>
       </w_>
       <g/>
-      <w_ id="32me" n="2219">
+      <w_ id="32me" dep="32md-punct" n="2219">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="32mf" n="2220">
-        <w lemma="як" ana="conj:subord">як</w>
+      <w_ id="32mf" dep="32mi-advmod" n="2220">
+        <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
-      <w_ id="32mg" n="2221">
+      <w_ id="32mg" dep="32mi-nsubj" n="2221">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">це</w>
       </w_>
       <w_ id="32mh" dep="32mi-advmod" n="2222">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="32mi" n="2223">
+      <w_ id="32mi" dep="32mm-parataxis:discourse" n="2223">
         <w lemma="прикро" ana="adv:compb">прикро</w>
       </w_>
-      <w_ id="32mj" n="2224">
+      <w_ id="32mj" dep="32mm-cc" comment="#явище: оці але неоднорідні" n="2224">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
       <w_ id="32mk" dep="32mm-obj" n="2225">
@@ -7402,7 +7402,7 @@
         <w lemma="хрестити" ana="verb:perf:past:p">хрестили</w>
       </w_>
       <g/>
-      <w_ id="32mn" n="2228">
+      <w_ id="32mn" dep="32mm-punct" n="2228">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="32mo"/>
@@ -7654,10 +7654,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="32p1"/>
-      <w_ id="32p2" n="2305">
+      <w_ id="32p2" dep="32p8-cc" n="2305">
         <w lemma="і" ana="conj:coord">І</w>
       </w_>
-      <w_ id="32p3" n="2306">
+      <w_ id="32p3" dep="32p8-nsubj" n="2306">
         <w lemma="відносини" ana="noun:inanim:p:v_naz:ns">відносини</w>
       </w_>
       <w_ id="32p4" dep="32p5-case" n="2307">
@@ -7666,13 +7666,13 @@
       <w_ id="32p5" dep="32p3-nmod" n="2308">
         <w lemma="вони" ana="noun:p:v_oru:&amp;pron:pers:3">ними</w>
       </w_>
-      <w_ id="32p6" n="2309">
+      <w_ id="32p6" dep="32p8-mark" n="2309">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
       <w_ id="32p7" dep="32p8-case" comment="#цікаво: shared між" hdep="32p8-distrib" n="2310">
         <w lemma="між" ana="prep:rv_oru">між</w>
       </w_>
-      <w_ id="32p8" comment="#цікаво" n="2311">
+      <w_ id="32p8" comment="#цікаво #явище" n="2311">
         <w lemma="родич" ana="noun:anim:p:m:v_oru">родичами</w>
       </w_>
       <w_ id="32p9" dep="32pb-cc" n="2312">
@@ -7690,7 +7690,7 @@
       <w_ id="32pd" dep="32pb-conj" n="2316">
         <w lemma="вчитель" ana="noun:anim:p:m:v_oru:v-u">вчителями</w>
       </w_>
-      <w_ id="32pe" n="2317">
+      <w_ id="32pe" dep="32p8-discourse" n="2317">
         <w lemma=":)" ana="sym">:)</w>
       </w_>
     </p>
@@ -7834,10 +7834,10 @@
       <w_ id="32qr" dep="32qs-case" n="2357">
         <w lemma="з" ana="prep:rv_rod">З</w>
       </w_>
-      <w_ id="32qs" n="2358">
+      <w_ id="32qs" dep="32qy-parataxis" comment="~" n="2358">
         <w lemma="привід" ana="noun:inanim:m:v_rod">приводу</w>
       </w_>
-      <w_ id="32qt" dep="32qs-acl" n="2359">
+      <w_ id="32qt" dep="32qs-nmod" tags="promoted" n="2359">
         <w lemma="тримати" ana="verb:imperf:inf">тримати</w>
       </w_>
       <w_ id="32qu" dep="32qw-case" n="2360">
@@ -7849,13 +7849,13 @@
       <w_ id="32qw" dep="32qt-obl" n="2362">
         <w lemma="рука" ana="noun:inanim:f:v_mis">руці</w>
       </w_>
-      <w_ id="32qx" n="2363">
+      <w_ id="32qx" dep="32qs-punct" n="2363">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
       <w_ id="32qy" n="2364">
         <w lemma="мо’" ana="adv">мо"</w>
       </w_>
-      <w_ id="32qz" n="2365">
+      <w_ id="32qz" dep="32qy-csubj" comment="пропущене _це_" n="2365">
         <w lemma="забобон" ana="noun:inanim:m:v_naz">забобон</w>
       </w_>
       <g/>
@@ -7868,17 +7868,17 @@
       <w_ id="32r2" dep="32r5-nsubj" n="2368">
         <w lemma="сестра" ana="noun:anim:f:v_naz">сестра</w>
       </w_>
-      <w_ id="32r3" n="2369">
+      <w_ id="32r3" dep="32r4-case" n="2369">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="32r4" n="2370">
+      <w_ id="32r4" dep="32r2-nmod" n="2370">
         <w lemma="я" ana="noun:anim:s:v_rod:&amp;pron:pers:1">мене</w>
       </w_>
-      <w_ id="32r5" n="2371">
+      <w_ id="32r5" dep="32qy-conj:parataxis" n="2371">
         <w lemma="лівша" ana="noun:anim:f:v_naz">лівша</w>
       </w_>
       <g/>
-      <w_ id="32r6" n="2372">
+      <w_ id="32r6" dep="32qy-punct" n="2372">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -8183,16 +8183,16 @@
         <w lemma="батьки" ana="noun:anim:p:v_zna:ns">батьків</w>
       </w_>
       <g/>
-      <w_ id="32u0" n="2464">
+      <w_ id="32u0" dep="32u3-punct" n="2464">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="32u1" n="2465">
+      <w_ id="32u1" dep="32u3-cc" n="2465">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
       <w_ id="32u2" dep="32u3-advmod" n="2466">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="32u3" n="2467">
+      <w_ id="32u3" dep="32tw-conj" n="2467">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <w_ id="32u4" dep="32u6-advmod" n="2468">
@@ -8204,28 +8204,28 @@
       <w_ id="32u6" dep="32u3-advcl" n="2470">
         <w lemma="описати" ana="verb:perf:impers">описано</w>
       </w_>
-      <w_ id="32u7" n="2471">
+      <w_ id="32u7" dep="32uc-punct" n="2471">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="32u8" n="2472">
+      <w_ id="32u8" dep="32uc-discourse" n="2472">
         <w lemma="навіть" ana="part">навіть</w>
       </w_>
-      <w_ id="32u9" n="2473">
+      <w_ id="32u9" dep="32uc-advmod" n="2473">
         <w lemma="ніколи" ana="adv:&amp;pron:neg">ніколи</w>
       </w_>
-      <w_ id="32ua" n="2474">
+      <w_ id="32ua" dep="32uc-discourse" n="2474">
         <w lemma="й" ana="part">й</w>
       </w_>
       <w_ id="32ub" dep="32uc-advmod" n="2475">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="32uc" n="2476">
+      <w_ id="32uc" dep="32u3-appos" n="2476">
         <w lemma="бачити" ana="verb:imperf:past:p">бачили</w>
       </w_>
-      <w_ id="32ud" n="2477">
+      <w_ id="32ud" dep="32tw-discourse" n="2477">
         <w lemma=":rolleyes:" ana="sym">:rolleyes:</w>
       </w_>
-      <w_ id="32ue" n="2478">
+      <w_ id="32ue" dep="32ts-punct" n="2478">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="32uf"/>

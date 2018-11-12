@@ -1718,36 +1718,39 @@
         <w lemma="раз" ana="noun:inanim:m:v_zna">раз</w>
       </w_>
       <g/>
-      <w_ id="3bog" n="496">
+      <w_ id="3bog" dep="3boh-punct" n="496">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="3boh" n="497">
+      <w_ id="3boh" dep="3boc-parataxis" n="497">
         <w lemma="іти" ana="verb:imperf:impr:p:2">ідіть</w>
       </w_>
       <w_ id="3boi" dep="3boh-advmod" n="498">
         <w lemma="заміж" ana="adv">заміж</w>
       </w_>
       <g/>
-      <w_ id="3boj" n="499">
+      <w_ id="3boj" dep="3bol-punct" n="499">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3bok" n="500">
+      <w_ id="3bok" dep="3bol-cc" n="500">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="3bol" n="501">
+      <w_ id="3bol" dep="3boh-conj:parataxis" n="501">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="3bom" n="502">
+      <w_ id="3bom" dep="3bon-discourse" n="502">
         <w lemma="й" ana="part">й</w>
       </w_>
-      <w_ id="3bon" coref="3bol-equality" n="503">
+      <w_ id="3bon" dep="3bol-orphan" coref="3bol-equality" n="503">
         <w lemma="сам" ana="adj:m:v_naz:&amp;pron:refl">сам</w>
       </w_>
-      <w_ id="3boo" n="504">
+      <w_ id="3boo" dep="3bol-orphan" n="504">
         <w lemma="якось" ana="adv:&amp;pron:ind">якось</w>
       </w_>
       <g/>
-      <w_ id="3bop" n="505">
+      <w_ id="3cie" ellipsis="predicate">
+        <w lemma="прожити" ana="verb:perf:futr:s:1">проживу</w>
+      </w_>
+      <w_ id="3bop" dep="3boh-punct" n="505">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3boq"/>
@@ -1769,6 +1772,19 @@
       <w_ id="3bow" n="510">
         <w lemma="хай" ana="part">хай</w>
       </w_>
+      <w_ id="3cif" ellipsis="predicate">
+        <w lemma="жити" ana="verb:imperf:pres:s:3">живе</w>
+        <w lemma="живий" ana="adj:n:v_naz:compb">живе</w>
+        <w lemma="живий" ana="adj:n:v_naz:compb:&amp;noun:anim">живе</w>
+        <w lemma="живий" ana="adj:n:v_naz:compb:&amp;noun:inanim">живе</w>
+        <w lemma="живий" ana="adj:n:v_zna:compb">живе</w>
+        <w lemma="живий" ana="adj:n:v_zna:compb:&amp;noun:anim">живе</w>
+        <w lemma="живий" ana="adj:n:v_zna:compb:&amp;noun:inanim">живе</w>
+        <w lemma="живий" ana="adj:n:v_kly:compb">живе</w>
+        <w lemma="живий" ana="adj:n:v_kly:compb:&amp;noun:anim">живе</w>
+        <w lemma="живий" ana="adj:n:v_kly:compb:&amp;noun:inanim">живе</w>
+        <w lemma="живти" ana="verb:imperf:pres:s:3">живе</w>
+      </w_>
       <w_ id="3box" n="511">
         <w lemma="як" ana="adv:&amp;pron:rel">як</w>
       </w_>
@@ -1783,7 +1799,7 @@
       <w_ id="3bp1" dep="3bp4-nsubj" n="514">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
       </w_>
-      <w_ id="3bp2" n="515">
+      <w_ id="3bp2" dep="3bp4-discourse" n="515">
         <w lemma="ж" ana="part">ж</w>
       </w_>
       <w_ id="3bp3" dep="3bp4-advmod" n="516">
@@ -1797,13 +1813,13 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="3bp6"/>
-      <w_ id="3bp7" n="519">
+      <w_ id="3bp7" dep="3bpc-discourse" comment="~" n="519">
         <w lemma="та" ana="conj:coord">Та</w>
       </w_>
-      <w_ id="3bp8" n="520">
+      <w_ id="3bp8" dep="3bp7-fixed" n="520">
         <w lemma="ще" ana="adv">ще</w>
       </w_>
-      <w_ id="3bp9" n="521">
+      <w_ id="3bp9" dep="3bp7-fixed" n="521">
         <w lemma="й" ana="part">й</w>
       </w_>
       <multitoken form="півхати">
@@ -1857,7 +1873,7 @@
       <w_ id="3bpp" dep="3bpq-case" n="535">
         <w lemma="у" ana="prep:rv_rod:v-u">У</w>
       </w_>
-      <w_ id="3bpq" n="536">
+      <w_ id="3bpq" dep="3bpu-obl" comment="#цікаво, як розставити ролі? ~" n="536">
         <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
       </w_>
       <w_ id="3bpr" dep="3bpt-case" n="537">
@@ -1867,7 +1883,7 @@
         <w_ id="3bps" dep="3bpt-nummod">
           <w lemma="пів" ana="numr:v_rod:nv:alt">пів</w>
         </w_>
-        <w_ id="3bpt">
+        <w_ id="3bpt" dep="3bpu-obl">
           <w lemma="село" ana="noun:inanim:n:v_rod">села</w>
         </w_>
       </multitoken>
