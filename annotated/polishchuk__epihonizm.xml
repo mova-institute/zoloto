@@ -2622,7 +2622,7 @@
     <w_ id="0qn5" dep="0qn6-det" coref="0qn1-equality">
       <w lemma="її" ana="adj:m:v_naz:poss:nv:&amp;pron:pers:3">її</w>
     </w_>
-    <w_ id="0qn6" dep="0qnc-advcl">
+    <w_ id="0qn6" dep="0qnc-advcl" comment="~ не порівняння?">
       <w lemma="відгомін" ana="noun:inanim:m:v_naz">відгомін</w>
     </w_>
     <w_ id="0qn7" dep="0qn8-punct">
@@ -2644,14 +2644,14 @@
     <w_ id="0qnc">
       <w lemma="являти" ana="verb:imperf:pres:s:3">являє</w>
     </w_>
-    <w_ id="0qnd" coref="0qn1-equality">
+    <w_ id="0qnd" dep="0qnc-obl" comment="~" coref="0qn1-equality">
       <w lemma="себе" ana="noun:v_oru:&amp;pron:refl">собою</w>
     </w_>
     <g/>
     <w_ id="0qne" dep="0qnf-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0qnf" dep="0qnc-advcl">
+    <w_ id="0qnf" dep="0qnc-parataxis:discourse" comment="вона не рівняє">
       <w lemma="рівняти" ana="verb:imperf:pres:advp">рівняючи</w>
     </w_>
     <w_ id="0qng" dep="0qnh-case">
@@ -2676,13 +2676,13 @@
       <w lemma="поезія" ana="noun:inanim:f:v_rod">поезії</w>
     </w_>
     <g/>
-    <w_ id="0qnn">
+    <w_ id="0qnn" dep="0qnf-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0qno" dep="0qnp-det">
       <w lemma="такий" ana="adj:f:v_zna:&amp;pron:dem">таку</w>
     </w_>
-    <w_ id="0qnp">
+    <w_ id="0qnp" dep="0qnc-obj">
       <w lemma="мізерія" ana="noun:inanim:f:v_zna">мізерію</w>
     </w_>
     <g/>
@@ -2698,7 +2698,7 @@
     <w_ id="0qnt" dep="0qo0-nsubj">
       <w lemma="ніхто" ana="noun:anim:v_naz:&amp;pron:neg">ніхто</w>
     </w_>
-    <w_ id="0qnu">
+    <w_ id="0qnu" dep="0qnt-advmod" comment="~ чи до _згадує_?">
       <w lemma="майже" ana="adv">майже</w>
     </w_>
     <w_ id="0qnv" dep="0qnw-case">
@@ -2716,7 +2716,7 @@
     <w_ id="0qnz" dep="0qo0-advmod">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="0qo0" dep="0qnp-acl">
+    <w_ id="0qo0" dep="0qno-advcl">
       <w lemma="згадувати" ana="verb:imperf:pres:s:3">згадує</w>
     </w_>
     <g/>

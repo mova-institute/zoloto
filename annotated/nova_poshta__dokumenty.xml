@@ -2336,7 +2336,7 @@
       <w_ id="2fd8" dep="2fd9-nsubj" n="694">
         <w lemma="відправник" ana="noun:anim:m:v_naz">Відправник</w>
       </w_>
-      <w_ id="2fd9" n="695">
+      <w_ id="2fd9" comment="#цікаво" n="695">
         <w lemma="передавати" ana="verb:imperf:pres:s:3">передає</w>
       </w_>
       <w_ id="2fda" dep="2fd9-iobj" n="696">
@@ -2383,13 +2383,13 @@
       <w_ id="2fdn" dep="2fdo-amod" n="709">
         <w lemma="робочий" ana="adj:m:v_rod">робочого</w>
       </w_>
-      <w_ id="2fdo" dep="2fd9-obl" n="710">
+      <w_ id="2fdo" dep="2fd9-obl" comment="~" n="710">
         <w lemma="день" ana="noun:inanim:m:v_rod">дня</w>
       </w_>
       <w_ id="2fdp" dep="2fdq-case" n="711">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="2fdq" dep="2fd9-obl" n="712">
+      <w_ id="2fdq" dep="2fdo-appos:spec" n="712">
         <w lemma="9" ana="adj:f:v_rod:nv:&amp;numr">9</w>
       </w_>
       <g/>
@@ -2427,7 +2427,7 @@
       <w_ id="2fe0" dep="2fe1-amod" n="722">
         <w lemma="відповідний" ana="adj:m:v_zna:rinanim:compb">відповідний</w>
       </w_>
-      <w_ id="2fe1" dep="2fdq-conj" n="723">
+      <w_ id="2fe1" dep="2fdo-conj" n="723">
         <w lemma="інтервал" ana="noun:inanim:m:v_zna">інтервал</w>
       </w_>
       <w_ id="2fe2" dep="2fe1-nmod" n="724">
@@ -2436,7 +2436,7 @@
       <w_ id="2fe3" dep="2fe4-case" n="725">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="2fe4" n="726">
+      <w_ id="2fe4" dep="2fe1-appos:spec" comment="~" n="726">
         <w lemma="9" ana="adj:f:v_rod:nv:&amp;numr">9</w>
       </w_>
       <g/>
@@ -2450,7 +2450,7 @@
       <w_ id="2fe7" dep="2fe8-case" n="729">
         <w lemma="до" ana="prep:rv_rod">до</w>
       </w_>
-      <w_ id="2fe8" n="730">
+      <w_ id="2fe8" dep="2fe4-flat:range" n="730">
         <w lemma="21" ana="numr:f:v_rod:nv">21</w>
       </w_>
       <g/>
@@ -2484,10 +2484,10 @@
       <w_ id="2feh" dep="2fei-case" n="739">
         <w lemma="у" ana="prep:rv_zna:v-u">у</w>
       </w_>
-      <w_ id="2fei" n="740">
+      <w_ id="2fei" dep="2fdo-flat:sibl" comment="~" n="740">
         <w lemma="будень" ana="noun:inanim:p:m:v_zna">будні</w>
       </w_>
-      <w_ id="2fej" n="741">
+      <w_ id="2fej" dep="2fem-cc" n="741">
         <w lemma="й" ana="conj:coord">й</w>
       </w_>
       <w_ id="2fek" dep="2fem-case" n="742">
@@ -2496,7 +2496,7 @@
       <w_ id="2fel" dep="2fem-amod" n="743">
         <w lemma="спеціальний" ana="adj:m:v_oru">спеціальним</w>
       </w_>
-      <w_ id="2fem" n="744">
+      <w_ id="2fem" dep="2fdo-conj:upperlevel" n="744">
         <w lemma="графік" ana="noun:inanim:m:v_oru">графіком</w>
       </w_>
       <w_ id="2fen" dep="2fer-case" n="745">
@@ -2511,7 +2511,7 @@
       <w_ id="2feq" dep="2feo-conj" n="748">
         <w lemma="святковий" ana="adj:p:v_zna:rinanim:compb">святкові</w>
       </w_>
-      <w_ id="2fer" n="749">
+      <w_ id="2fer" dep="2fem-flat:sibl" n="749">
         <w lemma="день" ana="noun:inanim:p:m:v_zna">дні</w>
       </w_>
       <g/>

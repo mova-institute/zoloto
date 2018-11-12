@@ -702,7 +702,7 @@
     <w_ id="0ae7" dep="0ae8-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0ae8" dep="0ae6-amod">
+    <w_ id="0ae8" dep="0ae6-amod" comment="~">
       <w lemma="бідний" ana="adj:f:v_naz:compb">бідна</w>
     </w_>
     <g/>
@@ -712,7 +712,7 @@
     <w_ id="0aea" dep="0aec-advmod">
       <w lemma="вже" ana="adv:v-u">вже</w>
     </w_>
-    <w_ id="0aeb">
+    <w_ id="0aeb" dep="0aec-discourse">
       <w lemma="тільки" ana="part">тільки</w>
     </w_>
     <w_ id="0aec">
@@ -3168,7 +3168,7 @@
     <w_ id="0b1k" dep="0b1l-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0b1l">
+    <w_ id="0b1l" dep="0b1j-flat:repeat" comment="~">
       <w lemma="дівка" ana="noun:anim:f:v_kly">дівко</w>
     </w_>
     <g/>
@@ -3214,7 +3214,7 @@
     <w_ id="0b22" dep="0b23-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0b23">
+    <w_ id="0b23" dep="0b21-flat:repeat" comment="~">
       <w lemma="дівка" ana="noun:anim:f:v_kly">дівко</w>
     </w_>
     <g/>
@@ -3263,7 +3263,7 @@
     <w_ id="0b2l" dep="0b2m-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0b2m">
+    <w_ id="0b2m" dep="0b2k-flat:repeat" comment="~">
       <w lemma="дівка" ana="noun:anim:f:v_kly">дівко</w>
     </w_>
     <g/>
@@ -3276,7 +3276,7 @@
     <w_ id="0b2p" dep="0b2o-obj">
       <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
     </w_>
-    <w_ id="0b2q">
+    <w_ id="0b2q" dep="0b2o-ccomp" comment="#цікаво">
       <w lemma="вечеряти" ana="verb:imperf:inf">вечеряти</w>
     </w_>
     <g/>

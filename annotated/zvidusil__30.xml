@@ -393,14 +393,14 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="390m"/>
-      <w_ id="390n" n="120">
+      <w_ id="390n" dep="3917-discourse" n="120">
         <w lemma="так" ana="adv:&amp;pron:dem">Так</w>
       </w_>
       <g/>
       <w_ id="390o" dep="390n-punct" n="121">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="390p" tags="promoted" n="122">
+      <w_ id="390p" dep="3917-obl" tags="promoted" n="122">
         <w lemma="20" ana="adj:n:v_rod:nv:&amp;numr">20</w>
       </w_>
       <w_ id="390q" dep="390p-nmod" n="123">
@@ -439,8 +439,11 @@
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="3911" n="134">
+      <w_ id="3911" dep="390v-parataxis" n="134">
         <w lemma="раніше" ana="adv:compr">раніше</w>
+      </w_>
+      <w_ id="3cic" ellipsis="predicate">
+        <w lemma="називатися" ana="verb:rev:imperf:past:m">називався</w>
       </w_>
       <w_ id="3912" dep="3913-punct" n="135">
         <w lemma="–" ana="punct:dash">–</w>
@@ -449,7 +452,7 @@
         <w lemma="ВДНГ" ana="noun:inanim:f:v_naz:nv:np:abbr">ВДНГ</w>
       </w_>
       <g/>
-      <w_ id="3914" n="137">
+      <w_ id="3914" dep="3911-punct" n="137">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <w_ id="3915" dep="3916-case" n="138">

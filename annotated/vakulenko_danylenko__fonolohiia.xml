@@ -3826,22 +3826,22 @@
     <w_ id="1ao9" dep="1anz-appos">
       <w lemma="період" ana="noun:inanim:m:v_rod">періоду</w>
     </w_>
-    <w_ id="1aoa">
+    <w_ id="1aoa" dep="1aoc-advmod">
       <w lemma="приблизно" ana="adv:compb">приблизно</w>
     </w_>
     <w_ id="1aob" dep="1aoc-case">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
-    <w_ id="1aoc" tags="promoted" comment="еліпс наперед">
+    <w_ id="1aoc" dep="1ao9-nmod" tags="promoted" comment="еліпс наперед">
       <w lemma="VII" ana="adj:n:v_rod:nv:&amp;numr">VII</w>
     </w_>
-    <w_ id="1aod" dep="1aoe-case">
+    <w_ id="1aod" dep="1aof-case">
       <w lemma="до" ana="prep:rv_rod">до</w>
     </w_>
-    <w_ id="1aoe">
+    <w_ id="1aoe" dep="1aof-amod" comment="~ чи реконструювати повтор?">
       <w lemma="XI" ana="adj:n:v_rod:nv:&amp;numr">XI</w>
     </w_>
-    <w_ id="1aof">
+    <w_ id="1aof" dep="1aoc-flat:range">
       <w lemma="ст." ana="noun:inanim:n:v_rod:nv:abbr">ст</w>
     </w_>
     <g/>
@@ -7564,13 +7564,13 @@
       <w lemma="Україна" ana="noun:inanim:f:v_mis:prop">Україні</w>
     </w_>
     <g/>
-    <w_ id="1bl8">
+    <w_ id="1bl8" dep="1blr-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1bl9">
-      <w lemma="а" ana="conj:coord">а</w>
+    <w_ id="1bl9" dep="1blr-discourse" comment="~може так, а не fixed?">
+      <w lemma="а" ana="part">а</w>
     </w_>
-    <w_ id="1bla">
+    <w_ id="1bla" dep="1blr-mark">
       <w lemma="отже" ana="conj:subord">отже</w>
     </w_>
     <w_ id="1blb" dep="1blc-det">
@@ -7624,7 +7624,7 @@
     <w_ id="1blq" dep="1blk-conj">
       <w lemma="спростувати" ana="verb:perf:inf">спростувати</w>
     </w_>
-    <w_ id="1blr">
+    <w_ id="1blr" dep="1bku-advcl">
       <w lemma="незмога" ana="adv">незмога</w>
     </w_>
     <g/>
@@ -7910,13 +7910,13 @@
     <w_ id="1bog" dep="1boc-conj">
       <w lemma="приклад" ana="noun:inanim:p:m:v_zna">приклади</w>
     </w_>
-    <w_ id="1boh">
+    <w_ id="1boh" dep="1bol-obl">
       <w lemma="раз" ana="noun:inanim:m:v_naz">раз</w>
     </w_>
-    <w_ id="1boi">
+    <w_ id="1boi" dep="1boj-case">
       <w lemma="у" ana="prep:rv_zna:v-u">у</w>
     </w_>
-    <w_ id="1boj">
+    <w_ id="1boj" dep="1boh-flat:abs">
       <w lemma="раз" ana="noun:inanim:m:v_zna">раз</w>
     </w_>
     <w_ id="1bok" dep="1bol-advmod">
@@ -7984,7 +7984,7 @@
       <w lemma="подробиця" ana="noun:inanim:f:v_mis">подробиці</w>
     </w_>
     <g/>
-    <w_ id="1bp5">
+    <w_ id="1bp5" dep="1boz-punct" comment="#цікаво">
       <w lemma="!" ana="punct">!</w>
     </w_>
     <sb id="1bp6"/>

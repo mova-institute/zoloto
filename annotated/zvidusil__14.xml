@@ -3450,7 +3450,7 @@
       <w_ id="257z" dep="2580-amod">
         <w lemma="сучасний" ana="adj:f:v_naz:compb">Сучасна</w>
       </w_>
-      <w_ id="2580" dep="2582-nsubj" mark="resolved">
+      <w_ id="2580" dep="2582-nsubj" mark="resolved" edep="2586-nsubj:sp">
         <w lemma="Ш." ana="noun:inanim:f:v_naz:nv:abbr">Ш</w>
       </w_>
       <g/>
@@ -3460,7 +3460,7 @@
       <w_ id="2582">
         <w lemma="являти" ana="verb:imperf:pres:s:3">являє</w>
       </w_>
-      <w_ id="2583">
+      <w_ id="2583" dep="2582-obl" comment="~">
         <w lemma="себе" ana="noun:v_oru:&amp;pron:refl">собою</w>
       </w_>
       <w_ id="2584" dep="2586-amod">
@@ -3469,7 +3469,7 @@
       <w_ id="2585" dep="2586-amod">
         <w lemma="виробничий" ana="adj:f:v_zna">виробничу</w>
       </w_>
-      <w_ id="2586">
+      <w_ id="2586" dep="2582-xcomp:sp">
         <w lemma="система" ana="noun:inanim:f:v_zna">систему</w>
       </w_>
       <w_ id="2587" dep="2588-amod">
