@@ -1241,7 +1241,7 @@
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <multitoken form="ніяк">
-        <w_ id="3a54" dep="3a4w-conj:parataxis" comment="#xsubj-is-phantom-iobj">
+        <w_ id="3a54" dep="3a4w-conj:parataxis">
           <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
         </w_>
         <w_ id="3a55" dep="3a52-advmod">
@@ -2082,7 +2082,7 @@
     <p id="3acq">
       <gap/>
       <sb id="3acr"/>
-      <w_ id="3acs" dep="3act-iobj" n="547">
+      <w_ id="3acs" dep="3act-iobj" edep="3acv-nsubj:x" n="547">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">Мені</w>
       </w_>
       <multitoken form="нікого">
@@ -2093,7 +2093,7 @@
           <w lemma="хто" ana="noun:anim:m:v_zna:&amp;pron:rel">кого</w>
         </w_>
       </multitoken>
-      <w_ id="3acv" dep="3act-ccomp" n="549">
+      <w_ id="3acv" dep="3act-xcomp" n="549">
         <w lemma="обійняти" ana="verb:perf:inf">обійняти</w>
       </w_>
       <g/>
@@ -2899,7 +2899,7 @@
           <w lemma="куди" ana="adv:&amp;pron:rel">куди</w>
         </w_>
       </multitoken>
-      <w_ id="3ak3" dep="3ak1-ccomp" n="771">
+      <w_ id="3ak3" dep="3ak1-xcomp" comment="#xsubj-is-phantom-iobj" n="771">
         <w lemma="покласти" ana="verb:perf:inf">покласти</w>
       </w_>
       <w_ id="3ak4" dep="3ak3-obj" n="772">
@@ -3035,7 +3035,7 @@
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
-      <w_ id="3alb" dep="3ale-ccomp" n="806">
+      <w_ id="3alb" dep="3ale-xcomp" comment="#xsubj-is-phantom-iobj" n="806">
         <w lemma="пливти" ana="verb:imperf:inf">пливти</w>
       </w_>
       <g/>
@@ -3067,7 +3067,7 @@
     <p id="3alj">
       <gap/>
       <sb id="3alk"/>
-      <w_ id="3all" dep="3aln-ccomp" n="811">
+      <w_ id="3all" dep="3aln-xcomp" comment="#xsubj-is-phantom-iobj" n="811">
         <w lemma="діватися" ana="verb:rev:imperf:inf">Діватись</w>
       </w_>
       <w_ id="3alm" dep="3aln-aux" n="812">
@@ -3221,7 +3221,7 @@
           <w lemma="що" ana="noun:inanim:n:v_oru:&amp;pron:rel">чим</w>
         </w_>
       </multitoken>
-      <w_ id="3amy" dep="3amw-ccomp" n="849">
+      <w_ id="3amy" dep="3amw-xcomp" comment="#xsubj-is-phantom-iobj" n="849">
         <w lemma="замінити" ana="verb:perf:inf">замінити</w>
       </w_>
       <g/>
@@ -3377,7 +3377,7 @@
           <w lemma="що" ana="noun:inanim:n:v_oru:&amp;pron:rel">чим</w>
         </w_>
       </multitoken>
-      <w_ id="3aoc" dep="3aoa-ccomp" n="888">
+      <w_ id="3aoc" dep="3aoa-xcomp" comment="#xsubj-is-phantom-iobj" n="888">
         <w lemma="прикритися" ana="verb:rev:perf:inf">прикритись</w>
       </w_>
       <g/>
@@ -3430,7 +3430,7 @@
       <w_ id="3aot" dep="3aou-obl" n="901">
         <w lemma="інше" ana="adj:n:v_mis:&amp;pron:ind:&amp;noun:inanim" lemma2="інший">іншому</w>
       </w_>
-      <w_ id="3aou" dep="3aow-ccomp" n="902">
+      <w_ id="3aou" dep="3aow-xcomp" comment="#xsubj-is-phantom-iobj" n="902">
         <w lemma="хвалитися" ana="verb:rev:imperf:inf">хвалитися</w>
       </w_>
       <w_ id="3aov" dep="3aow-advmod" n="903">
