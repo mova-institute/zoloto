@@ -23,6 +23,8 @@
         1. наші питання в UD
             1. [відкриті](https://github.com/UniversalDependencies/docs/issues/created_by/msklvsk)
             1. [закриті](https://github.com/UniversalDependencies/docs/issues?q=is%3Aissue+author%3Amsklvsk+is%3Aclosed)
+        1. [репорт валідатора віх мов](http://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/validation-report.pl)
+        1. [репорт валідатора наш](http://quest.ms.mff.cuni.cz/udvalidator/cgi-bin/unidep/validation-report.pl?UD_Ukrainian-IU)
 1. [Intertext](https://lab.mova.institute/intertext) (вирівнювач паралельних корпусів)
 1. [документація](https://github.com/mova-institute/zoloto/tree/master/docs)
     1. [специфікація позначок](https://github.com/msklvsk/corpus/blob/master/docs/tagset.md)
