@@ -20,6 +20,7 @@
         1. гітхаб-репо нашого трібанку
             1. [стабільна](https://github.com/UniversalDependencies/UD_Ukrainian) гілка
             1. [робоча](https://github.com/UniversalDependencies/UD_Ukrainian/tree/dev) гілка
+        1. [що нового](https://github.com/UniversalDependencies/docs/issues?q=sort%3Aupdated-desc+)
         1. наші питання в UD
             1. [відкриті](https://github.com/UniversalDependencies/docs/issues/created_by/msklvsk)
             1. [закриті](https://github.com/UniversalDependencies/docs/issues?q=is%3Aissue+author%3Amsklvsk+is%3Aclosed)
