@@ -2101,7 +2101,7 @@
   </p>
   <p id="147u">
     <sb id="147v"/>
-    <w_ id="147w" dep="147y-nsubj">
+    <w_ id="147w" dep="147y-nsubj" hdep="147y-distrib">
       <w lemma="цінність" ana="noun:inanim:p:f:v_naz">Цінності</w>
     </w_>
     <w_ id="147x" dep="147w-det" mark="resolved" coref="146z-equality">
@@ -2135,19 +2135,19 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="1486"/>
-    <w_ id="1487" dep="1488-nsubj" coref="1482-equality">
+    <w_ id="1487" dep="1488-nsubj" coref="1482-equality" hdep="1488-distrib">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
     </w_>
     <w_ id="1488">
       <w lemma="піднести" ana="verb:perf:past:f">піднесла</w>
     </w_>
-    <w_ id="1489" dep="1488-obj" coref="147x-equality">
+    <w_ id="1489" dep="1488-obj" coref="147x-equality" hdep="1488-distrib">
       <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
     </w_>
     <w_ id="148a" dep="148b-case">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ id="148b" dep="1488-obl">
+    <w_ id="148b" dep="1488-obl" hdep="1488-private">
       <w lemma="висота" ana="noun:inanim:f:v_zna">висоту</w>
     </w_>
     <w_ id="148c" dep="148d-cc">
@@ -2278,7 +2278,7 @@
     <w_ id="149k" dep="149i-conj">
       <w lemma="стиль" ana="noun:inanim:m:v_naz:xp2">стиль</w>
     </w_>
-    <w_ id="149l" dep="149i-nmod" coref="146p-equality">
+    <w_ id="149l" dep="149i-nmod" coref="146p-equality" hdep="149i-distrib">
       <w lemma="книжка" ana="noun:inanim:f:v_rod">книжки</w>
     </w_>
     <g/>
@@ -2620,16 +2620,16 @@
     <w_ id="14cl" dep="14cm-det">
       <w lemma="той" ana="adj:f:v_naz:&amp;pron:dem">та</w>
     </w_>
-    <w_ id="14cm" dep="14cq-nsubj" coref="14ac-equality">
+    <w_ id="14cm" dep="14cq-nsubj" coref="14ac-equality" hdep="14cq-distrib">
       <w lemma="книга" ana="noun:inanim:f:v_naz">книга</w>
     </w_>
     <w_ id="14cn" dep="14cq-advmod">
       <w lemma="справді" ana="adv">справді</w>
     </w_>
-    <w_ id="14co" dep="14cq-cop">
+    <w_ id="14co" dep="14cq-cop" hdep="14cq-distrib">
       <w lemma="бути" ana="verb:aux:imperf:pres:s:3">є</w>
     </w_>
-    <w_ id="14cp" dep="14cq-amod">
+    <w_ id="14cp" dep="14cq-amod" hdep="14cq-private">
       <w lemma="впорядкований" ana="adj:p:v_oru:&amp;adjp:perf:pasv:v-u">впорядкованими</w>
     </w_>
     <w_ id="14cq" dep="14ci-ccomp">
@@ -2638,7 +2638,7 @@
     <w_ id="14cr" dep="14cs-amod">
       <w lemma="столітній" ana="adj:m:v_rod">столітнього</w>
     </w_>
-    <w_ id="14cs" dep="14cq-nmod">
+    <w_ id="14cs" dep="14cq-nmod" hdep="14cq-private">
       <w lemma="дід" ana="noun:anim:m:v_rod">діда</w>
     </w_>
     <g/>

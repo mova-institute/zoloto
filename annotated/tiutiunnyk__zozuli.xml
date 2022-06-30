@@ -880,7 +880,7 @@
       <w_ id="14no" dep="14np-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="14np" dep="14ns-discourse">
+      <w_ id="14np" dep="14ns-discourse" hdep="14ns-private">
         <w lemma="мабуть" ana="adv">мабуть</w>
       </w_>
       <g/>
@@ -1734,7 +1734,7 @@
     <w_ id="14vp" dep="14vr-advmod">
       <w lemma="там" ana="adv:&amp;pron:dem">Там</w>
     </w_>
-    <w_ id="14vq" dep="14vr-nsubj">
+    <w_ id="14vq" dep="14vr-nsubj" hdep="14vr-distrib">
       <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
     </w_>
     <w_ id="14vr">
@@ -1743,10 +1743,10 @@
     <w_ id="14vs" dep="14vt-case">
       <w lemma="із" ana="prep:rv_rod">із</w>
     </w_>
-    <w_ id="14vt" dep="14vr-obl">
+    <w_ id="14vt" dep="14vr-obl" hdep="14vr-private">
       <w lemma="сума" ana="noun:inanim:f:v_rod">суми</w>
     </w_>
-    <w_ id="14vu" dep="14vr-obj">
+    <w_ id="14vu" dep="14vr-obj" hdep="14vr-private">
       <w lemma="конверт" ana="noun:inanim:m:v_zna">конверт</w>
     </w_>
     <w_ id="14vv" dep="14vw-cc">
@@ -1906,7 +1906,7 @@
   </p>
   <p id="14xa">
     <sb id="14xb"/>
-    <w_ id="14xc" dep="14xd-nsubj">
+    <w_ id="14xc" dep="14xd-nsubj" hdep="14xd-distrib">
       <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
     </w_>
     <w_ id="14xd">
@@ -1918,10 +1918,10 @@
     <w_ id="14xf" dep="14xg-amod" mark="reviewed">
       <w lemma="Левків" ana="adj:p:v_rod">Левкових</w>
     </w_>
-    <w_ id="14xg" dep="14xd-obl" mark="reviewed">
+    <w_ id="14xg" dep="14xd-obl" mark="reviewed" hdep="14xd-private">
       <w lemma="пучка" ana="noun:inanim:p:f:v_rod">пучок</w>
     </w_>
-    <w_ id="14xh" dep="14xd-obj">
+    <w_ id="14xh" dep="14xd-obj" hdep="14xd-private">
       <w lemma="лист" ana="noun:inanim:m:v_rod:xp1">листа</w>
     </w_>
     <w_ id="14xi" dep="14xj-punct">
@@ -2956,7 +2956,7 @@
       <w_ id="1573" dep="1578-expl">
         <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
       </w_>
-      <w_ id="1574" dep="1578-nsubj">
+      <w_ id="1574" dep="1578-nsubj" hdep="1578-distrib">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="1575" dep="1578-advmod">
@@ -2965,7 +2965,7 @@
       <w_ id="1576" dep="1578-advmod">
         <w lemma="досі" ana="adv:&amp;pron:dem">досі</w>
       </w_>
-      <w_ id="1577" dep="1578-case">
+      <w_ id="1577" dep="1578-case" hdep="1578-private">
         <w lemma="в" ana="prep:rv_zna:v-u">в</w>
       </w_>
       <w_ id="1578" mark="reviewed">
@@ -3082,7 +3082,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1588"/>
-      <w_ id="1589" dep="158d-nsubj">
+      <w_ id="1589" dep="158d-nsubj" hdep="158d-distrib">
         <w lemma="сусіда" ana="noun:anim:m:v_naz">Сусіда</w>
       </w_>
       <w_ id="158a" dep="1589-det">
@@ -3166,16 +3166,16 @@
       <w_ id="1591" dep="1596-cc">
         <w lemma="але" ana="conj:coord">Але</w>
       </w_>
-      <w_ id="1592" dep="1596-nsubj">
+      <w_ id="1592" dep="1596-nsubj" hdep="1596-distrib">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
-      <w_ id="1593" dep="1596-advmod">
+      <w_ id="1593" dep="1596-advmod" hdep="1596-private">
         <w lemma="ніколи" ana="adv:&amp;pron:neg:xp2">ніколи</w>
       </w_>
       <w_ id="1594" dep="1596-iobj">
         <w lemma="ніхто" ana="noun:anim:v_dav:&amp;pron:neg">нікому</w>
       </w_>
-      <w_ id="1595" dep="1596-advmod">
+      <w_ id="1595" dep="1596-advmod" hdep="1596-private">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="1596">

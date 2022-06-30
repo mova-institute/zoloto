@@ -1567,7 +1567,7 @@
       <w_ id="15qx" dep="15qr-ccomp">
         <w lemma="плутатися" ana="verb:rev:imperf:pres:p:3">плутаються</w>
       </w_>
-      <w_ id="15qy" dep="15qz-case">
+      <w_ id="15qy" dep="15qz-case" hdep="15qz-distrib">
         <w lemma="без" ana="prep:rv_rod">без</w>
       </w_>
       <w_ id="15qz" dep="15qx-obl">
@@ -1664,10 +1664,10 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="15rt"/>
-      <w_ id="15ru" dep="15rw-case">
+      <w_ id="15ru" dep="15rw-case" hdep="15rw-private">
         <w lemma="з" ana="prep:rv_rod">З</w>
       </w_>
-      <w_ id="15rv" dep="15rw-det">
+      <w_ id="15rv" dep="15rw-det" hdep="15rw-private">
         <w lemma="наш" ana="adj:f:v_rod:poss:&amp;pron:pers:1">нашої</w>
       </w_>
       <w_ id="15rw" dep="15s8-obl">
@@ -1722,10 +1722,10 @@
       <w_ id="15sc">
         <w lemma="налічити" ana="verb:perf:past:f">налічила</w>
       </w_>
-      <w_ id="15sd" dep="15sf-nummod:gov">
+      <w_ id="15sd" dep="15sf-nummod:gov" hdep="15sf-private">
         <w lemma="6" ana="numr:v_zna:nv">6</w>
       </w_>
-      <w_ id="15se" dep="15sf-amod">
+      <w_ id="15se" dep="15sf-amod" hdep="15sf-private">
         <w lemma="великий" ana="adj:p:v_rod:compb">великих</w>
       </w_>
       <w_ id="15sf" dep="15sc-obj">
@@ -1753,7 +1753,7 @@
       <w_ id="15sm" dep="15sn-amod">
         <w lemma="великий" ana="adj:p:v_naz:compb">великі</w>
       </w_>
-      <w_ id="15sn" dep="15so-nsubj">
+      <w_ id="15sn" dep="15so-nsubj" hdep="15so-distrib">
         <w lemma="пароход" ana="noun:inanim:p:m:v_naz:odd">пароходи</w>
       </w_>
       <w_ id="15so" dep="15sc-conj:parataxis">
@@ -2234,7 +2234,7 @@
         <w lemma="!" ana="punct">!</w>
       </w_>
       <sb id="15ww"/>
-      <w_ id="15wx" dep="15wy-nsubj">
+      <w_ id="15wx" dep="15wy-nsubj" hdep="15wy-distrib">
         <w lemma="моряк" ana="noun:anim:p:m:v_naz">Моряки</w>
       </w_>
       <w_ id="15wy">
@@ -2271,7 +2271,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="15x8"/>
-      <w_ id="15x9" dep="15xa-nsubj">
+      <w_ id="15x9" dep="15xa-nsubj" hdep="15xa-distrib">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
       </w_>
       <w_ id="15xa">
@@ -2280,7 +2280,7 @@
       <w_ id="15xb" dep="15xc-det">
         <w lemma="весь" ana="adj:m:v_zna:rinanim:&amp;pron:gen">весь</w>
       </w_>
-      <w_ id="15xc" dep="15xa-obj">
+      <w_ id="15xc" dep="15xa-obj" hdep="15xa-private">
         <w lemma="пароход" ana="noun:inanim:m:v_zna:odd">пароход</w>
       </w_>
       <g/>
@@ -2370,7 +2370,7 @@
       <w_ id="15y0" dep="15y1-det" mark="resolved">
         <w lemma="весь" ana="adj:n:v_rod:&amp;pron:gen">всього</w>
       </w_>
-      <w_ id="15y1" dep="15y2-obj">
+      <w_ id="15y1" dep="15y2-obj" hdep="15y2-distrib">
         <w lemma="те" ana="noun:inanim:n:v_rod:&amp;pron:dem">того</w>
       </w_>
       <w_ id="15y2" dep="15xw-ccomp">
@@ -2389,7 +2389,7 @@
       <w_ id="15y6" dep="15y7-mark">
         <w lemma="щоб" ana="conj:subord">щоб</w>
       </w_>
-      <w_ id="15y7" dep="15y2-advcl">
+      <w_ id="15y7" dep="15y2-advcl" hdep="15y2-distrib">
         <w lemma="стріляти" ana="verb:imperf:inf">стріляти</w>
       </w_>
       <w_ id="15y8" dep="15y7-obj" mark="reviewed">
