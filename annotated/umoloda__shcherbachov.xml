@@ -74,7 +74,7 @@
       <w_ id="179q" dep="179r-case">
         <w lemma="із" ana="prep:rv_oru">із</w>
       </w_>
-      <w_ id="179r" dep="179p-nmod">
+      <w_ id="179r" dep="179p-nmod" coref="179a-equality">
         <w lemma="журналіст" ana="noun:anim:m:v_oru">журналістом</w>
       </w_>
       <w_ id="179s" dep="179u-case">
@@ -100,7 +100,7 @@
       <w_ id="179z" dep="17a0-case">
         <w lemma="про" ana="prep:rv_zna">Про</w>
       </w_>
-      <w_ id="17a0" dep="17a1-obl">
+      <w_ id="17a0" dep="17a1-obl" coref="179o-equality:cl">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
       <w_ id="17a1">
@@ -123,7 +123,7 @@
       <w_ id="17a6" dep="17a1-nsubj">
         <w lemma="друг" ana="noun:anim:m:v_naz">друг</w>
       </w_>
-      <w_ id="17a7" dep="17a6-nmod">
+      <w_ id="17a7" dep="17a6-nmod" comment-coref="? тут треба bridge?">
         <w lemma="Валентин" ana="noun:anim:m:v_rod:prop:fname">Валентина</w>
       </w_>
       <w_ id="17a8" dep="17a7-flat:name">
@@ -165,7 +165,7 @@
       <w_ id="17al">
         <w lemma="надіслати" ana="verb:perf:past:m">надіслав</w>
       </w_>
-      <w_ id="17am" dep="17al-iobj">
+      <w_ id="17am" dep="17al-iobj" coref="17a6-equality">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <w_ id="17an" dep="17al-nsubj">
@@ -190,7 +190,7 @@
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
-      <w_ id="17au" dep="17ax-nsubj">
+      <w_ id="17au" dep="17ax-nsubj" coref="17an-equality">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
       </w_>
       <w_ id="17av" dep="17aw-advmod">
@@ -242,7 +242,7 @@
       <w_ id="17b9" dep="17b1-acl">
         <w lemma="забороняти" ana="verb:imperf:past:p">забороняли</w>
       </w_>
-      <w_ id="17ba" dep="17b9-iobj" edep="17bb-nsubj:x">
+      <w_ id="17ba" dep="17b9-iobj" coref="17au-equality" edep="17bb-nsubj:x">
         <w lemma="я" ana="noun:anim:s:v_dav:&amp;pron:pers:1">мені</w>
       </w_>
       <w_ id="17bb" dep="17b9-xcomp">
@@ -261,7 +261,7 @@
       <w_ id="17bf" dep="17bk-mark">
         <w lemma="бо" ana="conj:subord">бо</w>
       </w_>
-      <w_ id="17bg" dep="17bk-nsubj">
+      <w_ id="17bg" dep="17bk-nsubj" coref="17au-equality">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="17bh" dep="17bg-discourse">
@@ -395,7 +395,7 @@
       <w_ id="17cm" dep="17cn-obl">
         <w lemma="колега" ana="noun:anim:p:m:v_rod">колег</w>
       </w_>
-      <w_ id="17cn">
+      <w_ id="17cn" coref="17ba-equality">
         <w lemma="дізнаватися" ana="verb:rev:imperf:pres:s:1">дізнаюся</w>
       </w_>
       <g/>
@@ -466,7 +466,7 @@
       <w_ id="17d7" dep="17da-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="17d8" dep="17d9-det">
+      <w_ id="17d8" dep="17d9-det" coref="17cn-equality">
         <w lemma="мій" ana="adj:m:v_zna:rinanim:poss:&amp;pron:pers:1">мій</w>
       </w_>
       <w_ id="17d9" dep="17da-obj">
@@ -545,7 +545,7 @@
       <w_ id="17dy" dep="17dw-obl">
         <w lemma="суд" ana="noun:inanim:m:v_mis">суді</w>
       </w_>
-      <w_ id="17dz" dep="17e1-det">
+      <w_ id="17dz" dep="17e1-det" coref="17ds-equality">
         <w lemma="свій" ana="adj:f:v_zna:poss:&amp;pron:refl">свою</w>
       </w_>
       <w_ id="17e0" dep="17e1-amod">
@@ -569,7 +569,7 @@
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
-      <w_ id="17e7" dep="17ea-nsubj">
+      <w_ id="17e7" dep="17ea-nsubj" coref="17ds-equality">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
       </w_>
       <w_ id="17e8" dep="17ea-aux">
@@ -588,7 +588,7 @@
       <w_ id="17ec" dep="17eg-cc">
         <w lemma="але" ana="conj:coord">але</w>
       </w_>
-      <w_ id="17ed" dep="17eg-nsubj">
+      <w_ id="17ed" dep="17eg-nsubj" coref="17e7-bridge">
         <w lemma="друг" ana="noun:anim:p:m:v_naz">друзі</w>
       </w_>
       <g/>
@@ -740,7 +740,7 @@
       <w_ id="17fn" dep="17ev-parataxis">
         <w lemma="заявити" ana="verb:perf:past:m">заявив</w>
       </w_>
-      <w_ id="17fo" dep="17fn-nsubj">
+      <w_ id="17fo" dep="17fn-nsubj" coref="17e7-equality">
         <w lemma="телекоментатор" ana="noun:anim:m:v_naz">телекоментатор</w>
       </w_>
       <g/>
@@ -860,7 +860,7 @@
       <w_ id="17gr" dep="17gt-obl">
         <w lemma="телебачення" ana="noun:inanim:n:v_mis">телебаченні</w>
       </w_>
-      <w_ id="17gs" dep="17gt-nsubj">
+      <w_ id="17gs" dep="17gt-nsubj" coref="17fx-equality">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="17gt">
@@ -931,7 +931,7 @@
       <w_ id="17hd" dep="17hf-obl">
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
-      <w_ id="17he" dep="17hf-nsubj">
+      <w_ id="17he" dep="17hf-nsubj" coref="17h3-equality">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="17hf" dep="17h3-parataxis">
@@ -1143,7 +1143,7 @@
       <w_ id="17j5" dep="17j6-case">
         <w lemma="серед" ana="prep:rv_rod">серед</w>
       </w_>
-      <w_ id="17j6" dep="17j7-obl">
+      <w_ id="17j6" dep="17j7-obl" coref="17iw-bridge">
         <w lemma="рекорд" ana="noun:inanim:p:m:v_rod">рекордів</w>
       </w_>
       <w_ id="17j7">
@@ -1152,7 +1152,7 @@
       <w_ id="17j8" dep="17ja-discourse">
         <w lemma="і" ana="part">і</w>
       </w_>
-      <w_ id="17j9" dep="17ja-det">
+      <w_ id="17j9" dep="17ja-det" coref="17ip-equality">
         <w lemma="його" ana="adj:m:v_naz:poss:nv:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="17ja" dep="17j7-nsubj" tags="promoted">
@@ -1164,13 +1164,13 @@
       <w_ id="17jc" dep="17je-case">
         <w lemma="за" ana="prep:rv_zna">за</w>
       </w_>
-      <w_ id="17jd" dep="17je-det">
+      <w_ id="17jd" dep="17je-det" coref="17ip-equality">
         <w lemma="свій" ana="adj:f:v_zna:poss:&amp;pron:refl">свою</w>
       </w_>
       <w_ id="17je" dep="17jg-obl">
         <w lemma="кар’єра" ana="noun:inanim:f:v_zna">кар’єру</w>
       </w_>
-      <w_ id="17jf" dep="17jg-nsubj">
+      <w_ id="17jf" dep="17jg-nsubj" coref="17ip-equality">
         <w lemma="коментатор" ana="noun:anim:m:v_naz">коментатор</w>
       </w_>
       <w_ id="17jg" dep="17j7-parataxis">
@@ -1302,7 +1302,7 @@
       <w_ id="17kk" dep="17kl-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="17kl" dep="17kj-obl">
+      <w_ id="17kl" dep="17kj-obl" coref="17k9-equality">
         <w lemma="вони" ana="noun:p:v_oru:&amp;pron:pers:3">ними</w>
       </w_>
       <w_ id="17km" dep="17kn-case">
@@ -1327,7 +1327,7 @@
       <w_ id="17ku" dep="17kv-det">
         <w lemma="інший" ana="adj:p:v_rod:&amp;pron:ind">інших</w>
       </w_>
-      <w_ id="17kv" dep="17ky-orphan|3cfb-obl">
+      <w_ id="17kv" dep="17ky-orphan|3cfb-obl" coref="17k4-bridge">
         <w lemma="захоплення" ana="noun:inanim:p:n:v_rod">захоплень</w>
       </w_>
       <w_ id="3cfb" ellipsis="predicate">
@@ -1350,7 +1350,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="17l1"/>
-      <w_ id="17l2" dep="17l3-nsubj">
+      <w_ id="17l2" dep="17l3-nsubj" coref="17k4-equality">
         <w lemma="Щербачов" ana="noun:anim:m:v_naz:prop:lname:n2adj">Щербачов</w>
       </w_>
       <w_ id="17l3">
@@ -1392,7 +1392,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="17lf"/>
-      <w_ id="17lg">
+      <w_ id="17lg" coref="17l2-equality">
         <w lemma="брати" ana="verb:imperf:past:m">Брав</w>
       </w_>
       <w_ id="17lh" dep="17lg-obj">
@@ -1456,7 +1456,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="17m0"/>
-      <w_ id="17m1">
+      <w_ id="17m1" coref="17l2-bridge">
         <w lemma="автор" ana="noun:anim:m:v_naz">Автор</w>
       </w_>
       <w_ id="17m2" dep="17m1-nmod">

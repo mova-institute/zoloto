@@ -823,10 +823,10 @@
       <w_ id="1md2">
         <w lemma="ніщо" ana="noun:inanim:v_rod:&amp;pron:neg">нічого</w>
       </w_>
-      <w_ id="1md3">
+      <w_ id="1md3" dep="1md5-case">
         <w lemma="крім" ana="prep:rv_rod">крім</w>
       </w_>
-      <w_ id="1md4">
+      <w_ id="1md4" dep="1md5-amod">
         <w lemma="захисний" ana="adj:f:v_rod">захисної</w>
       </w_>
       <w_ id="1md5">
@@ -844,41 +844,41 @@
       <w_ id="1md9">
         <w lemma="всього" ana="part">всього</w>
       </w_>
-      <w_ id="1mda">
+      <w_ id="1mda" dep="1mdb-nummod">
         <w lemma="один" ana="numr:m:v_naz">один</w>
       </w_>
       <w_ id="1mdb">
         <w lemma="запис" ana="noun:inanim:m:v_naz">запис</w>
       </w_>
-      <w_ id="1mdc">
+      <w_ id="1mdc" dep="1mdd-case">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="1mdd">
+      <w_ id="1mdd" dep="1mdb-nmod">
         <w lemma="MBR" ana="noun:foreign">MBR</w>
       </w_>
-      <w_ id="1mde">
+      <w_ id="1mde" dep="1mdf-case">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="1mdf">
+      <w_ id="1mdf" dep="1mdb-nmod">
         <w lemma="мітка" ana="noun:inanim:f:v_oru">міткою</w>
       </w_>
-      <w_ id="1mdg">
+      <w_ id="1mdg" dep="1mdf-flat:title">
         <w lemma="0xee" ana="x:foreign">0xee</w>
       </w_>
       <g/>
       <w_ id="1mdh">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1mdi" correct="інші">
+      <w_ id="1mdi" dep="1mdj-det" correct="інші">
         <w lemma="інший" ana="adj:p:v_naz:&amp;pron:ind">ініші</w>
       </w_>
-      <w_ id="1mdj">
+      <w_ id="1mdj" dep="1mdm-nsubj">
         <w lemma="система" ana="noun:inanim:p:f:v_naz">системи</w>
       </w_>
-      <w_ id="1mdk">
+      <w_ id="1mdk" dep="1mdm-obj">
         <w lemma="справний" ana="adj:n:v_rod">справного</w>
       </w_>
-      <w_ id="1mdl">
+      <w_ id="1mdl" dep="1mdm-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="1mdm">
@@ -1733,20 +1733,20 @@
       <w_ id="1mlh">
         <w lemma="вік" ana="noun:inanim:m:v_naz">Вік</w>
       </w_>
-      <w_ id="1mli">
+      <w_ id="1mli" dep="1mlj-case">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
-      <w_ id="1mlj">
+      <w_ id="1mlj" dep="1mlh-nmod">
         <w lemma="час" ana="noun:inanim:m:v_zna">час</w>
       </w_>
-      <w_ id="1mlk">
+      <w_ id="1mlk" dep="1mlj-nmod">
         <w lemma="бій" ana="noun:inanim:m:v_rod">бою</w>
       </w_>
       <g/>
       <w_ id="1mll">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="1mlm">
+      <w_ id="1mlm" dep="1mln-advmod">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="1mln">

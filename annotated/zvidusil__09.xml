@@ -20,13 +20,13 @@
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="1vmx"/>
-      <w_ id="1vmy" dep="1vn0-obj">
+      <w_ id="1vmy" dep="1vn0-obj" coref="1vmv-equality">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">Їх</w>
       </w_>
       <w_ id="1vmz" dep="1vn0-discourse">
         <w lemma="просто" ana="part">просто</w>
       </w_>
-      <w_ id="1vn0">
+      <w_ id="1vn0" coref="1vms-equality:cl">
         <w lemma="образити" ana="verb:perf:past:p">образили</w>
       </w_>
       <g/>
@@ -138,7 +138,7 @@
       <w_ id="1vny" dep="1vo1-advmod" edep="1vnw-ref">
         <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
       </w_>
-      <w_ id="1vnz" dep="1vo1-nsubj">
+      <w_ id="1vnz" dep="1vo1-nsubj" coref="1vnd-equality">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="1vo0" dep="1vo1-cop">
@@ -155,7 +155,7 @@
       <w_ id="1vo4" dep="1vo7-nsubj">
         <w lemma="суть" ana="noun:inanim:f:v_naz">Суть</w>
       </w_>
-      <w_ id="1vo5" dep="1vo4-nmod">
+      <w_ id="1vo5" dep="1vo4-nmod" coref="1vnd-equality">
         <w lemma="декрет" ana="noun:inanim:m:v_rod">декрету</w>
       </w_>
       <w_ id="1vo6" dep="1vo7-case">
