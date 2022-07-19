@@ -77,7 +77,7 @@
     <w_ id="12do" dep="12dn-nsubj">
       <w lemma="оп’яніння" ana="noun:inanim:n:v_naz:odd">оп’яніння</w>
     </w_>
-    <w_ id="12dp" dep="12dq-case">
+    <w_ id="12dp" dep="12dq-case" hdep="12dq-distrib">
       <w lemma="від" ana="prep:rv_rod">від</w>
     </w_>
     <w_ id="12dq" dep="12do-nmod" comment="предикація &quot;оп’яніння — від праці&quot;?">
@@ -96,16 +96,16 @@
   </p>
   <p id="12dv">
     <sb id="12du"/>
-    <w_ id="12dw" dep="12dy-nsubj">
+    <w_ id="12dw" dep="12dy-nsubj" hdep="12dy-distrib">
       <w lemma="Марія" ana="noun:anim:f:v_naz:prop:fname">Марія</w>
     </w_>
-    <w_ id="12dx" dep="12dy-advmod">
+    <w_ id="12dx" dep="12dy-advmod" hdep="12dy-distrib">
       <w lemma="швидко" ana="adv:compb">швидко</w>
     </w_>
     <w_ id="12dy">
       <w lemma="наливатися" ana="verb:rev:imperf:past:f">наливалася</w>
     </w_>
-    <w_ id="12dz" dep="12dy-obl">
+    <w_ id="12dz" dep="12dy-obl" hdep="12dy-private">
       <w lemma="сік" ana="noun:inanim:p:m:v_oru">соками</w>
     </w_>
     <w_ id="12e0" dep="12e1-cc">
@@ -129,7 +129,7 @@
     <w_ id="12e6" dep="12e7-mark">
       <w lemma="що" ana="conj:subord">що</w>
     </w_>
-    <w_ id="12e7" dep="12e4-ccomp">
+    <w_ id="12e7" dep="12e4-ccomp" hdep="12e4-private">
       <w lemma="від’їхати" ana="verb:perf:past:m">від’їхав</w>
     </w_>
     <w_ id="12e8" dep="12e7-nsubj">
@@ -171,7 +171,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="12ek"/>
-    <w_ id="12el" dep="12em-advmod">
+    <w_ id="12el" dep="12em-advmod" hdep="12em-private">
       <w lemma="не" ana="part:neg">Не</w>
     </w_>
     <w_ id="12em">
@@ -186,7 +186,7 @@
     <w_ id="12ep" dep="12em-conj">
       <w lemma="зустріти" ana="verb:perf:past:f">зустріла</w>
     </w_>
-    <w_ id="12eq" dep="12em-obj">
+    <w_ id="12eq" dep="12em-obj" hdep="12em-distrib">
       <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
     </w_>
     <g/>

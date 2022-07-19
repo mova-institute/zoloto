@@ -1745,7 +1745,7 @@
       <w_ id="2v4m" dep="2v4o-cc" n="522">
         <w lemma="тільки" ana="conj:coord">тільки</w>
       </w_>
-      <w_ id="2v4n" dep="2v4o-advmod" n="523">
+      <w_ id="2v4n" dep="2v4o-advmod" hdep="2v4o-private" n="523">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="2v4o" dep="2v4l-conj:parataxis" tags="promoted" n="524">
@@ -1760,7 +1760,7 @@
       <w_ id="2v4r" dep="2v4s-case" n="527">
         <w lemma="замість" ana="prep:rv_rod">замість</w>
       </w_>
-      <w_ id="2v4s" dep="2v4o-obl" n="528">
+      <w_ id="2v4s" dep="2v4o-obl" comment="не collect?" hdep="2v4o-distrib" n="528">
         <w lemma="арматура" ana="noun:inanim:f:v_rod">арматури</w>
       </w_>
     </p>
@@ -2112,7 +2112,7 @@
     </p>
     <p id="2v7x">
       <sb id="2v7w"/>
-      <w_ id="2v7y" dep="2v82-nsubj" n="635">
+      <w_ id="2v7y" dep="2v82-nsubj" hdep="2v82-distrib" n="635">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
       </w_>
       <w_ id="2v7z" dep="2v81-advmod" n="636">
@@ -2121,7 +2121,7 @@
       <w_ id="2v80" dep="2v81-nummod" n="637">
         <w lemma="два" ana="numr:m:v_zna">два</w>
       </w_>
-      <w_ id="2v81" dep="2v82-obl" n="638">
+      <w_ id="2v81" dep="2v82-obl" hdep="2v82-distrib" n="638">
         <w lemma="рік" ana="noun:inanim:p:m:v_zna">роки</w>
       </w_>
       <w_ id="2v82" n="639">
@@ -2133,7 +2133,7 @@
       <w_ id="2v84" dep="2v85-det" n="641">
         <w lemma="такий" ana="adj:f:v_oru:&amp;pron:dem">такою</w>
       </w_>
-      <w_ id="2v85" dep="2v82-obl" n="642">
+      <w_ id="2v85" dep="2v82-obl" hdep="2v82-private" n="642">
         <w lemma="халтура" ana="noun:inanim:f:v_oru">халтурою</w>
       </w_>
       <w_ id="2v86" dep="2v87-cc" n="643">
@@ -2174,19 +2174,19 @@
       <w_ id="2v8h" dep="2v8l-punct" n="654">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2v8i" dep="2v8l-advmod" edep="2v8g-ref" n="655">
+      <w_ id="2v8i" dep="2v8l-advmod" edep="2v8g-ref" hdep="2v8l-private" n="655">
         <w lemma="де" ana="adv:&amp;pron:rel">де</w>
       </w_>
-      <w_ id="2v8j" dep="2v8l-aux" n="656">
+      <w_ id="2v8j" dep="2v8l-aux" hdep="2v8l-private" n="656">
         <w lemma="б" ana="part">б</w>
       </w_>
-      <w_ id="2v8k" dep="2v8l-advmod" n="657">
+      <w_ id="2v8k" dep="2v8l-advmod" hdep="2v8l-private" n="657">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="2v8l" dep="2v8g-acl" n="658">
         <w lemma="пахнути" ana="verb:imperf:past:n">пахло</w>
       </w_>
-      <w_ id="2v8m" dep="2v8l-obj" n="659">
+      <w_ id="2v8m" dep="2v8l-obj" hdep="2v8l-private" n="659">
         <w lemma="ладан" ana="noun:inanim:m:v_oru">ладаном</w>
       </w_>
       <g/>

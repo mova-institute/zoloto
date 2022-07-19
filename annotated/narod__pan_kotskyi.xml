@@ -1383,10 +1383,10 @@
     <w_ id="0ccn">
       <w lemma="прибігати" ana="verb:imperf:pres:s:3">Прибігає</w>
     </w_>
-    <w_ id="0cco" dep="0ccn-nsubj">
+    <w_ id="0cco" dep="0ccn-nsubj" hdep="0ccn-distrib">
       <w lemma="зайчик" ana="noun:anim:m:v_naz">зайчик</w>
     </w_>
-    <w_ id="0ccp" dep="0ccn-advmod">
+    <w_ id="0ccp" dep="0ccn-advmod" hdep="0ccn-private">
       <w lemma="назад" ana="adv">назад</w>
     </w_>
     <w_ id="0ccq" dep="0ccs-cc">
@@ -1739,10 +1739,10 @@
     <w_ id="0cg1">
       <w lemma="вилізти" ana="verb:perf:past:m">Виліз</w>
     </w_>
-    <w_ id="0cg2" dep="0cg1-nsubj" edep="0cg8-nsubj:x">
+    <w_ id="0cg2" dep="0cg1-nsubj" edep="0cg8-nsubj:x" hdep="0cg1-distrib">
       <w lemma="пан" ana="noun:anim:m:v_naz">пан</w>
     </w_>
-    <w_ id="0cg3" dep="0cg2-flat:title">
+    <w_ id="0cg3" dep="0cg2-flat:title" hdep="0cg1-private">
       <w lemma="Коцький" ana="noun:anim:m:v_naz:prop:lname">Коцький</w>
     </w_>
     <w_ id="0cg4" dep="0cg5-case">
@@ -1976,7 +1976,7 @@
   </p>
   <p id="0ci7">
     <sb id="0ci8"/>
-    <w_ id="0ci9" dep="0cib-nsubj">
+    <w_ id="0ci9" dep="0cib-nsubj" hdep="0cib-distrib">
       <w lemma="пан" ana="noun:anim:m:v_naz">Пан</w>
     </w_>
     <w_ id="0cia" dep="0ci9-flat:title">
@@ -1985,7 +1985,7 @@
     <w_ id="0cib">
       <w lemma="злякатися" ana="verb:rev:perf:past:m">злякався</w>
     </w_>
-    <w_ id="0cic" dep="0cib-obj">
+    <w_ id="0cic" dep="0cib-obj" hdep="0cib-private">
       <w lemma="кабан" ana="noun:anim:m:v_rod">кабана</w>
     </w_>
     <g/>
@@ -2257,7 +2257,7 @@
     <w_ id="0cku" dep="0ckw-cc">
       <w lemma="а" ana="conj:coord">А</w>
     </w_>
-    <w_ id="0ckv" dep="0ckw-advmod">
+    <w_ id="0ckv" dep="0ckw-advmod" hdep="0ckw-collect">
       <w lemma="потім" ana="adv:&amp;pron:dem">потім</w>
     </w_>
     <w_ id="0ckw">

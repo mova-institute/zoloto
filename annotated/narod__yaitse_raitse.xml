@@ -341,7 +341,7 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0dmr"/>
-    <w_ id="0dms" dep="0dmu-nsubj">
+    <w_ id="0dms" dep="0dmu-nsubj" hdep="0dmu-distrib">
       <w lemma="миша" ana="noun:anim:f:v_naz">Миша</w>
     </w_>
     <w_ id="0dmt" dep="0dmu-discourse">
@@ -350,13 +350,13 @@
     <w_ id="0dmu">
       <w lemma="взяти" ana="verb:perf:past:f">взяла</w>
     </w_>
-    <w_ id="0dmv" dep="0dmu-obj">
+    <w_ id="0dmv" dep="0dmu-obj" hdep="0dmu-private">
       <w lemma="зерно" ana="noun:inanim:n:v_zna">зерно</w>
     </w_>
     <w_ id="0dmw" dep="0dmx-case">
       <w lemma="в" ana="prep:rv_zna:v-u">в</w>
     </w_>
-    <w_ id="0dmx" dep="0dmu-obl">
+    <w_ id="0dmx" dep="0dmu-obl" hdep="0dmu-private">
       <w lemma="зуб" ana="noun:inanim:p:m:v_zna">зуби</w>
     </w_>
     <w_ id="0dmy" dep="0dn2-cc">
@@ -1240,13 +1240,13 @@
       <w lemma="!" ana="punct">!</w>
     </w_>
     <sb id="0dv5"/>
-    <w_ id="0dv6" dep="0dv7-advmod">
+    <w_ id="0dv6" dep="0dv7-advmod" hdep="0dv7-private">
       <w lemma="не" ana="part:neg">Не</w>
     </w_>
     <w_ id="0dv7">
       <w lemma="бити" ana="verb:imperf:impr:s:2">бий</w>
     </w_>
-    <w_ id="0dv8" dep="0dv7-obj">
+    <w_ id="0dv8" dep="0dv7-obj" hdep="0dv7-distrib">
       <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
     </w_>
     <w_ id="0dv9" dep="0dva-cc">

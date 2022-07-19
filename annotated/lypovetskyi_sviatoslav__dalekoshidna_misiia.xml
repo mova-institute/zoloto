@@ -584,7 +584,7 @@
     <w_ id="2fuw" dep="2fux-amod" n="179">
       <w lemma="1934" ana="adj:m:v_mis:nv:&amp;numr">1934</w>
     </w_>
-    <w_ id="2fux" dep="2fv0-obl" n="180">
+    <w_ id="2fux" dep="2fv0-obl" hdep="2fv0-distrib" n="180">
       <w lemma="р." ana="noun:inanim:m:v_mis:nv:np:abbr">р</w>
     </w_>
     <g/>
@@ -600,7 +600,7 @@
     <w_ id="2fv1" dep="2fv2-amod" n="184">
       <w lemma="обширний" ana="adj:f:v_zna:bad">обширну</w>
     </w_>
-    <w_ id="2fv2" dep="2fv0-obj" n="185">
+    <w_ id="2fv2" dep="2fv0-obj" hdep="2fv0-distrib" n="185">
       <w lemma="записка" ana="noun:inanim:f:v_zna">записку</w>
     </w_>
     <w_ id="2fv3" dep="2fv4-case" n="186">
@@ -1885,16 +1885,16 @@
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="2g6s"/>
-    <w_ id="2g6t" dep="2g6v-nummod:gov" n="587">
+    <w_ id="2g6t" dep="2g6v-nummod:gov" hdep="2g6v-private" n="587">
       <w lemma="двоє" ana="numr:v_naz">Двоє</w>
     </w_>
-    <w_ id="2g6u" dep="2g6v-amod" n="588">
+    <w_ id="2g6u" dep="2g6v-amod" hdep="2g6v-private" n="588">
       <w lemma="безпосередній" ana="adj:p:v_rod:compb">безпосередніх</w>
     </w_>
-    <w_ id="2g6v" dep="2g7e-nsubj" n="589">
+    <w_ id="2g6v" dep="2g7e-nsubj" comment="#цікаво якби головою був числівник, то не довелося б тягнути всі ці private" hdep="2g7e-distrib" n="589">
       <w lemma="учасник" ana="noun:anim:p:m:v_rod">учасників</w>
     </w_>
-    <w_ id="2g6w" dep="2g6v-nmod" n="590">
+    <w_ id="2g6w" dep="2g6v-nmod" hdep="2g6v-private" n="590">
       <w lemma="напад" ana="noun:inanim:m:v_rod">нападу</w>
     </w_>
     <w_ id="2g6x" dep="2g6v-flat:title" n="591">
@@ -2031,7 +2031,7 @@
     <w_ id="2g84" n="633">
       <w lemma="взяти" ana="verb:perf:futr:p:3">візьмуть</w>
     </w_>
-    <w_ id="2g85" dep="2g84-obj" n="634">
+    <w_ id="2g85" dep="2g84-obj" hdep="2g84-private" n="634">
       <w lemma="участь" ana="noun:inanim:f:v_zna">участь</w>
     </w_>
     <w_ id="2g86" dep="2g87-case" n="635">
@@ -2398,7 +2398,7 @@
     <w_ id="2gbg" dep="2gbh-punct" n="745">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2gbh" dep="2gbj-discourse" n="746">
+    <w_ id="2gbh" dep="2gbj-discourse" comment="~ distrib?" hdep="2gbj-distrib" n="746">
       <w lemma="наприклад" ana="adv">наприклад</w>
     </w_>
     <g/>
