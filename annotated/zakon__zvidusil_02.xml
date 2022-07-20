@@ -309,7 +309,7 @@
       <w_ id="2ylc" dep="2yld-amod" n="96">
         <w lemma="узгоджений" ana="adj:f:v_naz:&amp;adjp:perf:pasv">Узгоджена</w>
       </w_>
-      <w_ id="2yld" dep="2ylg-nsubj" edep="2ylh-nsubj:sp" n="97">
+      <w_ id="2yld" dep="2ylg-nsubj" edep="2ylh-nsubj:pred" n="97">
         <w lemma="сума" ana="noun:inanim:f:v_naz">сума</w>
       </w_>
       <w_ id="2yle" dep="2ylf-amod" n="98">
@@ -321,7 +321,7 @@
       <w_ id="2ylg" n="100">
         <w lemma="ставати" ana="verb:imperf:pres:s:3">стає</w>
       </w_>
-      <w_ id="2ylh" dep="2ylg-xcomp:sp" n="101">
+      <w_ id="2ylh" dep="2ylg-xcomp:pred" n="101">
         <w lemma="доступний" ana="adj:f:v_oru:compb">доступною</w>
       </w_>
       <w_ id="2yli" dep="2ylh-iobj" edep="2yll-nsubj:rel" n="102">
@@ -2438,7 +2438,7 @@
       <w_ id="2z48" dep="2z46-conj" n="748">
         <w lemma="повноважний" ana="adj:m:v_zna:ranim">Повноважного</w>
       </w_>
-      <w_ id="2z49" dep="2z45-obj" edep="2z4k-nsubj:sp" n="749">
+      <w_ id="2z49" dep="2z45-obj" edep="2z4k-nsubj:pred" n="749">
         <w lemma="посол" ana="noun:anim:m:v_zna">Посла</w>
       </w_>
       <w_ id="2z4a" dep="2z49-nmod" n="750">
@@ -2471,7 +2471,7 @@
       <w_ id="2z4j" dep="2z4h-conj" n="759">
         <w lemma="повноважний" ana="adj:m:v_oru">Повноважним</w>
       </w_>
-      <w_ id="2z4k" dep="2z45-xcomp:sp" n="760">
+      <w_ id="2z4k" dep="2z45-xcomp:pred" n="760">
         <w lemma="посол" ana="noun:anim:m:v_oru">Послом</w>
       </w_>
       <w_ id="2z4l" dep="2z4k-nmod" n="761">
@@ -2507,7 +2507,7 @@
       <w_ id="2z4w" n="769">
         <w lemma="призначити" ana="verb:perf:inf">Призначити</w>
       </w_>
-      <w_ id="2z4x" dep="2z4w-obj" edep="2z50-nsubj:sp" n="770">
+      <w_ id="2z4x" dep="2z4w-obj" edep="2z50-nsubj:pred" n="770">
         <w lemma="Лабуш" ana="noun:anim:m:v_zna:prop:lname">ЛАБУША</w>
       </w_>
       <w_ id="2z4y" dep="2z4x-flat:name" n="771">
@@ -2516,7 +2516,7 @@
       <w_ id="2z4z" dep="2z4x-flat:name" n="772">
         <w lemma="Васильович" ana="noun:anim:m:v_zna:prop:patr">Васильовича</w>
       </w_>
-      <w_ id="2z50" dep="2z4w-xcomp:sp" n="773">
+      <w_ id="2z50" dep="2z4w-xcomp:pred" n="773">
         <w lemma="голова" ana="noun:anim:m:v_oru">головою</w>
       </w_>
       <w_ id="2z51" dep="2z54-amod" n="774">
@@ -5520,7 +5520,7 @@
       <w_ id="2zw8" n="1685">
         <w lemma="визнати" ana="verb:perf:inf">Визнати</w>
       </w_>
-      <w_ id="2zw9" dep="2zw8-xcomp:sp" edep="2zwc-nsubj:rel" n="1686">
+      <w_ id="2zw9" dep="2zw8-xcomp:pred" edep="2zwc-nsubj:rel" n="1686">
         <w lemma="такий" ana="adj:p:v_oru:&amp;pron:dem">такими</w>
       </w_>
       <g/>
@@ -5543,7 +5543,7 @@
       <w_ id="2zwf" dep="2zwg-det" n="1692">
         <w lemma="деякий" ana="adj:p:v_zna:rinanim:&amp;pron:ind">деякі</w>
       </w_>
-      <w_ id="2zwg" dep="2zw8-obj" edep="2zw9-nsubj:sp" n="1693">
+      <w_ id="2zwg" dep="2zw8-obj" edep="2zw9-nsubj:pred" n="1693">
         <w lemma="наказ" ana="noun:inanim:p:m:v_zna">накази</w>
       </w_>
       <w_ id="2zwh" dep="2zwg-nmod" n="1694">
@@ -7951,7 +7951,7 @@
         <w lemma="громада" ana="noun:inanim:f:v_rod">громади</w>
       </w_>
       <!-- <w_ id="30i2" n="2444"><w lemma="та" ana="conj:coord">та</w></w_> -->
-      <w_ id="30i3" dep="30i9-xcomp:sp" n="2445">
+      <w_ id="30i3" dep="30i9-xcomp:pred" n="2445">
         <w lemma="центр" ana="noun:inanim:m:v_oru">центром</w>
       </w_>
       <w_ id="30i4" dep="30i7-punct" n="2446">
@@ -7978,7 +7978,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="30ib" dep="30i9-obj" edep="30i3-nsubj:sp" n="2453">
+      <w_ id="30ib" dep="30i9-obj" edep="30i3-nsubj:pred" n="2453">
         <w lemma="селище" ana="noun:inanim:n:v_zna">селище</w>
       </w_>
       <w_ id="30ic" dep="30ib-flat:title" n="2454">

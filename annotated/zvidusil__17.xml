@@ -275,7 +275,7 @@
       <w_ id="29el" dep="29em-det">
         <w lemma="весь" ana="adj:m:v_naz:&amp;pron:gen">весь</w>
       </w_>
-      <w_ id="29em" dep="29es-nsubj" edep="29f1-nsubj:sp" hdep="29es-distrib">
+      <w_ id="29em" dep="29es-nsubj" edep="29f1-nsubj:pred" hdep="29es-distrib">
         <w lemma="процес" ana="noun:inanim:m:v_naz">процес</w>
       </w_>
       <w_ id="29en" dep="29eo-case">
@@ -323,7 +323,7 @@
         <w lemma="«" ana="punct:quote">«</w>
       </w_>
       <g/>
-      <w_ id="29f1" dep="29ez-xcomp:sp">
+      <w_ id="29f1" dep="29ez-xcomp:pred">
         <w lemma="дозрівання" ana="noun:inanim:n:v_oru">дозріванням</w>
       </w_>
       <g/>
@@ -837,13 +837,13 @@
       <w_ id="29jm" dep="29jo-punct">
         <w lemma=":" ana="punct">:</w>
       </w_>
-      <w_ id="29jn" dep="29jo-nsubj" tags="promoted" edep="29jp-nsubj:sp">
+      <w_ id="29jn" dep="29jo-nsubj" tags="promoted" edep="29jp-nsubj:pred">
         <w lemma="один" ana="adj:f:v_naz:&amp;pron:ind">одна</w>
       </w_>
       <w_ id="29jo" dep="29ji-parataxis">
         <w lemma="називатися" ana="verb:rev:imperf:past:f">називалася</w>
       </w_>
-      <w_ id="29jp" dep="29jo-xcomp:sp">
+      <w_ id="29jp" dep="29jo-xcomp:pred">
         <w lemma="міський" ana="adj:f:v_oru">міською</w>
       </w_>
       <w_ id="29jq" dep="29jr-punct">
@@ -853,7 +853,7 @@
       <w_ id="29jr" dep="29jo-parataxis">
         <w lemma="вважатися" ana="verb:rev:imperf:past:f">вважалася</w>
       </w_>
-      <w_ id="29js" dep="29jr-xcomp:sp" comment="#xsubj-from-head">
+      <w_ id="29js" dep="29jr-xcomp:pred" comment="#xsubj-from-head">
         <w lemma="комунальний" ana="adj:f:v_oru">комунальною</w>
       </w_>
       <g/>
@@ -880,7 +880,7 @@
       <w_ id="29jy" dep="29jz-case">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
-      <w_ id="29jz" dep="29jv-orphan|3cc2-xcomp:sp">
+      <w_ id="29jz" dep="29jv-orphan|3cc2-xcomp:pred">
         <w lemma="тополька" ana="noun:inanim:p:f:v_mis">Топольках</w>
       </w_>
       <g/>
@@ -1396,7 +1396,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="29om"/>
-      <w_ id="29on" dep="29oq-xcomp:sp">
+      <w_ id="29on" dep="29oq-xcomp:pred">
         <w lemma="привід" ana="noun:inanim:m:v_oru">Приводом</w>
       </w_>
       <w_ id="29oo" dep="29op-case">
@@ -1408,7 +1408,7 @@
       <w_ id="29oq">
         <w lemma="стати" ana="verb:perf:past:p">стали</w>
       </w_>
-      <w_ id="29or" dep="29oq-nsubj" edep="29on-nsubj:sp">
+      <w_ id="29or" dep="29oq-nsubj" edep="29on-nsubj:pred">
         <w lemma="зневоднення" ana="noun:inanim:n:v_naz">зневоднення</w>
       </w_>
       <w_ id="29os" dep="29ou-cc">
@@ -3812,13 +3812,13 @@
       <w_ id="2aaa" dep="2aac-advmod">
         <w lemma="мимоволі" ana="adv">Мимоволі</w>
       </w_>
-      <w_ id="2aab" dep="2aac-nsubj" edep="2aad-nsubj:sp">
+      <w_ id="2aab" dep="2aac-nsubj" edep="2aad-nsubj:pred">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="2aac">
         <w lemma="ставати" ana="verb:imperf:pres:s:3">стає</w>
       </w_>
-      <w_ id="2aad" dep="2aac-xcomp:sp">
+      <w_ id="2aad" dep="2aac-xcomp:pred">
         <w lemma="жертва" ana="noun:anim:f:v_oru">жертвою</w>
       </w_>
       <w_ id="2aae" dep="2aad-nmod">
@@ -5269,7 +5269,7 @@
     <gap/>
     <p id="2ani" set="dev">
       <sb id="2anj"/>
-      <w_ id="2ank" dep="2anl-nsubj" edep="2ao2-nsubj:sp">
+      <w_ id="2ank" dep="2anl-nsubj" edep="2ao2-nsubj:pred">
         <w lemma="літак" ana="noun:inanim:m:v_naz">Літак</w>
       </w_>
       <w_ id="2anl">
@@ -5326,7 +5326,7 @@
         <w lemma="-" ana="punct:hyphen">-</w>
       </w_>
       <g/>
-      <w_ id="2ao2" dep="2anl-xcomp:sp">
+      <w_ id="2ao2" dep="2anl-xcomp:pred">
         <w lemma="високоплан" ana="noun:inanim:m:v_naz">високоплан</w>
       </w_>
       <w_ id="2ao3" dep="2ao4-amod">

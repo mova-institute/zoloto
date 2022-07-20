@@ -27,13 +27,13 @@
       <w_ id="2oip" dep="2oiu-csubj" n="6">
         <w lemma="використовувати" ana="verb:imperf:inf">Використовувати</w>
       </w_>
-      <w_ id="2oiq" dep="2oip-obj" edep="2ois-nsubj:sp" n="7">
+      <w_ id="2oiq" dep="2oip-obj" edep="2ois-nsubj:pred" n="7">
         <w lemma="ліс" ana="noun:inanim:m:v_zna">ліс</w>
       </w_>
       <w_ id="2oir" dep="2ois-mark" n="8">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="2ois" dep="2oip-advcl:sp" comment="отут не прикладка!" n="9">
+      <w_ id="2ois" dep="2oip-advcl:pred" comment="отут не прикладка!" n="9">
         <w lemma="декорація" ana="noun:inanim:p:f:v_zna">декорації</w>
       </w_>
       <w_ id="2oit" dep="2oiu-punct" n="10">
@@ -844,7 +844,7 @@
       <w_ id="2oqc" dep="2oqd-mark" n="245">
         <w lemma="як" ana="conj:subord">Як</w>
       </w_>
-      <w_ id="2oqd" dep="2oqe-advcl:sp" comment="~ #xsubj-from-head" n="246">
+      <w_ id="2oqd" dep="2oqe-advcl:pred" comment="~ #xsubj-from-head" n="246">
         <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
       </w_>
       <w_ id="2oqe" n="247">
@@ -929,13 +929,13 @@
   <doc id="2or5" tags="autotitle" author="" date="" genre="коментар" src="https://www.youtube.com/watch?v=xrm86T6G4eo&amp;lc=z13oxxbjioihfba0s22qzjkhqwjghrgjf04.1494674283896111" title="[Дешевою її зовнішність я б точно не назвав…]">
     <p id="2or6">
       <sb id="30od"/>
-      <w_ id="2or7" dep="2ore-xcomp:sp" n="271">
+      <w_ id="2or7" dep="2ore-xcomp:pred" n="271">
         <w lemma="дешевий" ana="adj:f:v_oru:compb">Дешевою</w>
       </w_>
       <w_ id="2or8" dep="2or9-det" n="272">
         <w lemma="її" ana="adj:f:v_zna:poss:nv:&amp;pron:pers:3">її</w>
       </w_>
-      <w_ id="2or9" dep="2ore-obj" edep="2or7-nsubj:sp" n="273">
+      <w_ id="2or9" dep="2ore-obj" edep="2or7-nsubj:pred" n="273">
         <w lemma="зовнішність" ana="noun:inanim:f:v_zna">зовнішність</w>
       </w_>
       <w_ id="2ora" dep="2ore-nsubj" n="274">
@@ -4921,13 +4921,13 @@
       <w_ id="2prz" dep="2ps1-advmod" n="1440">
         <w lemma="коли" ana="adv:&amp;pron:int">коли</w>
       </w_>
-      <w_ id="2ps0" dep="2ps1-nsubj" edep="2ps2-nsubj:sp" n="1441">
+      <w_ id="2ps0" dep="2ps1-nsubj" edep="2ps2-nsubj:pred" n="1441">
         <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
       </w_>
       <w_ id="2ps1" dep="2prx-ccomp" n="1442">
         <w lemma="стати" ana="verb:perf:past:f">стала</w>
       </w_>
-      <w_ id="2ps2" dep="2ps1-xcomp:sp" n="1443">
+      <w_ id="2ps2" dep="2ps1-xcomp:pred" n="1443">
         <w lemma="рудий" ana="adj:f:v_oru:compb">рудою</w>
       </w_>
       <w_ id="2ps3" dep="2psq-punct" n="1444">

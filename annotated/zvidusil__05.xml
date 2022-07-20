@@ -17,10 +17,10 @@
       <w_ id="1peb" dep="1pea-obj">
         <w lemma="компанія" ana="noun:inanim:f:v_zna">компанію</w>
       </w_>
-      <w_ id="1pec" dep="1peb-flat:title" edep="1ped-nsubj:sp">
+      <w_ id="1pec" dep="1peb-flat:title" edep="1ped-nsubj:pred">
         <w lemma="Google" ana="x:foreign">Google</w>
       </w_>
-      <w_ id="1ped" dep="1pea-xcomp:sp" comment="~">
+      <w_ id="1ped" dep="1pea-xcomp:pred" comment="~">
         <w lemma="такий" ana="adj:f:v_oru:&amp;pron:dem">такою</w>
       </w_>
       <g/>
@@ -654,7 +654,7 @@
       <w_ id="1pk5" dep="1pk8-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1pk6" dep="1pk8-xcomp:sp">
+      <w_ id="1pk6" dep="1pk8-xcomp:pred">
         <w lemma="жертва" ana="noun:anim:p:f:v_oru">жертвами</w>
       </w_>
       <w_ id="1pk7" dep="1pk6-nmod" coref="1pjq-equality">
@@ -663,7 +663,7 @@
       <w_ id="1pk8" dep="1pjq-acl">
         <w lemma="стати" ana="verb:perf:past:p">стали</w>
       </w_>
-      <w_ id="1pk9" dep="1pk8-nsubj" edep="1pk6-nsubj:sp">
+      <w_ id="1pk9" dep="1pk8-nsubj" edep="1pk6-nsubj:pred">
         <w lemma="десяток" ana="noun:inanim:p:m:v_naz">десятки</w>
       </w_>
       <w_ id="1pka" dep="1pk9-nmod">
@@ -1347,7 +1347,7 @@
       <w_ id="1pqb" dep="1pqa-xcomp" comment="#xsubj-is-phantom-iobj">
         <w lemma="стати" ana="verb:perf:inf">стати</w>
       </w_>
-      <w_ id="1pqc" dep="1pqb-xcomp:sp" comment="#xsubj-from-head">
+      <w_ id="1pqc" dep="1pqb-xcomp:pred" comment="#xsubj-from-head">
         <w lemma="свідок" ana="noun:anim:m:v_oru">свідком</w>
       </w_>
       <w_ id="1pqd" dep="1pqc-nmod">
@@ -3572,7 +3572,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1qap"/>
-      <w_ id="1qaq" dep="1qar-nsubj" edep="1qau-nsubj:sp">
+      <w_ id="1qaq" dep="1qar-nsubj" edep="1qau-nsubj:pred">
         <w lemma="Аушвіц" ana="noun:inanim:m:v_naz:prop">Аушвіц</w>
       </w_>
       <w_ id="1qar">
@@ -3584,7 +3584,7 @@
       <w_ id="1qat" dep="1qar-obl">
         <w lemma="світ" ana="noun:inanim:m:v_rod">світу</w>
       </w_>
-      <w_ id="1qau" dep="1qar-xcomp:sp">
+      <w_ id="1qau" dep="1qar-xcomp:pred">
         <w lemma="символ" ana="noun:inanim:m:v_oru">символом</w>
       </w_>
       <w_ id="1qav" dep="1qau-nmod">

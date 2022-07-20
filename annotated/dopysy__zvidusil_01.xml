@@ -393,7 +393,7 @@
       <w_ id="30t6" n="121">
         <w lemma="зробити" ana="verb:perf:impr:p:2">зробіть</w>
       </w_>
-      <w_ id="30t7" dep="30t6-obj" coref="30sy-equality" edep="30tb-nsubj:sp" n="122">
+      <w_ id="30t7" dep="30t6-obj" coref="30sy-equality" edep="30tb-nsubj:pred" n="122">
         <w lemma="вони" ana="noun:p:v_zna:&amp;pron:pers:3">їх</w>
       </w_>
       <w_ id="30t8" dep="30tb-amod" n="123">
@@ -405,7 +405,7 @@
       <w_ id="30ta" dep="30t8-obl" n="125">
         <w lemma="користування" ana="noun:inanim:n:v_rod">користування</w>
       </w_>
-      <w_ id="30tb" dep="30t6-xcomp:sp" comment="~" n="126">
+      <w_ id="30tb" dep="30t6-xcomp:pred" comment="~" n="126">
         <w lemma="розмір" ana="noun:inanim:m:v_rod">розміру</w>
       </w_>
       <g/>
@@ -4571,7 +4571,7 @@
       <w_ id="31wb" dep="31wc-amod" n="1380">
         <w lemma="попередній" ana="adj:p:v_zna:rinanim">попередні</w>
       </w_>
-      <w_ id="31wc" dep="31wd-obj" edep="31wg-nsubj:sp" n="1381">
+      <w_ id="31wc" dep="31wd-obj" edep="31wg-nsubj:pred" n="1381">
         <w lemma="квартира" ana="noun:inanim:p:f:v_zna">квартири</w>
       </w_>
       <w_ id="31wd" n="1382">
@@ -4583,7 +4583,7 @@
       <w_ id="31wf" dep="31wg-amod" n="1384">
         <w lemma="хороший" ana="adj:m:v_mis:compb">хорошому</w>
       </w_>
-      <w_ id="31wg" dep="31wd-advcl:sp" comment="#цікаво ~" n="1385">
+      <w_ id="31wg" dep="31wd-advcl:pred" comment="#цікаво ~" n="1385">
         <w lemma="стан" ana="noun:inanim:m:v_mis">стані</w>
       </w_>
       <g/>
@@ -5422,7 +5422,7 @@
       <w_ id="3244" dep="3245-case" n="1638">
         <w lemma="з" ana="prep:rv_oru">з</w>
       </w_>
-      <w_ id="3245" dep="3249-advcl:sp" n="1639">
+      <w_ id="3245" dep="3249-advcl:pred" n="1639">
         <w lemma="картопля" ana="noun:inanim:f:v_oru">картоплею</w>
       </w_>
       <w_ id="3246" dep="3247-case" n="1640">
@@ -5431,7 +5431,7 @@
       <w_ id="3247" dep="3245-nmod" n="1641">
         <w lemma="мундир" ana="noun:inanim:m:v_mis">мундирі</w>
       </w_>
-      <w_ id="3248" dep="3249-nsubj" edep="3245-nsubj:sp" n="1642">
+      <w_ id="3248" dep="3249-nsubj" edep="3245-nsubj:pred" n="1642">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="3249" dep="323r-conj:parataxis" comment="граматична помилка, калька з російської" n="1643">
@@ -6313,7 +6313,7 @@
       <w_ id="32cj" dep="32cl-punct" n="1903">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="32ck" dep="32cl-nsubj" edep="32co-nsubj:sp" hdep="32cl-distrib" n="1904">
+      <w_ id="32ck" dep="32cl-nsubj" edep="32co-nsubj:pred" hdep="32cl-distrib" n="1904">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="32cl" dep="32ci-parataxis" n="1905">
@@ -6325,7 +6325,7 @@
       <w_ id="32cn" dep="32co-advmod" n="1907">
         <w lemma="настільки" ana="adv:&amp;pron:dem">настільки</w>
       </w_>
-      <w_ id="32co" dep="32cl-xcomp:sp" n="1908">
+      <w_ id="32co" dep="32cl-xcomp:pred" n="1908">
         <w lemma="проникливий" ana="adj:m:v_naz:compb">проникливий</w>
       </w_>
       <g/>
@@ -7019,14 +7019,14 @@
       <w_ id="32j2" dep="32ix-acl" correct="вважають">
         <w lemma="вважати" ana="verb:imperf:pres:p:3">важають</w>
       </w_>
-      <w_ id="32j3" dep="32j2-obj" edep="32j6-nsubj:sp" n="2113">
+      <w_ id="32j3" dep="32j2-obj" edep="32j6-nsubj:pred" n="2113">
         <w lemma="це" ana="noun:inanim:n:v_zna:&amp;pron:dem">це</w>
       </w_>
       <!-- <w_ id="32j4" n="2114"><w lemma="це" ana="error">це</w></w_> -->
       <w_ id="32j5" dep="32j6-amod" n="2115">
         <w lemma="єдиний" ana="adj:m:v_oru">єдиним</w>
       </w_>
-      <w_ id="32j6" dep="32j2-xcomp:sp" n="2116">
+      <w_ id="32j6" dep="32j2-xcomp:pred" n="2116">
         <w lemma="спосіб" ana="noun:inanim:m:v_oru:odd">спосібом</w>
       </w_>
       <w_ id="32j7" dep="32j6-acl" n="2117">
@@ -7083,13 +7083,13 @@
         <w lemma="," ana="punct">,</w>
       </w_>
       <g/>
-      <w_ id="32jn" dep="32jo-nsubj" edep="32jp-nsubj:sp" n="2132">
+      <w_ id="32jn" dep="32jo-nsubj" edep="32jp-nsubj:pred" n="2132">
         <w lemma="ви" ana="noun:anim:p:v_naz:&amp;pron:pers:2">Ви</w>
       </w_>
       <w_ id="32jo" dep="32jh-parataxis" n="2133">
         <w lemma="виглядати" ana="verb:imperf:pres:p:2">виглядаєте</w>
       </w_>
-      <w_ id="32jp" dep="32jo-xcomp:sp" comment="~" n="2134">
+      <w_ id="32jp" dep="32jo-xcomp:pred" comment="~" n="2134">
         <w lemma="гарний" ana="adj:f:v_oru:compb">гарною</w>
       </w_>
       <w_ id="32jq" dep="32jr-cc" n="2135">
@@ -7752,7 +7752,7 @@
       <w_ id="32pz" dep="32q3-mark" n="2333">
         <w lemma="якщо" ana="conj:subord">Якщо</w>
       </w_>
-      <w_ id="32q0" dep="32q3-xcomp:sp" n="2334">
+      <w_ id="32q0" dep="32q3-xcomp:pred" n="2334">
         <w lemma="хресний" ana="adj:m:v_oru:&amp;noun:anim" lemma2="хресний">хресним</w>
       </w_>
       <g/>
@@ -7766,10 +7766,10 @@
       <w_ id="32q3" dep="32qi-advcl" n="2337">
         <w lemma="стати" ana="verb:perf:past:f">стала</w>
       </w_>
-      <w_ id="32q4" dep="32q3-nsubj" edep="32q0-nsubj:sp" n="2338">
+      <w_ id="32q4" dep="32q3-nsubj" edep="32q0-nsubj:pred" n="2338">
         <w lemma="людина" ana="noun:anim:f:v_naz">людина</w>
       </w_>
-      <w_ id="32q5" dep="32q9-nsubj" edep="32qd-nsubj:sp|32q4-ref" n="2339">
+      <w_ id="32q5" dep="32q9-nsubj" edep="32qd-nsubj:pred|32q4-ref" n="2339">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="32q6" dep="32q9-advmod" n="2340">
@@ -7793,7 +7793,7 @@
       <w_ id="32qc" dep="32q9-conj" n="2346">
         <w lemma="являтися" ana="verb:rev:imperf:pres:s:3">являється</w>
       </w_>
-      <w_ id="32qd" dep="32qc-xcomp:sp" n="2347">
+      <w_ id="32qd" dep="32qc-xcomp:pred" n="2347">
         <w lemma="противник" ana="noun:anim:m:v_oru">противником</w>
       </w_>
       <w_ id="32qe" dep="32qd-nmod" n="2348">

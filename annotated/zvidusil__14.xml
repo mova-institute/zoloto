@@ -65,7 +65,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="24d8"/>
-      <w_ id="24d9" dep="24da-nsubj" coref="24cq-equality" edep="24dg-nsubj:x|24dh-nsubj:sp">
+      <w_ id="24d9" dep="24da-nsubj" coref="24cq-equality" edep="24dg-nsubj:x|24dh-nsubj:pred">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">Вона</w>
       </w_>
       <w_ id="24da">
@@ -91,7 +91,7 @@
       <w_ id="24dg" dep="24da-xcomp">
         <w lemma="стояти" ana="verb:imperf:inf">стояти</w>
       </w_>
-      <w_ id="24dh" dep="24dg-advcl:sp" hdep="24dg-distrib">
+      <w_ id="24dh" dep="24dg-advcl:pred" hdep="24dg-distrib">
         <w lemma="напівроздягнений" ana="adj:f:v_naz:&amp;adjp:perf:pasv">напівроздягнена</w>
       </w_>
       <w_ id="24di" dep="24dj-cc">
@@ -205,7 +205,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="24ei"/>
-      <w_ id="24ej" dep="24ek-iobj" comment-equality="цікаво що з першої Вер" coref="24cq-equality" edep="24el-nsubj:x|24em-nsubj:sp">
+      <w_ id="24ej" dep="24ek-iobj" comment-equality="цікаво що з першої Вер" coref="24cq-equality" edep="24el-nsubj:x|24em-nsubj:pred">
         <w lemma="вона" ana="noun:f:v_dav:&amp;pron:pers:3">Їй</w>
       </w_>
       <w_ id="24ek">
@@ -214,7 +214,7 @@
       <w_ id="24el" dep="24ek-xcomp">
         <w lemma="лишатися" ana="verb:rev:imperf:inf">лишатися</w>
       </w_>
-      <w_ id="24em" dep="24el-xcomp:sp" mark="reviewed">
+      <w_ id="24em" dep="24el-xcomp:pred" mark="reviewed">
         <w lemma="незворушений" ana="adj:f:v_oru:&amp;adjp:perf:pasv:auto">незворушеною</w>
       </w_>
       <g/>
@@ -909,7 +909,7 @@
       <w_ id="24l1" dep="24l2-amod">
         <w lemma="енергетичний" ana="adj:n:v_naz">Енергетичне</w>
       </w_>
-      <w_ id="24l2" dep="24l4-nsubj" edep="24l5-nsubj:sp" hdep="24l4-distrib">
+      <w_ id="24l2" dep="24l4-nsubj" edep="24l5-nsubj:pred" hdep="24l4-distrib">
         <w lemma="підприємство" ana="noun:inanim:n:v_naz">підприємство</w>
       </w_>
       <w_ id="24l3" dep="24l4-advmod" hdep="24l4-private">
@@ -918,7 +918,7 @@
       <w_ id="24l4">
         <w lemma="називатися" ana="verb:rev:imperf:pres:s:3">називається</w>
       </w_>
-      <w_ id="24l5" dep="24l4-xcomp:sp" mark="resolved">
+      <w_ id="24l5" dep="24l4-xcomp:pred" mark="resolved">
         <w lemma="ВП" ana="noun:inanim:n:v_naz:nv:abbr">ВП</w>
       </w_>
       <w_ id="24l6" dep="24la-punct">
@@ -3450,7 +3450,7 @@
       <w_ id="257z" dep="2580-amod">
         <w lemma="сучасний" ana="adj:f:v_naz:compb">Сучасна</w>
       </w_>
-      <w_ id="2580" dep="2582-nsubj" mark="resolved" edep="2586-nsubj:sp">
+      <w_ id="2580" dep="2582-nsubj" mark="resolved" edep="2586-nsubj:pred">
         <w lemma="Ш." ana="noun:inanim:f:v_naz:nv:abbr">Ш</w>
       </w_>
       <g/>
@@ -3469,7 +3469,7 @@
       <w_ id="2585" dep="2586-amod">
         <w lemma="виробничий" ana="adj:f:v_zna">виробничу</w>
       </w_>
-      <w_ id="2586" dep="2582-xcomp:sp">
+      <w_ id="2586" dep="2582-xcomp:pred">
         <w lemma="система" ana="noun:inanim:f:v_zna">систему</w>
       </w_>
       <w_ id="2587" dep="2588-amod">
@@ -4622,13 +4622,13 @@
       <w_ id="25hs" dep="25hu-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="25ht" dep="25hu-nsubj" edep="25hv-nsubj:sp">
+      <w_ id="25ht" dep="25hu-nsubj" edep="25hv-nsubj:pred">
         <w lemma="пацан" ana="noun:anim:p:m:v_naz">пацани</w>
       </w_>
       <w_ id="25hu" dep="25hq-csubj">
         <w lemma="виявитися" ana="verb:rev:perf:past:p">виявилися</w>
       </w_>
-      <w_ id="25hv" dep="25hu-xcomp:sp">
+      <w_ id="25hv" dep="25hu-xcomp:pred">
         <w lemma="досвідчений" ana="adj:p:v_oru:compb">досвідченими</w>
       </w_>
       <g/>
@@ -5405,7 +5405,7 @@
       <w_ id="25p1" dep="25ow-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25p2" dep="25p3-nsubj" coref="25ol-equality" edep="25p5-nsubj:sp">
+      <w_ id="25p2" dep="25p3-nsubj" coref="25ol-equality" edep="25p5-nsubj:pred">
         <w lemma="вона" ana="noun:f:v_naz:&amp;pron:pers:3">вона</w>
       </w_>
       <w_ id="25p3">
@@ -5414,7 +5414,7 @@
       <w_ id="25p4" dep="25p5-amod">
         <w lemma="кар’єрний" ana="adj:m:v_oru">кар’єрним</w>
       </w_>
-      <w_ id="25p5" dep="25p3-xcomp:sp">
+      <w_ id="25p5" dep="25p3-xcomp:pred">
         <w lemma="виклик" ana="noun:inanim:m:v_oru">викликом</w>
       </w_>
       <w_ id="25p6" dep="25pd-punct">
@@ -5537,7 +5537,7 @@
       <w_ id="25q7" dep="25pw-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="25q8" dep="25qc-nsubj" mark="reviewed" edep="25qe-nsubj:sp">
+      <w_ id="25q8" dep="25qc-nsubj" mark="reviewed" edep="25qe-nsubj:pred">
         <w lemma="запрошення" ana="noun:inanim:n:v_naz">запрошення</w>
       </w_>
       <w_ id="25q9" dep="25qa-case">
@@ -5555,7 +5555,7 @@
       <w_ id="25qd" dep="25qe-amod">
         <w lemma="важливий" ana="adj:m:v_oru:compb">важливим</w>
       </w_>
-      <w_ id="25qe" dep="25qc-xcomp:sp">
+      <w_ id="25qe" dep="25qc-xcomp:pred">
         <w lemma="крок" ana="noun:inanim:m:v_oru">кроком</w>
       </w_>
       <w_ id="25qf" dep="25qg-case">

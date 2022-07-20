@@ -504,7 +504,7 @@
       <w_ id="1sb9" dep="1sbc-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1sba" dep="1sbc-obj" edep="1sbd-nsubj:sp|1sb6-ref">
+      <w_ id="1sba" dep="1sbc-obj" edep="1sbd-nsubj:pred|1sb6-ref">
         <w lemma="який" ana="adj:m:v_zna:rinanim:&amp;pron:rel">який</w>
       </w_>
       <w_ id="1sbb" dep="1sbc-nsubj">
@@ -513,7 +513,7 @@
       <w_ id="1sbc" dep="1sb6-acl">
         <w lemma="звати" ana="verb:imperf:pres:s:1">зву</w>
       </w_>
-      <w_ id="1sbd" dep="1sbc-xcomp:sp">
+      <w_ id="1sbd" dep="1sbc-xcomp:pred">
         <w lemma="муран" ana="noun:anim:m:v_oru">мураном</w>
       </w_>
       <w_ id="1sbe" dep="1sbg-punct">
@@ -2315,13 +2315,13 @@
       <w_ id="1srq" dep="1srr-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="1srr" dep="1srs-xcomp:sp" correct="ім’я">
+      <w_ id="1srr" dep="1srs-xcomp:pred" correct="ім’я">
         <w lemma="ім’я" ana="noun:inanim:n:v_zna">імя</w>
       </w_>
       <w_ id="1srs">
         <w lemma="обирати" ana="verb:imperf:pres:s:3">обирає</w>
       </w_>
-      <w_ id="1srt" dep="1srs-obj" comment="#цікаво" edep="1srr-nsubj:sp">
+      <w_ id="1srt" dep="1srs-obj" comment="#цікаво" edep="1srr-nsubj:pred">
         <w lemma="край" ana="noun:inanim:m:v_zna">край</w>
       </w_>
       <w_ id="1sru" dep="1srt-nmod">
@@ -2516,7 +2516,7 @@
       <w_ id="1stk" dep="1stl-amod">
         <w lemma="модний" ana="adj:n:v_oru:compb">модним</w>
       </w_>
-      <w_ id="1stl" dep="1stj-obl" comment="#цікаво як не :sp">
+      <w_ id="1stl" dep="1stj-obl" comment="#цікаво як не :pred">
         <w lemma="слово" ana="noun:inanim:n:v_oru">словом</w>
       </w_>
       <w_ id="1stm" dep="1stl-flat:title">
@@ -7115,7 +7115,7 @@
       <w_ id="1u0f" dep="1u0h-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="1u0g" dep="1u0h-nsubj" coref="1u0b-equality" edep="1u0j-nsubj:sp">
+      <w_ id="1u0g" dep="1u0h-nsubj" coref="1u0b-equality" edep="1u0j-nsubj:pred">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="1u0h" dep="1u0c-conj:parataxis">
@@ -7124,7 +7124,7 @@
       <w_ id="1u0i" dep="1u0j-advmod">
         <w lemma="більш" ana="adv:compr">більш</w>
       </w_>
-      <w_ id="1u0j" dep="1u0h-xcomp:sp">
+      <w_ id="1u0j" dep="1u0h-xcomp:pred">
         <w lemma="чутливий" ana="adj:p:v_oru:compb">чутливими</w>
       </w_>
       <w_ id="1u0k" dep="1u0o-cc">

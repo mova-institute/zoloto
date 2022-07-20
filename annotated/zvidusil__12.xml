@@ -309,7 +309,7 @@
       <w_ id="224b" dep="224c-discourse">
         <w lemma="от" ana="part">от</w>
       </w_>
-      <w_ id="224c" dep="224g-obj" edep="224h-nsubj:sp">
+      <w_ id="224c" dep="224g-obj" edep="224h-nsubj:pred">
         <w lemma="big" ana="x:foreign">big</w>
       </w_>
       <w_ id="224d" dep="224c-flat:foreign">
@@ -324,7 +324,7 @@
       <w_ id="224g" dep="224f-csubj">
         <w lemma="назвати" ana="verb:perf:inf">назвати</w>
       </w_>
-      <w_ id="224h" dep="224g-xcomp:sp">
+      <w_ id="224h" dep="224g-xcomp:pred">
         <w lemma="замінник" ana="noun:inanim:m:v_oru">замінником</w>
       </w_>
       <w_ id="224i" dep="224h-nmod">
@@ -1315,7 +1315,7 @@
         <w_ id="22dq" dep="22dp-punct">
           <w lemma="," ana="punct">,</w>
         </w_>
-        <w_ id="22dr" dep="22ds-nsubj" edep="22du-nsubj:sp">
+        <w_ id="22dr" dep="22ds-nsubj" edep="22du-nsubj:pred">
           <w lemma="турок" ana="noun:anim:p:m:v_naz">турки</w>
         </w_>
         <w_ id="22ds">
@@ -1324,7 +1324,7 @@
         <w_ id="22dt" dep="22du-amod">
           <w lemma="добрий" ana="adj:p:v_oru:compb">добрими</w>
         </w_>
-        <w_ id="22du" dep="22ds-xcomp:sp">
+        <w_ id="22du" dep="22ds-xcomp:pred">
           <w lemma="вояк" ana="noun:anim:p:m:v_oru">вояками</w>
         </w_>
         <g/>
@@ -1742,7 +1742,7 @@
         <w_ id="22hm">
           <w lemma="стати" ana="verb:perf:past:n">стало</w>
         </w_>
-        <w_ id="22hn" dep="22hm-xcomp:sp">
+        <w_ id="22hn" dep="22hm-xcomp:pred">
           <w lemma="ясно" ana="adv:compb">ясно</w>
         </w_>
         <g/>
@@ -1802,7 +1802,7 @@
         <w_ id="22i5" dep="22i3-conj">
           <w lemma="противник" ana="noun:anim:m:v_oru">противником</w>
         </w_>
-        <w_ id="22i6" dep="22hm-csubj" edep="22hn-csubj:sp">
+        <w_ id="22i6" dep="22hm-csubj" edep="22hn-csubj:pred">
           <w lemma="стояти" ana="verb:imperf:past:f">стояла</w>
         </w_>
         <w_ id="22i7" dep="22i8-amod">
@@ -2248,13 +2248,13 @@
       <w_ id="22m8" dep="22m4-obl">
         <w lemma="агітація" ana="noun:inanim:f:v_rod">агітації</w>
       </w_>
-      <w_ id="22m9" dep="22m3-nsubj" edep="22mb-nsubj:sp">
+      <w_ id="22m9" dep="22m3-nsubj" edep="22mb-nsubj:pred">
         <w lemma="Кріппс" ana="noun:anim:m:v_naz:prop:lname">Кріппс</w>
       </w_>
       <w_ id="22ma" dep="22mb-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="22mb" dep="22m3-xcomp:sp">
+      <w_ id="22mb" dep="22m3-xcomp:pred">
         <w lemma="льорд" ana="noun:anim:m:v_naz:odd">льорд</w>
       </w_>
       <w_ id="22mc" dep="22mb-nmod" hdep="22mb-private">
@@ -2397,7 +2397,7 @@
       <w_ id="22nl" dep="22n9-acl">
         <w lemma="висмівати" ana="verb:imperf:past:m:rare">висмівав</w>
       </w_>
-      <w_ id="22nm" dep="22nl-obj" edep="22np-nsubj:sp">
+      <w_ id="22nm" dep="22nl-obj" edep="22np-nsubj:pred">
         <w lemma="Черчіль" ana="noun:anim:m:v_zna:prop:lname:odd">Черчіля</w>
       </w_>
       <g/>
@@ -2407,7 +2407,7 @@
       <w_ id="22no" dep="22np-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="22np" dep="22nl-xcomp:sp">
+      <w_ id="22np" dep="22nl-xcomp:pred">
         <w lemma="недотепа" ana="noun:anim:m:v_zna">недотепу</w>
       </w_>
       <g/>

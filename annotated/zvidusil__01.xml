@@ -1194,7 +1194,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1ldx"/>
-      <w_ id="1ldy" dep="1le0-obj" edep="1le1-nsubj:sp">
+      <w_ id="1ldy" dep="1le0-obj" edep="1le1-nsubj:pred">
         <w lemma="театр" ana="noun:inanim:m:v_zna">Театр</w>
       </w_>
       <w_ id="1ldz" dep="1le0-nsubj">
@@ -1203,7 +1203,7 @@
       <w_ id="1le0">
         <w lemma="вбачати" ana="verb:imperf:pres:s:1:v-u">вбачаю</w>
       </w_>
-      <w_ id="1le1" dep="1le0-xcomp:sp">
+      <w_ id="1le1" dep="1le0-xcomp:pred">
         <w lemma="гіпербола" ana="noun:inanim:f:v_oru">гіперболою</w>
       </w_>
       <w_ id="1le2" dep="1le3-amod">
@@ -2140,7 +2140,7 @@
       <w_ id="1lmz" dep="1lmv-acl:irrel">
         <w lemma="вважати" ana="verb:imperf:pres:s:3">вважає</w>
       </w_>
-      <w_ id="1ln0" dep="1lmz-xcomp:sp">
+      <w_ id="1ln0" dep="1lmz-xcomp:pred">
         <w lemma="неприпустимий" ana="adj:p:v_oru">неприпустимими</w>
       </w_>
       <w_ id="1ln1" dep="1ln2-cc">
@@ -2149,7 +2149,7 @@
       <w_ id="1ln2" dep="1ln0-conj">
         <w lemma="образливий" ana="adj:p:v_oru:compb">образливими</w>
       </w_>
-      <w_ id="1ln3" dep="1lmz-obj" edep="1ln0-nsubj:sp">
+      <w_ id="1ln3" dep="1lmz-obj" edep="1ln0-nsubj:pred">
         <w lemma="висловлювання" ana="noun:inanim:n:v_zna">висловлювання</w>
       </w_>
       <w_ id="1ln4" dep="1ln3-nmod">
@@ -2243,10 +2243,10 @@
       <w_ id="1lny" dep="1lnz-amod">
         <w lemma="російський" ana="adj:m:v_zna:ranim">російського</w>
       </w_>
-      <w_ id="1lnz" dep="1lnx-obj" edep="1lo0-nsubj:sp">
+      <w_ id="1lnz" dep="1lnx-obj" edep="1lo0-nsubj:pred">
         <w lemma="президент" ana="noun:anim:m:v_zna">президента</w>
       </w_>
-      <w_ id="1lo0" dep="1lnx-xcomp:sp">
+      <w_ id="1lo0" dep="1lnx-xcomp:pred">
         <w lemma="вбивця" ana="noun:anim:m:v_oru:v-u">вбивцею</w>
       </w_>
       <g/>
@@ -2489,7 +2489,7 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="1lq7"/>
-      <w_ id="1lq8" dep="1lq9-nsubj" coref="1lpk-equality" edep="1lqa-nsubj:x|1lqe-nsubj:sp">
+      <w_ id="1lq8" dep="1lq9-nsubj" coref="1lpk-equality" edep="1lqa-nsubj:x|1lqe-nsubj:pred">
         <w lemma="захід" ana="noun:inanim:m:v_naz">Захід</w>
       </w_>
       <w_ id="1lq9">
@@ -2507,7 +2507,7 @@
       <w_ id="1lqd" dep="1lqe-amod">
         <w lemma="омріяний" ana="adj:m:v_oru:&amp;adjp:perf:pasv">омріяним</w>
       </w_>
-      <w_ id="1lqe" dep="1lqa-xcomp:sp">
+      <w_ id="1lqe" dep="1lqa-xcomp:pred">
         <w lemma="місток" ana="noun:inanim:m:v_oru">містком</w>
       </w_>
       <g/>
@@ -2529,7 +2529,7 @@
       <w_ id="1lqk" dep="1lql-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="1lql" dep="1lqg-advcl" tags="promoted" comment="~:sp?">
+      <w_ id="1lql" dep="1lqg-advcl" tags="promoted" comment="~:pred?">
         <w lemma="наймолодший" ana="adj:m:v_naz:super">наймолодший</w>
       </w_>
       <w_ id="1lqm" dep="1lqo-case">
@@ -3840,13 +3840,13 @@
       <w_ id="1m2h" dep="1m2i-advmod">
         <w lemma="конкретно" ana="adv:compb">конкретно</w>
       </w_>
-      <w_ id="1m2i" dep="1m2j-nsubj" edep="1m2k-nsubj:sp">
+      <w_ id="1m2i" dep="1m2j-nsubj" edep="1m2k-nsubj:pred">
         <w lemma="проблема" ana="noun:inanim:p:f:v_naz">проблеми</w>
       </w_>
       <w_ id="1m2j" dep="1m2e-acl:irrel">
         <w lemma="виявитися" ana="verb:rev:perf:past:p">виявилися</w>
       </w_>
-      <w_ id="1m2k" dep="1m2j-xcomp:sp">
+      <w_ id="1m2k" dep="1m2j-xcomp:pred">
         <w lemma="нездоланний" ana="adj:p:v_oru">нездоланними</w>
       </w_>
       <g/>

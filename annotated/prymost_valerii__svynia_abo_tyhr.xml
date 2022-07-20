@@ -11,13 +11,13 @@
     <w_ id="2lla" dep="2llb-det" n="2">
       <w lemma="цей" ana="adj:p:v_naz:&amp;pron:dem">ці</w>
     </w_>
-    <w_ id="2llb" dep="2llc-nsubj" edep="2lld-nsubj:sp" n="3">
+    <w_ id="2llb" dep="2llc-nsubj" edep="2lld-nsubj:pred" n="3">
       <w lemma="успіх" ana="noun:inanim:p:m:v_naz">успіхи</w>
     </w_>
     <w_ id="2llc" n="4">
       <w lemma="стати" ana="verb:perf:past:p">стали</w>
     </w_>
-    <w_ id="2lld" dep="2llc-xcomp:sp" n="5">
+    <w_ id="2lld" dep="2llc-xcomp:pred" n="5">
       <w lemma="можливий" ana="adj:p:v_oru">можливими</w>
     </w_>
     <w_ id="2lle" dep="2llf-discourse" n="6">
@@ -934,7 +934,7 @@
     <w_ id="2ltn" dep="2lto-amod" n="288">
       <w lemma="окремий" ana="adj:m:v_oru">Окремим</w>
     </w_>
-    <w_ id="2lto" dep="2ltr-xcomp:sp" n="289">
+    <w_ id="2lto" dep="2ltr-xcomp:pred" n="289">
       <w lemma="аспект" ana="noun:inanim:m:v_oru">аспектом</w>
     </w_>
     <w_ id="2ltp" dep="2ltq-det" n="290">
@@ -946,7 +946,7 @@
     <w_ id="2ltr" n="292">
       <w lemma="стати" ana="verb:perf:past:n">стало</w>
     </w_>
-    <w_ id="2lts" dep="2ltr-nsubj" edep="2lto-nsubj:sp" n="293">
+    <w_ id="2lts" dep="2ltr-nsubj" edep="2lto-nsubj:pred" n="293">
       <w lemma="очищення" ana="noun:inanim:n:v_naz">очищення</w>
     </w_>
     <w_ id="2ltt" dep="2ltu-amod" n="294">
@@ -1319,7 +1319,7 @@
     <w_ id="2lx5" dep="2lx6-amod" n="407">
       <w lemma="важливий" ana="adj:m:v_oru:compb">важливим</w>
     </w_>
-    <w_ id="2lx6" dep="2lx7-xcomp:sp" n="408">
+    <w_ id="2lx6" dep="2lx7-xcomp:pred" n="408">
       <w lemma="пункт" ana="noun:inanim:m:v_oru">пунктом</w>
     </w_>
     <w_ id="2lx7" n="409">
@@ -1329,7 +1329,7 @@
       <w lemma="«" ana="punct:quote">«</w>
     </w_>
     <g/>
-    <w_ id="2lx9" dep="2lx7-nsubj" edep="2lx6-nsubj:sp" n="411">
+    <w_ id="2lx9" dep="2lx7-nsubj" edep="2lx6-nsubj:pred" n="411">
       <w lemma="корпоративізація" ana="noun:inanim:f:v_naz">корпоративізація</w>
     </w_>
     <g/>
@@ -1617,7 +1617,7 @@
     <w_ id="2lzr" dep="2lzw-advmod" edep="2lzp-ref" n="497">
       <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
     </w_>
-    <w_ id="2lzs" dep="2lzw-nsubj" comment="#multi_names" edep="2lzz-nsubj:sp" n="498">
+    <w_ id="2lzs" dep="2lzw-nsubj" comment="#multi_names" edep="2lzz-nsubj:pred" n="498">
       <w lemma="Лі" ana="noun:anim:m:v_naz:nv:np:prop:lname">Лі</w>
     </w_>
     <w_ id="2lzt" dep="2lzs-flat:name" n="499">
@@ -1640,7 +1640,7 @@
       <w lemma="-" ana="punct:hyphen">-</w>
     </w_>
     <g/>
-    <w_ id="2lzz" dep="2lzw-xcomp:sp" n="505">
+    <w_ id="2lzz" dep="2lzw-xcomp:pred" n="505">
       <w lemma="міністр" ana="noun:anim:m:v_oru">міністром</w>
     </w_>
     <g/>

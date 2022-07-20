@@ -385,7 +385,7 @@
       <w_ id="207y" dep="207z-amod">
         <w lemma="прийнятий" ana="adj:f:v_oru:&amp;adjp:perf:pasv">прийнятою</w>
       </w_>
-      <w_ id="207z" dep="207x-xcomp:sp">
+      <w_ id="207z" dep="207x-xcomp:pred">
         <w lemma="назва" ana="noun:inanim:f:v_oru">назвою</w>
       </w_>
       <w_ id="2080" dep="2081-det">
@@ -394,7 +394,7 @@
       <w_ id="2081" dep="207z-nmod" coref="207d-equality">
         <w lemma="вид" ana="noun:inanim:m:v_rod">виду</w>
       </w_>
-      <w_ id="2082" dep="207x-obj" edep="207z-nsubj:sp">
+      <w_ id="2082" dep="207x-obj" edep="207z-nsubj:pred">
         <w lemma="Cyanus" ana="x:foreign">Cyanus</w>
       </w_>
       <w_ id="2083" dep="2082-flat:foreign">
@@ -410,7 +410,7 @@
       <w_ id="2086" dep="2089-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="2087" dep="2089-obj" edep="208b-nsubj:sp">
+      <w_ id="2087" dep="2089-obj" edep="208b-nsubj:pred">
         <w lemma="Centaurea" ana="x:foreign">Centaurea</w>
       </w_>
       <w_ id="2088" dep="2087-flat:foreign">
@@ -422,7 +422,7 @@
       <w_ id="208a" dep="208b-mark">
         <w lemma="як" ana="conj:subord">як</w>
       </w_>
-      <w_ id="208b" dep="2089-xcomp:sp">
+      <w_ id="208b" dep="2089-xcomp:pred">
         <w lemma="синонім" ana="noun:inanim:m:v_zna">синонім</w>
       </w_>
       <g/>
@@ -445,10 +445,10 @@
       <w_ id="208h" dep="208i-amod">
         <w lemma="прийнятий" ana="adj:f:v_oru:&amp;adjp:perf:pasv">прийнятою</w>
       </w_>
-      <w_ id="208i" dep="208g-xcomp:sp">
+      <w_ id="208i" dep="208g-xcomp:pred">
         <w lemma="назва" ana="noun:inanim:f:v_oru">назвою</w>
       </w_>
-      <w_ id="208j" dep="208g-obj" coref="2087-equality" edep="208i-nsubj:sp">
+      <w_ id="208j" dep="208g-obj" coref="2087-equality" edep="208i-nsubj:pred">
         <w lemma="Centaurea" ana="x:foreign">Centaurea</w>
       </w_>
       <w_ id="208k" dep="208j-flat:foreign">
@@ -473,7 +473,7 @@
       <w_ id="208p" dep="208q-punct">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="208q" dep="208n-orphan|3ccx-xcomp:sp">
+      <w_ id="208q" dep="208n-orphan|3ccx-xcomp:pred">
         <w lemma="синонім" ana="noun:inanim:m:v_oru">синонімом</w>
       </w_>
       <g/>
@@ -3581,7 +3581,7 @@
       <w_ id="211q" dep="211m-conj">
         <w lemma="вважати" ana="verb:imperf:pres:p:3">вважають</w>
       </w_>
-      <w_ id="211r" dep="211q-obj" edep="211u-nsubj:sp">
+      <w_ id="211r" dep="211q-obj" edep="211u-nsubj:pred">
         <w lemma="актор" ana="noun:anim:m:v_zna">актора</w>
       </w_>
       <w_ id="211s" dep="211u-det">
@@ -3590,7 +3590,7 @@
       <w_ id="211t" dep="211u-amod">
         <w lemma="дорогий" ana="adj:m:v_oru:compb">дорогим</w>
       </w_>
-      <w_ id="211u" dep="211q-xcomp:sp">
+      <w_ id="211u" dep="211q-xcomp:pred">
         <w lemma="гість" ana="noun:anim:m:v_oru">гостем</w>
       </w_>
       <g/>
@@ -5505,13 +5505,13 @@
       <w_ id="21jv" dep="21jw-det">
         <w lemma="його" ana="adj:m:v_naz:poss:nv:&amp;pron:pers:3">Його</w>
       </w_>
-      <w_ id="21jw" dep="21jx-nsubj" edep="21jy-nsubj:sp">
+      <w_ id="21jw" dep="21jx-nsubj" edep="21jy-nsubj:pred">
         <w lemma="дід" ana="noun:anim:m:v_naz">дід</w>
       </w_>
       <w_ id="21jx">
         <w lemma="працювати" ana="verb:imperf:past:m">працював</w>
       </w_>
-      <w_ id="21jy" dep="21jx-xcomp:sp" comment="~">
+      <w_ id="21jy" dep="21jx-xcomp:pred" comment="~">
         <w lemma="лісоруб" ana="noun:anim:m:v_oru">лісорубом</w>
       </w_>
       <g/>
@@ -5881,10 +5881,10 @@
       <w_ id="21nf" dep="21nc-obl">
         <w lemma="війна" ana="noun:inanim:f:v_mis">війні</w>
       </w_>
-      <w_ id="21ng" dep="21nc-obj" edep="21nh-nsubj:sp">
+      <w_ id="21ng" dep="21nc-obj" edep="21nh-nsubj:pred">
         <w lemma="перемога" ana="noun:inanim:f:v_zna">перемогу</w>
       </w_>
-      <w_ id="21nh" dep="21nc-xcomp:sp">
+      <w_ id="21nh" dep="21nc-xcomp:pred">
         <w lemma="можливий" ana="adj:f:v_oru">можливою</w>
       </w_>
       <w_ id="21ni" dep="21nj-cc">
@@ -6268,7 +6268,7 @@
       <w_ id="21qz" dep="21qt-conj">
         <w lemma="вважати" ana="verb:imperf:pres:s:3">вважає</w>
       </w_>
-      <w_ id="21r0" dep="21qz-xcomp:sp">
+      <w_ id="21r0" dep="21qz-xcomp:pred">
         <w lemma="шкідливий" ana="adj:p:v_oru:compb">шкідливими</w>
       </w_>
       <w_ id="21r1" dep="21r2-case">
@@ -6283,7 +6283,7 @@
       <w_ id="21r4" dep="21r3-advmod">
         <w lemma="там" ana="adv:&amp;pron:dem">там</w>
       </w_>
-      <w_ id="21r5" dep="21qz-obj" edep="21r0-nsubj:sp">
+      <w_ id="21r5" dep="21qz-obj" edep="21r0-nsubj:pred">
         <w lemma="туман" ana="noun:inanim:p:m:v_zna">тумани</w>
       </w_>
       <g/>
@@ -6396,7 +6396,7 @@
       <w_ id="21s7" dep="21s8-det">
         <w lemma="цей" ana="adj:p:v_zna:rinanim:&amp;pron:dem">Ці</w>
       </w_>
-      <w_ id="21s8" dep="21s9-obj" edep="21sc-nsubj:sp">
+      <w_ id="21s8" dep="21s9-obj" edep="21sc-nsubj:pred">
         <w lemma="земля" ana="noun:inanim:p:f:v_zna">землі</w>
       </w_>
       <w_ id="21s9">
@@ -6408,7 +6408,7 @@
       <w_ id="21sb" dep="21sc-amod">
         <w lemma="нехристиянізований" ana="adj:m:v_oru:&amp;adjp:perf:pasv:auto">нехристиянізованим</w>
       </w_>
-      <w_ id="21sc" dep="21s9-xcomp:sp">
+      <w_ id="21sc" dep="21s9-xcomp:pred">
         <w lemma="закуток" ana="noun:inanim:m:v_oru">закутком</w>
       </w_>
       <w_ id="21sd" dep="21sc-nmod">
@@ -7018,7 +7018,7 @@
       <w_ id="21y2" dep="21y5-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="21y3" dep="21y5-nsubj" edep="21yb-nsubj:x|21yc-nsubj:sp|21y1-ref">
+      <w_ id="21y3" dep="21y5-nsubj" edep="21yb-nsubj:x|21yc-nsubj:pred|21y1-ref">
         <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
       </w_>
       <w_ id="21y4" dep="21y5-advmod">
@@ -7045,7 +7045,7 @@
       <w_ id="21yb" dep="21ya-xcomp">
         <w lemma="послугувати" ana="verb:perf:inf:rare">послугувати</w>
       </w_>
-      <w_ id="21yc" dep="21yb-xcomp:sp" comment="~">
+      <w_ id="21yc" dep="21yb-xcomp:pred" comment="~">
         <w lemma="ключ" ana="noun:inanim:m:v_oru">ключем</w>
       </w_>
       <w_ id="21yd" dep="21yf-case">

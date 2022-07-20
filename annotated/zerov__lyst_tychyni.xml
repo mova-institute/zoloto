@@ -58,7 +58,7 @@
     <w_ id="1jmd">
       <w lemma="вважати" ana="verb:imperf:pres:p:2">вважаєте</w>
     </w_>
-    <w_ id="1jme" dep="1jmd-xcomp:sp">
+    <w_ id="1jme" dep="1jmd-xcomp:pred">
       <w lemma="потрібний" ana="adj:n:v_oru:compb">потрібним</w>
     </w_>
     <w_ id="1jmf" dep="1jmd-xcomp" edep="1jme-csubj:x">
@@ -1172,7 +1172,7 @@
     <w_ id="1jwf" dep="1jwj-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1jwg" dep="1jwj-obj" edep="1jwl-nsubj:sp|1jwe-ref">
+    <w_ id="1jwg" dep="1jwj-obj" edep="1jwl-nsubj:pred|1jwe-ref">
       <w lemma="який" ana="adj:m:v_zna:ranim:&amp;pron:rel">якого</w>
     </w_>
     <w_ id="1jwh" dep="1jwj-nsubj">
@@ -1188,7 +1188,7 @@
       <w lemma="«" ana="punct:quote">«</w>
     </w_>
     <g/>
-    <w_ id="1jwl" dep="1jwj-xcomp:sp">
+    <w_ id="1jwl" dep="1jwj-xcomp:pred">
       <w lemma="Руссо" ana="noun:anim:m:v_naz:nv:np:prop:lname">Руссо</w>
     </w_>
     <g/>
@@ -2230,7 +2230,7 @@
     <w_ id="1k5u" dep="1k5v-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="1k5v" dep="1k5o-conj" edep="1k63-nsubj:rel|1k66-nsubj:sp">
+    <w_ id="1k5v" dep="1k5o-conj" edep="1k63-nsubj:rel|1k66-nsubj:pred">
       <w lemma="все" ana="noun:inanim:n:v_zna:&amp;pron:gen:v-u">все</w>
     </w_>
     <g/>
@@ -2266,7 +2266,7 @@
     <w_ id="1k65" dep="1k64-discourse">
       <w lemma="же" ana="part">же</w>
     </w_>
-    <w_ id="1k66" dep="1k63-xcomp:sp">
+    <w_ id="1k66" dep="1k63-xcomp:pred">
       <w lemma="труп" ana="noun:inanim:m:v_oru">трупом</w>
     </w_>
     <g/>

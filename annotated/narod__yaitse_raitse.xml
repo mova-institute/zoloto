@@ -6729,7 +6729,7 @@
     <w_ id="0fbr" dep="0fbs-det">
       <w lemma="цей" ana="adj:n:v_naz:&amp;pron:dem">це</w>
     </w_>
-    <w_ id="0fbs" dep="0fbu-nsubj" comment="~ ¿щоб це було готове advcl:sp&gt; все">
+    <w_ id="0fbs" dep="0fbu-nsubj" comment="~ ¿щоб це було готове advcl:pred&gt; все">
       <w lemma="все" ana="noun:inanim:n:v_naz:&amp;pron:gen:v-u">все</w>
     </w_>
     <w_ id="0fbt" dep="0fbu-cop">
@@ -8858,13 +8858,13 @@
       <w lemma="!" ana="punct">!</w>
     </w_>
     <sb id="0fw5"/>
-    <w_ id="0fw6" dep="0fw7-nsubj" edep="0fw8-nsubj:sp">
+    <w_ id="0fw6" dep="0fw7-nsubj" edep="0fw8-nsubj:pred">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">Я</w>
     </w_>
     <w_ id="0fw7">
       <w lemma="перекинутися" ana="verb:rev:perf:futr:s:1">перекинусь</w>
     </w_>
-    <w_ id="0fw8" dep="0fw7-xcomp:sp">
+    <w_ id="0fw8" dep="0fw7-xcomp:pred">
       <w lemma="пшениця" ana="noun:inanim:f:v_oru">пшеницею</w>
     </w_>
     <g/>
@@ -8874,13 +8874,13 @@
     <w_ id="0fwa" dep="0fwb-cc|3cdo-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0fwb" dep="0fw7-conj:parataxis|3cdo-nsubj" edep="0fwc-nsubj:sp">
+    <w_ id="0fwb" dep="0fw7-conj:parataxis|3cdo-nsubj" edep="0fwc-nsubj:pred">
       <w lemma="ти" ana="noun:anim:s:v_naz:&amp;pron:pers:2">ти</w>
     </w_>
     <w_ id="3cdo" dep="0fw7-conj:parataxis" ellipsis="predicate">
       <w lemma="перекинутися" ana="verb:rev:perf:futr:s:2">перекинешся</w>
     </w_>
-    <w_ id="0fwc" dep="0fwb-orphan|3cdo-xcomp:sp" comment="~">
+    <w_ id="0fwc" dep="0fwb-orphan|3cdo-xcomp:pred" comment="~">
       <w lemma="дід" ana="noun:anim:m:v_oru">дідом</w>
     </w_>
     <g/>
@@ -9258,7 +9258,7 @@
     <w_ id="0g00" dep="0g01-amod">
       <w lemma="зміїний" ana="adj:f:v_naz">Зміїна</w>
     </w_>
-    <w_ id="0g01" dep="0g02-nsubj" edep="0g04-nsubj:sp">
+    <w_ id="0g01" dep="0g02-nsubj" edep="0g04-nsubj:pred">
       <w lemma="дочка" ana="noun:anim:f:v_naz">дочка</w>
     </w_>
     <w_ id="0g02">
@@ -9267,7 +9267,7 @@
     <w_ id="0g03" dep="0g02-advmod" comment="цікаво: не знов зробилась? acl:adv?">
       <w lemma="ізнов" ana="adv">ізнов</w>
     </w_>
-    <w_ id="0g04" dep="0g02-xcomp:sp">
+    <w_ id="0g04" dep="0g02-xcomp:pred">
       <w lemma="людина" ana="noun:anim:f:v_oru">людиною</w>
     </w_>
     <g/>
@@ -9286,7 +9286,7 @@
     <w_ id="3cdp" dep="0g02-conj:parataxis" ellipsis="predicate">
       <w lemma="зробитися" ana="verb:rev:perf:past:m">зробився</w>
     </w_>
-    <w_ id="0g09" dep="0g08-orphan|3cdp-xcomp:sp" comment="~">
+    <w_ id="0g09" dep="0g08-orphan|3cdp-xcomp:pred" comment="~">
       <w lemma="парубок" ana="noun:anim:m:v_oru">парубком</w>
     </w_>
     <g/>
@@ -9779,10 +9779,10 @@
     <w_ id="0g4x">
       <w lemma="зробитися" ana="verb:rev:perf:futr:s:1">Зроблюся</w>
     </w_>
-    <w_ id="0g4y" dep="0g4x-nsubj" edep="0g4z-nsubj:sp">
+    <w_ id="0g4y" dep="0g4x-nsubj" edep="0g4z-nsubj:pred">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
-    <w_ id="0g4z" dep="0g4x-xcomp:sp">
+    <w_ id="0g4z" dep="0g4x-xcomp:pred">
       <w lemma="монастир" ana="noun:inanim:m:v_oru">монастирем</w>
     </w_>
     <g/>
@@ -9829,7 +9829,7 @@
     <w_ id="0g5b">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="0g5c" dep="0g5a-orphan|3cdq-xcomp:sp">
+    <w_ id="0g5c" dep="0g5a-orphan|3cdq-xcomp:pred">
       <w lemma="чернець" ana="noun:anim:m:v_oru">ченцем</w>
     </w_>
     <g/>
@@ -10506,13 +10506,13 @@
     <w_ id="0gbs" dep="0gbu-nsubj">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
-    <w_ id="0gbt" dep="0gbu-obj" edep="0gbv-nsubj:sp">
+    <w_ id="0gbt" dep="0gbu-obj" edep="0gbv-nsubj:pred">
       <w lemma="ти" ana="noun:anim:s:v_zna:&amp;pron:pers:2">тебе</w>
     </w_>
     <w_ id="0gbu">
       <w lemma="зробити" ana="verb:perf:futr:s:1">зроблю</w>
     </w_>
-    <w_ id="0gbv" dep="0gbu-xcomp:sp">
+    <w_ id="0gbv" dep="0gbu-xcomp:pred">
       <w lemma="річка" ana="noun:inanim:f:v_oru">річкою</w>
     </w_>
     <g/>
@@ -10522,13 +10522,13 @@
     <w_ id="0gbx" dep="0gbz-cc">
       <w lemma="а" ana="conj:coord">а</w>
     </w_>
-    <w_ id="0gby" dep="0gbz-nsubj" tags="promoted" edep="0gc0-nsubj:sp">
+    <w_ id="0gby" dep="0gbz-nsubj" tags="promoted" edep="0gc0-nsubj:pred">
       <w lemma="сам" ana="adj:f:v_naz:&amp;pron:refl">сама</w>
     </w_>
     <w_ id="0gbz" dep="0gbu-conj:parataxis">
       <w lemma="зробитися" ana="verb:rev:perf:futr:s:1">зроблюсь</w>
     </w_>
-    <w_ id="0gc0" dep="0gbz-xcomp:sp">
+    <w_ id="0gc0" dep="0gbz-xcomp:pred">
       <w lemma="риба" ana="noun:anim:f:v_oru">рибою</w>
     </w_>
     <g/>
@@ -11484,7 +11484,7 @@
     <w_ id="0gkv" dep="0gki-conj:parataxis">
       <w lemma="стати" ana="verb:perf:past:p">стали</w>
     </w_>
-    <w_ id="0gkw" dep="0gkv-xcomp:sp">
+    <w_ id="0gkw" dep="0gkv-xcomp:pred">
       <w lemma="живий" ana="adj:p:v_naz:compb">живі</w>
     </w_>
     <g/>

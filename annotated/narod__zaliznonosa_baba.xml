@@ -3138,7 +3138,7 @@
     <w_ id="0hje" dep="0hjg-advmod">
       <w lemma="тоді" ana="adv:&amp;pron:dem">Тоді</w>
     </w_>
-    <w_ id="0hjf" dep="0hjg-obj" comment="~" edep="0hjl-nsubj:sp" hdep="0hjg-distrib">
+    <w_ id="0hjf" dep="0hjg-obj" comment="~" edep="0hjl-nsubj:pred" hdep="0hjg-distrib">
       <w lemma="ти" ana="noun:anim:s:v_zna:&amp;pron:pers:2">тебе</w>
     </w_>
     <w_ id="0hjg">
@@ -3157,7 +3157,7 @@
     <w_ id="0hjk" dep="0hjg-conj">
       <w lemma="зробити" ana="verb:perf:futr:s:1">зроблю</w>
     </w_>
-    <w_ id="0hjl" dep="0hjk-xcomp:sp">
+    <w_ id="0hjl" dep="0hjk-xcomp:pred">
       <w lemma="щасливий" ana="adj:m:v_oru:compb">щасливим</w>
     </w_>
     <w_ id="0hjm" dep="0hjn-cc">
@@ -3630,13 +3630,13 @@
     <w_ id="0ho1">
       <w lemma="взяти" ana="verb:perf:futr:s:1">Візьму</w>
     </w_>
-    <w_ id="0ho2" dep="0ho1-obj" edep="0ho4-nsubj:sp">
+    <w_ id="0ho2" dep="0ho1-obj" edep="0ho4-nsubj:pred">
       <w lemma="ти" ana="noun:anim:s:v_zna:&amp;pron:pers:2">тебе</w>
     </w_>
     <w_ id="0ho3" dep="0ho4-case">
       <w lemma="за" ana="prep:rv_zna">за</w>
     </w_>
-    <w_ id="0ho4" dep="0ho1-xcomp:sp">
+    <w_ id="0ho4" dep="0ho1-xcomp:pred">
       <w lemma="жінка" ana="noun:anim:f:v_zna">жінку</w>
     </w_>
     <g/>
@@ -5002,7 +5002,7 @@
     <w_ id="0i17" dep="0i18-det">
       <w lemma="свій" ana="adj:f:v_zna:poss:&amp;pron:refl">свою</w>
     </w_>
-    <w_ id="0i18" dep="0i16-obj" edep="0i1b-nsubj:sp">
+    <w_ id="0i18" dep="0i16-obj" edep="0i1b-nsubj:pred">
       <w lemma="мати" ana="noun:anim:f:v_zna">матір</w>
     </w_>
     <w_ id="0i19" dep="0i1b-case">
@@ -5011,7 +5011,7 @@
     <w_ id="0i1a" dep="0i1b-amod">
       <w lemma="переломлений" ana="adj:m:v_oru:&amp;adjp:perf:pasv">переломленим</w>
     </w_>
-    <w_ id="0i1b" dep="0i16-advcl:sp">
+    <w_ id="0i1b" dep="0i16-advcl:pred">
       <w lemma="ніс" ana="noun:inanim:m:v_oru">носом</w>
     </w_>
     <g/>

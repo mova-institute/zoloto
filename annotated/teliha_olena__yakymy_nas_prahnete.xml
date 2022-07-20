@@ -254,7 +254,7 @@
     <w_ id="2xt0" dep="2xt1-advmod" n="75">
       <w lemma="не" ana="part:neg">не</w>
     </w_>
-    <w_ id="2xt1" dep="2xtj-nsubj" edep="2xtk-nsubj:x|2xtl-nsubj:sp" n="76">
+    <w_ id="2xt1" dep="2xtj-nsubj" edep="2xtk-nsubj:x|2xtl-nsubj:pred" n="76">
       <w lemma="феміністка" ana="noun:anim:f:v_naz">феміністка</w>
     </w_>
     <g/>
@@ -317,7 +317,7 @@
     <w_ id="2xtk" dep="2xtj-xcomp" n="95">
       <w lemma="стати" ana="verb:perf:inf">стати</w>
     </w_>
-    <w_ id="2xtl" dep="2xtk-xcomp:sp" n="96">
+    <w_ id="2xtl" dep="2xtk-xcomp:pred" n="96">
       <w lemma="мати" ana="noun:anim:f:v_oru">матір'ю</w>
     </w_>
     <w_ id="2xtm" dep="2xtl-nmod" n="97">
@@ -1979,7 +1979,7 @@
     <w_ id="2y8c" dep="2y8d-amod" n="597">
       <w lemma="жіночий" ana="adj:m:v_naz">жіночий</w>
     </w_>
-    <w_ id="2y8d" dep="2y8g-nsubj" edep="2y8h-nsubj:sp" n="598">
+    <w_ id="2y8d" dep="2y8g-nsubj" edep="2y8h-nsubj:pred" n="598">
       <w lemma="тип" ana="noun:inanim:m:v_naz">тип</w>
     </w_>
     <w_ id="2y8e" dep="2y8f-det" n="599">
@@ -1991,7 +1991,7 @@
     <w_ id="2y8g" n="601">
       <w lemma="стати" ana="verb:perf:past:m">став</w>
     </w_>
-    <w_ id="2y8h" dep="2y8g-xcomp:sp" n="602">
+    <w_ id="2y8h" dep="2y8g-xcomp:pred" n="602">
       <w lemma="тип" ana="noun:inanim:m:v_oru">типом</w>
     </w_>
     <w_ id="2y8i" dep="2y8j-det" n="603">
@@ -2097,14 +2097,14 @@
     <w_ id="2y9f" dep="2y9g-amod" n="633">
       <w lemma="ударний" ana="adj:n:v_zna">ударне</w>
     </w_>
-    <w_ id="2y9g" dep="2y9a-advcl:sp" n="634">
+    <w_ id="2y9g" dep="2y9a-advcl:pred" n="634">
       <w lemma="завдання" ana="noun:inanim:n:v_zna">завдання</w>
     </w_>
     <g/>
     <w_ id="2y9h" dep="2y9g-punct" n="635">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="2y9i" dep="2y9a-obj" edep="2y9g-nsubj:sp" n="636">
+    <w_ id="2y9i" dep="2y9a-obj" edep="2y9g-nsubj:pred" n="636">
       <w lemma="родина" ana="noun:inanim:f:v_zna">родину</w>
     </w_>
     <w_ id="2y9j" dep="2y9k-cc" n="637">

@@ -46,13 +46,13 @@
     <w_ id="13oi" dep="13ok-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="13oj" dep="13ok-nsubj" coref="13oh-equality" edep="13ol-nsubj:sp|13oh-ref">
+    <w_ id="13oj" dep="13ok-nsubj" coref="13oh-equality" edep="13ol-nsubj:pred|13oh-ref">
       <w lemma="який" ana="adj:f:v_naz:&amp;pron:rel">яка</w>
     </w_>
     <w_ id="13ok" dep="13oh-acl">
       <w lemma="залишатися" ana="verb:rev:imperf:pres:s:3">залишається</w>
     </w_>
-    <w_ id="13ol" dep="13ok-xcomp:sp" comment="~" coref="13oj-equality">
+    <w_ id="13ol" dep="13ok-xcomp:pred" comment="~" coref="13oj-equality">
       <w lemma="себе" ana="noun:v_oru:&amp;pron:refl">собою</w>
     </w_>
     <w_ id="13om" dep="13on-case">
@@ -670,13 +670,13 @@
     <w_ id="13ud" dep="13uf-advmod">
       <w lemma="недарма" ana="adv">Недарма</w>
     </w_>
-    <w_ id="13ue" dep="13uf-obj" mark="resolved" coref="13u8-equality" edep="13ug-nsubj:sp">
+    <w_ id="13ue" dep="13uf-obj" mark="resolved" coref="13u8-equality" edep="13ug-nsubj:pred">
       <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
     </w_>
     <w_ id="13uf">
       <w lemma="назвати" ana="verb:perf:past:p">назвали</w>
     </w_>
-    <w_ id="13ug" dep="13uf-xcomp:sp" mark="resolved">
+    <w_ id="13ug" dep="13uf-xcomp:pred" mark="resolved">
       <w lemma="срібний" ana="adj:n:v_oru">срібним</w>
     </w_>
     <g/>
@@ -1230,7 +1230,7 @@
     <w_ id="13zn" dep="13zo-amod">
       <w lemma="зранений" ana="adj:m:v_naz:&amp;adjp:perf:pasv">зранений</w>
     </w_>
-    <w_ id="13zo" dep="13zs-nsubj" comment-equality="читається ніби інший чоловік" coref="13y6-equality" edep="13zt-nsubj:sp|1400-nsubj:x">
+    <w_ id="13zo" dep="13zs-nsubj" comment-equality="читається ніби інший чоловік" coref="13y6-equality" edep="13zt-nsubj:pred|1400-nsubj:x">
       <w lemma="чоловік" ana="noun:anim:m:v_naz">чоловік</w>
     </w_>
     <w_ id="13zp" dep="13zr-case">
@@ -1245,7 +1245,7 @@
     <w_ id="13zs" dep="13zk-acl">
       <w lemma="жити" ana="verb:imperf:past:m">жив</w>
     </w_>
-    <w_ id="13zt" dep="13zs-advcl:sp">
+    <w_ id="13zt" dep="13zs-advcl:pred">
       <w lemma="одинокий" ana="adj:m:v_naz">одинокий</w>
     </w_>
     <g/>
@@ -2506,10 +2506,10 @@
     <w_ id="14bk">
       <w lemma="пробудитися" ana="verb:rev:perf:past:m">Пробудився</w>
     </w_>
-    <w_ id="14bl" dep="14bk-nsubj" edep="14bm-nsubj:sp">
+    <w_ id="14bl" dep="14bk-nsubj" edep="14bm-nsubj:pred">
       <w lemma="я" ana="noun:anim:s:v_naz:&amp;pron:pers:1">я</w>
     </w_>
-    <w_ id="14bm" dep="14bk-advcl:sp">
+    <w_ id="14bm" dep="14bk-advcl:pred">
       <w lemma="голодний" ana="adj:m:v_naz:compb">голодний</w>
     </w_>
     <g/>

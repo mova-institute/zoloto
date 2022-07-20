@@ -43,7 +43,7 @@
       <w_ id="2ats" dep="2aty-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2att" dep="2aty-nsubj" coref="2atm-equality" edep="2au0-nsubj:sp|2atm-ref">
+      <w_ id="2att" dep="2aty-nsubj" coref="2atm-equality" edep="2au0-nsubj:pred|2atm-ref">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="2atu" dep="2atv-amod">
@@ -64,7 +64,7 @@
       <w_ id="2atz" dep="2au0-amod">
         <w lemma="головний" ana="adj:m:v_oru:compb">головним</w>
       </w_>
-      <w_ id="2au0" dep="2aty-xcomp:sp">
+      <w_ id="2au0" dep="2aty-xcomp:pred">
         <w lemma="лікар" ana="noun:anim:m:v_oru">лікарем</w>
       </w_>
       <w_ id="2au1" dep="2au2-amod">
@@ -3753,7 +3753,7 @@
       <w_ id="2crq" dep="2crt-nsubj">
         <w lemma="ми" ana="noun:anim:p:v_naz:&amp;pron:pers:1">Ми</w>
       </w_>
-      <w_ id="2crr" dep="2crt-obj" coref="2cri-equality" edep="2cru-nsubj:sp">
+      <w_ id="2crr" dep="2crt-obj" coref="2cri-equality" edep="2cru-nsubj:pred">
         <w lemma="він" ana="noun:m:v_zna:&amp;pron:pers:3">його</w>
       </w_>
       <w_ id="2crs" dep="2crt-advmod">
@@ -3762,7 +3762,7 @@
       <w_ id="2crt">
         <w lemma="називати" ana="verb:imperf:pres:p:1">називаємо</w>
       </w_>
-      <w_ id="2cru" dep="2crt-xcomp:sp">
+      <w_ id="2cru" dep="2crt-xcomp:pred">
         <w lemma="ґоблін" ana="noun:anim:m:v_naz:auto">Ґоблін</w>
       </w_>
       <g/>
@@ -4621,7 +4621,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="2czu" dep="2czs-xcomp:sp" comment="~">
+      <w_ id="2czu" dep="2czs-xcomp:pred" comment="~">
         <w lemma="Дяденко" ana="noun:anim:m:v_naz:prop:lname">Дяденко</w>
       </w_>
       <g/>
@@ -4696,7 +4696,7 @@
       <w_ id="2d0h" dep="2d0j-obl">
         <w lemma="народження" ana="noun:inanim:n:v_rod">народження</w>
       </w_>
-      <w_ id="2d0i" dep="2d0j-nsubj" edep="2d0l-nsubj:sp">
+      <w_ id="2d0i" dep="2d0j-nsubj" edep="2d0l-nsubj:pred">
         <w lemma="піп" ana="noun:anim:m:v_naz">піп</w>
       </w_>
       <w_ id="2d0j" dep="2d0c-csubj">
@@ -4707,7 +4707,7 @@
       </w_>
       <g/>
       <foreign lang="ru">
-        <w_ id="2d0l" dep="2d0j-xcomp:sp" comment="~">
+        <w_ id="2d0l" dep="2d0j-xcomp:pred" comment="~">
           <w lemma="аЛекСей" ana="x:foreign">аЛекСей</w>
         </w_>
       </foreign>
@@ -4744,7 +4744,7 @@
         <w lemma="&quot;" ana="punct:quote">"</w>
       </w_>
       <g/>
-      <w_ id="2d0v" dep="2d0q-orphan|3cih-xcomp:sp">
+      <w_ id="2d0v" dep="2d0q-orphan|3cih-xcomp:pred">
         <w lemma="Алексій" ana="noun:anim:m:v_naz:prop:fname">Алексій</w>
       </w_>
       <g/>

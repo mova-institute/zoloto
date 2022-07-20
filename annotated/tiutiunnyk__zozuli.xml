@@ -490,7 +490,7 @@
           <w_ id="14k5" dep="14k7-obl" mark="reviewed">
             <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
           </w_>
-          <w_ id="14k6" dep="14k7-obj" edep="14kb-nsubj:sp">
+          <w_ id="14k6" dep="14k7-obj" edep="14kb-nsubj:pred">
             <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
           </w_>
           <w_ id="14k7" dep="14jz-parataxis" comment="звідти паратакса?">
@@ -507,7 +507,7 @@
             <w lemma="“" ana="punct:quote">“</w>
           </w_>
           <g/>
-          <w_ id="14kb" dep="14k7-xcomp:sp" edep="14kg-obj:rel">
+          <w_ id="14kb" dep="14k7-xcomp:pred" edep="14kg-obj:rel">
             <w lemma="той" ana="adj:f:v_naz:&amp;pron:dem">та</w>
           </w_>
           <g/>
@@ -793,7 +793,7 @@
       <w_ id="14mw" dep="14n3-advmod">
         <w lemma="тоді" ana="adv:&amp;pron:dem">тоді</w>
       </w_>
-      <w_ id="14mx" dep="14n3-obj" edep="14n6-nsubj:sp">
+      <w_ id="14mx" dep="14n3-obj" edep="14n6-nsubj:pred">
         <w lemma="вона" ana="noun:f:v_zna:&amp;pron:pers:3">її</w>
       </w_>
       <w_ id="14my" dep="14mz-case">
@@ -821,7 +821,7 @@
       <w_ id="14n5" dep="14n6-amod">
         <w lemma="маленький" ana="adj:f:v_oru">маленькою</w>
       </w_>
-      <w_ id="14n6" dep="14n3-xcomp:sp">
+      <w_ id="14n6" dep="14n3-xcomp:pred">
         <w lemma="Марфа" ana="noun:anim:f:v_oru:prop:fname">Марфою</w>
       </w_>
       <g/>
@@ -1640,7 +1640,7 @@
     <w_ id="14us" dep="14ut-amod">
       <w lemma="Марфин" ana="adj:p:v_naz">Марфині</w>
     </w_>
-    <w_ id="14ut" dep="14uu-nsubj" edep="14v4-nsubj:sp" hdep="14uu-distrib">
+    <w_ id="14ut" dep="14uu-nsubj" edep="14v4-nsubj:pred" hdep="14uu-distrib">
       <w lemma="око" ana="noun:inanim:p:n:v_naz">очі</w>
     </w_>
     <w_ id="14uu">
@@ -1673,7 +1673,7 @@
     <w_ id="14v3" dep="14v4-advmod" mark="reviewed">
       <w lemma="ще" ana="adv">ще</w>
     </w_>
-    <w_ id="14v4" dep="14ux-advcl:sp">
+    <w_ id="14v4" dep="14ux-advcl:pred">
       <w lemma="синіший" ana="adj:p:v_naz:compr">синіші</w>
     </w_>
     <g/>
