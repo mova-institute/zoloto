@@ -1225,23 +1225,23 @@
       <w lemma="питання" ana="noun:inanim:n:v_zna">питання</w>
     </w_>
     <g/>
-    <w_ id="2y1j" n="368">
+    <w_ id="2y1j" dep="2y1w-punct" n="368">
       <w lemma=":" ana="punct">:</w>
     </w_>
-    <w_ id="2y1k" n="369">
+    <w_ id="2y1k" dep="2y1w-discourse" n="369">
       <w lemma="чи" ana="part">чи</w>
     </w_>
-    <w_ id="2y1l" n="370">
+    <w_ id="2y1l" dep="2y1w-advmod" n="370">
       <w lemma="справді" ana="adv">справді</w>
     </w_>
     <g/>
-    <w_ id="2y1m" n="371">
+    <w_ id="2y1m" dep="2y1o-punct" comment="~, цікаво" n="371">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="2y1n" dep="2y1o-amod" n="372">
       <w lemma="найшляхетніший" ana="adj:n:v_naz:super">найшляхетніше</w>
     </w_>
-    <w_ id="2y1o" n="373">
+    <w_ id="2y1o" dep="2y1w-nsubj" edep="2y26-nsubj:pred" n="373">
       <w lemma="завдання" ana="noun:inanim:n:v_naz">завдання</w>
     </w_>
     <w_ id="2y1p" dep="2y1s-case" n="374">
@@ -1256,16 +1256,19 @@
     <w_ id="2y1s" dep="2y1n-obl" n="377">
       <w lemma="К" ana="noun:inanim:p:f:v_rod:nv:prop">К</w>
     </w_>
+    <w_ id="3cir" dep="2y1t-punct" comment="Це тире ми додали самі. Вихідних сканів не знайшли">
+      <w lemma="—" ana="punct:dash">—</w>
+    </w_>
     <w_ id="2y1t" dep="2y1o-nsubj" n="378">
       <w lemma="виховання" ana="noun:inanim:n:v_naz">виховання</w>
     </w_>
-    <w_ id="2y1u" dep="2y1t-nmod" n="379">
+    <w_ id="2y1u" dep="2y1t-nmod|2y1o-appos" n="379">
       <w lemma="дитина" ana="noun:anim:p:f:v_rod">дітей</w>
     </w_>
-    <w_ id="2y1v" n="380">
+    <w_ id="2y1v" dep="2y1u-punct" n="380">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
-    <w_ id="2y1w" n="381">
+    <w_ id="2y1w" dep="2y1i-parataxis:appos" n="381">
       <w lemma="могти" ana="verb:imperf:pres:s:3">може</w>
     </w_>
     <w_ id="2y1x" dep="2y26-cop" n="382">
@@ -1274,7 +1277,7 @@
     <w_ id="2y1y" dep="2y1z-case" n="383">
       <w lemma="в" ana="prep:rv_rod:v-u">в</w>
     </w_>
-    <w_ id="2y1z" n="384">
+    <w_ id="2y1z" dep="2y26-obl" n="384">
       <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
     </w_>
     <g/>
@@ -1287,7 +1290,7 @@
     <w_ id="2y22" dep="2y23-det" n="387">
       <w lemma="наш" ana="adj:m:v_mis:poss:&amp;pron:pers:1">нашому</w>
     </w_>
-    <w_ id="2y23" comment="уточнення" n="388">
+    <w_ id="2y23" dep="2y1z-appos" comment="уточнення" n="388">
       <w lemma="ґрунт" ana="noun:inanim:m:v_mis">ґрунті</w>
     </w_>
     <g/>
@@ -1297,7 +1300,7 @@
     <w_ id="2y25" dep="2y26-amod" n="390">
       <w lemma="єдиний" ana="adj:n:v_oru">єдиним</w>
     </w_>
-    <w_ id="2y26" n="391">
+    <w_ id="2y26" dep="2y1w-xcomp:pred" n="391">
       <w lemma="завдання" ana="noun:inanim:n:v_oru">завданням</w>
     </w_>
     <w_ id="2y27" dep="2y26-nmod" n="392">
@@ -1561,7 +1564,7 @@
     <w_ id="2y4j" dep="2y4k-case" n="470">
       <w lemma="на" ana="prep:rv_zna">на</w>
     </w_>
-    <w_ id="2y4k" n="471">
+    <w_ id="2y4k" dep="2y4i-nmod" n="471">
       <w lemma="мати" ana="noun:anim:p:f:v_zna">матерей</w>
     </w_>
     <w_ id="2y4l" dep="2y4k-nmod" n="472">
