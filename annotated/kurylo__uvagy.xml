@@ -191,7 +191,7 @@
       <w_ id="2bsc" dep="2bsd-amod">
         <w lemma="зачеплений" ana="adj:p:v_zna:rinanim:&amp;adjp:perf:pasv">зачеплені</w>
       </w_>
-      <w_ id="2bsd" dep="2bs7-obl">
+      <w_ id="2bsd" dep="2bs7-obl" hdep="2bs7-private">
         <w lemma="особливість" ana="noun:inanim:p:f:v_zna">особливості</w>
       </w_>
       <w_ id="2bse" dep="2bsf-amod">
@@ -279,7 +279,7 @@
       <w_ id="2bt5" dep="2btb-mark">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
-      <w_ id="2bt6" dep="2btb-nsubj" edep="2bt1-ref">
+      <w_ id="2bt6" dep="2btb-nsubj" edep="2bt1-ref" hdep="2btb-distrib">
         <w lemma="вони" ana="noun:p:v_naz:&amp;pron:pers:3">вони</w>
       </w_>
       <w_ id="2bt7" dep="2bta-case">
@@ -291,7 +291,7 @@
       <w_ id="2bt9" dep="2bta-amod">
         <w lemma="літературний" ana="adj:f:v_mis">літературній</w>
       </w_>
-      <w_ id="2bta" dep="2btb-obl">
+      <w_ id="2bta" dep="2btb-obl" hdep="2btb-distrib">
         <w lemma="мова" ana="noun:inanim:f:v_mis">мові</w>
       </w_>
       <w_ id="2btb" dep="2bt1-acl">
@@ -820,7 +820,7 @@
       <w_ id="2by6" dep="2by5-obj">
         <w lemma="покажчик" ana="noun:inanim:m:v_zna:animish">покажчика</w>
       </w_>
-      <w_ id="2by7" dep="2bya-amod">
+      <w_ id="2by7" dep="2bya-amod" hdep="2bya-distrib">
         <w lemma="відзначений" ana="adj:p:v_rod:&amp;adjp:perf:pasv">відзначених</w>
       </w_>
       <w_ id="2by8" dep="2by9-case">
@@ -845,7 +845,7 @@
       <w_ id="2bye" dep="2byf-cc" comment="~">
         <w lemma="як" ana="conj:coord">як</w>
       </w_>
-      <w_ id="2byf" dep="2bya-amod">
+      <w_ id="2byf" dep="2bya-amod" hdep="2bya-distrib">
         <w lemma="поправний" ana="adj:p:v_rod">поправних</w>
       </w_>
       <g/>
@@ -3761,8 +3761,8 @@
       <w_ id="2bnx" dep="2bnv-obl">
         <w lemma="пригода" ana="noun:inanim:f:v_mis">пригоді</w>
       </w_>
-      <w_ id="2bny" dep="2bo1-cc">
-        <w lemma="й" ana="conj:coord">й</w>
+      <w_ id="2bny" dep="2bo1-discourse">
+        <w lemma="й" ana="part">й</w>
       </w_>
       <w_ id="2bnz" dep="2bo1-amod">
         <w lemma="науковий" ana="adj:f:v_dav">науковій</w>
@@ -3770,7 +3770,7 @@
       <w_ id="2bo0" dep="2bo1-amod">
         <w lemma="літературний" ana="adj:f:v_dav">літературній</w>
       </w_>
-      <w_ id="2bo1" dep="2bnx-conj">
+      <w_ id="2bo1" dep="2bnv-obl" comment="~ чи до пригоди?">
         <w lemma="мова" ana="noun:inanim:f:v_dav">мові</w>
       </w_>
       <g/>

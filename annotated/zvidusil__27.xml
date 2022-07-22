@@ -704,7 +704,7 @@
     </p>
     <p id="331p">
       <sb id="331o"/>
-      <w_ id="331q" n="208">
+      <w_ id="331q" dep="331w-nsubj" comment="benefaction predication" n="208">
         <w lemma="торбочка" ana="noun:inanim:f:v_naz">Торбочка</w>
       </w_>
       <w_ id="331r" dep="331q-det" n="209">
@@ -713,7 +713,7 @@
       <w_ id="331s" dep="331t-case" n="210">
         <w lemma="в" ana="prep:rv_rod:v-u">в</w>
       </w_>
-      <w_ id="331t" n="211">
+      <w_ id="331t" dep="331w-obl" comment="~ чи до торбочки?" n="211">
         <w lemma="він" ana="noun:m:v_rod:rprep:&amp;pron:pers:3">нього</w>
       </w_>
       <w_ id="331u" dep="331w-advmod" n="212">
@@ -755,7 +755,7 @@
         <w lemma="тюкнути" ana="verb:perf:futr:s:3">тюкне</w>
       </w_>
       <g/>
-      <w_ id="3326" n="224">
+      <w_ id="3326" dep="331w-punct" n="224">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -838,7 +838,7 @@
       <w_ id="332x" dep="332z-mark" n="247">
         <w lemma="хоч" ana="conj:subord">хоч</w>
       </w_>
-      <w_ id="332y" n="248">
+      <w_ id="332y" dep="332z-discourse" n="248">
         <w lemma="і" ana="part">і</w>
       </w_>
       <w_ id="332z" dep="332o-advcl" comment="#цікаво advcl" n="249">
@@ -883,7 +883,7 @@
     <gap/>
     <p id="333d">
       <sb id="333c"/>
-      <w_ id="333e" n="260">
+      <w_ id="333e" dep="3358-reparandum" n="260">
         <w lemma="Юрій" ana="noun:anim:m:v_naz:prop:fname">Юрій</w>
       </w_>
       <w_ id="333f" dep="333e-flat:name" n="261">
@@ -896,7 +896,7 @@
       <w_ id="333h" dep="333j-punct" n="263">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="333i" dep="333j-amod" n="264">
+      <w_ id="333i" dep="333j-amod" hdep="333j-private" n="264">
         <w lemma="чудесний" ana="adj:m:v_naz">чудесний</w>
       </w_>
       <w_ id="333j" dep="333e-appos" n="265">
@@ -932,7 +932,7 @@
       <w_ id="333s" dep="333r-punct" n="274">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="333t" n="275">
+      <w_ id="333t" dep="335a-parataxis" comment="~ чи з Юрія?" n="275">
         <w lemma="казати" ana="verb:imperf:pres:s:3">каже</w>
       </w_>
       <g/>
@@ -1037,10 +1037,10 @@
         <w lemma="погляд" ana="noun:inanim:m:v_rod">погляду</w>
       </w_>
       <g/>
-      <w_ id="334p" n="307">
+      <w_ id="334p" dep="3354-punct" n="307">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="334q" n="308">
+      <w_ id="334q" dep="3354-mark" n="308">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="334r" n="309">
@@ -1066,38 +1066,38 @@
         <w lemma="артист" ana="noun:anim:m:v_naz">артист</w>
       </w_>
       <g/>
-      <w_ id="334y" n="316">
+      <w_ id="334y" dep="3354-punct" n="316">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="334z" n="317">
         <w lemma="то" ana="part:conseq">то</w>
       </w_>
-      <w_ id="3350" n="318">
+      <w_ id="3350" dep="3354-discourse" n="318">
         <w lemma="таки" ana="part">таки</w>
       </w_>
-      <w_ id="3351" n="319">
+      <w_ id="3351" dep="3354-advmod" comment="~ part?" n="319">
         <w lemma="справді" ana="adv">справді</w>
       </w_>
-      <w_ id="3352" n="320">
+      <w_ id="3352" dep="3354-nsubj" n="320">
         <w lemma="він" ana="noun:m:v_naz:&amp;pron:pers:3">він</w>
       </w_>
       <w_ id="3353" dep="3354-amod" n="321">
         <w lemma="прекрасний" ana="adj:m:v_naz:compb">прекрасний</w>
       </w_>
-      <w_ id="3354" n="322">
+      <w_ id="3354" dep="334o-acl" n="322">
         <w lemma="охотник" ana="noun:anim:m:v_naz">охотник</w>
       </w_>
       <g/>
       <w_ id="3355" n="323">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3356" n="324">
+      <w_ id="3356" dep="335a-punct" n="324">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
       <w_ id="3357" dep="335a-discourse" n="325">
         <w lemma="так" ana="part">так</w>
       </w_>
-      <w_ id="3358" n="326">
+      <w_ id="3358" dep="335a-nsubj" n="326">
         <w lemma="Юрій" ana="noun:anim:m:v_naz:prop:fname">Юрій</w>
       </w_>
       <w_ id="3359" dep="3358-flat:name" n="327">
@@ -1116,7 +1116,7 @@
         <w lemma="пригода" ana="noun:inanim:f:v_zna">пригоду</w>
       </w_>
       <g/>
-      <w_ id="335e" n="332">
+      <w_ id="335e" dep="335a-punct" n="332">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -1234,7 +1234,7 @@
       <w_ id="336h" dep="336i-case" n="366">
         <w lemma="в" ana="prep:rv_mis:v-u">в</w>
       </w_>
-      <w_ id="336i" n="367">
+      <w_ id="336i" dep="336k-obl" n="367">
         <w lemma="степ" ana="noun:inanim:p:m:v_mis">степах</w>
       </w_>
       <w_ id="336j" dep="336i-nmod" n="368">
@@ -4574,7 +4574,7 @@
       <w_ id="3415" n="1371">
         <w lemma="чи" ana="conj:coord">Чи</w>
       </w_>
-      <w_ id="3416" n="1372">
+      <w_ id="3416" dep="3418-nsubj" n="1372">
         <w lemma="то" ana="noun:inanim:n:v_naz:&amp;pron:dem">то</w>
       </w_>
       <w_ id="3417" n="1373">
@@ -4583,7 +4583,7 @@
       <w_ id="3418" n="1374">
         <w lemma="брехня" ana="noun:inanim:f:v_naz">брехня</w>
       </w_>
-      <w_ id="3419" n="1375">
+      <w_ id="3419" dep="341a-case" n="1375">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
       <w_ id="341a" n="1376">

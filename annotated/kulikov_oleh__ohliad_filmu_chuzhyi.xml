@@ -542,7 +542,7 @@
     <w_ id="08q4" dep="08qb-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="08q5" dep="08qb-advmod">
+    <w_ id="08q5" dep="08qb-advmod" hdep="08qb-distrib">
       <w lemma="коли" ana="adv:&amp;pron:rel">коли</w>
     </w_>
     <w_ id="08q6" dep="08q8-case">
@@ -725,7 +725,7 @@
     <w_ id="08rt" dep="08rr-fixed">
       <w lemma="що" ana="adv:&amp;pron:rel">що</w>
     </w_>
-    <w_ id="08ru" dep="08rv-case">
+    <w_ id="08ru" dep="08rv-case" hdep="08rv-private">
       <w lemma="без" ana="prep:rv_rod">без</w>
     </w_>
     <w_ id="08rv" dep="08s0-obl">
@@ -3636,16 +3636,16 @@
     <w_ id="09i7" dep="09ic-punct">
       <w lemma=";" ana="punct">;</w>
     </w_>
-    <w_ id="09i8" dep="09ic-discourse">
+    <w_ id="09i8" dep="09ic-discourse|09ic-iobj">
       <w lemma="це" ana="part">це</w>
     </w_>
-    <w_ id="09i9" dep="09ic-advmod">
+    <w_ id="09i9" dep="09ic-advmod" hdep="09ic-collect">
       <w lemma="раніше" ana="adv:compr">раніше</w>
     </w_>
-    <w_ id="09ia" dep="09ic-nsubj">
+    <w_ id="09ia" dep="09ic-nsubj" hdep="09ic-distrib">
       <w lemma="потвора" ana="noun:anim:f:v_naz">потвора</w>
     </w_>
-    <w_ id="09ib" dep="09ic-advmod">
+    <w_ id="09ib" dep="09ic-advmod" hdep="09ic-private">
       <w lemma="хитромудро" ana="adv">хитромудро</w>
     </w_>
     <w_ id="09ic" dep="09i3-parataxis">
@@ -3654,7 +3654,7 @@
     <w_ id="09id" dep="09ie-case">
       <w lemma="за" ana="prep:rv_oru">за</w>
     </w_>
-    <w_ id="09ie" dep="09ic-obl">
+    <w_ id="09ie" dep="09ic-obl" hdep="09ic-private">
       <w lemma="людиська" ana="noun:anim:p:v_oru:ns">людиськами</w>
     </w_>
     <w_ id="09if" dep="09ii-cc">
@@ -3725,7 +3725,7 @@
   </p>
   <p id="09j1">
     <sb id="09j2"/>
-    <w_ id="09j3" dep="09j4-nsubj">
+    <w_ id="09j3" dep="09j4-nsubj" hdep="09j4-distrib">
       <w lemma="це" ana="noun:inanim:n:v_naz:&amp;pron:dem">Це</w>
     </w_>
     <w_ id="09j4">
@@ -3734,7 +3734,7 @@
     <w_ id="09j5" dep="09j6-det">
       <w lemma="будь-який" ana="adj:f:v_zna:&amp;pron:ind">будь-яку</w>
     </w_>
-    <w_ id="09j6" dep="09j4-obj">
+    <w_ id="09j6" dep="09j4-obj" hdep="09j4-private">
       <w lemma="напруга" ana="noun:inanim:f:v_zna">напругу</w>
     </w_>
     <w_ id="09j7" dep="09j8-cc">
@@ -3793,7 +3793,7 @@
     <w_ id="09jo" dep="09jn-obj">
       <w lemma="елемент" ana="noun:inanim:p:m:v_zna">елементи</w>
     </w_>
-    <w_ id="09jp" dep="09jr-case">
+    <w_ id="09jp" dep="09jr-case" hdep="09jr-distrib">
       <w lemma="з" ana="prep:rv_rod">з</w>
     </w_>
     <w_ id="09jq" dep="09jr-punct">
