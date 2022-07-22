@@ -4280,23 +4280,23 @@
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="33ya"/>
-      <w_ id="33yb" n="1287">
+      <w_ id="33yb" dep="33yf-discourse" comment="~ чи &quot;Це [відбувається] якщо&quot;?" n="1287">
         <w lemma="це" ana="part">Це</w>
       </w_>
-      <w_ id="33yc" n="1288">
+      <w_ id="33yc" dep="33yf-mark" n="1288">
         <w lemma="якщо" ana="conj:subord">якщо</w>
       </w_>
       <w_ id="33yd" dep="33yf-obj" n="1289">
         <w lemma="губа" ana="noun:inanim:p:f:v_zna">губи</w>
       </w_>
-      <w_ id="33ye" dep="33yf-obl" n="1290">
+      <w_ id="33ye" dep="33yf-obl" comment="! цікаво: це не seсondary predication бо тут намалювати червоним [кольором]" n="1290">
         <w lemma="червоне" ana="adj:n:v_oru:compb:&amp;noun:inanim" lemma2="червоний">червоним</w>
       </w_>
       <w_ id="33yf" n="1291">
         <w lemma="намалювати" ana="verb:perf:inf">намалювати</w>
       </w_>
       <g/>
-      <w_ id="33yg" n="1292">
+      <w_ id="33yg" dep="33yf-punct" n="1292">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="33yh"/>
@@ -4571,13 +4571,13 @@
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="3414"/>
-      <w_ id="3415" n="1371">
-        <w lemma="чи" ana="conj:coord">Чи</w>
+      <w_ id="3415" dep="3418-discourse" n="1371">
+        <w lemma="чи" ana="part">Чи</w>
       </w_>
-      <w_ id="3416" dep="3418-nsubj" n="1372">
+      <w_ id="3416" dep="3417-det" n="1372">
         <w lemma="то" ana="adj:n:v_naz:&amp;pron:dem">то</w>
       </w_>
-      <w_ id="3417" n="1373">
+      <w_ id="3417" dep="3418-nsubj" comment="все це" n="1373">
         <w lemma="весь" ana="noun:inanim:n:v_naz:&amp;pron:gen">все</w>
       </w_>
       <w_ id="3418" n="1374">
@@ -4586,11 +4586,11 @@
       <w_ id="3419" dep="341a-case" n="1375">
         <w lemma="про" ana="prep:rv_zna">про</w>
       </w_>
-      <w_ id="341a" n="1376">
+      <w_ id="341a" dep="3417-nmod" n="1376">
         <w lemma="Ілля" ana="noun:anim:m:v_zna:prop:fname">Іллю</w>
       </w_>
       <g/>
-      <w_ id="341b" n="1377">
+      <w_ id="341b" dep="3418-punct" n="1377">
         <w lemma="?" ana="punct">?</w>
       </w_>
     </p>
@@ -4776,17 +4776,17 @@
   <doc id="3432" tags="autotitle" author="Буткевич Максим" date="" genre="допис" src="https://www.facebook.com/maksym.butkevych/posts/10159161681680237" title="[Рік тому, 1 вересня 2016…]">
     <p id="3433">
       <sb id="3434"/>
-      <w_ id="3435" dep="3436-obl" n="1432">
+      <w_ id="3435" dep="3436-obl" comment="~, треба гайдлайни" n="1432">
         <w lemma="рік" ana="noun:inanim:m:v_zna">Рік</w>
       </w_>
       <w_ id="3436" dep="343q-advmod" n="1433">
         <w lemma="тому" ana="adv">тому</w>
       </w_>
       <g/>
-      <w_ id="3437" n="1434">
+      <w_ id="3437" dep="3438-punct" n="1434">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3438" tags="promoted" n="1435">
+      <w_ id="3438" dep="3436-appos:spec" tags="promoted" n="1435">
         <w lemma="1" ana="adj:n:v_rod:nv:&amp;numr">1</w>
       </w_>
       <w_ id="3439" dep="3438-nmod" n="1436">
@@ -4798,7 +4798,7 @@
       <w_ id="343b" dep="3439-nmod" n="1438">
         <w lemma="рік" ana="noun:inanim:m:v_rod">року</w>
       </w_>
-      <w_ id="343c" n="1439">
+      <w_ id="343c" dep="343j-punct" n="1439">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
@@ -4821,24 +4821,24 @@
       <w_ id="343i" dep="343j-punct" n="1445">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="343j" dep="3439-parataxis" n="1446">
+      <w_ id="343j" dep="3438-parataxis" n="1446">
         <w lemma="день" ana="noun:inanim:m:v_naz">День</w>
       </w_>
       <w_ id="343k" dep="343j-nmod" n="1447">
         <w lemma="незалежність" ana="noun:inanim:f:v_rod">незалежності</w>
       </w_>
-      <w_ id="343l" dep="343j-nmod" n="1448">
+      <w_ id="343l" dep="343k-nmod" n="1448">
         <w lemma="республіка" ana="noun:inanim:f:v_rod">Республіки</w>
       </w_>
       <w_ id="343m" dep="343l-flat:title" n="1449">
         <w lemma="Узбекистан" ana="noun:inanim:m:v_naz:prop">Узбекистан</w>
       </w_>
       <g/>
-      <w_ id="343n" n="1450">
+      <w_ id="343n" dep="343j-punct" n="1450">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
-      <w_ id="343o" dep="3439-punct" n="1451">
+      <w_ id="343o" dep="3438-punct" n="1451">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="343p" dep="343q-nsubj" n="1452">
@@ -4862,7 +4862,7 @@
       <w_ id="343v" dep="343w-case" n="1458">
         <w lemma="під" ana="prep:rv_oru">під</w>
       </w_>
-      <w_ id="343w" dep="343q-obl" n="1459">
+      <w_ id="343w" dep="343q-obl" comment="насправді не &quot;перехожі під посольством&quot;" n="1459">
         <w lemma="посольство" ana="noun:inanim:n:v_oru">посольством</w>
       </w_>
       <w_ id="343x" dep="343w-nmod" n="1460">
@@ -4914,39 +4914,39 @@
       <w_ id="344d" dep="344b-nmod" n="1474">
         <w lemma="Узбекистан" ana="noun:inanim:m:v_rod:prop">Узбекистану</w>
       </w_>
-      <w_ id="344e" n="1475">
+      <w_ id="344e" dep="344f-punct" n="1475">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="344f" n="1476">
+      <w_ id="344f" dep="344b-det" comment="уточнення/відокремлення" n="1476">
         <w lemma="інший" ana="adj:m:v_naz:&amp;pron:ind">інший</w>
       </w_>
       <g/>
-      <w_ id="344g" n="1477">
+      <w_ id="344g" dep="344i-punct" n="1477">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="344h" n="1478">
+      <w_ id="344h" dep="344i-mark" n="1478">
         <w lemma="ніж" ana="conj:subord">ніж</w>
       </w_>
-      <w_ id="344i" n="1479">
+      <w_ id="344i" dep="344f-obl" n="1479">
         <w lemma="той" ana="adj:m:v_naz:&amp;pron:dem">той</w>
       </w_>
       <g/>
-      <w_ id="344j" n="1480">
+      <w_ id="344j" dep="344l-punct" n="1480">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="344k" n="1481">
+      <w_ id="344k" dep="344l-nsubj" n="1481">
         <w lemma="хто" ana="noun:anim:m:v_naz:&amp;pron:rel">хто</w>
       </w_>
-      <w_ id="344l" n="1482">
+      <w_ id="344l" dep="344i-acl" n="1482">
         <w lemma="готувати" ana="verb:imperf:past:m">готував</w>
       </w_>
       <g/>
-      <w_ id="344m" n="1483">
+      <w_ id="344m" dep="344f-punct" n="1483">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
-      <w_ id="344n" n="1484">
+      <w_ id="344n" dep="3449-punct" n="1484">
         <w lemma="." ana="punct">.</w>
       </w_>
       <sb id="344o"/>
@@ -5403,19 +5403,19 @@
       <w_ id="348o" dep="348p-advmod" n="1620">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
-      <w_ id="348p" n="1621">
+      <w_ id="348p" comment="відокремлення" n="1621">
         <w lemma="паліативний" ana="adj:m:v_oru">паліативним</w>
       </w_>
       <w_ id="348q" dep="348t-cc" n="1622">
         <w lemma="і" ana="conj:coord">і</w>
       </w_>
-      <w_ id="348r" n="1623">
+      <w_ id="348r" dep="348s-advmod" n="1623">
         <w lemma="не" ana="part:neg">не</w>
       </w_>
       <w_ id="348s" dep="348t-amod" n="1624">
         <w lemma="термінальний" ana="adj:p:v_naz">термінальні</w>
       </w_>
-      <w_ id="348t" n="1625">
+      <w_ id="348t" dep="348p-conj" comment="неоднорідні однорідні" n="1625">
         <w lemma="діагноз" ana="noun:inanim:p:m:v_naz">діагнози</w>
       </w_>
       <g/>
@@ -5437,27 +5437,27 @@
       <w_ id="348z" dep="3490-discourse" n="1631">
         <w lemma="просто" ana="part">просто</w>
       </w_>
-      <w_ id="3490" n="1632">
+      <w_ id="3490" dep="348i-advcl" n="1632">
         <w lemma="тому" ana="adv:&amp;pron:dem">тому</w>
       </w_>
       <g/>
-      <w_ id="3491" n="1633">
+      <w_ id="3491" dep="3494-punct" n="1633">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="3492" n="1634">
+      <w_ id="3492" dep="3494-mark" n="1634">
         <w lemma="що" ana="conj:subord">що</w>
       </w_>
       <w_ id="3493" n="1635">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
-      <w_ id="3494" n="1636">
+      <w_ id="3494" dep="3490-advcl" n="1636">
         <w lemma="немати" ana="verb:imperf:pres:s:3:neg">немає</w>
       </w_>
       <w_ id="3495" n="1637">
         <w lemma="хто" ana="noun:anim:m:v_dav:&amp;pron:rel">кому</w>
       </w_>
       <g/>
-      <w_ id="3496" n="1638">
+      <w_ id="3496" dep="348b-punct" n="1638">
         <w lemma="?" ana="punct">?</w>
       </w_>
       <sb id="3497"/>
@@ -5933,16 +5933,16 @@
       <w_ id="34de" n="1779">
         <w lemma="студентка" ana="noun:anim:p:f:v_dav">студенткам</w>
       </w_>
-      <w_ id="34df" n="1780">
+      <w_ id="34df" dep="34de-nmod" n="1780">
         <w lemma="архітектурний" ana="adj:m:v_rod:&amp;noun:inanim" lemma2="архітектурний">архітектурного</w>
       </w_>
-      <w_ id="34dg" n="1781">
+      <w_ id="34dg" dep="34dh-punct" n="1781">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
       <w_ id="34dh" n="1782">
         <w lemma="класика" ana="noun:inanim:f:v_naz">класика</w>
       </w_>
-      <w_ id="34di" n="1783">
+      <w_ id="34di" dep="34dh-nmod" n="1783">
         <w lemma="конструктивізм" ana="noun:inanim:m:v_rod">конструктивізму</w>
       </w_>
       <g/>
@@ -8599,7 +8599,7 @@
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="351r" tags="promoted" n="2586">
+      <w_ id="351r" dep="351n-parataxis:appos" tags="promoted" comment="чи проста паратакса?" n="2586">
         <w lemma="23" ana="adj:n:v_naz:nv:&amp;numr">23</w>
       </w_>
       <w_ id="351s" dep="351r-nmod" n="2587">
@@ -8648,7 +8648,7 @@
       <w_ id="3525" dep="3526-punct" n="2600">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="3526" tags="promoted" n="2601">
+      <w_ id="3526" dep="351r-flat:range" tags="promoted" n="2601">
         <w lemma="28" ana="adj:n:v_naz:nv:&amp;numr">28</w>
       </w_>
       <w_ id="3527" dep="3526-nmod" n="2602">
@@ -8691,7 +8691,7 @@
       <w_ id="352i" dep="351n-punct" n="2613">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="352j" n="2614">
+      <w_ id="352j" comment="~ чи це все така величезна прикладка?" n="2614">
         <w lemma="солдат" ana="noun:anim:m:v_naz">солдат</w>
       </w_>
       <w_ id="352k" dep="352l-amod" n="2615">
@@ -8750,7 +8750,7 @@
       <w_ id="3530" dep="3531-amod" n="2631">
         <w lemma="піхотний" ana="adj:f:v_naz">піхотна</w>
       </w_>
-      <w_ id="3531" n="2632">
+      <w_ id="3531" dep="352j-parataxis:appos" n="2632">
         <w lemma="бригада" ana="noun:inanim:f:v_naz">бригада</w>
       </w_>
       <g/>
