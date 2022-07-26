@@ -1319,30 +1319,30 @@
     </p>
     <p id="17zv">
       <sb id="17zw"/>
-      <w_ id="17zx">
+      <w_ id="17zx" dep="17zy-case">
         <w lemma="в" ana="prep:rv_mis:v-u">В</w>
       </w_>
       <w_ id="17zy">
         <w lemma="Україна" ana="noun:inanim:f:v_mis:prop">Україні</w>
       </w_>
       <g/>
-      <w_ id="17zz">
+      <w_ id="17zz" dep="1800-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
       <w_ id="1800">
         <w lemma="8" ana="adj:m:v_rod:nv:&amp;numr">8</w>
       </w_>
-      <w_ id="1801">
+      <w_ id="1801" dep="1800-nmod">
         <w lemma="липень" ana="noun:inanim:m:v_rod">липня</w>
       </w_>
-      <w_ id="1802">
+      <w_ id="1802" dep="1803-amod">
         <w lemma="1950" ana="adj:m:v_rod:nv:&amp;numr">1950</w>
       </w_>
-      <w_ id="1803">
+      <w_ id="1803" dep="1801-nmod">
         <w lemma="р." ana="noun:inanim:m:v_rod:nv:np:abbr">р</w>
       </w_>
       <g/>
-      <w_ id="1804">
+      <w_ id="1804" dep="17zy-punct">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
@@ -7217,7 +7217,7 @@
       <w_ id="19hf" dep="19hg-amod">
         <w lemma="останній" ana="adj:f:v_naz:compb">Остання</w>
       </w_>
-      <w_ id="19hg" dep="19hp-nsubj">
+      <w_ id="19hg" dep="19hp-nsubj" hdep="19hp-distrib">
         <w lemma="війна" ana="noun:inanim:f:v_naz">війна</w>
       </w_>
       <w_ id="19hh" dep="19hj-case">
@@ -7284,16 +7284,16 @@
       <w_ id="19i1" dep="19ib-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="19i2">
+      <w_ id="19i2" dep="19ib-punct">
         <w lemma="-" ana="punct:dash">-</w>
       </w_>
-      <w_ id="19i3">
+      <w_ id="19i3" dep="19ib-cc">
         <w lemma="а" ana="conj:coord">а</w>
       </w_>
-      <w_ id="19i4">
+      <w_ id="19i4" dep="19i6-case">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
-      <w_ id="19i5">
+      <w_ id="19i5" dep="19i6-det">
         <w lemma="другий" ana="adj:f:v_rod:&amp;pron:ind">другої</w>
       </w_>
       <w_ id="19i6">
@@ -7309,7 +7309,7 @@
       <w_ id="19i9" dep="19ib-cop">
         <w lemma="бути" ana="verb:aux:imperf:past:f">була</w>
       </w_>
-      <w_ id="19ia">
+      <w_ id="19ia" dep="19ib-amod">
         <w lemma="конкуренційний" ana="adj:f:v_oru">конкуренційною</w>
       </w_>
       <w_ id="19ib" dep="19hp-conj">

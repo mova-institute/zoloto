@@ -27214,17 +27214,17 @@
     <w_ id="0xqg" dep="0xqe-nmod">
       <w lemma="повість" ana="noun:inanim:f:v_rod">повісті</w>
     </w_>
-    <w_ id="0xqh">
+    <w_ id="0xqh" dep="0xqi-punct">
       <w lemma="—" ana="punct:dash">—</w>
     </w_>
     <w_ id="0xqi">
       <w lemma="цікаво" ana="adv:compb">цікаво</w>
     </w_>
     <g/>
-    <w_ id="0xqj">
+    <w_ id="0xqj" dep="0xql-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0xqk" mark="resolved">
+    <w_ id="0xqk" dep="0xql-nsubj" mark="resolved">
       <w lemma="що" ana="noun:inanim:n:v_zna:&amp;pron:int">що</w>
     </w_>
     <w_ id="0xql">
@@ -27236,36 +27236,36 @@
     <w_ id="0xqn" dep="0xqo-nummod:gov">
       <w lemma="шість" ana="numr:v_naz">шість</w>
     </w_>
-    <w_ id="0xqo">
+    <w_ id="0xqo" dep="0xql-nsubj">
       <w lemma="відсоток" ana="noun:inanim:p:m:v_rod">відсотків</w>
     </w_>
     <w_ id="0xqp" dep="0xqo-nmod">
       <w lemma="мозок" ana="noun:inanim:m:v_rod">мозку</w>
     </w_>
     <g/>
-    <w_ id="0xqq">
+    <w_ id="0xqq" dep="0xqu-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0xqr">
+    <w_ id="0xqr" dep="0xqu-mark">
       <w lemma="якщо" ana="conj:subord">якщо</w>
     </w_>
-    <w_ id="0xqs" mark="reviewed">
+    <w_ id="0xqs" dep="0xqt-case" mark="reviewed">
       <w lemma="у" ana="prep:rv_rod:v-u">у</w>
     </w_>
-    <w_ id="0xqt" mark="reviewed">
+    <w_ id="0xqt" dep="0xqu-obl" mark="reviewed">
       <w lemma="людина" ana="noun:anim:p:f:v_rod">людей</w>
     </w_>
-    <w_ id="0xqu">
+    <w_ id="0xqu" dep="0xql-advcl">
       <w lemma="задіюватися" ana="verb:rev:imperf:pres:p:3:odd">задіюються</w>
     </w_>
-    <w_ id="0xqv">
+    <w_ id="0xqv" dep="0xqw-discourse">
       <w lemma="лише" ana="part">лише</w>
     </w_>
-    <w_ id="0xqw">
+    <w_ id="0xqw" dep="0xqu-nsubj">
       <w lemma="чотири" ana="numr:v_naz">чотири</w>
     </w_>
     <g/>
-    <w_ id="0xqx">
+    <w_ id="0xqx" dep="0xql-punct">
       <w lemma="?" ana="punct">?</w>
     </w_>
     <sb id="0xqy"/>
@@ -28951,10 +28951,10 @@
     <w_ id="0y6e" dep="0y6f-case">
       <w lemma="у" ana="prep:rv_rod:v-u">У</w>
     </w_>
-    <w_ id="0y6f">
+    <w_ id="0y6f" dep="0y6g-obl">
       <w lemma="ми" ana="noun:anim:p:v_rod:&amp;pron:pers:1">нас</w>
     </w_>
-    <w_ id="0y6g">
+    <w_ id="0y6g" dep="0y6h-advmod" comment="~">
       <w lemma="вдома" ana="adv:v-u">вдома</w>
     </w_>
     <w_ id="0y6h">
@@ -28966,13 +28966,13 @@
     <w_ id="0y6j" dep="0y6k-det:numgov" mark="reviewed">
       <w lemma="багато" ana="numr:v_naz:&amp;pron:ind">багато</w>
     </w_>
-    <w_ id="0y6k">
+    <w_ id="0y6k" dep="0y6h-nsubj">
       <w lemma="пейзаж" ana="noun:inanim:p:m:v_rod">пейзажів</w>
     </w_>
-    <w_ id="0y6l" dep="0y6m-amod">
+    <w_ id="0y6l" dep="0y6m-amod" hdep="0y6m-private">
       <w lemma="різний" ana="adj:m:v_rod">різного</w>
     </w_>
-    <w_ id="0y6m">
+    <w_ id="0y6m" dep="0y6k-nmod">
       <w lemma="розмір" ana="noun:inanim:m:v_rod">розміру</w>
     </w_>
     <w_ id="0y6n" dep="0y6p-cc">
@@ -28985,7 +28985,7 @@
       <w lemma="якість" ana="noun:inanim:f:v_rod">якості</w>
     </w_>
     <g/>
-    <w_ id="0y6q">
+    <w_ id="0y6q" dep="0y6t-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
     <w_ id="0y6r" dep="0y6t-nsubj">
@@ -28994,11 +28994,11 @@
     <w_ id="0y6s" dep="0y6t-discourse">
       <w lemma="попросту" ana="part">попросту</w>
     </w_>
-    <w_ id="0y6t">
+    <w_ id="0y6t" dep="0y6g-parataxis" comment="~ чи appos з пейзажів?">
       <w lemma="неоковирний" ana="adj:p:v_naz">неоковирні</w>
     </w_>
     <g/>
-    <w_ id="0y6u">
+    <w_ id="0y6u" dep="0y6t-punct">
       <w lemma="." ana="punct">.</w>
     </w_>
     <sb id="0y6v"/>
