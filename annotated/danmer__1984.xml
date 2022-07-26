@@ -3286,16 +3286,16 @@
           <w_ id="0480" dep="0481-nummod">
             <w lemma="три" ana="numr:v_zna">три</w>
           </w_>
-          <w_ id="0481" dep="047u-obj">
-            <w lemma="тисяча" ana="noun:inanim:p:f:v_zna:&amp;_numr">тисячі</w>
+          <w_ id="0481" dep="0482-nummod:gov">
+            <w lemma="тисяча" ana="noun:p:f:v_zna">тисячі</w>
           </w_>
-          <w_ id="0482" dep="0481-nmod">
+          <w_ id="0482" dep="047u-obj">
             <w lemma="кімната" ana="noun:inanim:p:f:v_rod">кімнат</w>
           </w_>
           <w_ id="0483" dep="0484-case">
             <w lemma="від" ana="prep:rv_rod">від</w>
           </w_>
-          <w_ id="0484" dep="0487-amod" tags="promoted">
+          <w_ id="0484" dep="0482-nmod" tags="promoted">
             <w lemma="перший" ana="adj:m:v_rod:compb:&amp;numr">першого</w>
           </w_>
           <w_ id="0485" dep="0487-case">
@@ -3304,7 +3304,7 @@
           <w_ id="0486" dep="0487-amod">
             <w lemma="останній" ana="adj:m:v_rod:compb">останнього</w>
           </w_>
-          <w_ id="0487" dep="0482-nmod" comment="~">
+          <w_ id="0487" dep="0482-nmod" comment="~flat:range?">
             <w lemma="поверх" ana="noun:inanim:m:v_rod">поверху</w>
           </w_>
           <g/>
@@ -3329,7 +3329,7 @@
           <w_ id="048e" dep="048f-amod">
             <w lemma="підземний" ana="adj:f:v_zna">підземну</w>
           </w_>
-          <w_ id="048f" dep="0481-conj">
+          <w_ id="048f" dep="0482-discourse">
             <w lemma="система" ana="noun:inanim:f:v_zna">систему</w>
           </w_>
           <g/>

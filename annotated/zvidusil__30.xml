@@ -2206,16 +2206,16 @@
       <w_ id="39h1" dep="39h2-nummod" n="656">
         <w lemma="один" ana="numr:f:v_zna">одну</w>
       </w_>
-      <w_ id="39h2" n="657">
+      <w_ id="39h2" dep="39gy-appos" n="657">
         <w lemma="тисяча" ana="noun:inanim:f:v_zna:&amp;_numr">тисячу</w>
       </w_>
-      <w_ id="39h3" n="658">
+      <w_ id="39h3" dep="39h2-flat:number" n="658">
         <w lemma="вісімсот" ana="numr:v_zna">вісімсот</w>
       </w_>
-      <w_ id="39h4" correct="сімдесят" n="659">
+      <w_ id="39h4" dep="39h2-flat:number" correct="сімдесят" n="659">
         <w lemma="сімдесят" ana="numr:v_zna">сімдесять</w>
       </w_>
-      <w_ id="39h5" n="660">
+      <w_ id="39h5" dep="39h2-flat:number" n="660">
         <w lemma="п’ять" ana="numr:v_zna">п'ять</w>
       </w_>
       <g/>
@@ -2488,27 +2488,27 @@
       <w_ id="39ji" dep="39jg-flat:title" n="740">
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
-      <w_ id="39jj" n="741">
+      <w_ id="39jj" dep="39jk-punct" n="741">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
       <w_ id="39jk" n="742">
         <w lemma="тридцять" ana="numr:v_naz">тридцять</w>
       </w_>
-      <w_ id="39jl" n="743">
+      <w_ id="39jl" dep="39jk-flat:number" n="743">
         <w lemma="вісім" ana="numr:v_naz">вісім</w>
       </w_>
       <w_ id="39jm" n="744">
         <w lemma="сімсот" ana="numr:v_naz">сімсот</w>
       </w_>
-      <w_ id="39jn" n="745">
+      <w_ id="39jn" dep="39jm-flat:number" n="745">
         <w lemma="двадцять" ana="numr:v_naz">двадцять</w>
       </w_>
-      <w_ id="39jo" n="746">
+      <w_ id="39jo" dep="39jm-flat:number" n="746">
         <w lemma="вісім" ana="numr:v_naz">вісім</w>
       </w_>
       <g/>
-      <w_ id="39jp" n="747">
+      <w_ id="39jp" dep="39jk-punct" n="747">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
@@ -2587,7 +2587,7 @@
       <w_ id="39kf" dep="39kn-obl" n="768">
         <w lemma="сума" ana="noun:inanim:f:v_rod">суми</w>
       </w_>
-      <w_ id="39kg" dep="39ki-advmod" n="769">
+      <w_ id="39kg" dep="39kj-advmod" n="769">
         <w lemma="більш" ana="adv:compr">більш</w>
       </w_>
       <w_ id="39kh" dep="39kg-fixed" n="770">
@@ -2596,14 +2596,14 @@
       <w_ id="39ki" dep="39kj-nummod" n="771">
         <w lemma="2" ana="numr:m:v_zna:nv">2</w>
       </w_>
-      <w_ id="39kj" dep="39kn-obj" n="772">
+      <w_ id="39kj" dep="39kl-nummod" n="772">
         <w lemma="млрд" ana="noun:inanim:p:m:v_zna:nv:abbr:&amp;_numr">млрд</w>
       </w_>
       <g/>
       <w_ id="39kk" dep="39kj-punct" n="773">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="39kl" dep="39kj-nmod" n="774">
+      <w_ id="39kl" dep="39kn-obj" n="774">
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
       <w_ id="39km" dep="39kn-aux" n="775">
@@ -2731,7 +2731,7 @@
       <w_ id="39lr" dep="39ls-nummod:gov" n="812">
         <w lemma="24" ana="numr:v_zna:nv">24</w>
       </w_>
-      <w_ id="39ls" dep="39lj-obj" n="813">
+      <w_ id="39ls" dep="39lw-nummod:gov" n="813">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
       <g/>
@@ -2741,17 +2741,17 @@
       <w_ id="39lu" dep="39lv-nummod:gov" n="815">
         <w lemma="200" ana="numr:v_zna:nv">200</w>
       </w_>
-      <w_ id="39lv" dep="39ls-flat" n="816">
+      <w_ id="39lv" dep="39ls-flat:number" n="816">
         <w lemma="млн" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
-      <w_ id="39lw" dep="39ls-nmod" n="817">
+      <w_ id="39lw" dep="39lj-obj" n="817">
         <w lemma="₴" ana="noun:inanim:p:f:v_rod:nv:symbol">₴</w>
       </w_>
       <g/>
       <w_ id="39lx" dep="39lw-punct" n="818">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="39ly" dep="39m2-punct" n="819">
+      <w_ id="39ly" dep="39m3-punct" n="819">
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
@@ -2766,17 +2766,17 @@
       <w_ id="39m1" dep="39lz-compound" n="822">
         <w lemma="8" ana="numr:v_zna:nv">8</w>
       </w_>
-      <w_ id="39m2" dep="39ls-appos" n="823">
+      <w_ id="39m2" dep="39m3-nummod:gov" n="823">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
-      <w_ id="39m3" dep="39m2-nmod" n="824">
+      <w_ id="39m3" dep="39lw-appos" n="824">
         <w lemma="долар" ana="noun:inanim:p:m:v_rod">доларів</w>
       </w_>
       <w_ id="39m4" dep="39m3-nmod" n="825">
         <w lemma="США" ana="noun:inanim:p:v_rod:nv:ns:prop">США</w>
       </w_>
       <g/>
-      <w_ id="39m5" dep="39m2-punct" n="826">
+      <w_ id="39m5" dep="39m3-punct" n="826">
         <w lemma=")" ana="punct">)</w>
       </w_>
       <g/>
@@ -3620,7 +3620,7 @@
       <w_ id="39tl" dep="39tm-nummod:gov" n="1085">
         <w lemma="65" ana="numr:v_zna:nv">65</w>
       </w_>
-      <w_ id="39tm" n="1086">
+      <w_ id="39tm" dep="39tn-nummod:gov" n="1086">
         <w lemma="млн" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млн</w>
       </w_>
       <w_ id="39tn" dep="39tm-nmod" n="1087">

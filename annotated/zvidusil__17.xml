@@ -1688,7 +1688,7 @@
       <w_ id="2eqr" dep="29r9-compound">
         <w lemma="7" ana="numr:v_naz:nv">7</w>
       </w_>
-      <w_ id="29ra" dep="29r8-nsubj">
+      <w_ id="29ra" dep="29r8-nsubj" hdep="29rb-private">
         <w lemma="тисяча" ana="noun:inanim:p:f:v_rod:&amp;_numr">тисяч</w>
       </w_>
       <w_ id="29rb" dep="29ra-nmod">
@@ -1762,7 +1762,7 @@
         <w lemma="(" ana="punct">(</w>
       </w_>
       <g/>
-      <w_ id="29rw" dep="29rx-amod">
+      <w_ id="29rw" dep="29rx-amod" hdep="29rx-private">
         <w lemma="гончарний" ana="adj:m:v_naz">гончарний</w>
       </w_>
       <w_ id="29rx" dep="29rt-appos">
@@ -1819,7 +1819,7 @@
       <w_ id="29sc" dep="29ra-conj">
         <w lemma="виріб" ana="noun:inanim:p:m:v_naz">вироби</w>
       </w_>
-      <w_ id="29sd" dep="29se-case">
+      <w_ id="29sd" dep="29se-case" hdep="29se-distrib">
         <w lemma="з" ana="prep:rv_rod">з</w>
       </w_>
       <w_ id="29se" dep="29sc-nmod">
@@ -2190,10 +2190,10 @@
       <w_ id="29vn" dep="29vo-nummod">
         <w lemma="2" ana="numr:f:v_zna:nv">2</w>
       </w_>
-      <w_ id="29vo" dep="29vl-obj">
+      <w_ id="29vo" dep="29vp-nummod:gov">
         <w lemma="тисяча" ana="noun:inanim:p:f:v_zna:&amp;_numr">тисячі</w>
       </w_>
-      <w_ id="29vp" dep="29vo-nmod">
+      <w_ id="29vp" dep="29vl-obj">
         <w lemma="золотий" ana="adj:m:p:v_rod:&amp;noun:inanim" lemma2="золотий">золотих</w>
       </w_>
       <g/>
@@ -2498,13 +2498,13 @@
       <w_ id="29yi">
         <w lemma="скласти" ana="verb:perf:past:p">склали</w>
       </w_>
-      <w_ id="29yj" dep="29yl-nmod">
+      <w_ id="29yj" dep="29yi-obj">
         <w lemma="$" ana="noun:inanim:p:m:v_rod:nv:symbol">$</w>
       </w_>
       <w_ id="29yk" dep="29yl-nummod:gov">
         <w lemma="14" ana="numr:v_zna:nv">14</w>
       </w_>
-      <w_ id="29yl" dep="29yi-obj">
+      <w_ id="29yl" dep="29yj-nummod:gov">
         <w lemma="мільйон" ana="noun:inanim:p:m:v_rod:&amp;_numr">мільйонів</w>
       </w_>
       <g/>
@@ -3661,7 +3661,7 @@
       <w_ id="2a8w" dep="2a8y-punct">
         <w lemma="," ana="punct">,</w>
       </w_>
-      <w_ id="2a8x" dep="2a8y-nsubj" edep="2a8v-ref">
+      <w_ id="2a8x" dep="2a8y-nsubj" edep="2a8v-ref" hdep="2a8y-distrib">
         <w lemma="який" ana="adj:m:v_naz:&amp;pron:rel">який</w>
       </w_>
       <w_ id="2a8y" dep="2a8v-acl">
@@ -3719,7 +3719,7 @@
       <w_ id="2a9e" dep="2a9b-acl" comment="~">
         <w lemma="включати" ana="verb:imperf:pres:advp:v-u">включаючи</w>
       </w_>
-      <w_ id="2a9f" dep="2a9g-amod">
+      <w_ id="2a9f" dep="2a9g-amod" hdep="2a9g-private">
         <w lemma="вимерлий" ana="adj:p:v_zna:ranim:&amp;adjp:perf:actv">вимерлих</w>
       </w_>
       <w_ id="2a9g" dep="2a9e-obj">
@@ -3728,13 +3728,13 @@
       <w_ id="2a9h" dep="2a9l-cc">
         <w lemma="та" ana="conj:coord">та</w>
       </w_>
-      <w_ id="2a9i" dep="2a9l-amod">
+      <w_ id="2a9i" dep="2a9l-amod" hdep="2a9l-distrib">
         <w lemma="існуючий" ana="adj:p:v_zna:ranim:&amp;adjp:imperf:actv:bad:pres">існуючих</w>
       </w_>
       <w_ id="2a9j" dep="2a9i-advmod">
         <w lemma="сьогодні" ana="adv">сьогодні</w>
       </w_>
-      <w_ id="2a9k" dep="2a9l-amod">
+      <w_ id="2a9k" dep="2a9l-amod" hdep="2a9l-private">
         <w lemma="малий" ana="adj:p:v_zna:ranim:compb">малих</w>
       </w_>
       <w_ id="2a9l" dep="2a9g-conj">

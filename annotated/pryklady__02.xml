@@ -748,14 +748,14 @@
       <w_ id="3bfo" dep="3c96-nummod:gov" n="210">
         <w lemma="850" ana="numr:v_zna:nv">850</w>
       </w_>
-      <w_ id="3c96" dep="3bfn-obj" n="210">
+      <w_ id="3c96" dep="3bfq-nummod:gov" n="210">
         <w lemma="тис." ana="noun:inanim:p:f:v_rod:nv:abbr:auto:&amp;_numr">тис</w>
       </w_>
       <g/>
       <w_ id="3bfp" dep="3c96-punct" n="211">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="3bfq" dep="3c96-nmod" n="212">
+      <w_ id="3bfq" dep="3bfn-obj" n="212">
         <w lemma="програміст" ana="noun:anim:p:m:v_rod">програмістів</w>
       </w_>
       <g/>
@@ -795,26 +795,26 @@
       <w_ id="3bg2" dep="3bg1-obj" coref="3bfz-equality" n="224">
         <w lemma="воно" ana="noun:n:v_zna:&amp;pron:pers:3">його</w>
       </w_>
-      <w_ id="3bg3" dep="3bg6-advmod" n="225">
+      <w_ id="3bg3" dep="3bg7-advmod" n="225">
         <w lemma="більше" ana="adv:compr">більше</w>
       </w_>
       <w_ id="3bg4" dep="3bg3-fixed" n="226">
         <w lemma="ніж" ana="conj:subord">ніж</w>
       </w_>
-      <w_ id="3bg5" dep="3bg7-case" n="227">
+      <w_ id="3bg5" dep="3bg9-case" n="227">
         <w lemma="на" ana="prep:rv_zna">на</w>
       </w_>
       <w_ id="3bg6" dep="3bg7-nummod:gov" n="228">
         <w lemma="30" ana="numr:v_zna:nv">30</w>
       </w_>
-      <w_ id="3bg7" dep="3bg1-obl" n="229">
+      <w_ id="3bg7" dep="3bg9-nummod:gov" n="229">
         <w lemma="млрд" ana="noun:inanim:p:m:v_rod:nv:abbr:&amp;_numr">млрд</w>
       </w_>
       <g/>
       <w_ id="3bg8" dep="3bg7-punct" n="230">
         <w lemma="." ana="punct">.</w>
       </w_>
-      <w_ id="3bg9" dep="3bg7-nmod" n="231">
+      <w_ id="3bg9" dep="3bg1-obl" n="231">
         <w lemma="дол." ana="noun:inanim:p:m:v_rod:nv:abbr">дол</w>
       </w_>
       <g/>
@@ -1188,16 +1188,16 @@
       <w_ id="3bjn" dep="3bjk-obl" n="340">
         <w lemma="світ" ana="noun:inanim:m:v_mis">світі</w>
       </w_>
-      <w_ id="3bjo" dep="3bjq-case" n="341">
+      <w_ id="3bjo" dep="3bjr-case" n="341">
         <w lemma="на" ana="prep:rv_mis">на</w>
       </w_>
       <w_ id="3bjp" dep="3bjq-nummod" n="342">
         <w lemma="90" ana="numr:v_mis:nv">90</w>
       </w_>
-      <w_ id="3bjq" dep="3bjk-obl" n="343">
+      <w_ id="3bjq" dep="3bjr-nummod:gov" n="343">
         <w lemma="мільйон" ana="noun:inanim:p:m:v_mis:&amp;_numr">мільйонах</w>
       </w_>
-      <w_ id="3bjr" dep="3bjq-nmod" n="344">
+      <w_ id="3bjr" dep="3bjk-obl" n="344">
         <w lemma="гектар" ana="noun:inanim:p:m:v_rod">гектарів</w>
       </w_>
       <g/>
@@ -4027,7 +4027,7 @@
       <w_ id="3cfr" dep="3cfq-flat:number">
         <w lemma="шість" ana="numr:v_zna">шість</w>
       </w_>
-      <w_ id="3cfs" dep="3cg8-obj">
+      <w_ id="3cfs" dep="3cg9-nummod:gov">
         <w lemma="мільярд" ana="noun:inanim:p:m:v_rod:&amp;_numr">мільярдів</w>
       </w_>
       <w_ id="3cft" dep="3cfw-nummod:gov">
@@ -4063,7 +4063,7 @@
       <w_ id="3cg3" dep="3cfs-flat:number">
         <w lemma="вісім" ana="numr:v_zna">вісім</w>
       </w_>
-      <w_ id="3cg9" dep="3cfs-nmod">
+      <w_ id="3cg9" dep="3cg8-obj">
         <w lemma="гривня" ana="noun:inanim:p:f:v_rod">гривень</w>
       </w_>
       <g/>
