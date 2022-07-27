@@ -28493,7 +28493,7 @@
     <w_ id="0y24" dep="0y25-det:numgov">
       <w lemma="кілька" ana="numr:v_naz:&amp;pron:ind">кілька</w>
     </w_>
-    <w_ id="0y25" dep="0y23-nsubj" mark="resolved">
+    <w_ id="0y25" dep="0y23-nsubj" tags="nounnum" mark="resolved">
       <w lemma="тисяча" ana="noun:inanim:p:f:v_rod:&amp;_numr">тисяч</w>
     </w_>
     <g/>
@@ -35037,26 +35037,26 @@
     <w_ id="0zql" dep="0zqm-case">
       <w lemma="після" ana="prep:rv_rod">Після</w>
     </w_>
-    <w_ id="0zqm" dep="0zqo-obl">
+    <w_ id="0zqm" dep="0zqo-obl" hdep="0zqo-collect">
       <w lemma="операція" ana="noun:inanim:f:v_rod">операції</w>
     </w_>
-    <w_ id="0zqn" dep="0zqo-nsubj">
+    <w_ id="0zqn" dep="0zqo-nsubj" hdep="0zqo-distrib">
       <w lemma="доктор" ana="noun:anim:m:v_naz">доктор</w>
     </w_>
     <w_ id="0zqo">
       <w lemma="почастувати" ana="verb:perf:past:m">почастував</w>
     </w_>
-    <w_ id="0zqp" dep="0zqo-obj">
+    <w_ id="0zqp" dep="0zqo-obj" hdep="0zqo-private">
       <w lemma="я" ana="noun:anim:s:v_zna:&amp;pron:pers:1">мене</w>
     </w_>
-    <w_ id="0zqq" dep="0zqo-obl">
+    <w_ id="0zqq" dep="0zqo-obl" hdep="0zqo-private">
       <w lemma="спирт" ana="noun:inanim:m:v_oru">спиртом</w>
     </w_>
     <g/>
     <w_ id="0zqr" dep="0zqs-punct">
       <w lemma="," ana="punct">,</w>
     </w_>
-    <w_ id="0zqs" dep="0zqo-advcl">
+    <w_ id="0zqs" dep="0zqo-advcl" hdep="0zqo-private">
       <w lemma="вітати" ana="verb:imperf:pres:advp">вітаючи</w>
     </w_>
     <w_ id="0zqt" dep="0zqu-case">
