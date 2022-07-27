@@ -1229,7 +1229,7 @@
       <w_ id="2gy4" n="373">
         <w lemma="задіяний" ana="adj:p:v_naz:&amp;adjp:perf:pasv:bad">задіяні</w>
       </w_>
-      <w_ id="2gy5" dep="2gy4-nsubj" n="374">
+      <w_ id="2gy5" dep="2gy4-nsubj" tags="nounnum" n="374">
         <w lemma="мільйон" ana="noun:inanim:p:m:v_naz:&amp;_numr">мільйони</w>
       </w_>
       <w_ id="2gy6" dep="2gy7-amod" n="375">
@@ -2284,13 +2284,13 @@
       <w_ id="2h7m" n="695">
         <w lemma="зібрати" ana="verb:perf:past:m">зібрав</w>
       </w_>
-      <w_ id="2h7n" dep="2h7o-advmod" n="696">
+      <w_ id="2h7n" dep="2h7o-advmod" comment="~" n="696">
         <w lemma="майже" ana="adv">майже</w>
       </w_>
-      <w_ id="2h7o" dep="2h7m-obj" n="697">
+      <w_ id="2h7o" dep="2h7p-nummod:gov" n="697">
         <w lemma="мільярд" ana="noun:inanim:m:v_zna:&amp;_numr">мільярд</w>
       </w_>
-      <w_ id="2h7p" dep="2h7o-nmod" n="698">
+      <w_ id="2h7p" dep="2h7m-obj" n="698">
         <w lemma="долар" ana="noun:inanim:p:m:v_rod">доларів</w>
       </w_>
       <w_ id="2h7q" dep="2h7r-case" n="699">
@@ -2299,19 +2299,19 @@
       <w_ id="2h7r" dep="2h7m-obl" n="700">
         <w lemma="прокат" ana="noun:inanim:m:v_mis">прокаті</w>
       </w_>
-      <w_ id="2h7s" n="701">
+      <w_ id="2h7s" dep="2h7t-punct" n="701">
         <w lemma="—" ana="punct:dash">—</w>
       </w_>
-      <w_ id="2h7t" n="702">
+      <w_ id="2h7t" dep="2h7m-parataxis" comment="~ parataxis:rel?" n="702">
         <w lemma="непогано" ana="adv">непогано</w>
       </w_>
-      <w_ id="2h7u" n="703">
+      <w_ id="2h7u" dep="2h7t-advmod" comment="~" n="703">
         <w lemma="так" ana="adv:&amp;pron:dem">так</w>
       </w_>
       <w_ id="2h7v" dep="2h7w-case" n="704">
         <w lemma="для" ana="prep:rv_rod">для</w>
       </w_>
-      <w_ id="2h7w" n="705">
+      <w_ id="2h7w" dep="2h7t-obl" comment="~ чи предикація?" n="705">
         <w lemma="фільм" ana="noun:inanim:m:v_rod">фільму</w>
       </w_>
       <w_ id="2h7x" dep="2h7y-case" n="706">
@@ -2354,7 +2354,7 @@
         <w lemma="»" ana="punct:quote">»</w>
       </w_>
       <g/>
-      <w_ id="2h89" dep="2h7m-punct" n="718">
+      <w_ id="2h89" dep="2h7t-punct" n="718">
         <w lemma="." ana="punct">.</w>
       </w_>
     </p>
